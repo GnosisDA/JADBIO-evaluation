@@ -1,7 +1,6 @@
 # JADBIO-evaluation
 
-This repository provides scripts for reproducing the results presented in the paper "Just Add Data: Automated Predictive Modeling and BioSignature Discovery
-" ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.075747v1)).
+This repository provides scripts for reproducing the results presented in the paper "Just Add Data: Automated Predictive Modeling and BioSignature Discovery" ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.075747v1)).
 
 Specifically, you can find and download:
 
