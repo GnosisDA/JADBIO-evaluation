@@ -1,0 +1,188 @@
+#METABOLOMICS WORKBENCH mahpic_infodepo_20170405_132556 DATATRACK_ID:879 STUDY_ID:ST000592 ANALYSIS_ID:AN000907
+VERSION             	1
+CREATED_ON             	April 17, 2017, 10:07 am
+#PROJECT
+PR:PROJECT_TITLE                 	The Malaria Host-Pathogen Interaction Center (MaHPIC)
+PR:PROJECT_TYPE                  	Systems Biology
+PR:PROJECT_SUMMARY               	The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary
+PR:PROJECT_SUMMARY               	malaria systems biology research program supported by an NIH/NIAID contract (#
+PR:PROJECT_SUMMARY               	HHSN272201200031C; see http://www.systemsbiology.emory.edu). The MaHPIC
+PR:PROJECT_SUMMARY               	generates many data types (e.g., clinical, parasitological, metabolomics,
+PR:PROJECT_SUMMARY               	functional genomics, lipidomics, proteomics, immune response) and mathematical
+PR:PROJECT_SUMMARY               	models, to iteratively test and develop hypotheses related to the complex
+PR:PROJECT_SUMMARY               	host-parasite dynamics in the course of malaria in non-human primates, and
+PR:PROJECT_SUMMARY               	metabolomics data via collaborations with investigators conducting clinical
+PR:PROJECT_SUMMARY               	studies in malaria endemic countries, with the overarching goal of better
+PR:PROJECT_SUMMARY               	understanding human disease, pathogenesis, and immunity. Curation and
+PR:PROJECT_SUMMARY               	maintenance of all data and metadata are the responsibility of the MaHPIC.
+PR:INSTITUTE                     	Emory University
+PR:DEPARTMENT                    	School of Medicine, Vaccine Center at Yerkes
+PR:LAST_NAME                     	Galinski
+PR:FIRST_NAME                    	Mary
+PR:ADDRESS                       	Emory University, 954 Gatewood Rd, Room 208, Atlanta, GA 30329
+PR:EMAIL                         	mahpic@emory.edu
+PR:PHONE                         	none
+PR:FUNDING_SOURCE                	NIAID Contract: # HHSN272201200031C
+#STUDY
+ST:STUDY_TITLE                   	Experiment 13: Uninfected Macaca mulatta exposed to pyrimethamine to produce and
+ST:STUDY_TITLE                   	integrate clinical, hematological, and omics control measures.
+ST:STUDY_SUMMARY                 	Uninfected, malaria-naive, male rhesus macaques (Macaca mulatta), approximately
+ST:STUDY_SUMMARY                 	two years of age, were inoculated intravenously with a preparation of salivary
+ST:STUDY_SUMMARY                 	gland material derived from non-infected Anopheles dirus and profiled for
+ST:STUDY_SUMMARY                 	clinical, hematological, functional genomic, lipidomic, proteomic, and
+ST:STUDY_SUMMARY                 	metabolomic measurements. Samples were generated and analyzed to investigate the
+ST:STUDY_SUMMARY                 	effects of the pharmacological intervention with the anti-malarial drug
+ST:STUDY_SUMMARY                 	pyrimethamine on normal individuals. The experiment was designed for 100 days
+ST:STUDY_SUMMARY                 	plus a follow-up period, with pyrimethamine administered at three different time
+ST:STUDY_SUMMARY                 	points to coincide with the predicted treatment days of experimentally infected
+ST:STUDY_SUMMARY                 	rhesus macaques. Capillary blood samples were collected daily for the
+ST:STUDY_SUMMARY                 	measurement of CBCs and reticulocytes. Capillary blood samples were collected
+ST:STUDY_SUMMARY                 	every other day to obtain plasma for metabolomic analysis. Venous blood samples
+ST:STUDY_SUMMARY                 	and bone marrow aspirates were collected at seven time points before and after
+ST:STUDY_SUMMARY                 	three rounds of drug administration for functional genomic, proteomic, and
+ST:STUDY_SUMMARY                 	lipidomic analyses. Within the MaHPIC, this project is known as 'Experiment 13'.
+ST:STUDY_SUMMARY                 	This dataset was produced by Dean Jones at Emory University. The following
+ST:STUDY_SUMMARY                 	contributed to the creation of this dataset: The MaHPIC Consortium, John
+ST:STUDY_SUMMARY                 	Barnwell, Monica Cabrera, Jeremy D. DeBarry, Mary Galinski, Trenton Hoffman, Jay
+ST:STUDY_SUMMARY                 	Humphrey, Jianlin Jiang, Chet Joyner, Nicolas Lackman, Stacey Lapp, Esmeralda
+ST:STUDY_SUMMARY                 	Meyer, Alberto Moreno, Mustafa Nural, and Suman Pakala. The experimental design
+ST:STUDY_SUMMARY                 	and protocols for this study were approved by the Emory University Institutional
+ST:STUDY_SUMMARY                 	Animal Care and Use Committee (IACUC).
+ST:INSTITUTE                     	Emory University
+ST:DEPARTMENT                    	School of Medicine, Vaccine Center at Yerkes
+ST:LAST_NAME                     	Galinksi
+ST:FIRST_NAME                    	Mary
+ST:ADDRESS                       	Emory University, Yerkes National Primate Research Center, 954 Gatewood Rd, Room
+ST:ADDRESS                       	003, Atlanta, GA 30329
+ST:EMAIL                         	mahpic@emory.edu
+ST:PHONE                         	none
+ST:TOTAL_SUBJECTS                	6
+ST:STUDY_COMMENTS                	31 samples, "The experimental design and protocols for this study were
+ST:STUDY_COMMENTS                	approved by the Emory University Institutional Animal Care and Use Committee
+ST:STUDY_COMMENTS                	(IACUC). These results are a product of a consortium of researchers known as the
+ST:STUDY_COMMENTS                	Malaria Host Pathogen Interaction Center (MaHPIC). For more information on the
+ST:STUDY_COMMENTS                	MaHPIC, please visit http://www.systemsbiology.emory.edu/ . Within the MaHPIC,
+ST:STUDY_COMMENTS                	these data were collected as part of 'Experiment 13' (E13). To access other
+ST:STUDY_COMMENTS                	publicly available results from E13 and other MaHPIC Experiments, including
+ST:STUDY_COMMENTS                	clinical results (specifics on drugs administered, diet, and veterinary
+ST:STUDY_COMMENTS                	interventions), and other omics, visit http://plasmodb.org/plasmo/mahpic.jsp .
+ST:STUDY_COMMENTS                	This page will be updated as datasets are released to the public. See Pubmed
+ST:STUDY_COMMENTS                	ID:25453034 for the associated publication for this study."
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Macaca mulatta
+SU:TAXONOMY_ID                   	9544
+SU:GENOTYPE_STRAIN               	N/A|6.53kg|6.87kg|6.09kg|7.23kg|6.48kg
+SU:GENDER                        	Male| Male| Male| Male| Male| Male
+SU:ANIMAL_ANIMAL_SUPPLIER        	none|Yerkes Field Station|Yerkes Primate Research Center|Yerkes Primate Research
+SU:ANIMAL_ANIMAL_SUPPLIER        	Center| |Yerkes Primate Research Center
+SU:ANIMAL_HOUSING                	Metallic|Metallic|Metallic|Metallic|Metallic|Metallic
+SU:ANIMAL_LIGHT_CYCLE            	12/11|12/12|12/12|12/12|12/12|12/12
+SU:ANIMAL_FEED                   	Monkey Jumbo Diet 5037 and 5038
+SU:ANIMAL_WATER                  	tap in bottle
+SU:ANIMAL_INCLUSION_CRITERIA     	Weight
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	RCs13	1906030	Collection Type:Time Point 3	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RCs13	1932199	Collection Type:Time Point 4	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RCs13	1941204	Collection Type:Time Point 5	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RCs13	1968402	Collection Type:Time Point 6	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RCs13	1972662	Collection Type:Time Point 7	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	REe6	1892525	Collection Type:Reference	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RTi13	1906044	Collection Type:Time Point 3	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RTi13	1932200	Collection Type:Time Point 4	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RTi13	1941205	Collection Type:Time Point 5	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RTi13	1968432	Collection Type:Time Point 6	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RTi13	1972668	Collection Type:Time Point 7	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RUn13	1906045	Collection Type:Time Point 3	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RUn13	1932201	Collection Type:Time Point 4	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RUn13	1941206	Collection Type:Time Point 5	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RUn13	1968433	Collection Type:Time Point 6	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RUn13	1972674	Collection Type:Time Point 7	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RWr13	1906046	Collection Type:Time Point 3	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RWr13	1932202	Collection Type:Time Point 4	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RWr13	1941207	Collection Type:Time Point 5	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RWr13	1968434	Collection Type:Time Point 6	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RWr13	1972680	Collection Type:Time Point 7	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RZe13	1906047	Collection Type:Time Point 3	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RZe13	1932203	Collection Type:Time Point 4	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RZe13	1941208	Collection Type:Time Point 5	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RZe13	1968435	Collection Type:Time Point 6	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	RZe13	1972686	Collection Type:Time Point 7	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200135	Collection Type:QC Sample, in-lab prepared	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200136	Collection Type:QC Sample, in-lab prepared	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100046	Collection Type:QC Sample, from NIST	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200137	Collection Type:QC Sample, in-lab prepared	Gender=Male
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100047	Collection Type:QC Sample, from NIST	Gender=Male
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Time Point 3 Post-Rx: "Observations on NHP response six days after
+CO:COLLECTION_SUMMARY            	administration of Pyrimethamine"|Time Point 4 Rx: "Pyrimethamine was
+CO:COLLECTION_SUMMARY            	administered at 1 mg/kg/day IM for three days"|Time Point 5 Post-Rx:
+CO:COLLECTION_SUMMARY            	"Observations on NHP response seven days after initiation of the anti-malarial
+CO:COLLECTION_SUMMARY            	regimen"|Time Point 6 Rx: "Pyrimethamine was administered at 1 mg/kg/day IM for
+CO:COLLECTION_SUMMARY            	three days"|Time Point 7 Post-Rx: "Observations on NHP response eight days after
+CO:COLLECTION_SUMMARY            	initiation of the anti-malarial regimen"
+CO:SAMPLE_TYPE                   	Whole blood
+CO:COLLECTION_METHOD             	Intravenous
+CO:COLLECTION_FREQUENCY          	once
+CO:BLOOD_SERUM_OR_PLASMA         	Plasma
+#TREATMENT
+TR:TREATMENT_SUMMARY             	None
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	aliquots of 65ul sample were mixed with 130ul acetonitrile and 3.25ul internal
+SP:SAMPLEPREP_SUMMARY            	standard. Keep on ice for 30 minutes and vortex every 15 minutes. Centrifuge for
+SP:SAMPLEPREP_SUMMARY            	10 minutes at 13.2rpm and 4C. Using a pipette, 130ul of supernatant was removed
+SP:SAMPLEPREP_SUMMARY            	and placed into autosampler vials for the mass spectrometer.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Metab_Sample_Preparation_Plasma_serum_v1_May_17_2013.docx
+SP:PROCESSING_METHOD             	Precipitation of protein, centrifuge, and remove supernatant
+SP:PROCESSING_STORAGE_CONDITIONS 	On ice
+SP:EXTRACTION_METHOD             	1:2 sample:acetonitrile
+SP:EXTRACT_STORAGE               	Pipette supernatant into autosampler vials for mass spectrometer
+SP:SAMPLE_SPIKING                	C18 standards: Caffeine and Diethyl-toluamide. Anion Exchange Standards:
+SP:SAMPLE_SPIKING                	Cystine, cysteine-glutathione disulfide, carboxymethyl-cysteine, glutathione
+SP:SAMPLE_SPIKING                	disulfide, carboxymethyl-glutathione. Stable isotopes: [13C6]-D-glucose,
+SP:SAMPLE_SPIKING                	[15N]-indole, [1,2-13C2]-palmitic acid, [15N,13C5]-L-methionine,
+SP:SAMPLE_SPIKING                	[2-15N]-L-lysine dihydrochloride, [15N]-choline chloride, [13C5]-L-glutamic
+SP:SAMPLE_SPIKING                	acid, [13C7]-benzoic acid, [15N]-L-tyrosine, [15N2]-uracil,
+SP:SAMPLE_SPIKING                	[3,4-13C2]-cholesterol, [3,3-13C2]-cystine, [trimethyl-13C3]-caffeine, [U-13C5,
+SP:SAMPLE_SPIKING                	U-15N2]-L-glutamine.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	untargeted chromatography (C18 column)
+CH:CHROMATOGRAPHY_TYPE        	untargeted C18 column
+CH:INSTRUMENT_NAME            	Thermo Velos Orbitrap coupled to CTC PAL HTC Accela1-TMO autosampler
+CH:COLUMN_NAME                	Higgins C18 100x2.1mm, 5um
+CH:FLOW_GRADIENT              	A%: 0-10mins = 5%; B%: 0-2mins = 35%, 2-7mins = gradient to 95%, 7-10mins = 95%;
+CH:FLOW_GRADIENT              	C%: 0-2mins = 60%, 2-7mins = gradient to 0%, 7-10mins = 0%
+CH:FLOW_RATE                  	350 μL/min
+CH:COLUMN_TEMPERATURE         	30
+CH:METHODS_FILENAME           	Metab_Orbitrap_Setup_v1_May_17_2013.docx
+CH:SOLVENT_A                  	LC grade H2O with 2% Formic Acid
+CH:SOLVENT_B                  	Acetonitrile (LC grade)
+CH:COLUMN_PRESSURE            	200 Bar (max)
+CH:INJECTION_TEMPERATURE      	4C
+CH:INTERNAL_STANDARD          	Caffeine, Diethyl-toluamide
+CH:INTERNAL_STANDARD_MT       	1.5 min; 6-6.6 min
+CH:SAMPLE_INJECTION           	10μL
+CH:SAMPLING_CONE              	ESI: HESI probe with S-lens combination
+CH:ANALYTICAL_TIME            	10 minutes
+CH:CAPILLARY_VOLTAGE          	4.6 kV
+CH:OVEN_TEMPERATURE           	45C
+CH:RUNNING_VOLTAGE            	4.6 kV
+CH:WEAK_WASH_SOLVENT_NAME     	H20 with 10% methanol
+CH:SAMPLE_SYRINGE_SIZE        	20μL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:SOFTWARE_VERSION         	Thermo Excalibur 2.2 SP1
+AN:ACQUISITION_DATE         	12/9/2013
+AN:ANALYSIS_PROTOCOL_FILE   	Metab_Quality_Control_v1_May_17_2013.docx, Metabolomics Core - Data
+AN:ANALYSIS_PROTOCOL_FILE   	Analysis.docx
+AN:ACQUISITION_PARAMETERS_FILE	Metab_Orbitrap_Setup_v1_May_17_2013.docx
+AN:PROCESSING_PARAMETERS_FILE	Metab_Orbitrap_Setup_v1_May_17_2013.docx
+#MS
+MS:INSTRUMENT_NAME          	Thermo Scientific Q-Exactive Orbitrap
+MS:INSTRUMENT_TYPE          	Orbitrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_COMMENTS              	technical triplicates for each sample
+MS:DATAFORMAT               	.raw, .cdf
+MS:MS_RESULTS_FILE          	ST000592_AN000907_results.txt
+#END

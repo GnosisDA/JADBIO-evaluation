@@ -1,0 +1,259 @@
+#METABOLOMICS WORKBENCH hormel101_20160923_070303_mwtab.txt DATATRACK_ID:747
+VERSION             	1
+CREATED_ON             	November 17, 2016, 3:09 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Mechanism by Which Caloric Restriction Improves Insulin Sensitivity in Sedentary
+PR:PROJECT_TITLE                 	Obese Adults
+PR:PROJECT_TYPE                  	skeletal muscle ceramide, diacylglycerol, or amino acid metabolite levels
+PR:PROJECT_SUMMARY               	effect of caloric restriction on insulin sensitivity through skeletal muscle
+PR:PROJECT_SUMMARY               	ceramide, diacylglycerol, or amino acid metabolite levels
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Endocrinology
+PR:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+PR:LAST_NAME                     	Nair
+PR:FIRST_NAME                    	Sreekumaran
+PR:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+PR:EMAIL                         	Nair.K@mayo.edu
+PR:PHONE                         	507-285-2415
+#STUDY
+ST:STUDY_TITLE                   	Amino Acid Quantifcation of obese patients on a 16 week caloric restriction from
+ST:STUDY_TITLE                   	muscle biopsy (part II)
+ST:STUDY_TYPE                    	timecourse, quantitative measurements of amino acid
+ST:STUDY_SUMMARY                 	Caloric restriction (CR) improves insulin sensitivity and reduces the incidence
+ST:STUDY_SUMMARY                 	of diabetes in obese individuals. The underlying mechanisms whereby CR improves
+ST:STUDY_SUMMARY                 	insulin sensitivity are not clear. We evaluated the effect of 16 weeks of CR on
+ST:STUDY_SUMMARY                 	whole-body insulin sensitivity by pancreatic clamp before and after CR in 11
+ST:STUDY_SUMMARY                 	obese participants (BMI = 35 kg/m2) compared with 9 matched control subjects
+ST:STUDY_SUMMARY                 	(BMI = 34 kg/m2). Compared with the control subjects, CR increased the glucose
+ST:STUDY_SUMMARY                 	infusion rate needed to maintain euglycemia during hyperinsulinemia, indicating
+ST:STUDY_SUMMARY                 	enhancement of peripheral insulin sensitivity. This improvement in insulin
+ST:STUDY_SUMMARY                 	sensitivity was not accompanied by changes in skeletal muscle mitochondrial
+ST:STUDY_SUMMARY                 	oxidative capacity or oxidant emissions, nor were there changes in skeletal
+ST:STUDY_SUMMARY                 	muscle ceramide, diacylglycerol, or amino acid metabolite levels. However, CR
+ST:STUDY_SUMMARY                 	lowered insulin-stimulated thioredoxin-interacting protein (TXNIP) levels and
+ST:STUDY_SUMMARY                 	enhanced nonoxidative glucose disposal. These results support a role for TXNIP
+ST:STUDY_SUMMARY                 	in mediating the improvement in peripheral insulin sensitivity after CR.
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Endocrinology
+ST:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+ST:LAST_NAME                     	Nair
+ST:FIRST_NAME                    	Sreekumaran
+ST:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+ST:EMAIL                         	Nair.K@mayo.edu
+ST:PHONE                         	507-285-2415
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	s1	ms5370-1	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=16; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	ms5370-2	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=15.9; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	ms5370-3	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=24.1; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	ms5370-4	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=16; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s3	ms5370-5	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=17.6; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	ms5370-6	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=10.6; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s4	ms5370-7	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=21.8; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	ms5370-8	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=13.4; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	ms5370-9	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=13.1; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	ms5370-10	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=11.8; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s6	ms5370-11	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=19.7; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	ms5370-12	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=14.5; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	ms5370-13	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=12.6; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	ms5370-14	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=21.3; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	ms5370-15	Time (mins) (mins):1 | Category:Control	mg tissue=24.9; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	ms5370-16	Time (mins) (mins):2 | Category:Control	mg tissue=17.3; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s9	ms5370-17	Time (mins) (mins):1 | Category:Control	mg tissue=11.8; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	ms5370-18	Time (mins) (mins):2 | Category:Control	mg tissue=14.3; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	ms5370-19	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=17; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	ms5370-20	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=14; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	ms5370-21	Time (mins) (mins):1 | Category:Control	mg tissue=24.6; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	ms5370-22	Time (mins) (mins):2 | Category:Control	mg tissue=20.9; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s12	ms5370-23	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=20; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	ms5370-24	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=18.5; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	ms5370-25	Time (mins) (mins):1 | Category:Control	mg tissue=20.7; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	ms5370-26	Time (mins) (mins):2 | Category:Control	mg tissue=25.1; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	ms5370-27	Time (mins) (mins):1 | Category:Control	mg tissue=22.1; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	ms5370-28	Time (mins) (mins):2 | Category:Control	mg tissue=20.5; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	ms5370-29	Time (mins) (mins):1 | Category:Control	mg tissue=15.8; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	ms5370-30	Time (mins) (mins):2 | Category:Control	mg tissue=11.2; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	ms5370-31	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=12.9; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	ms5370-32	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=21.6; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s17	ms5370-33	Time (mins) (mins):1 | Category:Caloric Restriction	mg tissue=12.3; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	ms5370-34	Time (mins) (mins):2 | Category:Caloric Restriction	mg tissue=24.7; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s18	ms5370-35	Time (mins) (mins):1 | Category:Control	mg tissue=16.4; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	ms5370-36	Time (mins) (mins):2 | Category:Control	mg tissue=12.1; sample type=muscle; Sex=M
+SUBJECT_SAMPLE_FACTORS           	s19	ms5370-37	Time (mins) (mins):1 | Category:Control	mg tissue=17.4; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	ms5370-38	Time (mins) (mins):2 | Category:Control	mg tissue=22.6; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	ms5370-39	Time (mins) (mins):1 | Category:Control	mg tissue=27; sample type=muscle; Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	ms5370-40	Time (mins) (mins):2 | Category:Control	mg tissue=16.5; sample type=muscle; Sex=F
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Blood samples were collected in a heated hotbox (131°F) through a retrograde
+CO:COLLECTION_SUMMARY            	intravenous catheter at baseline for glucose and hormone levels, and every 10
+CO:COLLECTION_SUMMARY            	min during the clamp to maintain euglycemia. In addition, blood samples were
+CO:COLLECTION_SUMMARY            	collected every 20 min from 0600 to 0700, 0900 to 1000, and 1200 to 1300 to
+CO:COLLECTION_SUMMARY            	measure plasma [6,62H2]glucose. At 1330 h, a percutaneous needle muscle biopsy
+CO:COLLECTION_SUMMARY            	specimen (350–400 mg) was obtained from the vastus lateralis muscle under
+CO:COLLECTION_SUMMARY            	local anesthesia, immediately frozen in liquid nitrogen, and stored at −80°F
+CO:COLLECTION_SUMMARY            	for future analysis (27). This biopsy sample was used for analysis of TXNIP mRNA
+CO:COLLECTION_SUMMARY            	and protein content. The participant remained in the CRU through the remainder
+CO:COLLECTION_SUMMARY            	of the day and was given a weight-maintenance diet until 2200 h. At 0700 h the
+CO:COLLECTION_SUMMARY            	following morning, a second muscle biopsy specimen was obtained under local
+CO:COLLECTION_SUMMARY            	anesthesia, and ∼100 mg was used immediately for mitochondrial function
+CO:COLLECTION_SUMMARY            	measurements of isolated mitochondria and mtH2O2 emissions (28). The remainder
+CO:COLLECTION_SUMMARY            	was immediately frozen in liquid nitrogen and stored at −80°F for future
+CO:COLLECTION_SUMMARY            	analysis, including DAG, ceramide, and amino acid measurements (Fig. 1).
+CO:SAMPLE_TYPE                   	Muscle
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Before and after 16 weeks of CR or CON, two outpatient visits and one inpatient
+TR:TREATMENT_SUMMARY             	visit were scheduled. Before the outpatient visits, participants were instructed
+TR:TREATMENT_SUMMARY             	to fast overnight from 10:00 p.m. the evening before and to avoid strenuous
+TR:TREATMENT_SUMMARY             	exercise for 24 h preceding the visits. One outpatient visit consisted of an MRI
+TR:TREATMENT_SUMMARY             	to measure subcutaneous and visceral fat distribution and magnetic resonance
+TR:TREATMENT_SUMMARY             	spectroscopy to measure skeletal muscle oxidative capacity (25). The second
+TR:TREATMENT_SUMMARY             	outpatient visit was for measurements of resting energy expenditure (REE) for
+TR:TREATMENT_SUMMARY             	the calculation of a weight-maintenance diet (Parvo Medics TrueOne 2400 Canopy
+TR:TREATMENT_SUMMARY             	system), DEXA scan (Lunar DPX-L; Lunar Radiation, Madison, WI), and VO2peak test
+TR:TREATMENT_SUMMARY             	on a bicycle ergometer (Fig. 1). Participants were admitted to the Clinical
+TR:TREATMENT_SUMMARY             	Research Unit (CRU) on the evening of the fifth day of the weight-maintaining
+TR:TREATMENT_SUMMARY             	diet provided by the CRU metabolic kitchen (Supplementary Fig. 1). The
+TR:TREATMENT_SUMMARY             	weight-maintenance meals (diet composition: 20% protein, 30% fat, 50%
+TR:TREATMENT_SUMMARY             	carbohydrate) were monitored daily to ensure that the correct calorie level was
+TR:TREATMENT_SUMMARY             	achieved. Upon admission to the CRU, no calories were consumed after 2100 h to
+TR:TREATMENT_SUMMARY             	achieve a 10-h fast before the two-stage insulin euglycemic pancreatic clamp the
+TR:TREATMENT_SUMMARY             	following morning, as previously published (26), with modifications as follows:
+TR:TREATMENT_SUMMARY             	the following morning at 0400 h, a primed [6,62H2]glucose bolus (6 mg ⋅ kg
+TR:TREATMENT_SUMMARY             	fat-free mass[FFM]−1) was administered, followed by a 9-h continuous infusion
+TR:TREATMENT_SUMMARY             	of [6,62H2]glucose (started at 4 mg ⋅ kgFFM−1 ⋅ h−1 then titrated
+TR:TREATMENT_SUMMARY             	downward over the infusion time period to match anticipated changes in
+TR:TREATMENT_SUMMARY             	endogenous glucose production [EGP]). At 0600 h, gas exchange was measured by
+TR:TREATMENT_SUMMARY             	indirect calorimetry for 30 min for REE determination. Then at 0700 h, glucagon
+TR:TREATMENT_SUMMARY             	(0.001 μg ⋅ kgFFM−1 ⋅ min−1), somatostatin (0.093 μg ⋅ kgFFM−1 ⋅
+TR:TREATMENT_SUMMARY             	min−1), and growth hormone (0.0047 μg ⋅ kgFFM−1 ⋅ min−1) were infused
+TR:TREATMENT_SUMMARY             	for 6 h. Insulin was infused from 0700 to 1000 h at 0.62 mU ⋅ kgFFM−1 ⋅
+TR:TREATMENT_SUMMARY             	min−1 and then from 1000 to 1300 h at 2.3 mU ⋅ kgFFM−1 ⋅ min−1. A 40%
+TR:TREATMENT_SUMMARY             	dextrose with 2% enrichment of [6,62H2]glucose was infused as needed to maintain
+TR:TREATMENT_SUMMARY             	blood glucose above 4.7 mmol/L from 0700 to 1000 h and then between 4.7 and 5.3
+TR:TREATMENT_SUMMARY             	mmol/L from 1000 to 1300 h.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	All measurements were made on the second biopsy sample taken after an overnight
+SP:SAMPLEPREP_SUMMARY            	fast. Concentrations of amino acids and metabolites were determined using
+SP:SAMPLEPREP_SUMMARY            	MassTrak Amino Acid Solution (Waters) modified for mass spectrometry as
+SP:SAMPLEPREP_SUMMARY            	previously described (32). Muscle samples were spiked with internal standards
+SP:SAMPLEPREP_SUMMARY            	for amino acids and metabolites, deproteinated using cold methanol, and
+SP:SAMPLEPREP_SUMMARY            	centrifuged.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	High resolution separation was done using an Acquity UPLC system, injecting 1
+CH:CHROMATOGRAPHY_SUMMARY     	µl of derviatized solution, with a UPLC BEH C18 1.7 micron 2.1×150 mm column
+CH:CHROMATOGRAPHY_SUMMARY     	from Waters. Column flow was set to 400 µl/min with a gradient from 99.9%A to
+CH:CHROMATOGRAPHY_SUMMARY     	98%B where buffer A is 1% acetonitrile in 0.1% formic acid and buffer B is 100%
+CH:CHROMATOGRAPHY_SUMMARY     	acetonitrile. A column temp of 43 degrees Celsius and a sample tray temp of 6%
+CH:CHROMATOGRAPHY_SUMMARY     	Celsius. Mass detection was completed on a TSQ Ultra Quantum from Thermo
+CH:CHROMATOGRAPHY_SUMMARY     	Finnigan running in ESI positive mode. A scan width of 0.002, scan time of 0.04
+CH:CHROMATOGRAPHY_SUMMARY     	seconds per transition mass, collision energy of 25, collision gas pressure of
+CH:CHROMATOGRAPHY_SUMMARY     	1.5 mTorr, tube lens value set to 90, monitoring a signature ion of the
+CH:CHROMATOGRAPHY_SUMMARY     	derivitized amines at m/z 171.04 by selected reaction monitoring.
+CH:CHROMATOGRAPHY_TYPE        	UPLC
+CH:INSTRUMENT_NAME            	Acquity UPLC system
+CH:COLUMN_NAME                	C18
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	TSQ Ultra Quantum from Thermo Finnigan
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	micromolar
+MS_METABOLITE_DATA_START
+Samples	ms5370-1	ms5370-2	ms5370-3	ms5370-4	ms5370-5	ms5370-6	ms5370-7	ms5370-8	ms5370-9	ms5370-10	ms5370-11	ms5370-12	ms5370-13	ms5370-14	ms5370-15	ms5370-16	ms5370-17	ms5370-18	ms5370-19	ms5370-20	ms5370-21	ms5370-22	ms5370-23	ms5370-24	ms5370-25	ms5370-26	ms5370-27	ms5370-28	ms5370-29	ms5370-30	ms5370-31	ms5370-32	ms5370-33	ms5370-34	ms5370-35	ms5370-36	ms5370-37	ms5370-38	ms5370-39	ms5370-40
+Factors	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Caloric Restriction	Time (mins) (mins):2 | Category:Caloric Restriction	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control	Time (mins) (mins):1 | Category:Control	Time (mins) (mins):2 | Category:Control
+Histidine	104.5	113.6	264.6	227.9	167.5	101.4	213.6	95.6	135.3	127.1	131.6	134.6	80.4	159.0	180.3	93.1	64.1	60.4	89.7	79.5	193.0	143.1	133.0	144.2	111.9	250.8	135.4	131.6	119.2	69.4	119.4	154.9	94.0	202.5	87.7	81.0	95.2	140.9	137.5	108.2
+Hydroxyproline	14.8	20.5	20.6	28.9	19.1	14.7	29.2	39.4	18.4	22.1	24.8	25.5	22.2	27.7	43.5	49.4	16.1	22.5	16.6	28.3	36.6	39.2	40.2	146.7	33.6	76.0	81.3	47.2	27.7	38.3	27.7	66.8	17.9	77.6	27.1	36.7	21.1	27.4	38.0	22.6
+1-Methylhistidine	34.7	103.8	142.3	2.0	0.0	0.0	133.2	42.7	70.7	0.0	35.3	52.2	0.0	6.5	0.0	18.5	0.0	42.4	42.1	0.0	57.5	127.5	20.6	0.0	62.3	60.8	88.3	41.0	11.1	0.0	37.9	0.0	16.5	10.9	19.0	1.8	3.4	9.2	26.7	0.0
+3-Methylhistidine	7.7	5.7	12.6	5.1	9.0	7.3	18.2	4.7	7.1	12.4	7.0	16.5	3.3	6.9	15.4	2.3	5.2	4.8	1.9	8.6	8.1	4.3	9.5	NF	4.4	8.0	12.4	7.0	8.9	4.9	5.4	8.3	6.9	5.2	9.6	4.1	11.0	5.2	5.5	0.8
+Phosphoethanolamine	9.7	11.9	15.9	15.2	12.7	9.9	21.1	43.5	15.2	11.5	14.5	16.0	17.2	13.2	18.2	20.4	12.3	12.0	18.5	33.1	17.3	19.9	17.7	54.9	19.7	31.7	28.9	16.4	8.9	28.6	16.7	30.6	19.4	39.3	11.3	14.1	21.5	16.6	17.5	13.2
+Carnosine	2775.1	3167.9	3193.7	4196.9	2613.4	1574.2	2385.6	1376.6	1116.6	741.3	1897.1	1831.9	1332.7	3507.1	5647.8	2611.0	764.5	735.2	1401.6	553.5	2335.8	2229.6	2488.5	2365.0	2278.2	3234.1	4275.4	2304.9	1439.3	683.7	1544.2	3437.7	952.3	1757.3	1437.7	1094.8	896.5	1236.0	2172.9	1228.4
+Anserine	48.2	53.3	44.2	67.5	52.3	34.8	42.6	31.7	16.8	9.4	17.1	19.8	19.5	48.6	39.4	34.4	7.1	7.8	15.9	8.5	16.9	20.0	37.1	32.0	16.8	32.2	36.6	22.7	23.0	10.9	13.7	38.9	9.9	21.4	17.1	14.0	6.7	11.7	30.3	15.6
+Ethanolamine	19.2	15.7	22.5	22.3	26.2	20.7	29.3	19.6	18.9	15.9	30.3	31.5	18.8	20.2	29.1	18.5	29.5	15.1	23.7	15.1	25.3	22.3	32.6	53.4	32.3	35.0	39.2	42.2	26.4	17.6	16.0	31.4	21.4	32.6	23.6	25.2	23.3	35.3	34.0	27.1
+Aspartic Acid	67.7	65.7	70.4	66.1	87.5	37.4	120.3	189.3	25.2	25.5	34.7	39.7	26.6	22.6	72.9	123.2	27.0	36.1	41.9	60.1	70.0	107.7	78.7	129.5	80.7	112.4	66.5	69.4	80.4	125.3	40.5	86.0	20.1	66.9	80.3	65.1	37.9	91.3	25.0	22.6
+Sarcosine	1.4	1.4	1.9	1.9	3.0	1.6	3.1	2.1	1.6	1.2	4.3	4.1	2.8	3.9	4.5	4.0	1.8	2.0	2.4	2.2	5.3	3.6	6.2	9.6	5.0	7.1	8.5	6.4	2.5	1.9	3.4	4.2	2.0	4.2	3.6	3.2	2.2	4.3	4.4	2.4
+beta-Alanine	39.2	50.7	52.7	67.9	57.1	36.3	74.6	111.1	51.8	83.4	54.8	39.2	68.4	92.9	157.9	76.0	33.6	26.6	52.0	55.6	81.1	69.8	62.7	129.7	35.0	103.5	71.6	79.8	36.5	55.9	46.3	52.3	63.9	89.0	24.7	13.6	58.7	66.0	41.4	54.2
+gamma-Amino-N-butyric-acid	1.6	0.7	1.2	1.0	1.4	0.6	1.9	11.2	1.1	0.4	0.7	1.0	1.2	0.5	0.9	1.4	0.4	0.5	0.5	1.1	0.6	1.5	1.1	2.7	0.9	1.7	1.7	1.3	1.1	5.6	0.7	1.7	1.4	3.7	1.3	2.3	0.6	0.9	2.2	1.0
+alpha-Aminoadipic-acid	10.8	7.1	14.5	30.5	7.2	4.9	53.8	11.7	13.5	12.2	18.4	20.3	11.8	16.0	10.5	5.3	6.2	13.2	23.6	39.6	34.8	26.1	17.6	13.9	11.1	27.0	3.6	9.7	10.8	19.3	24.2	25.8	24.8	44.4	16.0	21.2	28.3	29.3	11.5	20.5
+beta-Aminoisobutyric-acid	0.8	0.6	1.5	1.9	0.9	0.3	1.0	4.7	0.8	1.2	0.7	1.2	1.6	0.6	2.0	2.6	0.7	0.7	0.8	0.8	0.6	1.6	1.0	3.2	0.7	1.4	2.1	1.5	2.5	6.3	1.0	2.3	1.3	2.7	0.3	0.9	2.0	2.4	1.8	2.7
+Hydroxylysine 1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Hydroxylysine 2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+alpha-Amino-N-butyric-acid	19.3	25.6	17.2	17.2	30.1	17.8	36.2	84.0	12.4	8.3	26.8	25.9	18.9	22.5	44.6	63.1	12.4	12.1	24.3	24.8	52.6	43.1	40.5	57.6	36.4	65.9	56.6	52.6	33.2	39.0	23.6	65.2	24.3	48.8	28.1	21.9	28.4	37.4	39.4	28.2
+Cystathionine 1	2.3	1.4	2.0	0.8	4.8	0.8	8.6	0.8	0.6	0.0	10.6	4.7	1.0	0.0	0.0	2.5	0.2	0.1	0.0	0.1	5.8	1.6	8.2	2.3	1.6	1.4	0.2	1.0	1.3	0.3	0.8	1.1	2.6	2.1	2.6	2.7	3.9	1.8	0.3	0.0
+Cystathionine 2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Methionine	16.3	14.3	17.2	15.7	26.0	13.6	24.5	41.3	15.7	16.6	26.2	17.1	16.0	23.4	24.9	31.0	13.3	15.1	17.0	18.0	31.6	40.9	44.4	67.9	26.4	30.2	34.5	30.8	35.2	36.4	22.3	23.3	29.0	36.5	27.0	25.3	19.9	25.3	40.6	46.8
+allo-Isoleucine	1.1	0.9	0.6	0.0	1.5	0.3	1.3	0.0	0.0	0.0	2.4	1.3	0.7	1.1	2.4	1.7	0.4	0.5	0.0	0.0	0.0	0.0	1.6	0.0	1.6	1.6	1.6	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.1	0.0
+Homocystine	0.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Asparagine	135.8	109.6	95.3	105.1	120.2	83.4	180.6	221.2	92.6	83.0	161.9	130.8	93.1	98.3	145.2	146.3	76.6	101.8	141.6	140.1	179.5	161.8	194.0	287.3	133.8	210.3	139.9	156.1	167.7	180.7	120.6	218.2	138.5	217.7	135.6	125.6	107.7	158.5	200.2	231.4
+Arginine	319.5	364.0	549.8	551.7	318.7	199.6	322.4	131.3	223.9	115.8	429.4	261.4	91.9	141.6	183.8	152.1	180.0	219.0	232.4	119.9	271.2	291.7	353.1	318.1	161.3	238.0	194.3	240.5	323.0	205.4	272.1	228.4	322.4	415.2	284.2	241.6	278.9	479.8	323.2	330.1
+Taurine	3807.6	4395.3	4577.4	5475.9	3375.9	2971.8	5424.9	6274.0	3620.2	3661.3	4115.4	4032.6	3161.4	3654.8	6381.9	5429.2	2765.7	3164.0	4796.8	4781.0	5524.5	5626.5	3519.5	6201.7	5805.5	6758.2	7663.7	5853.0	3008.1	4118.4	3051.8	6625.7	3709.5	7280.3	3039.0	2346.1	6344.1	6909.3	8552.6	5367.7
+Serine	155.9	176.1	120.9	199.2	119.2	101.2	246.3	444.9	126.5	173.5	198.5	154.3	156.8	206.1	158.9	216.4	88.8	116.2	177.4	246.1	319.1	336.1	224.3	427.8	158.1	289.3	140.1	151.9	169.3	236.3	175.0	344.9	196.1	359.2	189.9	186.4	185.7	274.2	346.4	344.5
+Glutamine	9953.2	9168.1	10737.0	10435.5	11559.8	6802.0	11255.2	3880.7	10262.4	5866.4	8863.2	8335.1	4780.2	7309.8	9135.0	6076.2	5763.1	6278.0	7828.0	6773.4	10533.2	9982.0	10921.4	7956.1	10770.4	12941.6	11927.9	12901.2	6252.3	4083.2	8327.0	11250.6	8380.8	14246.3	8376.1	6047.6	9755.6	13998.4	14552.4	7752.3
+Glycine	520.6	504.4	531.7	758.3	544.5	393.8	643.3	1119.7	867.5	769.6	543.8	550.9	603.7	764.0	700.5	776.4	379.0	379.2	1035.7	1163.6	803.1	711.7	662.8	1386.7	830.5	1256.3	957.0	779.2	612.9	736.1	454.2	919.6	559.5	1049.4	634.8	588.1	548.7	782.1	1424.1	890.8
+Citrulline	28.5	27.7	48.5	33.0	88.7	25.3	63.9	10.6	264.7	82.4	299.9	314.1	67.4	142.6	244.7	187.7	63.8	69.9	38.5	36.5	105.3	100.7	250.4	172.3	159.6	201.4	370.2	356.1	149.8	65.5	140.0	66.5	62.0	60.3	191.3	82.1	145.7	215.5	77.4	60.0
+Glutamic Acid	1726.9	1073.0	1774.1	1497.5	1192.7	611.7	2552.3	1598.8	1076.7	728.7	1304.8	1263.2	805.4	835.9	1574.7	1351.1	746.6	991.0	925.8	670.3	1681.5	1659.5	1727.6	2613.7	1129.7	1714.7	1930.6	1604.4	844.1	998.4	1022.1	1662.2	1450.2	1891.3	971.1	1057.4	1195.9	1571.0	2001.8	1705.6
+Threonine	177.5	168.3	176.5	293.3	240.2	155.3	269.6	418.1	145.3	129.4	242.3	204.1	175.6	202.0	355.1	375.3	139.0	178.6	236.2	228.9	303.8	344.0	344.1	677.5	307.2	471.2	381.9	319.2	254.2	318.1	241.4	382.6	191.9	327.2	302.0	245.9	270.4	377.0	336.2	426.0
+Alanine	1250.8	1516.8	1193.4	1461.8	1206.2	845.4	1914.7	1832.6	1177.3	833.3	1733.9	1416.1	1160.2	1335.5	2047.7	1802.9	813.8	1012.1	1579.4	1005.0	2476.1	2257.6	1917.5	2321.8	2355.5	2829.6	2947.9	2866.2	1616.8	1502.1	1384.7	2254.0	1445.7	2386.7	1460.8	1012.7	1738.7	2299.6	2271.8	1895.9
+Proline	263.3	231.5	203.1	209.7	313.6	168.0	494.0	484.6	220.5	192.9	369.9	351.2	224.8	263.8	540.1	572.3	163.4	213.3	272.0	255.9	520.0	491.9	436.6	607.9	470.9	735.3	705.9	491.4	365.2	357.3	401.1	563.3	270.1	569.4	322.7	359.2	392.0	515.3	306.4	304.8
+Ornithine	101.8	118.3	166.6	193.7	112.4	52.1	129.2	44.0	87.4	73.3	101.2	83.6	44.7	71.6	82.1	56.2	49.0	91.8	102.4	92.0	198.1	129.5	85.8	73.7	74.6	108.4	92.5	108.1	75.8	45.1	108.9	156.9	69.2	166.5	135.4	169.2	124.3	237.2	138.0	79.4
+Lysine	732.2	870.7	1405.9	1369.4	749.5	477.0	1154.4	320.4	556.7	323.2	969.2	621.1	223.2	517.6	453.9	246.1	405.1	615.7	482.4	252.5	676.6	912.3	927.7	657.6	405.3	640.6	591.3	553.9	603.8	367.3	612.1	677.7	749.8	1143.0	492.9	547.0	762.0	1182.7	864.6	893.4
+Cystine	0.1	0.0	0.2	0.0	0.1	0.1	0.0	0.2	0.0	0.4	0.1	0.0	0.3	0.0	0.0	0.0	0.2	0.0	0.0	0.3	0.0	0.0	0.1	0.2	0.0	0.0	0.0	0.0	0.0	0.1	0.0	0.0	0.0	0.0	0.0	0.1	0.0	0.1	0.0	0.0
+Tyrosine	40.0	33.6	38.2	34.4	57.1	29.2	44.8	59.4	25.2	29.9	59.6	35.7	40.5	58.1	60.7	68.0	20.7	22.0	31.5	32.9	64.0	75.9	76.1	122.3	42.6	59.8	71.1	62.9	53.8	51.5	47.2	52.7	67.7	87.9	61.7	51.4	33.4	49.9	63.8	80.3
+Valine	139.5	130.0	133.7	109.6	154.8	84.2	194.3	173.1	111.1	103.3	206.3	170.9	106.1	164.0	205.5	210.0	74.8	89.1	85.6	87.3	193.2	208.8	223.7	279.9	167.5	252.1	194.6	167.2	178.4	172.2	124.4	159.6	167.1	235.5	185.0	146.4	142.3	173.2	183.5	176.7
+Isoleucine	28.7	29.3	31.0	20.9	41.5	16.5	51.4	53.1	22.5	24.1	48.0	28.6	19.0	30.6	38.4	38.8	19.3	21.2	18.4	21.1	41.4	57.0	64.8	77.0	28.8	42.1	37.9	34.9	45.9	52.3	27.1	31.3	44.5	50.6	42.4	36.3	25.6	35.3	43.7	67.1
+Leucine	79.9	76.6	83.4	69.5	98.5	44.7	124.9	146.0	65.3	70.4	125.7	84.4	65.5	106.5	120.8	137.4	51.7	59.2	55.5	67.9	125.7	162.7	157.1	246.3	100.3	147.3	117.0	106.8	122.5	134.9	87.8	92.6	114.0	149.9	119.1	104.2	80.8	109.4	120.8	134.4
+Phenylalanine	36.7	39.0	39.8	38.6	49.6	26.9	63.8	72.3	34.2	41.8	60.9	37.8	34.6	55.7	65.1	66.5	27.6	30.9	35.4	40.1	69.6	83.6	68.4	117.4	45.9	64.2	62.2	61.9	61.4	58.5	49.8	56.5	66.8	84.4	55.4	46.2	42.5	60.8	71.9	69.2
+Tryptophan	7.9	8.4	10.3	9.4	11.5	6.8	12.7	15.3	8.1	8.1	13.1	8.6	8.0	14.3	13.8	13.0	6.2	6.5	7.9	9.0	16.6	21.6	19.0	25.2	9.7	14.3	17.1	15.7	13.7	13.4	12.5	12.5	12.8	19.5	14.1	10.7	10.3	16.5	16.4	13.7
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+Histidine
+Hydroxyproline
+1-Methylhistidine
+3-Methylhistidine
+Phosphoethanolamine
+Carnosine
+Anserine
+Ethanolamine
+Aspartic Acid
+Sarcosine
+beta-Alanine
+gamma-Amino-N-butyric-acid
+alpha-Aminoadipic-acid
+beta-Aminoisobutyric-acid
+Hydroxylysine 1
+Hydroxylysine 2
+alpha-Amino-N-butyric-acid
+Cystathionine 1
+Cystathionine 2
+Methionine
+allo-Isoleucine
+Homocystine
+Asparagine
+Arginine
+Taurine
+Serine
+Glutamine
+Glycine
+Citrulline
+Glutamic Acid
+Threonine
+Alanine
+Proline
+Ornithine
+Lysine
+Cystine
+Tyrosine
+Valine
+Isoleucine
+Leucine
+Phenylalanine
+Tryptophan
+METABOLITES_END
+#END

@@ -1,0 +1,180 @@
+#METABOLOMICS WORKBENCH jburgess_20160304_101433 DATATRACK_ID:662 STUDY_ID:ST000358 ANALYSIS_ID:AN001446
+VERSION             	1
+CREATED_ON             	November 3, 2017, 11:25 am
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolic Profiling of Anxiety Prone HSV-Latently Infected Obese Mice
+PR:PROJECT_TYPE                  	Broad Spectrum LCMS
+PR:PROJECT_SUMMARY               	The biological factors that lead children from low socioeconomic backgrounds to
+PR:PROJECT_SUMMARY               	be at greater risk for the development of anxiety and learning problems are not
+PR:PROJECT_SUMMARY               	well understood. While it is clear that there are genetic components to the risk
+PR:PROJECT_SUMMARY               	of developing mental health disorders, a role for environmental factors in
+PR:PROJECT_SUMMARY               	inducing these problems has been suggested. Many of these factors that affect
+PR:PROJECT_SUMMARY               	the brain likely involve exposures that occur early in life. Two such factors
+PR:PROJECT_SUMMARY               	are the higher rates of herpes simplex virus (HSV)-1 seropositivity and
+PR:PROJECT_SUMMARY               	prevalence of obesity among these children. HSV-1 infection has been associated
+PR:PROJECT_SUMMARY               	with impaired cognition during childhood and mental health problems in
+PR:PROJECT_SUMMARY               	adulthood. Additionally, obese adults are shown to have higher HSV-1 titers.
+PR:PROJECT_SUMMARY               	Similarly, other studies have correlated a diet high in saturated fat and
+PR:PROJECT_SUMMARY               	obesity with increased risk of mood disorders and anxiety. A mouse model of
+PR:PROJECT_SUMMARY               	obese HSV-1 latent infection was developed. Broad spectrum metabolomics analysis
+PR:PROJECT_SUMMARY               	was performed to better understand the metabolomic profile of hippocampus and to
+PR:PROJECT_SUMMARY               	compare this metabolomics profile with that of the hypothalamus, microglia, and
+PR:PROJECT_SUMMARY               	peripheral blood mononuclear cells. Brain tissue samples for metabolomics
+PR:PROJECT_SUMMARY               	experiments were generated in the following manner: 3-week old mice were placed
+PR:PROJECT_SUMMARY               	on a 10% low fat (LF) diet and acclimated for one week prior to intranasal HSV-1
+PR:PROJECT_SUMMARY               	infection or mock infection with PBS. Fourteen days post-infection mice were
+PR:PROJECT_SUMMARY               	randomized to either a 45% high fat diet (HF) or remained on the LF diet. Eight
+PR:PROJECT_SUMMARY               	weeks post-diet transition, mice were euthanized and brain tissue samples were
+PR:PROJECT_SUMMARY               	collected and processed for metabolomics.
+PR:INSTITUTE                     	University of North Carolina , Chapel Hill
+PR:DEPARTMENT                    	Gillings School of Public Health
+PR:LABORATORY                    	Department of Nutrition
+PR:LAST_NAME                     	Sheridan
+PR:FIRST_NAME                    	Patricia
+PR:ADDRESS                       	2002 Hooker Research Center, CB#7461, Chapel Hill NC, 27599
+PR:EMAIL                         	patricia_sheridan@med.unc.edu
+PR:PHONE                         	919-843-6434
+PR:FUNDING_SOURCE                	NIH, Common Fund, Pilot and Feasibility
+#STUDY
+ST:STUDY_TITLE                   	Broad Spectrum MS analysis of mouse hippocampus from Anxiety Prone HSV-Latently
+ST:STUDY_TITLE                   	Infected Obese Mice
+ST:STUDY_TYPE                    	Broad Spectrum LCMS
+ST:STUDY_SUMMARY                 	Brain tissue samples for metabolomics experiments were generated in the
+ST:STUDY_SUMMARY                 	following manner: 3-week old mice were placed on a 10% low fat (LF) diet and
+ST:STUDY_SUMMARY                 	acclimated for one week prior to intranasal HSV-1 infection or mock infection
+ST:STUDY_SUMMARY                 	with PBS. Fourteen days post-infection mice were randomized to either a 45% high
+ST:STUDY_SUMMARY                 	fat diet (HF) or remained on the LF diet. Eight weeks post-diet transition, mice
+ST:STUDY_SUMMARY                 	were euthanized and brain tissue samples were collected and processed for
+ST:STUDY_SUMMARY                 	metabolomics.
+ST:INSTITUTE                     	RTI
+ST:DEPARTMENT                    	Discovery Sciences
+ST:LABORATORY                    	System and Translational Sciences
+ST:LAST_NAME                     	Sumner
+ST:FIRST_NAME                    	Susan
+ST:ADDRESS                       	3040 Cornwallis Rd, RTP,NC
+ST:EMAIL                         	ssumner@rti.org
+ST:PHONE                         	919-541-7479
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	31
+ST:NUM_MALES                     	31
+#SUBJECT
+SU:SUBJECT_TYPE                  	mouse
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+SU:GENOTYPE_STRAIN               	C57Bl/6
+SU:AGE_OR_AGE_RANGE              	5.5 mo
+SU:WEIGHT_OR_WEIGHT_RANGE        	29.1 g-49.2 g
+SU:GENDER                        	male
+SU:ANIMAL_ANIMAL_SUPPLIER        	JAX
+SU:ANIMAL_HOUSING                	4/cage
+SU:ANIMAL_FEED                   	Purina chow
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	409	Hipp409	HSV-1:yes | Diet at Week 2:HF	Weight (g) =37.1
+SUBJECT_SAMPLE_FACTORS           	394	Hipp394	HSV-1:yes | Diet at Week 2:HF	Weight (g) =48.2
+SUBJECT_SAMPLE_FACTORS           	391	Hipp391	HSV-1:no | Diet at Week 2:LF	Weight (g) =31.2
+SUBJECT_SAMPLE_FACTORS           	414	Hipp414	HSV-1:yes | Diet at Week 2:LF	Weight (g) =36.6
+SUBJECT_SAMPLE_FACTORS           	398	Hipp398	HSV-1:yes | Diet at Week 2:LF	Weight (g) =35.2
+SUBJECT_SAMPLE_FACTORS           	392	Hipp392	HSV-1:no | Diet at Week 2:LF	Weight (g) =34
+SUBJECT_SAMPLE_FACTORS           	386	Hipp386	HSV-1:no | Diet at Week 2:HF	Weight (g) =34.8
+SUBJECT_SAMPLE_FACTORS           	396	Hipp396	HSV-1:yes | Diet at Week 2:HF	Weight (g) =48.4
+SUBJECT_SAMPLE_FACTORS           	388	Hipp388	HSV-1:no | Diet at Week 2:HF	Weight (g) =44.1
+SUBJECT_SAMPLE_FACTORS           	412	Hipp412	HSV-1:yes | Diet at Week 2:HF	Weight (g) =34.7
+SUBJECT_SAMPLE_FACTORS           	413	Hipp413	HSV-1:yes | Diet at Week 2:LF	Weight (g) =36
+SUBJECT_SAMPLE_FACTORS           	389	Hipp389	HSV-1:no | Diet at Week 2:LF	Weight (g) =34
+SUBJECT_SAMPLE_FACTORS           	411	Hipp411	HSV-1:yes | Diet at Week 2:HF	Weight (g) =40.2
+SUBJECT_SAMPLE_FACTORS           	408	Hipp408	HSV-1:no | Diet at Week 2:LF	Weight (g) =29.1
+SUBJECT_SAMPLE_FACTORS           	403	Hipp403	HSV-1:no | Diet at Week 2:HF	Weight (g) =48.6
+SUBJECT_SAMPLE_FACTORS           	415	Hipp415	HSV-1:yes | Diet at Week 2:LF	Weight (g) =34.8
+SUBJECT_SAMPLE_FACTORS           	401	Hipp401	HSV-1:no | Diet at Week 2:HF	Weight (g) =49.2
+SUBJECT_SAMPLE_FACTORS           	405	Hipp405	HSV-1:no | Diet at Week 2:LF	Weight (g) =30.8
+SUBJECT_SAMPLE_FACTORS           	395	Hipp395	HSV-1:yes | Diet at Week 2:HF	Weight (g) =40.9
+SUBJECT_SAMPLE_FACTORS           	402	Hipp402	HSV-1:no | Diet at Week 2:HF	Weight (g) =38.8
+SUBJECT_SAMPLE_FACTORS           	390	Hipp390	HSV-1:no | Diet at Week 2:LF	Weight (g) =34.5
+SUBJECT_SAMPLE_FACTORS           	410	Hipp410	HSV-1:yes | Diet at Week 2:HF	Weight (g) =37.8
+SUBJECT_SAMPLE_FACTORS           	385	Hipp385	HSV-1:no | Diet at Week 2:HF	Weight (g) =41.6
+SUBJECT_SAMPLE_FACTORS           	397	Hipp397	HSV-1:yes | Diet at Week 2:LF	Weight (g) =33.1
+SUBJECT_SAMPLE_FACTORS           	399	Hipp399	HSV-1:yes | Diet at Week 2:LF	Weight (g) =33
+SUBJECT_SAMPLE_FACTORS           	393	Hipp393	HSV-1:yes | Diet at Week 2:HF	Weight (g) =44.1
+SUBJECT_SAMPLE_FACTORS           	407	Hipp407	HSV-1:no | Diet at Week 2:LF	Weight (g) =34.7
+SUBJECT_SAMPLE_FACTORS           	406	Hipp406	HSV-1:no | Diet at Week 2:LF	Weight (g) =31.4
+SUBJECT_SAMPLE_FACTORS           	387	Hipp387	HSV-1:no | Diet at Week 2:HF	Weight (g) =31.9
+SUBJECT_SAMPLE_FACTORS           	400	Hipp400	HSV-1:yes | Diet at Week 2:LF	Weight (g) =33.2
+SUBJECT_SAMPLE_FACTORS           	416	Hipp416	HSV-1:yes | Diet at Week 2:LF	Weight (g) =35.2
+SUBJECT_SAMPLE_FACTORS           	-	Total_Pool_01	HSV-1:- | Diet at Week 2:-	Weight (g) =-
+SUBJECT_SAMPLE_FACTORS           	-	Total_Pool_02	HSV-1:- | Diet at Week 2:-	Weight (g) =-
+SUBJECT_SAMPLE_FACTORS           	-	Total_Pool_03	HSV-1:- | Diet at Week 2:-	Weight (g) =-
+SUBJECT_SAMPLE_FACTORS           	-	Total_Pool_04	HSV-1:- | Diet at Week 2:-	Weight (g) =-
+SUBJECT_SAMPLE_FACTORS           	-	Total_Pool_05	HSV-1:- | Diet at Week 2:-	Weight (g) =-
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Brain tissue samples were homogenized in 50:50 Acetonitrile:Water (10 µL to
+CO:COLLECTION_SUMMARY            	every 1 mg of tissue) with washed ceramic beads on a MagNA Lyser, using two 30
+CO:COLLECTION_SUMMARY            	sec pulses at 2,000 rpm with a 1 min chilling step in between pulses. Samples
+CO:COLLECTION_SUMMARY            	were vortexed on a multi-tube vortexer for 2 min at 5,000 rpm and centrifuged at
+CO:COLLECTION_SUMMARY            	room temperature for 4 min at 16,000 rcf. A 50 µL aliquot of each experimental
+CO:COLLECTION_SUMMARY            	brain tissue homogenized supernatant was transferred to a labeled 2.0 mL Lo-Bind
+CO:COLLECTION_SUMMARY            	eppendorf tube. Analytical pooled samples were created by combining 15 µL
+CO:COLLECTION_SUMMARY            	aliquot from each experimental sample in a 2.0 mL Lo-Bind eppendorf tube. The QC
+CO:COLLECTION_SUMMARY            	pooled sample was vortexed for 30 sec and 50 µL aliquots were transferred to 5
+CO:COLLECTION_SUMMARY            	labeled 2.0 mL Lo-Bind eppendorf tubes. Next, 350 µL of acetonitrile was added
+CO:COLLECTION_SUMMARY            	to study sample and QC pooled sample tubes. The samples were vortexed on a
+CO:COLLECTION_SUMMARY            	multi-tube vortexer for 2 min at 5,000 rpm, and centrifuged at room temperature
+CO:COLLECTION_SUMMARY            	for 4 min at 16,000 rcf. The supernatants were transferred to new labeled tubes
+CO:COLLECTION_SUMMARY            	and dried on a lyophilizer overnight. Dried samples were reconstituted in 50 µL
+CO:COLLECTION_SUMMARY            	of 95:5 Water:Methanol, mixed on an analog vortex mixer for 1 min with speed set
+CO:COLLECTION_SUMMARY            	at 10. Then, the samples were centrifuged at room temperature for 4 min at
+CO:COLLECTION_SUMMARY            	16,000 rcf, and the supernatants were transferred to autosampler vials for data
+CO:COLLECTION_SUMMARY            	acquisition. UPLC-MS Methods: UPLC-MS spectra were collected for all samples.
+CO:COLLECTION_SUMMARY            	UPLC was performed on a Waters Acquity UPLC with an Acquity HSS T3 column (2.1x
+CO:COLLECTION_SUMMARY            	100mm x 1.8 µm) at 50 °C using the reversed-phase separation. Water with 0.1%
+CO:COLLECTION_SUMMARY            	formic acid (mobile phase A) and methanol with 0.1% formic acid (mobile phase B)
+CO:COLLECTION_SUMMARY            	were used as mobile phases and the metabolites were chromatographically
+CO:COLLECTION_SUMMARY            	separated using a gradient separation: (see the 3.
+CO:COLLECTION_SUMMARY            	Sheridan-Mice-Hypothalamus_RP-Metadata and Analytical Metadata.xlsx file for the
+CO:COLLECTION_SUMMARY            	flow gradient). Mass spectroscopy analysis was performed using a Synapt G2 Si
+CO:COLLECTION_SUMMARY            	ESI-Q-TOF using a 10 µL injection volume. UPLC-MS data were collected over
+CO:COLLECTION_SUMMARY            	70-1000 m/z in both positive and negative modes.
+CO:SAMPLE_TYPE                   	brain homogenate
+#TREATMENT
+TR:TREATMENT_SUMMARY             	3-week old mice were placed on a 10% low fat (LF) diet and acclimated for one
+TR:TREATMENT_SUMMARY             	week prior to intranasal HSV-1 infection or mock infection with PBS. Fourteen
+TR:TREATMENT_SUMMARY             	days post-infection mice were randomized to either a 45% high fat diet (HF) or
+TR:TREATMENT_SUMMARY             	remained on the LF diet. Eight weeks post-diet transition, mice were euthanized
+TR:TREATMENT_SUMMARY             	and brain tissue samples were collected and processed for metabolomics.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Brain tissue samples were homogenized in 50:50 Acetonitrile:Water (10 µL to
+SP:SAMPLEPREP_SUMMARY            	every 1 mg of tissue) with washed ceramic beads on a MagNA Lyser, using two 30
+SP:SAMPLEPREP_SUMMARY            	sec pulses at 2,000 rpm with a 1 min chilling step in between pulses. Samples
+SP:SAMPLEPREP_SUMMARY            	were vortexed on a multi-tube vortexer for 2 min at 5,000 rpm and centrifuged at
+SP:SAMPLEPREP_SUMMARY            	room temperature for 4 min at 16,000 rcf. A 50 µL aliquot of each experimental
+SP:SAMPLEPREP_SUMMARY            	brain tissue homogenized supernatant was transferred to a labeled 2.0 mL Lo-Bind
+SP:SAMPLEPREP_SUMMARY            	eppendorf tube. Analytical pooled samples were created by combining 15 µL
+SP:SAMPLEPREP_SUMMARY            	aliquot from each experimental sample in a 2.0 mL Lo-Bind eppendorf tube. The QC
+SP:SAMPLEPREP_SUMMARY            	pooled sample was vortexed for 30 sec and 50 µL aliquots were transferred to 5
+SP:SAMPLEPREP_SUMMARY            	labeled 2.0 mL Lo-Bind eppendorf tubes. Next, 350 µL of acetonitrile was added
+SP:SAMPLEPREP_SUMMARY            	to study sample and QC pooled sample tubes. The samples were vortexed on a
+SP:SAMPLEPREP_SUMMARY            	multi-tube vortexer for 2 min at 5,000 rpm, and centrifuged at room temperature
+SP:SAMPLEPREP_SUMMARY            	for 4 min at 16,000 rcf. The supernatants were transferred to new labeled tubes
+SP:SAMPLEPREP_SUMMARY            	and dried on a lyophilizer overnight. Dried samples were reconstituted in 50 µL
+SP:SAMPLEPREP_SUMMARY            	of 95:5 Water:Methanol, mixed on an analog vortex mixer for 1 min with speed set
+SP:SAMPLEPREP_SUMMARY            	at 10. Then, the samples were centrifuged at room temperature for 4 min at
+SP:SAMPLEPREP_SUMMARY            	16,000 rcf, and the supernatants were transferred to autosampler vials for data
+SP:SAMPLEPREP_SUMMARY            	acquisition.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	UPLC was performed on a Waters Acquity UPLC with an Acquity HSS T3 column (2.1x
+CH:CHROMATOGRAPHY_SUMMARY        	100mm x 1.8 µm) at 50 °C using the reversed-phase separation. Water with 0.1%
+CH:CHROMATOGRAPHY_SUMMARY        	formic acid (mobile phase A) and methanol with 0.1% formic acid (mobile phase B)
+CH:CHROMATOGRAPHY_SUMMARY        	were used as mobile phases and the metabolites were chromatographically
+CH:CHROMATOGRAPHY_SUMMARY        	separated using a gradient separation:
+CH:CHROMATOGRAPHY_TYPE           	Reversed phase
+CH:INSTRUMENT_NAME               	Synapt G2 Si ESI-Q-TOF
+CH:COLUMN_NAME                   	Acquity HSS T3
+CH:METHODS_FILENAME              	RTI-RCMRC-RP
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+#MS
+MS:INSTRUMENT_NAME               	Synapt G2 Si ESI-Q-TOF
+MS:INSTRUMENT_TYPE               	QTOF
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+MS:MS_RESULTS_FILE               	ST000358_AN001446_Results.txt	UNITS:intensity
+#END

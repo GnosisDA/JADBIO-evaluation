@@ -1,0 +1,351 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170720_121359_mwtab.txt DATATRACK_ID:1167 STUDY_ID:ST000812 ANALYSIS_ID:AN001285
+VERSION             	1
+CREATED_ON             	July 24, 2017, 12:21 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Etiologies of preterm delivery among obese women
+PR:PROJECT_SUMMARY               	Here we propose a pilot project to examine the contribution of lipid mediators
+PR:PROJECT_SUMMARY               	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+PR:PROJECT_SUMMARY               	the top causes of infant morbidity and mortality. Our specific interests are in
+PR:PROJECT_SUMMARY               	understanding risks of preterm delivery among obese women, and in particular the
+PR:PROJECT_SUMMARY               	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+PR:PROJECT_SUMMARY               	among obese women. The inflammatory response is a known contributor to preterm
+PR:PROJECT_SUMMARY               	delivery, and obesity is associated with inflammation and an increased risk of
+PR:PROJECT_SUMMARY               	early preterm delivery, but the distinct contribution of aberrations in the
+PR:PROJECT_SUMMARY               	inflammatory response to preterm delivery among obese women has not been
+PR:PROJECT_SUMMARY               	examined previously. Most previous studies of preterm delivery and the
+PR:PROJECT_SUMMARY               	inflammatory response have examined one or only a few of its components at once,
+PR:PROJECT_SUMMARY               	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+PR:PROJECT_SUMMARY               	extend these types of investigations by examining lipid mediators and conducting
+PR:PROJECT_SUMMARY               	global lipid profiling. Lipid mediators are key regulators of inflammation and
+PR:PROJECT_SUMMARY               	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+PR:PROJECT_SUMMARY               	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+PR:PROJECT_SUMMARY               	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+PR:PROJECT_SUMMARY               	Examination of lipid mediators and lipid profiling is particularly relevant to
+PR:PROJECT_SUMMARY               	understanding distinct risks among obese women, given the known
+PR:PROJECT_SUMMARY               	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+PR:PROJECT_SUMMARY               	hypothesis is that the inflammatory response impacts risk of preterm delivery
+PR:PROJECT_SUMMARY               	and that its impact is distinct among obese versus non-obese women. Here we
+PR:PROJECT_SUMMARY               	propose a pilot project that compares mid-pregnancy measurements of lipid
+PR:PROJECT_SUMMARY               	mediators and lipid profiling among obese pregnant women. Findings from this
+PR:PROJECT_SUMMARY               	pilot will provide critical preliminary data to inform larger-scope grant
+PR:PROJECT_SUMMARY               	proposals that will comprehensively address our overarching hypothesis.
+PR:PROJECT_SUMMARY               	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+PR:PROJECT_SUMMARY               	deliver preterm compared to those who deliver at term. In addition, we will use
+PR:PROJECT_SUMMARY               	untargeted global profiling of complex lipids to determine whether obese women
+PR:PROJECT_SUMMARY               	who deliver preterm have a distinct lipidomic signature, relative to obese women
+PR:PROJECT_SUMMARY               	who deliver at term. We propose a nested case-control study that utilizes
+PR:PROJECT_SUMMARY               	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+PR:PROJECT_SUMMARY               	represents over one million deliveries in California from 2007-2012. We propose
+PR:PROJECT_SUMMARY               	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+PR:PROJECT_SUMMARY               	This will provide adequate preliminary data for a larger-scale grant proposal.
+PR:INSTITUTE                     	Stanford University
+PR:DEPARTMENT                    	Pediatrics - Neonatology
+PR:LAST_NAME                     	Carmichael
+PR:FIRST_NAME                    	Suzan
+PR:ADDRESS                       	450 Serra Mall, Stanford, CA 94305
+PR:EMAIL                         	scarmichael@stanford.edu
+PR:PHONE                         	(650) 736-0735
+#STUDY
+ST:STUDY_TITLE                   	Etiologies of preterm delivery among obese women (part IV)
+ST:STUDY_TYPE                    	Retrospective cohort study
+ST:STUDY_SUMMARY                 	This study aims to establish a set of test samples that will be used to validate
+ST:STUDY_SUMMARY                 	the utility of the banked biospecimens, which will serve as critical preliminary
+ST:STUDY_SUMMARY                 	data for future NIH grant proposals. Specifically, for the current proposal we
+ST:STUDY_SUMMARY                 	aim to: 1) Collect test samples. We will design a sample collection protocol
+ST:STUDY_SUMMARY                 	that mimics “ideal” and “worst-case” sample handling conditions and
+ST:STUDY_SUMMARY                 	collect and store the samples for future testing. 2) Establish the validity of
+ST:STUDY_SUMMARY                 	the samples for measuring lipid mediators and global metabolomics. We will use
+ST:STUDY_SUMMARY                 	the test samples to accomplish this Aim. The test samples were stored in small
+ST:STUDY_SUMMARY                 	aliquots for this proposal as well as future validation studies. Targeted
+ST:STUDY_SUMMARY                 	metabolomic analyses of oxylipins, endocannabinoids, ceramides, and bile acids
+ST:STUDY_SUMMARY                 	on human serum samples were performed by the Newman lab. Analysis of primary
+ST:STUDY_SUMMARY                 	metabolism and complex lipids was performed by the Fiehn lab.
+ST:INSTITUTE                     	U.S.D.A. Western Human Nutrition Research Center, University of California,
+ST:INSTITUTE                     	Davis
+ST:DEPARTMENT                    	Nutrition
+ST:LABORATORY                    	Newman Lab
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 W. Health Sciences Dr., Davis, CA 95616
+ST:EMAIL                         	john.newman@ars.usda.gov
+ST:PHONE                         	+1-530-752-1009
+ST:STUDY_COMMENTS                	Case status was blinded by collaborator
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Females
+SU:SUBJECT_COMMENTS              	Obese pregnant femals
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy074	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy013	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy008	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy049	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy014	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy023	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy076	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy079	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy083	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy032	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy012	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy103	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy092	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy031	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy009	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy007	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy056	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy015	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy011	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy024	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy061	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy057	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy025	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy028	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy084	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy075	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy040	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy054	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy069	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy064	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy019	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy060	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy105	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy091	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy005	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy034	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy089	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy006	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy016	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy077	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy099	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy035	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy081	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy063	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy059	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy003	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy101	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy050	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy048	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy090	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy053	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy062	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy093	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy070	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy108	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy002	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy104	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy098	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy038	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy107	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy068	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy100	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy073	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy072	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy095	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy045	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy020	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy109	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy058	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy052	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy102	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy094	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy030	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy041	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy080	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy086	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy051	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy071	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy097	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy046	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy082	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy096	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy026	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy085	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy047	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy018	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy110	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy027	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy036	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy106	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy067	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy078	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy033	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy042	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy039	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy029	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy001	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy017	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy055	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy037	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy010	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarShakeOxy004	Test_sample:test	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	"The collection and processing of specimens was as follows: 1) samples were
+CO:COLLECTION_SUMMARY            	taken at draw stations using BDTM Vacutainer 3.5 mL serum separator tubes with
+CO:COLLECTION_SUMMARY            	no anticoagulants or preservatives and centrifuged 2) samples were received by
+CO:COLLECTION_SUMMARY            	designated clinical laboratories from draw stations at room temperature, on
+CO:COLLECTION_SUMMARY            	average 3.0 days after draw 3) AFP assays were run on samples usually on the day
+CO:COLLECTION_SUMMARY            	received 4) samples were refrigerated up to 7 days, in case further testing was
+CO:COLLECTION_SUMMARY            	necessary 5) samples were sent on cold packs via overnight mail to the serum
+CO:COLLECTION_SUMMARY            	storage bank 6) samples were aliquoted, labeled with barcodes, and frozen at
+CO:COLLECTION_SUMMARY            	−70° C."
+CO:COLLECTION_PROTOCOL_FILENAME  	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+CO:SAMPLE_TYPE                   	Blood
+CO:BLOOD_SERUM_OR_PLASMA         	Serum
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Among the more than 100,000 pregnancy specimens collected for testing in 2003
+TR:TREATMENT_SUMMARY             	and that resulted in a liveborn delivery in 2003, we identified 63 cases with
+TR:TREATMENT_SUMMARY             	hypospadias. Among the 29 cases for which two serum specimens were available, we
+TR:TREATMENT_SUMMARY             	selected all 16 for whom the degree of severity was not specified and the four
+TR:TREATMENT_SUMMARY             	that were coronal, to give a total of 20 cases. As controls, we randomly
+TR:TREATMENT_SUMMARY             	selected 28 specimens that were collected at the same lab during the same time
+TR:TREATMENT_SUMMARY             	period and corresponded to non-malformed, liveborn male infants delivered in
+TR:TREATMENT_SUMMARY             	2003. Thus, this was a nested case-control study. The selection of samples was
+TR:TREATMENT_SUMMARY             	limited to singletons. All samples were obtained with approval from the
+TR:TREATMENT_SUMMARY             	California Health and Welfare Agency Committee for the Protection of Human
+TR:TREATMENT_SUMMARY             	Subjects.
+TR:TREATMENT_PROTOCOL_FILENAME   	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Non-esterified oxylipins, endocannabinoids, polyunsaturated fatty acids and bile
+SP:SAMPLEPREP_SUMMARY            	acids extraction: Oxylipins, endocannabinoids, fatty acids and bile acids were
+SP:SAMPLEPREP_SUMMARY            	isolated by liquid extraction protocol using methanol/acetonitrile mixture (1:1
+SP:SAMPLEPREP_SUMMARY            	v/v] from 40 µL of serum and quantified by UPLC-MS/MS using internal standard
+SP:SAMPLEPREP_SUMMARY            	methods. Procedure shortly: 40 µL of serum was mixed with 5 µL BHT/EDTA (1:1
+SP:SAMPLEPREP_SUMMARY            	MeOH:water), 10 µL of 0.5 µM deuterated oxylipins and endocannabinoids
+SP:SAMPLEPREP_SUMMARY            	surrogates and 20 µL of 1 µM deuterated bile acids surrogates in methanol.
+SP:SAMPLEPREP_SUMMARY            	Next, serum was homogenized by addition of 200 µL of 1-cyclohexyl ureido,
+SP:SAMPLEPREP_SUMMARY            	3-dodecanoic acid (CUDA) and 1-phenyl ureido 3-hexanoic acid (PUHA) at 100 nM in
+SP:SAMPLEPREP_SUMMARY            	1:1 methanol:acetonitrile. Next, homogenate was centrifuge at 15000 rcf for 10
+SP:SAMPLEPREP_SUMMARY            	min and the methanol/acetonitrile supernatant was collected for mass
+SP:SAMPLEPREP_SUMMARY            	spectrometry analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity UPLC
+CH:COLUMN_NAME                	Waters 2.1 x 150mm, 1.7µm BEH C18 column
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	QTRAP
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration pmol/g
+MS_METABOLITE_DATA_START
+Samples	CarShakeOxy074	CarShakeOxy013	CarShakeOxy008	CarShakeOxy049	CarShakeOxy014	CarShakeOxy023	CarShakeOxy076	CarShakeOxy079	CarShakeOxy083	CarShakeOxy032	CarShakeOxy012	CarShakeOxy103	CarShakeOxy092	CarShakeOxy031	CarShakeOxy009	CarShakeOxy007	CarShakeOxy056	CarShakeOxy015	CarShakeOxy011	CarShakeOxy024	CarShakeOxy061	CarShakeOxy057	CarShakeOxy025	CarShakeOxy028	CarShakeOxy084	CarShakeOxy075	CarShakeOxy040	CarShakeOxy054	CarShakeOxy069	CarShakeOxy064	CarShakeOxy019	CarShakeOxy060	CarShakeOxy105	CarShakeOxy091	CarShakeOxy005	CarShakeOxy034	CarShakeOxy089	CarShakeOxy006	CarShakeOxy016	CarShakeOxy077	CarShakeOxy099	CarShakeOxy035	CarShakeOxy081	CarShakeOxy063	CarShakeOxy059	CarShakeOxy003	CarShakeOxy101	CarShakeOxy050	CarShakeOxy048	CarShakeOxy090	CarShakeOxy053	CarShakeOxy062	CarShakeOxy093	CarShakeOxy070	CarShakeOxy108	CarShakeOxy002	CarShakeOxy104	CarShakeOxy098	CarShakeOxy038	CarShakeOxy107	CarShakeOxy068	CarShakeOxy100	CarShakeOxy073	CarShakeOxy072	CarShakeOxy095	CarShakeOxy045	CarShakeOxy020	CarShakeOxy109	CarShakeOxy058	CarShakeOxy052	CarShakeOxy102	CarShakeOxy094	CarShakeOxy030	CarShakeOxy041	CarShakeOxy080	CarShakeOxy086	CarShakeOxy051	CarShakeOxy071	CarShakeOxy097	CarShakeOxy046	CarShakeOxy082	CarShakeOxy096	CarShakeOxy026	CarShakeOxy085	CarShakeOxy047	CarShakeOxy018	CarShakeOxy110	CarShakeOxy027	CarShakeOxy036	CarShakeOxy106	CarShakeOxy067	CarShakeOxy078	CarShakeOxy033	CarShakeOxy042	CarShakeOxy039	CarShakeOxy029	CarShakeOxy001	CarShakeOxy017	CarShakeOxy055	CarShakeOxy037	CarShakeOxy010	CarShakeOxy004
+Factors	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test
+10-Nitrooleate	2.11	4.39	2.88	3.41	2.27	3.8	1.93	3.38	2.57	2.28	3.61	1.39	3.43	2.86	4.56	3.33	2.2	2.43	4.64	1.86	1.07	3.08	3.78	4.18	3.12	1.13	3.32	4.55	2.15	1.84	2.91	1.49	3.58	2.77	4.21	3.13	1.88	4.51	2.03	2.93	6.03	5.29	2.68	4.1	2.29	5.71	2.01	2.95	2.13	3.14	5.35	1.22	2.27	2.69	1.12	4.9	1.99	1.37	6.01	1.02	4.98	3.93	2.55	0.84	1.37	1.42	1.62	2.34	1.79	2.24	7.98	2.35	3.53	2.3	3.07	1.99	6.34	4.63	2.63	3.06	4.94	1.28	6.17	2.4	3.48	3.24	1.61	3.73	5.55	1.78	2.42	3.5	2.72	6.1	3.63	4.27	8.68	2.57	3.08	3.39	5.15	3.57
+11,12-EpETrE	0.75	0.59	0.72	1.18	0.69	0.41	0.28	1.73	0.86	0.49	0.14	0.05	0.24	0.2	0.21	0.41	0.14	0.04	0.14	0.17	0.16	0.37	0.42	ND	0.27	0.13	ND	0.15	0.28	0.18	0.23	0.36	0.38	0.99	0.61	0.16	0.2	0.28	0.3	ND	0.44	0.28	ND	0.09	0.22	0.58	0.09	0.9	0.13	0.25	0.14	0.26	0.09	0.05	0.06	0.63	0.25	0.37	0.19	0.37	0.23	0.12	0.27	0.46	0.02	0.46	0.46	0.36	0.15	0.71	0.38	0.28	0.24	0.02	0.41	ND	0.49	0.1	0	0.28	0.21	0.1	0.17	0.28	0.5	0.51	0.43	0.42	0.1	0.26	0.27	0.16	0.17	0.21	0.08	0.32	1.28	0.06	0.56	0.21	0.21	0.22
+11,12-DiHETrE	0.74	0.87	1.45	1.39	1.2	1.27	0.79	1.39	1.3	0.67	0.59	0.68	0.94	0.63	0.71	1.07	0.64	0.78	0.69	0.58	0.41	0.81	0.43	0.6	0.54	0.8	0.67	0.91	0.72	0.7	0.53	0.95	0.62	1.05	1.17	0.89	0.73	0.61	0.43	0.62	0.78	0.82	0.92	0.9	0.48	0.83	0.73	1.49	0.85	0.77	0.67	1.03	0.85	0.71	0.72	0.72	0.94	0.8	0.69	1.07	1.25	1.01	0.78	0.63	0.64	0.9	1.38	0.77	0.64	1.03	1.09	1.14	1.15	0.75	0.98	0.91	1.21	0.57	0.58	0.82	0.96	0.79	1.03	0.99	1.5	1.09	0.9	0.65	0.76	0.78	1.25	0.53	0.7	0.85	0.5	0.8	0.92	0.53	1.42	0.85	0.86	0.56
+11-HETE	509	288	394	591	340	135	122	1490	285	261	14.5	3.28	27.2	16.7	3.69	34.4	7.42	10.5	8.31	7.21	10.4	12.3	5.11	14.1	7.19	4.44	7.45	10.5	15.7	17.6	6.47	18.8	17.2	303	55.1	29.4	9.1	17.3	19	5.78	16.4	52.1	8.24	19.8	14.6	9.59	7.41	70.4	14.1	7.58	21.1	30.5	8.78	20.7	6.31	24.5	14.8	53.9	49.1	109	7.23	15.9	47.2	64.5	16.8	123	145	46.7	42.3	78.9	82.4	39.4	9.75	9.77	23.2	11.5	33.4	4.84	15.1	8.73	20.7	18.8	5.16	8.63	55.9	61.6	127	7.61	4.11	89.5	44.4	38.8	23.3	13.8	17.9	5.38	557	23.7	133	49	30.1	6.74
+12,13-Ep-9-KODE	10.2	7.06	6.63	5.01	3.16	4.29	2.4	1.4	0.49	0.79	0.94	1.95	11.6	0.77	1.68	3.24	1.83	2.35	3.47	7.97	1.69	0.43	2.27	11.5	1.43	0.58	1.99	8.46	0.78	2.54	5.34	1.13	3.88	6.03	3.19	0.21	4.52	2.27	1.56	1.23	6.02	3.41	1.49	6.29	7.37	2.04	3.17	2.24	1.57	2.54	1.3	5.19	3.01	10	0.25	1.06	0.39	1.02	5.39	0.28	2.27	3.35	0.47	2.53	1.28	2.13	2.25	2.39	5.16	1.07	2.27	1.48	4	1.86	1.21	3.75	1.65	5.64	3.23	3.01	1.42	ND	1.27	3.68	3.99	4.1	1.51	4.02	8.85	2.4	7.1	1.63	2.27	3.53	4.99	4.96	8.61	3.27	5.48	3.29	5.87	0.85
+12,13-EpODE	1.72	2.38	ND	6.32	0.01	0.34	ND	1.17	0.16	0.33	1.65	0.03	0.31	1.21	0.38	0.5	2.88	1.02	0.44	0.05	0.29	0.24	0.32	1.16	1.28	2.42	0.77	0.33	0.27	0.6	0.25	4.89	5.91	1.06	0.09	0.47	0.1	0.03	2.12	0.76	0.08	0.76	0.34	0.72	1.54	0.31	0.37	1.15	0.21	3.78	ND	ND	0.47	0.12	0.33	0.3	1.73	ND	0.43	ND	0.1	3.21	1.17	0.03	0.45	0.46	0.13	0.49	0.61	0.57	ND	0.58	0.14	ND	0.1	1.44	2.54	0.15	0.89	0.04	0.17	0.49	0.17	ND	0.33	ND	0.85	0.69	2.39	1.37	ND	0.23	0.66	0.5	0.68	0.22	0.56	0.31	0.59	0.37	0.51	1.46
+12,13-EpOME	19.5	21.3	4.84	47.8	2.26	7.46	2	11.5	4.55	7.44	20.8	2.43	4.98	30.7	9.25	6.19	27.7	10.5	8.26	6.43	2.41	2.89	3.78	12.2	10.1	10.8	7.11	2.49	4.95	9.15	3.76	251	29.6	24	3.94	5.8	7.47	3.29	18.7	8.19	2.63	8.46	5.71	12.6	17.8	4.46	4.29	10.6	1.71	21.8	3.31	2.38	33.6	5.75	4.78	3.71	19	3.61	6.69	1.61	5.11	22.1	7.26	2.33	12.8	12.9	3.34	7.71	6.07	6.73	2.29	5.49	6.47	2.13	1.9	9.25	19.7	2.43	79.7	1.6	3.12	9.36	4.18	1.52	3.8	1.89	11.3	26.1	12.4	11.5	2.73	2.99	12.2	8.2	8.74	3.21	5.68	4.79	5.71	2.78	9.51	7.64
+12,13-DiHOME	9.73	12.9	2.84	27.7	1.82	8.87	2.04	6.34	3.38	11.6	15.1	0.92	4.31	14.6	4.71	8.04	26.2	12.3	3.04	6.8	3	2.54	1.02	12.3	6.52	11.8	9.38	2.43	2.73	11.3	1.47	26.6	16.6	13.1	3.52	6.02	1.92	1.71	10.6	5.76	3.17	6.67	5.4	8.06	12	3.41	4.65	5.69	2.14	16.6	3.23	2.66	26.8	10.7	2.22	4.22	12.1	3.81	3.95	2.39	3.68	9.57	8.11	2.48	11.3	11.8	2.1	4.92	4.29	5.49	2.32	6.59	5.53	9.5	2.75	8.55	13.9	1.99	47.2	2.17	3.09	10.4	3.44	2.33	12.2	1.91	6.82	15.9	9.22	9.67	3.94	3.76	7.97	4.17	4.73	5.62	3.32	4.96	6.44	6.26	10.9	9.97
+12-HETE	750	1800	1190	993	986	495	920	1980	1350	518	1340	81.3	283	1640	248	1180	1170	1030	182	441	514	368	403	274	364	75.6	342	159	442	461	67	91.1	615	890	607	2370	368	359	599	114	605	1250	1200	601	877	1170	271	618	1680	238	915	244	515	658	177	618	712	875	722	1640	291	989	841	1530	731	449	963	453	477	261	432	786	315	219	884	764	806	711	2210	297	1100	1810	665	771	723	725	741	496	548	630	684	2620	2050	1560	215	228	924	194	1170	750	515	674
+12-HEPE	102	17	50.4	36.5	29.3	9.6	12.7	30.4	31.5	236	17.1	2.5	4.36	15.4	3.59	11.2	41.7	10.9	1.97	2.73	2.22	9.09	4.46	5.33	4.4	3.43	4.6	3.69	6.91	7.25	1.14	9.13	11.1	65.8	7.07	27.4	4.21	6.76	6.95	5.52	4.85	14.7	18.8	14.1	13.5	29.4	2.8	15.7	21.3	3.87	13.9	8.3	7.55	25.7	2.61	5.47	10.6	16.5	12.2	27.7	11.5	10.7	20.4	16.3	16.5	21.7	16.6	6.2	8.24	12.8	50.8	9.7	10.6	6.4	8.58	12.1	13.9	6.99	53.7	3.88	26.8	125	7.36	33	16	9.64	8.94	6.85	30.1	9.96	29.1	51.9	35.1	36.9	8.11	23.7	21.8	10.8	60.1	10.4	84.3	9.46
+13-HODE	2020	1730	1800	6280	1470	848	919	4160	1140	1790	248	25.6	227	252	45.5	157	172	93	114	105	72	75.5	38.8	178	94	80	87.9	107	166	132	44.4	626	193	1490	205	115	115	98.6	151	183	149	266	153	114	136	56	68.4	324	98.1	115	155	163	116	159	61.8	170	115	313	497	598	75.1	132	288	371	133	937	885	391	216	738	544	337	120	72.2	95.9	109	230	69.2	356	48.6	166	140	86.8	125	530	307	1230	83.3	84	501	264	253	113	203	135	51.3	1860	374	605	301	249	82.3
+13-HOTE	105	42.8	43.7	501	31.9	24.7	21.6	46.1	24.4	75.7	12.2	1.14	6.58	10.1	3.12	6.97	15.7	4.74	3.52	2.54	1.91	3.2	1.7	8.23	5.11	8.53	4.02	3.18	5.82	5.19	2.16	20.2	13.3	51.8	6.08	5.63	5.25	3.98	6.43	3.28	5.17	6.84	11.5	6.17	10.2	3.87	3.23	17.7	5.25	8.49	7.29	4.89	4.17	7.25	2.46	6.29	8.33	10.7	16.4	26.4	2.93	9.52	15.8	9.69	8.13	30	28.6	12	7.63	25.5	15.5	13.4	6.43	1.55	2.39	6.82	11.9	3.04	10.2	1.32	8.46	6.92	7.23	8.51	14.8	7.76	41.4	3.56	7.93	13.7	8.03	6.63	6.02	12.9	5.71	1.99	40.8	26.1	26.6	8.18	23.1	5.26
+13-KODE	185	112	199	390	101	71.8	70.2	482	79.1	148	12.7	9.6	87.3	56.5	9.58	14.6	3.93	16.9	114	26.7	42.6	26.9	13.5	81.2	9.24	7.64	20.7	45.6	72.6	50.6	26.8	89.9	30.7	134	34.2	11.4	25.1	26.4	35.4	9.38	21.2	32.6	6.85	12.6	25	5.15	34.7	31.7	8.1	10.5	14.8	20.2	21.9	28.8	6.15	26	11.4	20.4	57.3	56.1	4.47	12.7	48.7	105	15.2	197	100	52.9	39.4	101	85.3	27.2	24.2	12.8	10.6	8.15	25.9	8.6	15.4	7.37	27.3	25.7	10.3	31.6	107	29.8	148	5.3	24.7	36.1	27.3	13.1	7.71	6.29	27.5	7.28	204	65.9	56.5	32.3	29.2	7.35
+14,15-EpETrE	0.47	0.78	0.84	1.07	0.65	0.54	0.5	1.42	1.17	0.48	0.21	0.18	0.4	0.36	0.36	0.6	0.26	0.13	0.39	0.34	0.44	0.33	0.22	ND	0.3	0.08	0.11	0.32	0.33	0.4	0.31	0.56	0.61	1.91	0.8	0.47	0.25	0.3	0.15	0.19	0.22	0.2	0.16	0.23	0.19	0.78	0.15	1.54	0.43	0.35	0.03	0.43	0.18	0.23	0.48	0.53	0.12	0.66	0.39	0.55	0.15	0.13	0.26	0.67	0.18	0.26	0.74	0.58	0.18	0.81	0.29	0.64	0.52	0.12	0.38	0.31	0.39	0.11	0.11	0.43	0.41	0.3	0.29	0.25	0.66	0.6	0.75	0.56	0.38	0.01	0.24	0.19	0.24	0.41	0.14	0.44	0.69	0.52	0.86	0.15	0.31	0.41
+14,15-DiHETrE	1.15	0.84	1.53	1.83	1.27	1.35	0.82	1.98	1.09	0.78	0.92	0.49	0.94	0.68	0.75	1.3	0.57	0.86	0.67	0.54	0.55	0.96	0.51	0.63	0.62	0.59	0.61	0.82	0.6	0.64	0.58	0.73	0.66	1.1	1.02	0.94	0.52	0.59	0.62	0.52	0.74	0.73	1	0.9	0.64	1.03	0.75	1.08	0.98	0.62	0.62	0.82	1	0.61	0.65	0.7	0.94	1.04	0.62	1.12	1.41	0.83	0.99	0.68	0.7	1.02	1.06	0.76	0.63	0.68	1.16	0.83	1.27	0.64	0.97	0.95	1	0.64	0.67	0.9	0.97	0.7	0.86	1.05	1.19	0.94	0.84	0.73	0.57	0.88	1.51	0.6	0.75	0.66	0.44	0.62	1.08	0.39	1.36	0.88	0.82	0.44
+14-HDoHE	461	203	312	414	243	132	133	693	321	563	281	20.2	39.6	173	19.4	66.8	178	90.4	27	57.8	39.7	65.5	36.1	30.3	36.8	20.8	75.9	52.2	40.2	82.6	17.6	50	64.8	564	87.6	106	43.3	30.5	33.7	46.7	51.2	73.6	143	73.3	112	218	24.2	117	172	31.9	92.5	75	65.5	139	19.7	34.5	88.9	125	71.2	235	46.8	106	150	115	104	154	213	56.9	50.1	47	163	137	107	55.4	80.2	141	108	89.9	815	34.2	139	806	78.8	191	137	117	133	41.6	209	124	266	472	253	376	39.8	74.8	302	65.8	302	91.7	321	121
+15,16-EpODE	13.8	16.1	2.53	104	0.12	10	0.33	2.57	2.61	1.77	19.8	0.52	0.93	4.47	4.81	8.35	161	6.57	2.17	0.54	0.67	0.41	0.42	8.9	8.45	11.3	14.8	0.9	0.14	2.98	0.57	21.5	37.7	12	4.93	24.8	0.03	0.53	13.2	3.82	0.66	8.75	4.49	11.3	28.2	0.26	4.35	8.46	0.25	17.7	0.44	0.79	11.2	11.3	0.81	0.85	14.6	1.61	3.53	ND	7.51	23.6	7.6	0.06	7.23	7.07	ND	3.2	0.53	0.76	0.19	2.88	1.52	0.25	0.02	12.1	19.6	ND	10	ND	1.17	9.59	0.75	0.28	0.98	0.08	5.89	9.62	31.5	16.7	0.1	1.04	6.52	1.82	9.03	0.36	ND	0.28	2.23	0.84	11.3	9.59
+15,16-DiHODE	15.9	14.1	4.36	36.5	3.25	23.7	1.23	5.67	7.36	54.8	24	4.73	4.88	6.93	10.1	17.6	88.5	11.7	4.73	9.79	12.5	7.61	1.52	13.6	11.4	21.6	28.9	3.83	3.44	51.3	2.36	12.5	51.1	14.1	14	31.7	6.94	6.48	18.6	9.68	8.31	14.8	12	30.9	30.5	8.42	13.9	12.3	5.41	35.3	6.93	8.74	25.2	69.3	4.47	9.65	32.6	8.33	18.2	6.73	6.97	46.1	15.7	3.64	24.5	23.4	1.19	10.3	12.8	16.2	7.98	15	6.95	17.1	7	15.7	14.9	2.53	13	5.99	8.04	25.2	12	6.64	8.57	3.56	13.2	19	23.1	22.8	6.94	9.39	20.8	10.6	21.5	14.8	9.82	6.82	15.9	15.1	27.1	33.9
+15-deoxy PGJ2	0.94	0.75	0.57	1.04	1.05	0.59	0.3	1.44	0.87	0.58	0.43	0.16	0.16	0.21	0.25	0.34	0.34	0.32	0.12	0.12	0.26	0.26	0.39	0.06	0.19	0.21	0.18	0.19	0.15	0.11	0.22	0.22	0.18	0.79	0.28	0.27	0.18	0.22	0.22	0.13	0.29	0.49	0.19	0.21	0.24	0.24	0.17	0.52	0.22	0.05	0.19	0.38	0.29	0.17	0.22	0.48	0.31	0.36	0.23	0.53	0.14	0.15	0.25	0.26	0.2	0.61	0.36	0.18	0.28	0.28	0.42	0.32	0.06	0.29	0.33	0.28	0.3	0.11	0.2	0.21	0.44	0.32	0.34	0.15	0.6	0.32	0.4	0.35	0.18	0.45	0.36	0.6	0.4	0.27	0.12	0.11	1.17	0.13	0.5	0.33	0.24	0.26
+15-HEPE	93.9	8.99	41.4	30.5	19.4	6.06	5.29	27	20.3	205	0.98	0.61	1.14	0.82	0.23	1.28	1.5	0.41	0.5	0.3	0.35	0.47	0.58	0.69	0.77	0.53	0.5	0.86	1.14	1.13	0.33	4.87	2.11	52.1	1.63	2.01	0.69	1.01	1.49	0.73	0.88	3.73	0.92	2.03	1.12	1.36	0.44	5.43	1.11	0.55	1.92	2.71	0.89	4.2	0.51	1.37	1.04	3.42	5.58	6.98	1.74	1.09	4.41	2.99	2.28	13.9	9.23	2.59	3.53	7.75	35.3	2.41	2.52	0.72	1	0.6	3.7	0.43	2.09	0.48	2.5	4.73	0.53	2.32	3.93	2.62	4.03	0.72	1.58	4.84	6.35	1.79	1.84	0.98	2.55	3.55	18.6	4.25	32.3	2.63	29.1	0.82
+15-HETE	639	551	611	835	639	273	216	1890	547	399	53.2	5.8	35	36.3	11.6	64.9	29.6	33.9	9.72	32.1	17.7	18.4	18.8	17	26.8	8.45	17.2	15.8	29.6	39.6	8	31.8	47.7	557	109	83.8	21.2	24.2	44.4	11.1	43.4	107	39.9	43.7	38.3	26.2	18.3	91.1	46.9	18	50.9	58.9	24.2	56	19.6	45.6	42.8	106	99.2	184	25.9	42.1	85.6	110	46.1	193	281	103	82.3	138	153	92.9	27.2	20.3	46.9	31.2	66.2	22.3	51.6	17.1	41.5	55.1	23.1	29.9	93.1	121	252	23.1	16.1	169	90.2	89.9	63	40	28.4	17.5	821	36.5	262	103	69.8	25.4
+15-KETE	88	41.5	62.8	84.5	43.4	31.5	17	235	45.3	41.7	3.72	2.35	15.5	9.47	1.74	6.57	0.91	2.23	11.5	3.32	6.97	10.1	2.13	10.9	1.9	1.63	3.83	7.64	9.19	10.8	4.07	4.99	6.23	55.6	17.5	5.03	6.03	5.28	7.49	2.42	6.31	12.7	2.47	4.56	3.72	2.38	5.81	14.9	3.86	3	3.38	6.37	2.33	5.78	1.9	4.63	3.92	12.6	13.2	24.9	1.76	4.18	14.2	18.1	4.75	44.1	39.6	17.3	12.7	26.5	27.4	9.26	4.21	2.3	5.95	1.39	7.66	1.08	1.35	2.41	7.72	5.66	0.53	3.62	22.9	15.1	36.4	2	1.24	17.8	9.72	3.2	2.93	1.66	5.36	1.27	96.7	8.67	26.4	11.7	8.79	1.24
+15-keto-PGE2	11.5	6.99	6.29	10	6	5.62	2.22	19.1	6.14	8.82	0.3	0.21	2.3	0.73	0.22	0.76	0.17	0.11	1	0.31	0.88	0.76	0.12	0.69	0.3	0.25	0.19	0.27	0.99	1.26	0.31	0.46	0.66	5.1	1.52	0.28	0.39	0.64	0.24	0.56	0.62	1.99	0.29	0.73	0.4	0.71	0.35	2.52	0.23	0.66	0.63	2.08	0.64	0.8	0.83	0.88	0.46	2.79	2.05	3.74	0.32	0.82	2.35	2.77	0.49	7	3.46	1.86	1.72	3.61	3.13	1.84	0.41	0.03	0.97	0.26	0.85	0.27	0.18	0.41	1.15	0.53	0.45	0.59	3.24	1.89	4.67	0.26	0.03	2.96	1.27	0.49	0.51	0.04	0.81	0.43	8.29	0.73	3.75	1.98	2.04	0.35
+17,18-DiHETE	5.2	1.2	3.16	3.24	0.63	9.96	1.06	0.4	1.46	9.81	2.52	3.24	1.96	1.87	1.31	5.7	5.77	2.7	1.97	1.1	0.02	2.11	0.35	3.02	3.31	2.76	2.8	1.97	1.57	2.79	1.32	7.43	3.11	6	0.75	2.37	2.97	4.27	2.98	2.6	2.77	1.72	2.91	5.66	4.17	4.6	3.75	2.97	2.68	2.09	2.37	3.53	5.41	6.93	2.45	0.83	4.54	3.55	4.11	4.7	6.81	2.98	2.26	1.69	3.38	4.34	1.77	5.08	2.19	2.47	11.2	1.67	14	4.81	1.62	3.21	3.48	2.15	2.58	1.9	6.11	3.97	1.69	5.8	3.23	2.23	1.92	2.04	7.12	2.15	11.9	2.56	1.64	2.31	3.69	10.1	2.25	2.33	6.07	4.31	20.4	1.91
+17-HDoHE	1050	401	566	827	370	192	199	1630	574	1070	41.4	20.9	38.3	25.5	4.04	43.2	51.6	34.8	3.42	27.6	3.93	3.63	7.25	20.2	15.2	8.29	17.9	18.3	28.4	48.8	8.45	83	56.1	1110	84.9	49.9	20.4	22.8	26.2	27.1	39.7	80.8	35.4	53	44.4	31.6	13.6	122	30.9	25	40.3	87.8	27.3	103	24	35.6	36.8	97.9	105	232	40.7	40.5	109	66.5	38.5	297	341	141	88.6	92.1	257	105	60.5	35	25.5	24.7	72.7	25.9	80.7	14.5	59.4	104	10.7	48.7	136	121	257	8.47	41.3	208	153	48.9	37.8	26.7	49.8	47.7	768	101	385	101	244	20.5
+19,20-DiHDoPE	3.61	1.51	2.38	1.13	1.46	6.4	1.11	2.13	2.84	6.07	2.02	2.77	2.22	1.25	1.67	2.95	4.26	2.68	1.39	1.77	1.6	2.52	0.76	1.39	1.31	1.78	2.16	1.6	1.72	2.57	1.59	2.63	1.65	4.51	1.41	2.39	1.67	1.84	1.16	3.89	1.32	0.97	1.62	4.17	1.81	4.91	2.39	1.66	1.14	1.75	1.89	1.84	3.85	3.59	1.55	1.65	2.52	2.04	1.31	3.23	5.77	1.82	1.96	0.85	1.94	2.21	1.72	2.22	1.36	0.86	3.94	1.81	8.99	2.48	2.05	3.72	2.43	1.5	2.56	2.26	4.4	2.89	2.27	2.88	1.91	2.52	1.52	1.78	4.45	2.61	6.86	0.95	1.52	0.76	2.03	6.19	2.41	1.95	4	2.18	5.34	1.27
+4-HDoHE	5970	1750	2130	1870	2000	1000	1710	2310	2190	3140	60.1	325	537	140	69.7	559	613	154	374	241	484	141	24.7	20	289	282	191	115	221	601	152	453	451	4070	788	215	93.2	158	364	990	1040	831	198	394	386	119	104	1150	243	408	632	891	106	912	349	269	221	1910	1220	1590	456	499	1610	478	960	1850	1200	756	617	780	1660	629	549	235	295	634	480	51.4	22.6	354	1240	296	90	117	1220	1580	1010	489	85.3	1680	1260	127	506	375	560	683	1410	789	2390	749	2460	308
+5,15-DiHETE	173	121	70.6	127	115	41.3	33.3	322	86.3	63.4	2.23	1.46	7.84	10.3	2.66	4.09	1.25	2.44	4.22	1.81	4.64	5.27	3.89	8.76	2.67	0.61	3.66	3.03	11.2	9.86	3.17	2.54	4.56	45.4	19.2	6.13	3.3	2.18	4.38	0.79	5.14	14.4	1.96	4.44	2.54	1.27	3.13	5.14	3.76	1.72	2.81	11.2	1.75	4.32	1.35	6.27	2.59	29.8	34.9	29.2	1.87	5.51	11.9	18.8	4.62	37.9	43.8	22.1	13	37.8	32.1	12.9	4.43	1.98	5.89	1.12	5.72	1.31	2.76	1.76	4.95	2.85	1.11	5.83	14.2	22.6	46.8	1.22	0.71	52.9	12.6	2.33	3.72	1.4	3.62	1.33	147	3.47	29.5	12.3	5.06	1.02
+5,6-DiHETrE	13.5	15.8	10.8	13.9	14	15.1	9.68	23.1	17.7	13.1	5.81	12.7	11.8	11.7	14.1	12.6	11.6	12.3	11.5	6.44	7.16	15.5	11	12.1	6.7	13.3	7.14	17.2	9.25	8.53	7.79	9.49	8.47	14.5	24.1	14.3	11.5	8.44	11.1	11.4	13.5	16.1	10.3	11.3	22.3	10	9.46	20.6	11.5	12	9.45	19.8	13.5	13.2	16.4	8.71	9.24	11.6	15.4	20.5	11.1	12.9	14.1	16.8	17.3	13.5	20.5	13.8	10.6	16.4	14.2	17	20.8	16.1	14.5	9.63	15.4	6.31	9.24	14.6	10.9	22.2	9.29	12.7	8.85	12	11.1	11	8.14	11.4	16.5	7.53	10.1	10.3	10.1	9.65	10.9	4.53	21.8	14.1	17.1	7.79
+5-HEPE	1030	139	298	188	209	79.6	80.8	168	216	1770	3.01	4.66	12.6	5.36	1.85	16.3	7.1	1.93	1.53	1.73	0.76	2.73	4.33	3.57	6.01	9.53	1.43	6.99	3.32	22.7	3.88	119	36.9	459	39.9	20	16.7	17.7	19.1	19.7	26	77.1	1.9	48.2	21	6.26	3.25	67.9	19.1	9.89	23.6	64.6	5.88	86.2	7.81	17	14.4	89.1	164	115	18.8	19.6	67.7	48.7	50.6	186	158	81.8	59.7	140	609	39.3	34.2	17.2	14.7	4.38	60.8	0.82	1.81	7.05	45	32.8	1.23	6.59	55.5	54	71.4	7.84	7.5	113	162	4.32	21.3	1.4	50	64.5	161	37.3	384	52.1	441	2.51
+5-HETE	ND	ND	5680	5660	ND	5170	3390	ND	8660	5220	167	51.4	493	177	46.4	653	58.2	44.6	59.5	143	38.3	95.5	85	70.1	267	165	37.9	309	108	662	145	785	574	6310	3180	537	178	307	554	305	938	2180	54.2	852	405	95	130	1430	596	325	456	1560	125	767	261	910	515	2950	3230	3150	250	721	1530	1620	711	3370	5850	2840	1550	3600	3110	1770	312	206	784	146	1250	26.1	30.7	329	793	240	45.5	52.5	1770	2570	4560	201	39.9	5180	2220	136	621	28.8	657	247	ND	340	4170	2010	1020	82.8
+5-KETE	319	339	195	182	174	219	90.7	937	247	139	3.48	2.38	18.6	11.2	2.96	25.5	2.11	1.98	6.17	7.7	3.83	6.45	4.5	6.28	6.91	5.12	1.85	17.5	8.87	44.4	8.36	24.3	28.6	168	152	22.6	8.32	12.3	26.5	12.6	53.9	88.8	2.13	40.7	17.4	3.27	7.37	29.6	26.5	10.6	12.7	41.5	4.45	23.6	11.5	37.7	20	91	151	95.1	10.2	28.9	33.6	73.5	24.8	101	286	132	75.7	90.2	202	71.6	8.59	7.34	44.2	4.51	57.8	1.23	0.58	19.3	25.9	8.38	1.7	4.16	116	118	233	7.47	2.17	185	68.6	3.02	14.6	0.77	26.9	5.82	535	9.21	125	92	23.7	1.85
+6-trans-LTB4	66.9	35.3	21.4	42.5	38.6	17.5	13.9	163	27.1	32.2	0.73	0.04	1.68	0.89	0.19	1.84	0.23	0.26	0.2	0.43	0.48	0.5	0.34	0.74	0.61	0.3	0.52	0.43	0.62	1.88	0.41	0.84	0.98	14.8	4.61	1.09	0.47	0.58	0.89	0.18	1.99	6.3	0.62	1.49	0.46	0.28	0.46	1.55	1.4	0.29	0.44	3.07	0.36	0.76	0.19	3.72	0.81	9.77	14.1	8.59	0.6	1.42	4.5	3.91	1.51	8.6	15.2	4.25	3.69	10.3	10.6	3.68	0.55	0.32	1.51	0.39	1.86	0.24	0.69	0.61	1.68	0.72	0.47	1.01	3.88	5.92	22.8	0.26	0.13	25.6	4.14	0.68	1.18	0.46	1.5	0.49	71.6	0.96	7.04	4.98	1.2	0.28
+8,15-DiHETE	163	86	98.5	147	98.8	36.4	29.4	522	77.3	65.9	0.52	2.89	8.63	13.9	1.09	5.26	0.29	3.23	9.76	3.88	5.07	8.65	2.42	16.3	1.75	1.29	5.74	1.92	21.4	10.7	5.51	2.02	5.81	39.9	14.3	6.09	6.52	2.85	5.86	0.49	3.03	8.28	4.06	3.61	0.4	0.78	5.17	6.82	1.53	2.52	3.09	5.52	2.81	3.78	0.87	4.19	2.11	11.3	12.2	18.2	4.21	3.45	9.59	25.4	2.74	43.6	30.7	7.22	13.7	22.9	24.3	8.22	6.68	1.37	3.46	2.23	5.79	2.44	2.21	1.84	7.32	4.52	2.58	9.91	14.1	13.1	25.9	0.41	0.52	23.7	10.1	1.21	1.25	2.6	2.67	0.54	159	5.89	27.3	13.7	5.16	1.52
+8,9-DiHETrE	4.06	5.27	3.99	3.52	4.7	4.71	3.61	6.59	6.68	3.72	1.79	4.98	6.77	2.8	1.98	2.8	1.35	1.23	2.5	2.2	1.89	3.26	1.26	3.02	3.59	4.11	2.18	3.33	2.62	1.57	3.22	4.97	1.76	6.2	5.13	2.84	2.06	3.46	2.17	3.41	1.54	3	2.42	3.59	2.14	2.37	2.57	5.78	1.77	5.99	2.41	5.61	2.26	4.12	2.93	2.37	4.37	2.19	1.92	3.64	2.6	1.66	2.83	1.95	2.25	7.19	6.68	3.96	3.47	4.24	3.8	4.91	3.04	2.88	2.94	2.68	3.5	1.58	1.5	2.09	2.6	3.58	3.65	2	3.35	3.15	7.36	2.44	2.41	5.15	4.39	5.48	3.95	1.76	2.37	3.4	7.14	2.22	4.36	2.86	4.74	3
+8-HETE	316	214	261	337	237	97.8	86	948	212	194	12.2	2.02	15.4	15.7	4.17	19.4	11.8	9.5	4.64	11.8	4.1	5.86	8.17	6.98	11.6	4	7.64	8.22	12.2	15.2	3.46	13.6	18	228	49.4	25.7	10.2	8.74	14.5	4.76	15.5	38.7	18.7	17.6	13.3	12.6	6.31	35.3	18.1	9.12	14.4	19	7.3	19.2	7.49	18.6	14.9	42.6	40.4	73.8	6.25	16	35.2	34.2	14.8	84.4	97.8	36.2	29	67.4	56.7	30.5	11.5	5.83	17.4	9.33	32	9.2	15.7	6.84	21.5	15.4	8.14	12.9	36.1	46.4	92.1	7.43	6.3	73.6	35.8	18.4	24.1	9.29	14.2	7.48	405	14.1	105	39.3	25.5	7.34
+9,10-EpODE	5.94	3.4	5.62	19.4	1.78	2.47	1.08	9.94	3.31	4.62	2.8	1.06	3.31	3.92	1.32	0.76	7.28	1.15	4.2	1.96	1.49	1.41	0.83	3.54	1.71	1.74	0.66	3.89	2.11	1.13	1.29	6.39	9.82	3.92	1.24	2.81	1.99	1.75	1.88	1.14	0.49	2.07	0.56	1.83	4	1.58	2.97	0.9	1.68	5.59	1.04	1.1	2.01	3.25	1.49	2.18	3.21	2.71	2.65	2.36	1.98	1.12	0.6	3.09	1.68	7.14	1.75	0.97	2.45	5.62	2.57	0.37	1.98	0.86	0.77	1.58	3.44	1.57	0.54	0.83	1.09	1.12	0.7	3.25	3.88	1.34	6.84	0.37	4.16	0.86	0.89	0.1	0.91	0.31	1.37	1.61	4.55	2.29	4.14	1.35	1.44	0.97
+9,10-EpOME	7.29	7.37	4.31	26.2	2.46	4.73	2.02	6.28	4.55	5.77	8.22	2.2	3.9	23.6	3.07	3.59	15.4	5.13	5.23	7.64	2.59	2.8	2.3	6.74	6.43	5.12	4.43	2.97	4.69	3.12	3.32	38.8	13.5	6.85	3.15	3.27	5.19	3.36	5.78	11.9	2.76	5.63	2.74	6.28	8.55	3	2.88	6.66	2.38	7.08	2.45	2.3	5.36	5.79	3.68	2.63	6.1	3.36	5.12	3.06	4.15	8.36	4.61	3.31	5.42	5.2	3.87	9.08	4.47	5.59	1.84	4.51	4.41	1.55	2.29	4.57	11.7	2.67	7.12	2.27	2.46	3.56	3.28	2.17	4.07	1.92	8.23	7.88	8.53	5.2	2.25	3.07	3.49	5.65	3.62	3.42	4.39	4.16	4.11	2.17	5.69	3.51
+9,10-DiHO	6.67	14.6	12	10.7	10.5	34.7	6.07	6.09	11.3	19.3	19.1	4.67	11.7	17.4	15	24.8	9.64	11.8	10.8	10.2	4.08	5.55	4.61	12.9	6.33	7.08	15	11.9	5.51	10.1	14.5	12.5	14	8.66	24.1	26.6	5.43	7.74	13.5	7.57	4.73	14.7	4.26	5.61	17.2	8.37	9.31	7.61	11.7	23.4	4.18	5.83	17.9	13.9	4.98	10.6	8.84	7.57	13.9	4.42	5.55	6.69	4.71	5.61	15	7.76	8.04	4.79	5.34	6.67	8.22	8.21	16.1	6.77	6.04	7.92	12.3	11.2	8.66	10.7	5.11	6.82	11.9	5.54	10.9	10.9	17.1	13.5	47.2	11.8	11.2	8.12	15.3	6.43	6.46	12.2	17.3	8.92	8.81	10.7	21.4	16.1
+9,10-DiHODE	0.46	0.6	0.11	4.21	0.11	0.55	0.15	0.42	0.28	3.92	2.02	0.35	0.16	0.99	0.5	0.59	6.62	0.6	0.15	1.61	0.12	0.18	0.07	0.48	1.21	0.51	1.82	0.1	0.03	2.06	0.05	1.19	2.31	0.46	0.42	0.84	0.5	0.24	0.49	0.38	0.24	0.45	0.28	0.53	1.39	0.28	0.24	0.34	0.27	2.08	0.2	0.27	0.88	4.85	0.33	0.4	1.01	0.13	0.2	0.05	0.51	0.73	0.68	0.18	1.24	0.63	0.17	1.12	0.45	0.56	0.21	0.89	0.4	0.37	0.34	1.76	0.65	0.16	0.37	0.17	0.18	0.66	0.33	0.3	0.52	0.03	0.85	1.31	1.92	1.43	0.18	0.63	0.84	0.41	0.29	0.46	0.33	0.27	0.43	0.66	1.29	0.88
+9,10-DiHOME	5.27	6.14	3.2	20.5	2.32	11.9	2.76	5.22	4.55	33.3	14.4	1.77	4.38	20.2	5.08	7.87	24.4	7.97	2.66	20.4	3.6	3.51	1.11	13.1	8.5	5.25	10.3	3.02	2.32	11.7	1.85	20.7	12.8	5.9	4.43	6.5	6.02	3.35	6.2	14.7	4.43	4.87	4.94	7.69	10.2	3.48	4.85	3.86	2.42	12.5	4.01	3.39	8.77	24.3	3.01	5.6	8.54	5.12	4.8	2.41	8.66	7.04	6.79	2.22	11.8	6.98	2.48	15.9	3.31	5.58	3.35	10.5	6.78	17	2.76	10.7	9.27	3.05	14.6	2.88	3.23	7.23	4.13	2.88	6.17	2.61	9.91	17.8	9.95	9.64	3.48	5.85	5.46	4.75	3.93	5.59	4.57	5.26	5.23	7.6	9.36	8.52
+9,12,13-TriHOME	10.8	23.4	8.21	14.7	3.59	9.72	4.22	7.77	7.54	12	4.83	1.29	6.49	3.4	2.29	3.75	3.81	2.11	3.89	3.64	2.7	1.72	1.01	7.87	1.5	4.46	7.94	6.41	3.54	27.8	6.2	4.27	10.9	3.99	2.4	2.22	3.59	1.65	9.43	6.42	4.56	4.16	1.87	6.52	10.5	1.56	4.84	2.44	1.51	5.31	2.16	3.91	3.96	8.4	0.95	1.66	1.49	1.72	5.76	1.68	2.82	5.39	3.57	4.51	11.1	4.78	3.87	4.37	3.76	1.46	4.13	3.84	2.59	11.8	1.18	3.17	5.53	2.9	6.48	1.21	2.53	15.6	1.79	3.1	3.44	4.05	4.77	5.67	10.9	9.01	4.45	4.39	3.48	2.32	7	7.47	6.1	3.82	3.98	8.72	14.3	10.3
+9,10-EpO	37	44.5	38.8	12.5	29.4	36	22	30.5	30.1	29.4	31.6	12.9	49.2	20.4	34.9	27	14	17.1	19.7	26.7	8.85	7.91	18.6	41.2	3.38	21.3	21.9	39.4	9.26	18.9	47.4	25.3	25.5	29.9	20.1	24.2	19.7	15.6	22.8	7.53	9.62	25.6	11	33.9	52.1	18.4	25.3	18.5	26.1	33.8	10.1	12.8	21.2	38.5	14.3	15.5	5.65	9.85	36.2	9.69	5.65	23.4	13	13.3	8.48	6.58	19	9.15	19	9.37	12.3	24	38.8	17.6	9.17	15.4	21.4	31.1	29.3	17.9	11.1	11.1	25.6	20.8	15	22.7	20.5	31.1	45.8	38.4	35.5	16.6	19.9	14.6	33.7	33.1	40.9	25.7	49.7	24.7	40	27
+9-HEPE	97.5	8.59	38.2	28.5	18.3	4.77	5.03	26.1	15.7	171	0.75	0.46	0.77	0.39	0.2	1.31	1.58	0.44	0.08	0.37	0.12	0.36	0.86	0.7	0.58	0.29	0.31	0.62	0.79	1.22	0.16	4.45	1.33	46.1	1.22	1.81	0.95	0.82	0.81	0.62	0.7	2.59	1.18	2.08	1.04	1.28	0.31	4.77	1.21	0.54	1.16	1.49	0.56	3.62	0.22	0.7	1.16	2.86	4.56	7.16	1.05	0.83	3.53	2.3	1.66	12.4	7.22	1.88	2.41	5.63	29.9	1.03	2.19	0.68	0.5	0.64	3.19	0.43	1.41	0.3	2.08	5.3	0.33	1.89	2.25	2.28	3.34	0.29	1.16	3.82	6.8	1.02	1.49	0.88	2.15	3.02	18.1	3.42	22.3	2.32	27.8	0.31
+9-HETE	320	183	250	379	206	99.4	86.1	994	167	186	4.55	0.17	12.9	5.92	1.54	9.78	1.15	1.18	4.45	1.84	0.83	1.83	1.09	5.42	4.15	1.9	1.39	4.69	7.4	9.37	3.06	13.2	9.79	176	32.7	8.44	4.89	5.6	9.37	1.95	7.57	22.5	1.71	3.51	4.48	3.07	3.5	38.1	7.63	2.43	7.49	13.2	1.14	10.9	3.33	7.99	5.72	28	35.3	51.5	1.98	7.04	21.2	25.9	8.16	62.2	85	30.2	23.9	48.4	53.2	20.8	4.86	2.19	10.3	2.48	19.5	0.46	0.66	3.85	10.5	4.96	2	3.8	29	38.8	77.4	1.26	0.05	64	19	3.48	8.09	1.76	9.55	1.38	364	10.3	30.2	31.6	15.6	2.11
+9-HODE	1750	1420	1530	5860	1230	632	653	4030	903	1470	108	20.3	193	168	28.3	126	47.6	52.3	103	59.3	56.7	49.4	25.3	136	53.2	75.7	75.7	72	133	89.9	41.7	282	114	1070	148	60.6	72.2	75.8	132	103	93.4	208	39.7	86.5	97.8	23.1	52.1	228	43.2	81	96.5	112	45.4	108	36.9	136	84.6	217	343	386	39.5	98.2	225	278	86.4	691	603	267	151	608	369	180	78.2	39.2	49.5	91.7	171	20	67.5	32.2	107	73.9	32.9	74.4	424	208	961	51.2	63	393	147	89.4	57.9	44.8	127	32.5	1590	278	406	214	182	42.5
+9-HOTE	71.9	36.2	30.4	305	20.3	19.4	13.1	36.4	20.5	60	5.51	0.45	3.18	3.03	1.2	3.98	4.13	1.76	1.31	0.91	0.52	0.64	0.73	3.54	1.93	6.68	2.3	0.89	1.65	2.1	0.81	10.6	5.09	32.8	2.63	2.26	2.1	1.76	5.52	1.88	2.9	4.68	1.65	5.43	6.16	1.25	0.91	8.88	1.02	5.46	3.28	2.54	1.08	3.91	0.99	2.85	4.31	4.58	10.6	11.9	1.05	5.64	6.64	4.33	3.16	17.7	17.1	7.34	4.14	16.4	7.08	4.56	2.02	0.78	1.26	7.25	6.42	0.83	1.25	0.61	3.63	2.48	0.99	1.41	8.4	3.66	27.3	2.77	3.81	8.75	3.31	0.94	2.02	0.85	4.93	1.31	29	13	13.5	5.14	11.3	1.88
+9-KODE	93.2	60.8	77.4	194	32.5	38.9	29.6	196	34	51.9	15.1	7.47	48.8	26.7	10.7	14.8	9.74	16.4	37.8	22.4	26.2	18.1	9.21	50.7	9.97	22.7	16.1	27.7	30	29.2	29	49.8	22.1	61.8	18.1	13	22.6	15.2	27.9	14.6	16.6	16.3	8.1	17.7	40.1	5.33	17	18.7	8.15	20.1	10.4	19.2	18.4	18.3	7.92	17.7	10.9	12.9	27.5	15.3	11	16.4	19.8	43.6	15.9	61.3	51.7	22.7	18.9	25.9	38.3	19	14.3	8.12	7.41	12.9	20.4	12.2	19.4	10.5	16.5	17.2	9.4	17.8	46.4	18.5	62	17	52.9	29.1	26.9	12.1	10.8	10.8	21.2	13.9	74.7	28	23.2	16.9	26.1	6.28
+9-Nitrooleate	0.64	2.58	2.76	3.08	1.76	3.2	1.01	2.71	2.06	1.13	2.54	0.05	2.4	1.72	3.72	3.17	0.87	1.26	2.77	1.42	1.11	1.49	3.83	3.71	2.02	0.62	1.12	2.91	1.13	0.92	1.62	0.77	1.73	0.94	3.33	1.41	1.08	2.09	1.05	1.91	3.61	2.69	1.99	2.63	1.87	3.28	ND	1.41	1.74	1.69	3.06	0.86	0.96	1.81	1.01	5.23	1.25	0.9	3.18	0.92	2.59	2.19	1.39	1.02	0.83	0.6	0.71	1.08	1.07	1.45	2.15	0.81	2.36	1.14	2.54	1.56	4.74	2.44	1.13	2.01	2.81	0.44	4.92	1.44	3.17	1.08	1.38	2.84	3.2	1.32	1.61	1.72	1.47	3.93	1.62	2.79	6.59	1.5	1.96	1.83	3.11	2.59
+F2-IsoPs	25.75	23.59	14.43	25.02	26.72	17.85	11.96	33.93	22.41	20.29	2.39	3.96	4.77	4.12	4.68	3.35	2.85	4.91	3.02	4.9	3.47	3.73	3.6	3.71	5.36	4.98	3.36	3.47	4.11	4.22	3.17	5.59	4.88	15.67	7.18	4.26	2.69	3.43	5.52	4.6	5.44	11.65	3.23	4.54	4.96	2.94	3.83	6.54	5.2	3.33	4.88	7.71	4.73	8.71	5.18	3.53	4.86	10.83	11.91	13.41	3.22	5.19	9.13	8.96	6.43	13.8	11.63	9.07	6.36	14.99	10.47	7.51	4.96	4.94	5.23	3.72	8.59	3.08	4.41	4.24	7.97	6.98	3.35	4.9	7.63	9.83	12.29	2.62	4.23	13.88	8.98	4.04	6.11	3.27	5.54	6.75	18.04	4.18	14.12	8.6	5.56	3.31
+Lipoxin A4	159	156	84.1	155	155	98.7	59.6	192	132	80	4.46	1.16	14.7	5.42	1	16.8	1.37	1.04	2.08	3.68	1.07	2.73	2.6	2.79	6.27	3.85	1.18	7.5	4.46	12.7	3.64	15.8	13.5	75.8	50.2	10	4.93	8.13	12.5	6.42	18.1	51	1.95	15.3	10.6	1.84	4.09	29.3	13.3	8.11	10.9	30.6	3.75	17.3	5.58	15.1	10	60.7	52.9	71.7	5.78	14.7	33.1	40.9	18	70.5	64.3	40.1	25.2	73.2	51.9	34.3	7.07	5.17	17.7	4.02	23	0.64	0.6	6	21.9	7.42	1.06	2.41	32.1	47.8	68.3	4.85	0.85	83.2	37.8	3.38	14	0.74	12.9	5.83	96.7	10.7	70.3	39.4	22.4	3.48
+LTB4	1.17	1.04	0.28	1.17	0.54	0.62	0.16	5.39	0.86	0.48	0.38	0.23	0.23	1.36	0.24	0.7	0.41	0.01	0.24	0.26	0.07	0.08	0.12	0.31	0.16	0.12	0.49	0.25	0.13	0.13	0.08	0	ND	0.71	0.17	0.21	0.35	0.15	0.45	0.1	0.52	0.75	0.01	0.26	0.17	0.23	0.57	0.13	0.4	0.14	0.25	0.28	0.1	0.14	0.21	0.14	0.28	0.86	0.47	0.51	0.23	0.01	0.26	0.67	0.43	0.87	0.8	0.38	0.73	0.48	0.45	0.24	0.02	0.1	0.56	0.46	0.31	0.06	1.43	0.17	0.52	0.26	0.03	0.17	0.45	0.49	0.43	0.32	0.11	1.15	0.26	0.35	0.51	0.32	0.47	0.2	2.37	0.14	0.14	0.33	0.06	0.19
+PGF2a	4.13	2.26	3.52	7.32	3.36	1.43	1.43	4.45	3.68	4.28	3.29	1.13	1.88	0.83	0.9	1.52	4.84	1.46	ND	ND	0.31	0.88	0.79	0.24	0.03	ND	1.42	0.91	2.09	0.73	0.21	2.39	2.2	3.51	0.46	2.38	0.74	2.05	1.17	0.87	0.98	2.29	1.05	1.76	1.11	1.96	0.19	1.16	1.51	0.52	3.2	4.27	1.29	5.28	0.51	1	0.36	1.5	1.32	2.58	4.24	1.59	1.8	3.47	1.9	3.33	2.45	1.31	1.86	2.57	3.31	2.18	1.55	0.95	1.24	0.61	0.95	1.16	3.67	1.36	4.1	5.53	0.48	1.96	4.44	0.71	2.7	0.5	2.92	1.81	3.01	9.89	0.51	3.39	3.08	6.52	3.38	2	4.25	0.69	4.11	0.8
+TXB2	85.9	77.3	81.4	54.4	96.8	77.9	83.8	93.4	75.5	53.5	128	78.3	93.3	97.5	85.3	289	113	136	71.5	88.3	128	87.1	84.3	90.5	59.4	97.4	88	70.4	92	76.7	86.3	87.1	86.9	62.3	69.5	132	92	130	115	76.9	96.8	166	71	95.9	113	92.8	90.4	121	86.9	83.4	152	78	109	121	86.7	196	112	106	134	97.6	95.9	101	75.8	275	113	76.8	66.9	82.6	148	86	101	86.2	68	113	180	168	69	81.2	118	79.5	74.2	124	77.9	63.9	128	76	78.9	85.2	81.8	81.1	89	250	90.1	117	87.5	64.3	83.1	70.5	77.9	107	76.3	97.8
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	HMDB ID	InChIKey	PubChem CID	KEGG
+10-Nitrooleate		WRADPCFZZWXOTI-UHFFFAOYSA-N	53394576
+11,12-EpETrE	HMDB10409	DXOYQVHGIODESM-IQCOFVSKSA-N	53480479
+11,12-DiHETrE	HMDB02314	LRPPQRCHCPFBPE-KROJNAHFSA-N	5283146	C14774
+11-HETE	HMDB04682	GCZRCCHPLVMMJE-RSPKXIRXSA-N	5312981
+12,13-Ep-9-KODE	HMDB13623	RCMABBHQYMBYKV-BUHFOSPRSA-N	5283007
+12,13-EpODE	HMDB10200	BKKGUKSHPCTUGE-OOHFSOINSA-N	16061061
+12,13-EpOME	HMDB04702	CCPPLLJZDQAOHD-FLIBITNWSA-N	5356421
+12,13-DiHOME	HMDB04705	CQSLTKIXAJTQGA-FLIBITNWSA-N	10236635	C14829
+12-HETE	HMDB06111	ZNHVWPKMFKADKW-FYMOKONMSA-N	5312983
+12-HEPE	HMDB10202	MCRJLMXYVFDXLS-QGQBRVLBSA-N	10041593
+13-HODE	HMDB04667	HNICUWMFWZBIFP-IRQZEAMPSA-N	6443013	C14762
+13-HOTE	HMDB10203	KLLGGGQNRTVBSU-JDTPQGGVSA-N	10469728
+13-KODE	HMDB04668	JHXAZBBVQSRKJR-BSZOFBHHSA-N	6446027	C14765
+14,15-EpETrE	HMDB10205	RGZIXZYRGZWDMI-QXBXTPPVSA-N	16061088
+14,15-DiHETrE	HMDB02265	SYAWGTIVOGUZMM-ILYOTBPNSA-N	5283147	C14775
+14-HDoHE	HMDB60044	ZNEBXONKCYFJAF-BGKMTWLOSA-N	11566378
+15,16-EpODE	HMDB10206	HKSDVVJONLXYKL-OHPMOLHNSA-N	16061062
+15,16-DiHODE	HMDB10208	LKLLJYJTYPVCID-OHPMOLHNSA-N	16061068
+15-deoxy PGJ2	HMDB05079	VHRUMKCAEVRUBK-GODQJPCRSA-N	5311211	C14717
+15-HEPE	HMDB10209	UDXLGBLAJBYLSZ-XBCQTNLFSA-N	53480357
+15-HETE	HMDB03876	JSFATNQSLKRBCI-VAEKSGALSA-N	5280724	C04742
+15-KETE	HMDB10210	YGJTUEISKATQSM-USWFWKISSA-N	5280701	C04577
+15-keto-PGE2	HMDB03175	YRTJDWROBKPZNV-KMXMBPPJSA-N	5280719
+17,18-DiHETE	HMDB10211	XYDVGNAQQFWZEF-JPURVOHMSA-N	16061120
+17-HDoHE	HMDB10213	SWTYBBUBEPPYCX-VIIQGJSXSA-N	6439179
+19,20-DiHDoPE	HMDB10214	FFXKPSNQCPNORO-MBYQGORISA-N	16061148
+4-HDoHE	HMDB60049	IFRKCNPQVIJFAQ-JGDWKEERSA-N	53394255
+5,15-DiHETE	HMDB10216	UXGXCGPWGSUMNI-BVHTXILBSA-N	5283158
+5,6-DiHETrE	HMDB02343	GFNYAPAJUNPMGH-QNEBEIHSSA-N	5283142	C14772
+5-HEPE	HMDB05081	FTAGQROYQYQRHF-FCWZHQICSA-N	6439678
+5-HETE	HMDB11134	KGIJOOYOSFUGPC-JGKLHWIESA-N	5280733	C04805
+5-KETE	HMDB10217	MEASLHGILYBXFO-XTDASVJISA-N	5283159	C14732
+6-trans-LTB4	HMDB05087	VNYSSYRCGWBHLG-UKNWISKWSA-N	5283128
+8,15-DiHETE	HMDB10219	NNPWRKSGORGTIM-RCDCWWQHSA-N	53480358
+8,9-DiHETrE	HMDB02311	DCJBINATHQHPKO-TYAUOURKSA-N	5283144	C14773
+8-HETE	HMDB04679	NLUNAYAEIJYXRB-VYOQERLCSA-N	5283154	C14776
+9,10-EpODE	HMDB10220	JTEGNNHWOIJBJZ-ZJSQCTGTSA-N	16061060
+9,10-EpOME	HMDB04704	XEBKSQSGNGRGDW-YFHOEESVSA-N	9966640	C14828
+9,10-DiHO		VACHUYIREGFMSP-SJORKVTESA-N	441460
+9,10-DiHODE	HMDB10221	QRHSEDZBZMZPOA-ZJSQCTGTSA-N	16061066
+9,10-DiHOME	HMDB04704	XEBKSQSGNGRGDW-YFHOEESVSA-N	9966640	C14828
+9,12,13-TriHOME	HMDB04708	MDIUMSLCYIJBQC-MVFSOIOZSA-N	9858729	C14833
+9,10-EpO		IMYZYCNQZDBZBQ-UHFFFAOYSA-N	15868
+9-HEPE	HMDB60053	OXOPDAZWPWFJEW-FPRWAWDYSA-N	5283187
+9-HETE	HMDB10222	KATOYYZUTNAWSA-DLJQHUEDSA-N	5312978
+9-HODE	HMDB10223	NPDSHTNEKLQQIJ-SIGMCMEVSA-N	5282945
+9-HOTE	HMDB10224	YUPHIKSLGBATJK-OBKPXJAFSA-N	53480359
+9-KODE	HMDB04669	LUZSWWYKKLTDHU-ZJHFMPGASA-N	9839084	C14766
+9-Nitrooleate		CQOAKBVRRVHWKV-UHFFFAOYSA-M	53412232
+F2-IsoPs
+Lipoxin A4	HMDB04385	IXAQOQZEOGMIQS-SSQFXEBMSA-N	5280914	C06314
+LTB4	HMDB02886	KFGOFTHODYBSGM-ZUNNJUQCSA-N	5280888	C05961
+PGF2a	HMDB01139	PXGPLTODNUVGFL-UAAPODJFSA-N	5283078
+TXB2	HMDB03252	XNRNNGPBEPRNAR-JQBLCGNGSA-N	5283137
+METABOLITES_END
+#FACTORS
+#END

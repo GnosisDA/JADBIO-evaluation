@@ -1,0 +1,464 @@
+#METABOLOMICS WORKBENCH michaelsa93_20160414_115528_mwtab.txt DATATRACK_ID:592
+VERSION             	1
+CREATED_ON             	November 16, 2016, 9:46 am
+#PROJECT
+PR:PROJECT_TITLE                 	Temporal metabolomic responses of cultured HepG2 liver cells to high fructose
+PR:PROJECT_TITLE                 	and high glucose exposures
+PR:PROJECT_TYPE                  	Time-course Study
+PR:PROJECT_SUMMARY               	High fructose consumption has been implicated with deleterious effects on human
+PR:PROJECT_SUMMARY               	health, including hyperlipidemia elicited through de novo lipogenesis. However,
+PR:PROJECT_SUMMARY               	more global effects of fructose on cellular metabolism have not been elucidated.
+PR:PROJECT_SUMMARY               	In order to explore the metabolic impact of fructose-containing nutrients, we
+PR:PROJECT_SUMMARY               	applied both GC-TOF and HILIC-QTOF mass spectrometry metabolomic strategies
+PR:PROJECT_SUMMARY               	using extracts from cultured HepG2 cells exposed to fructose, glucose, or
+PR:PROJECT_SUMMARY               	fructose + glucose. Cellular responses were analyzed in a time-dependent manner,
+PR:PROJECT_SUMMARY               	incubated in media containing 5.5 mM glucose + 5.0 mM fructose in comparison to
+PR:PROJECT_SUMMARY               	controls incubated in media containing either 5.5 mM glucose or 10.5 mM glucose.
+PR:PROJECT_SUMMARY               	Mass spectrometry identified 156 unique known metabolites and a large number of
+PR:PROJECT_SUMMARY               	unknown compounds, which revealed metabolite changes due to both utilization of
+PR:PROJECT_SUMMARY               	fructose and high-carbohydrate loads independent of hexose structure. Fructose
+PR:PROJECT_SUMMARY               	was shown to be partially converted to sorbitol, and generated higher levels of
+PR:PROJECT_SUMMARY               	fructose-1-phosphate as a precursor for glycolytic intermediates. Differentially
+PR:PROJECT_SUMMARY               	regulated ratios of 3-phosphoglycerate to serine pathway intermediates in high
+PR:PROJECT_SUMMARY               	fructose media indicated a diversion of carbon backbones away from energy
+PR:PROJECT_SUMMARY               	metabolism. Additionally, high fructoseconditions changed levels of complex
+PR:PROJECT_SUMMARY               	lipids toward phosphatidylethanolamines. Patterns of acylcarnitines in response
+PR:PROJECT_SUMMARY               	to high hexose exposure (10.5 mM glucose or glucose/fructose combination)
+PR:PROJECT_SUMMARY               	suggested a reduction in mitochondrial beta-oxidation.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+PR:LABORATORY                    	WCMC Metabolomics Core
+PR:LAST_NAME                     	Fiehn
+PR:FIRST_NAME                    	Oliver
+PR:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+PR:ADDRESS                       	CA 95616
+PR:EMAIL                         	ofiehn@ucdavis.edu
+PR:PHONE                         	(530) 754-8258
+PR:FUNDING_SOURCE                	NIH U24DK097154
+#STUDY
+ST:STUDY_TITLE                   	Temporal metabolomic responses of cultured HepG2 liver cells to high fructose
+ST:STUDY_TITLE                   	and high glucose exposures
+ST:STUDY_SUMMARY                 	High fructose consumption has been implicated with deleterious effects on human
+ST:STUDY_SUMMARY                 	health, including hyperlipidemia elicited through de novo lipogenesis. However,
+ST:STUDY_SUMMARY                 	more global effects of fructose on cellular metabolism have not been elucidated.
+ST:STUDY_SUMMARY                 	In order to explore the metabolic impact of fructose-containing nutrients, we
+ST:STUDY_SUMMARY                 	applied both GC-TOF and HILIC-QTOF mass spectrometry metabolomic strategies
+ST:STUDY_SUMMARY                 	using extracts from cultured HepG2 cells exposed to fructose, glucose, or
+ST:STUDY_SUMMARY                 	fructose + glucose. Cellular responses were analyzed in a time-dependent manner,
+ST:STUDY_SUMMARY                 	incubated in media containing 5.5 mM glucose + 5.0 mM fructose in comparison to
+ST:STUDY_SUMMARY                 	controls incubated in media containing either 5.5 mM glucose or 10.5 mM glucose.
+ST:STUDY_SUMMARY                 	Mass spectrometry identified 156 unique known metabolites and a large number of
+ST:STUDY_SUMMARY                 	unknown compounds, which revealed metabolite changes due to both utilization of
+ST:STUDY_SUMMARY                 	fructose and high-carbohydrate loads independent of hexose structure. Fructose
+ST:STUDY_SUMMARY                 	was shown to be partially converted to sorbitol, and generated higher levels of
+ST:STUDY_SUMMARY                 	fructose-1-phosphate as a precursor for glycolytic intermediates. Differentially
+ST:STUDY_SUMMARY                 	regulated ratios of 3-phosphoglycerate to serine pathway intermediates in high
+ST:STUDY_SUMMARY                 	fructose media indicated a diversion of carbon backbones away from energy
+ST:STUDY_SUMMARY                 	metabolism. Additionally, high fructoseconditions changed levels of complex
+ST:STUDY_SUMMARY                 	lipids toward phosphatidylethanolamines. Patterns of acylcarnitines in response
+ST:STUDY_SUMMARY                 	to high hexose exposure (10.5 mM glucose or glucose/fructose combination)
+ST:STUDY_SUMMARY                 	suggested a reduction in mitochondrial beta-oxidation.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+ST:LABORATORY                    	WCMC Metabolomics Core
+ST:LAST_NAME                     	Fiehn
+ST:FIRST_NAME                    	Oliver
+ST:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+ST:ADDRESS                       	CA 95616
+ST:EMAIL                         	ofiehn@ucdavis.edu
+ST:PHONE                         	(530) 754-8258
+#SUBJECT
+SU:SUBJECT_TYPE                  	Cells
+SU:SUBJECT_SPECIES               	Homo sapiens
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R1	110625baasa12_1	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R2	110624baasa32_1	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R3	110624baasa07_1	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R4	110624baasa36_1	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R5	110625baasa26_1	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R6	110624baasa29_1	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R1	110625baasa04_1	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R2	110625baasa11_1	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R3	110625baasa27_1	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R4	110624baasa30_1	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R5	110624baasa23_1	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R6	110625baasa14_1	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R1	110624baasa15_1	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R2	110624baasa12_1	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R3	110624baasa46_1	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R4	110625baasa19_1	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R5	110625baasa03_1	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R6	110625baasa22_1	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R1	110624baasa20_1	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R2	110624baasa05_1	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R3	110625baasa21_1	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R4	110625baasa09_1	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R5	110624baasa42_1	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R6	110624baasa31_1	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R1	110624baasa03_1	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R2	110624baasa47_1	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R3	110624baasa33_1	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R4	110624baasa35_1	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R5	110624baasa24_1	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R6	110625baasa18_1	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R1	110624baasa44_1	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R2	110625baasa01_1	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R3	110624baasa16_1	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R4	110624baasa27_1	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R5	110624baasa28_1	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R6	110624baasa43_1	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R1	110625baasa08_1	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R2	110624baasa01_1	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R3	110625baasa15_1	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R4	110624baasa10_1	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R5	110624baasa08_1	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R6	110625baasa23_1	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R1	110624baasa13_1	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R2	110624baasa17_1	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R3	110624baasa49_1	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R4	110624baasa39_1	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R5	110624baasa19_1	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R6	110625baasa05_1	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R1	110624baasa06_1	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R2	110624baasa40_1	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R3	110624baasa37_1	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R4	110625baasa28_1	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R5	110624baasa45_1	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R6	110625baasa07_1	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R1	110624baasa14_1	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R2	110625baasa25_1	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R3	110625baasa16_1	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R4	110624baasa50_1	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R5	110624baasa09_1	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R6	110624baasa34_1	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R1	110624baasa26_1	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R2	110624baasa22_1	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R3	110624baasa02_1	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R4	110625baasa17_1	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R5	110624baasa41_1	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R6	110624baasa11_1	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R1	110624baasa04_1	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R2	110625baasa06_1	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R3	110625baasa13_1	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R4	110624baasa25_1	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R5	110624baasa21_1	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R6	110624baasa18_1	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R1	110625baasa20_1	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R2	110624baasa38_1	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R3	110625baasa10_1	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R4	110624baasa48_1	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R5	110625baasa02_1	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R6	110625baasa24_1	Treatment:5.5mM Glu | Time:24hr	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	HepG2 cells (ATCC HB-8065) were cultured in MEM containing 10 % (v:v) FBS, 100
+CO:COLLECTION_SUMMARY            	U/mL penicillin and 100 mg/mL streptomycin (Invitrogen, Carlsbad, CA), 1 x MEM
+CO:COLLECTION_SUMMARY            	non-essential amino acids, and 5.5 mM glucose at 37 °C in a 5 % CO2
+CO:COLLECTION_SUMMARY            	environment. Cells were grown for four to six passages in 10 cm tissue culture
+CO:COLLECTION_SUMMARY            	dishes with 14 mL MEM, and transferred to MULTIWELL™ 12 well culture dishes
+CO:COLLECTION_SUMMARY            	for incubation in 2 mL of the treatment medium. Upon reaching 80 % confluency,
+CO:COLLECTION_SUMMARY            	the cell culture medium was changed to media representative of experimental
+CO:COLLECTION_SUMMARY            	condition: 5.5 mM glucose MEM, 5.5 mM glucose MEM + 5 mM glucose, or 5.5 mM
+CO:COLLECTION_SUMMARY            	glucose MEM + 5 mM fructose. Media was replenished after 24 and 48 h. Cell
+CO:COLLECTION_SUMMARY            	material was collected at 10 min, 1, 6, and 24 h time points following the 48 h
+CO:COLLECTION_SUMMARY            	media replacement. Culture dishes were placed on ice and each well was washed
+CO:COLLECTION_SUMMARY            	twice with 1 mL ice-cold PBS. 4 mL ice-cold 3:1 methanol/H2O extraction solvent
+CO:COLLECTION_SUMMARY            	was added to each well. Cell material was manually scraped from each well, and
+CO:COLLECTION_SUMMARY            	the extraction solvent cell material suspension was transferred to collection
+CO:COLLECTION_SUMMARY            	tubes and frozen at −80 °C prior to further processing.
+CO:COLLECTION_PROTOCOL_FILENAME  	metabolomic responses of cultured HepG2 liver cells.pdf
+CO:SAMPLE_TYPE                   	Cell
+CO:COLLECTION_LOCATION           	Invitrogen, Carlsbad, CA
+CO:COLLECTION_FREQUENCY          	Cell material was collected at 10 min, 1, 6, and 24 h time points following the
+CO:COLLECTION_FREQUENCY          	48 h media replacement.
+CO:TISSUE_CELL_IDENTIFICATION    	HepG2
+#TREATMENT
+TR:TREATMENT_SUMMARY             	3 Treatments: A) Control group of HepG2 cells incubated in media with 5.5 mM
+TR:TREATMENT_SUMMARY             	glucose (Glc5) B) HepG2 cells incubated in media containing 5.5 mM glucose + 5.0
+TR:TREATMENT_SUMMARY             	mM fructose (Glc5Fru5) C) HepG2 cells incubated in media containing 10.5 mM
+TR:TREATMENT_SUMMARY             	glucose (Glc10)
+TR:TREATMENT_PROTOCOL_FILENAME   	metabolomic responses of cultured HepG2 liver cells.pdf
+TR:TREATMENT_PROTOCOL_COMMENTS   	HepG2 cells incubated in media containing 10.5 mM glucose (Glc10) was included
+TR:TREATMENT_PROTOCOL_COMMENTS   	to enable differentiation of metabolic effects caused by fructose from metabolic
+TR:TREATMENT_PROTOCOL_COMMENTS   	effects caused by increased hexose resources
+TR:CELL_MEDIA                    	Cells were acclimated to their respective media condition for 48 h prior to
+TR:CELL_MEDIA                    	collection of sample material to obtain a metabolite profile representative of
+TR:CELL_MEDIA                    	continued exposure instead of response to a sudden change in carbohydrate
+TR:CELL_MEDIA                    	resources. Media was replenished after 24 and 48 h
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Sample material was thawed on ice, vortexed for 20 s, sonicated for 5 min with a
+SP:SAMPLEPREP_SUMMARY            	VWR 50HT Ultrasonic Bath (VWR International Inc., Bridgeport, NJ), and separated
+SP:SAMPLEPREP_SUMMARY            	into 500 μL aliquots. Each aliquot was centrifuged for 5 min @ 14,000 rcf, and
+SP:SAMPLEPREP_SUMMARY            	supernatant was collected and lyophilized to dryness. Samples was kept on ice
+SP:SAMPLEPREP_SUMMARY            	and removed only for sonication, centrifugation, and lyophilization steps.
+SP:SAMPLEPREP_SUMMARY            	Lyophilized material was used for HILIC-QTOF metabolite profiling without
+SP:SAMPLEPREP_SUMMARY            	additional clean-up steps. Lyophilized material for GC-TOF analysis was
+SP:SAMPLEPREP_SUMMARY            	redissolved in 1:1 acetonitrile/H2O, vortexed for 10 s, and centrifuged for 5
+SP:SAMPLEPREP_SUMMARY            	min @ 14,000 rcf. Supernatant was collected and lyophilized to dryness.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	metabolomic responses of cultured HepG2 liver cells.pdf
+SP:PROCESSING_METHOD             	Lysophilization
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent 6890 GC
+CH:COLUMN_NAME                	Restek Corporation Rtx-5Sil MS
+CH:FLOW_RATE                  	1 ml/min
+CH:COLUMN_TEMPERATURE         	50-330C
+CH:METHODS_FILENAME           	Data_Dictionary_Fiehn_laboratory_GCTOF_MS_primary_metabolism_10-15-2013_general.pdf
+CH:OVEN_TEMPERATURE           	50°C for 1 min, then ramped at 20°C/min to 330°C, held constant for 5 min
+CH:TRANSFERLINE_TEMPERATURE   	230C
+CH:WASHING_BUFFER             	Ethyl Acetate
+CH:SAMPLE_LOOP_SIZE           	30 m length x 0.25 mm internal diameter
+CH:RANDOMIZATION_ORDER        	Excel generated
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	WCMC Metabolomics Core
+AN:SOFTWARE_VERSION         	ChromaTOF
+AN:DATA_FORMAT              	.peg, .txt, .cdf
+#MS
+MS:INSTRUMENT_NAME          	LECO Pegasus IV
+MS:INSTRUMENT_TYPE          	GC-TOF
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+MS:ION_SOURCE_TEMPERATURE   	250 C
+MS:IONIZATION_ENERGY        	70 eV
+MS:MASS_ACCURACY            	Nominal
+MS:SOURCE_TEMPERATURE       	250 C
+MS:SCAN_RANGE_MOVERZ        	85-500 Da
+MS:SCANNING_CYCLE           	17 Hz
+MS:SCANNING_RANGE           	85-500 Da
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	counts
+MS_METABOLITE_DATA_START
+Samples	110624baasa07_1	110624baasa29_1	110624baasa32_1	110624baasa36_1	110625baasa12_1	110625baasa26_1	110624baasa23_1	110624baasa30_1	110625baasa04_1	110625baasa11_1	110625baasa14_1	110625baasa27_1	110624baasa12_1	110624baasa15_1	110624baasa46_1	110625baasa03_1	110625baasa19_1	110625baasa22_1	110624baasa03_1	110624baasa24_1	110624baasa33_1	110624baasa35_1	110624baasa47_1	110625baasa18_1	110624baasa05_1	110624baasa20_1	110624baasa31_1	110624baasa42_1	110625baasa09_1	110625baasa21_1	110624baasa09_1	110624baasa14_1	110624baasa34_1	110624baasa50_1	110625baasa16_1	110625baasa25_1	110624baasa02_1	110624baasa11_1	110624baasa22_1	110624baasa26_1	110624baasa41_1	110625baasa17_1	110624baasa38_1	110624baasa48_1	110625baasa02_1	110625baasa10_1	110625baasa20_1	110625baasa24_1	110624baasa04_1	110624baasa18_1	110624baasa21_1	110624baasa25_1	110625baasa06_1	110625baasa13_1	110624baasa16_1	110624baasa27_1	110624baasa28_1	110624baasa43_1	110624baasa44_1	110625baasa01_1	110624baasa01_1	110624baasa08_1	110624baasa10_1	110625baasa08_1	110625baasa15_1	110625baasa23_1	110624baasa06_1	110624baasa37_1	110624baasa40_1	110624baasa45_1	110625baasa07_1	110625baasa28_1	110624baasa13_1	110624baasa17_1	110624baasa19_1	110624baasa39_1	110624baasa49_1	110625baasa05_1
+Factors	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr
+zymosterol	395	322	364	251	380	444	274	464	659	293	627	626	679	461	241	260	231	328	174	289	324	284	430	334	521	404	141	346	453	313	459	430	734	410	286	257	421	286	418	298	256	317	357	506	276	303	520	376	242	265	284	339	517	268	449	447	374	292	418	271	380	373	321	326	226	340	360	543	517	278	330	280	324	257	769	382	279	358
+valine	32803	33792	27728	32872	33101	33258	39806	37547	39073	35757	35713	36499	35813	38401	32079	525	37911	33004	38357	33586	31363	33742	31850	35509	32072	29187	33869	39535	31883	35045	44046	43572	40531	41686	45484	43814	41766	44270	45647	45542	42515	41504	33267	41322	38798	36308	38272	34080	33443	31370	36737	38767	33898	32751	40019	39048	39883	48588	42688	38769	44937	44289	41679	43087	42935	41589	35733	34421	33479	34420	34156	36108	33687	33902	30665	33862	33950	33785
+urea	209	208	3826	166	215	5179	7231	7610	6646	6698	6142	131	5708	157	6290	6697	167	192	194	146	185	7830	172	10700	128	137	139	190	5698	6289	7246	8024	6606	8223	8034	9165	6206	5921	6289	6244	196	193	212	207	184	182	201	153	6224	6206	6647	7706	6556	164	7709	162	5844	10321	185	175	228	7378	6656	125	6575	137	192	194	127	207	153	131	7122	29451	5945	5907	149	206
+uracil	704	1803	1984	1101	7991	16822	598	1205	1262	2068	2282	3262	706	711	1384	1879	1178	2415	429	938	1019	741	1867	1124	570	721	996	1657	1596	3598	1151	738	832	1874	1586	1763	668	740	888	908	2110	1226	965	1193	1661	1592	1369	2459	630	640	1384	876	1530	2135	710	679	1056	1360	1535	1706	638	483	841	1818	1399	2705	698	727	746	1699	1924	2970	614	824	574	596	1423	959
+UDP GlcNAc	10302	11237	10856	11249	13517	13120	571	733	602	881	875	651	459	658	974	792	643	610	506	1202	1199	1291	1347	1062	648	876	958	1312	890	983	710	898	537	840	904	534	821	632	680	470	776	566	376	403	606	583	415	652	888	866	969	593	928	855	919	1093	1308	675	992	1221	893	589	772	882	811	860	1350	1246	1047	1722	1298	1207	999	774	875	985	900	1103
+tyrosine	2509	2624	2002	1876	2165	19904	1300	1508	1291	927	1466	2008	1292	11921	1818	1595	10826	9135	8054	1615	1265	1387	1728	11110	1471	11721	921	1343	1278	972	2214	1972	1290	2282	1582	10990	1498	1348	1566	12049	1010	12242	1300	2029	1594	1685	1816	1474	1518	1805	1169	10678	1478	970	13630	1873	1846	10750	1407	930	1765	12905	14285	1392	1805	1469	1682	1489	1898	11831	1569	11138	11362	2095	11599	1602	12126	1177
+tryptophan	5130	5346	3665	4403	4693	5153	4714	4334	4799	4538	4668	4276	4157	5196	4234	5471	4610	4876	4544	4658	4921	4271	5053	4139	4544	4243	4490	5277	4324	3959	5241	5906	4643	5013	5389	4985	5981	5675	5548	5188	6105	4831	4695	6283	5523	5533	5367	4783	5471	4709	4458	4546	4140	4733	5328	5014	5274	5736	6226	5042	6431	5631	5222	4892	5357	5442	4920	4812	4801	5251	4427	4855	5204	6530	4513	4389	4724	4958
+triethanolamine	835	593	581	511	718	632	502	755	749	800	696	497	365	568	677	637	606	583	338	692	525	713	785	475	420	419	635	866	558	734	956	672	549	854	673	564	626	674	619	566	601	1086	712	850	782	811	733	763	655	514	506	522	740	734	712	637	774	661	829	687	749	694	547	575	551	586	679	569	535	585	628	476	483	6770	402	373	521	452
+trans-4-hydroxyproline	503	387	569	304	544	591	400	404	292	853	717	432	368	406	644	528	459	603	246	436	465	235	422	456	394	607	517	713	453	564	449	543	468	573	425	516	534	428	371	387	891	458	351	490	405	395	361	460	654	755	480	481	824	672	464	398	449	478	628	886	559	440	539	412	488	704	464	399	371	466	537	535	713	422	648	400	574	573
+threonine	57689	58299	55853	54987	69527	64999	50219	55004	59902	61001	61468	55819	58637	63372	59142	66045	59589	62236	38405	45149	45144	43520	48040	45140	55972	59630	58542	70239	59994	57827	58584	57437	52350	54267	57120	54276	69602	71015	64857	64588	72518	67354	40853	46850	48248	49629	47315	45135	65767	63867	60834	57211	69286	69027	65076	59080	60592	59053	66541	66028	74663	60433	69365	71977	69831	71942	53838	50063	52165	53065	55007	47841	65927	65951	66419	64646	70671	75388
+taurine	123	102	92	94	128	99	79	86	97	89	91	120	82	102	53	91	118	79	121	142	106	93	74	186	74	219	78	138	84	102	371	154	100	115	74	140	152	77	110	134	77	167	315	134	208	459	552	195	83	80	116	93	73	72	238	112	101	56	106	102	132	292	222	85	95	81	345	136	287	213	145	528	108	77	178	77	65	67
+talose	185	171	239	369	323	435	50501	697	33451	1803	8643	1533	944	7812	420	10760	16913	3918	116984	935	1267	938	239	81662	10815	6765	7735	254	7788	14175	1626	5306	4042	407	8610	24377	3711	2192	2184	5727	266	1137	168	419	2422	271	909	338	1536	5502	356	1074	1378	296	1229	357	689	676	276	192	4765	28567	365	2315	5470	284	6552	222	175	139	1414	10619	32936	1244	725	1268	133	919
+tagatose	1881	2048	1574	1912	2207	2341	85	93	107	83	74	97	91	70	75	109	57	73	53	81	93	106	98	58	63	68	110	122	81	122	158	112	158	123	108	89	68	104	122	82	80	63	128	104	96	88	112	79	96	117	123	67	73	65	109	111	112	65	127	82	97	82	99	83	69	65	115	119	133	82	97	74	102	77	86	98	90	74
+sucrose	62	76	151	33	166	177	82	524	180	24	171	59	181	127	130	32	39	444	84	18	45	124	182	100	24	404	51	12	30	104	177	77	245	197	153	37	29	37	92	223	194	51	241	48	183	90	62	166	535	169	93	162	114	32	105	22	44	106	58	217	228	217	59	143	33	44	28	16	145	135	81	103	139	212	100	75	111	51
+succinic acid	380	282	66	322	92	116	313	538	102	78	126	391	561	596	1014	106	539	85	420	494	99	488	503	308	572	1144	702	902	800	128	405	575	434	606	100	71	486	493	545	422	852	87	925	568	105	427	146	112	757	1451	1351	575	658	888	603	437	662	432	574	479	533	590	571	82	661	665	602	483	449	436	79	531	827	570	609	841	808	1089
+stearic acid	105684	60242	68540	80955	103578	106807	67039	94188	86138	95004	83122	99049	59820	81950	78917	120697	77064	120732	56241	78988	80927	98586	102346	75318	65649	54705	70700	105603	102825	99200	96756	82077	95405	120144	96334	79643	105507	81913	87560	85819	103328	88921	106121	114225	121718	133850	128326	106066	90515	73339	87991	45808	79121	85795	88309	94775	96149	72265	96042	96849	102563	112139	102351	84822	103459	85063	78306	96480	68538	112346	112253	81721	61162	84829	77222	71563	71489	86921
+serine	15893	15886	15058	14098	19958	22137	22311	27658	26431	26638	25685	22765	22076	23158	22149	26784	25670	25426	13755	16155	14313	16186	16167	14449	23061	24002	24590	29484	23762	25674	24008	23344	25354	22920	25143	24967	31439	31254	29213	30935	31438	32408	18338	19407	22758	23987	22271	20212	29481	30690	30113	28819	35704	34100	28129	24920	27311	25391	27957	27739	30687	29165	29562	29680	32416	29586	30531	28473	33038	30007	33081	25177	27101	44735	30220	32384	32685	36905
+sorbitol	230677	190010	193366	188304	6421	14580	1007	1520	626	877	609	495	1465	1456	1505	844	629	632	1887	1221	1320	1275	1217	863	929	1244	1121	1318	546	599	1582	1859	1265	1802	730	795	1207	1291	1312	1200	1097	1752	691	1575	637	523	778	653	1067	1101	877	1441	783	423	2872	4856	3809	4050	4481	2544	3541	4292	4037	3083	3190	419	3762	4592	4444	4277	3035	719	3069	3119	2391	2549	3371	3142
+salicylaldehyde	545	747	379	862	809	527	1557	1686	553	996	947	1290	1114	1193	663	2240	1236	1653	1058	1650	984	1670	352	297	682	677	510	928	929	438	605	681	2681	765	306	301	1310	1021	1599	1290	1086	298	1721	477	1772	2674	1789	481	1243	1007	1195	414	1187	948	1619	2106	1930	531	1319	1323	1297	1928	1189	1056	2048	435	735	1758	427	1344	2342	1697	352	700	1909	1265	530	671
+ribulose-5-phosphate	448	404	461	388	332	254	123	155	146	119	154	143	229	158	96	129	116	106	123	177	141	159	123	80	172	153	111	200	75	104	171	146	144	110	107	92	201	157	140	103	104	127	135	97	79	91	91	107	242	167	139	110	145	145	140	189	193	95	126	123	194	139	179	109	128	154	106	122	90	90	115	84	135	183	153	123	183	135
+ribose-5-phosphate	407	283	650	356	181	216	420	600	346	517	333	409	296	362	302	253	289	322	336	332	410	506	342	291	147	405	439	364	468	371	336	268	529	379	223	331	267	312	190	208	210	279	162	202	362	193	277	202	499	326	248	329	307	292	303	433	538	232	442	454	291	331	269	218	281	213	234	202	396	366	259	233	249	400	269	229	377	217
+ribose	32	184	208	55	141	172	106	81	119	134	103	137	99	107	98	146	90	143	67	92	102	84	76	53	99	99	104	163	112	246	174	102	104	144	95	70	102	97	148	102	110	90	139	113	86	103	113	107	147	98	107	93	102	109	88	116	101	92	102	143	84	115	78	275	11	613	83	92	92	101	238	197	88	116	88	85	98	403
+ribitol	1095	1112	1010	998	1096	1315	173	177	190	204	177	175	189	155	160	187	156	157	137	177	214	206	221	144	145	165	173	252	23	179	146	133	144	138	159	102	187	161	203	140	161	100	126	124	158	142	107	142	188	208	186	172	206	162	164	178	180	174	183	149	197	204	186	161	142	179	168	138	148	155	140	140	188	164	182	148	132	202
+pyrophosphate	140394	222047	198543	199948	232891	228195	90857	121590	112713	128678	98924	85335	142315	92509	86655	89592	110045	113358	26538	115628	130264	113652	76003	58305	85560	117666	123445	84402	105068	122327	86267	84314	125320	72053	89582	84171	68575	104630	92501	83521	50091	92636	79111	41269	51256	70951	74927	77335	118837	153400	144531	95705	115027	142101	117748	120152	122346	54491	57567	110004	76870	82909	116518	110542	90201	111846	80537	117847	112257	66196	108607	96937	101021	81494	132053	123886	99843	135357
+pyrazine 2,5-dihydroxy NIST	2517	2687	1474	783	2988	1791	1997	2191	3278	3665	1943	976	2845	2061	4787	3256	1969	2457	1418	2129	3054	981	3839	1468	4623	3183	3703	10259	2254	1802	4026	4234	1976	3412	2970	1703	3810	4219	2331	2802	7911	2892	2047	4019	2247	2240	2543	2361	7040	4431	4291	3194	4558	4802	3268	1553	1834	4378	4921	3073	3833	3001	3278	2434	2386	1799	2463	2062	1461	4580	3049	1299	4447	3229	4083	1502	4621	4245
+putrescine	378	282	379	362	339	578	1455	1782	1456	1415	1440	1012	1225	1131	10051	1541	1059	502	326	481	331	306	357	277	13829	13322	13274	18656	8136	1503	2028	1625	1317	1574	1398	1127	1281	1546	1368	1444	1879	1842	714	634	664	717	777	592	21032	10872	18215	13756	15349	17638	1642	1176	1074	1185	1359	811	591	973	1177	1640	1506	1177	314	235	290	271	312	273	15047	13648	11766	12505	12614	16183
+propane-1,3-diol NIST	1021	807	789	701	599	506	860	986	347	545	403	864	1023	961	954	673	430	296	547	787	895	699	687	351	653	802	751	688	233	764	1163	1125	927	1111	712	450	807	954	840	759	960	538	922	851	866	850	746	312	1036	848	869	659	710	378	953	835	1019	458	585	1000	651	874	747	696	263	588	914	731	691	911	166	787	672	797	871	629	556	274
+proline	37392	49316	44178	45792	48139	39735	55106	59047	53604	37530	35465	58320	38831	39019	34901	57540	52724	35323	52271	75932	48214	71421	59349	38883	63056	44896	61544	61342	54182	44506	48807	34572	52081	35306	45791	43089	57191	53221	61977	65167	34850	55506	50803	35855	51324	54697	56859	39595	44282	42513	61332	62147	63384	56361	44035	54341	60534	46330	50169	39378	38239	43616	42763	52451	53180	42979	55118	62796	63966	53245	54722	35876	27040	35723	36601	59867	53475	47934
+p-hydroquinone	319	274	234	196	199	304	304	335	336	309	341	252	291	279	200	341	213	257	158	237	261	269	335	177	243	260	273	265	181	308	447	208	341	328	279	206	318	312	238	202	324	195	308	298	336	386	217	405	192	179	219	264	280	254	243	231	349	214	302	243	298	310	328	182	230	270	255	162	223	397	283	268	243	213	225	193	205	266
+phosphoric acid	194137	169921	245907	179793	222225	187498	152683	128079	184602	165599	182536	181147	121555	205741	140037	183057	151623	161742	121961	199704	215418	156885	207834	126969	158967	168099	165126	1311	139294	169461	153035	172270	163811	140879	166380	135855	161535	141503	116665	121430	191848	162411	230788	209306	225692	248942	251596	364702	132290	140637	119349	123918	137345	166022	175041	217739	152664	128927	244528	232332	166459	125661	149769	208843	130420	195154	187184	172090	190423	184372	193698	154938	140742	106220	140585	138279	157928	151320
+phosphogluconic acid	749	713	664	673	757	698	847	1198	1038	959	1144	1012	1204	1691	1518	1135	1297	1238	714	1138	1630	996	1152	766	1641	2335	1421	1920	1698	789	1611	1386	1201	1061	1360	966	1149	1078	866	1049	762	1135	717	995	572	377	701	1012	1696	2226	1113	1414	1757	1644	1115	953	1057	632	447	688	1296	1302	1385	1043	1126	1035	905	811	869	725	839	718	1497	1218	1598	1477	963	1585
+phosphoethanolamine	1228	916	443	818	376	443	553	757	402	369	527	355	652	258	467	460	433	351	387	448	1294	612	114	476	620	544	363	664	376	275	555	866	259	681	198	386	560	1038	550	585	321	716	1170	615	346	622	962	546	898	923	553	374	477	292	871	657	543	422	602	477	590	618	1087	330	346	364	213	445	591	470	226	285	682	753	876	577	562	474
+phenylalanine	9482	8919	8890	9398	11472	11001	11515	11604	12929	14079	15065	11430	11487	14274	12006	14611	13146	14480	10455	8705	9473	7815	9377	10598	10012	11167	10114	12959	11209	12063	13375	15959	11902	14923	15379	15303	15195	14686	14257	14222	16920	13759	8445	12855	9984	10047	10049	10024	11633	11938	9879	10653	12033	11893	14594	12576	13102	15970	14952	14689	17132	14807	14864	15180	14495	15695	9305	8589	8733	8741	10392	11438	13040	13547	11615	10297	11588	12989
+pelargonic acid	7600	8649	10472	11398	14173	2005	15159	15623	11402	13185	17933	1003	11692	13452	7767	13318	34007	11708	6426	12220	25272	37640	10475	1330	9245	9986	16862	4970	1808	16904	12651	11384	14768	12373	14142	8641	10893	13128	10443	11845	13030	9705	68544	18627	16146	1214	1470	1640	10872	8144	13921	11146	16549	8946	11467	14693	17952	9674	14694	9719	9211	7635	8473	10004	11221	1390	11375	30595	11329	14467	1503	14887	9188	7557	10146	26061	6267	1283
+pantothenic acid	3005	3857	7230	2525	6306	3371	4075	4410	4394	4750	4555	4960	4906	5715	4995	5859	5006	5533	1466	1401	1572	1665	1925	2020	4731	6060	5337	5735	4547	4263	4517	4243	4106	4117	3780	3412	6716	7337	6138	6730	7381	6144	1386	1460	1373	1592	1628	1216	6477	7254	5870	5713	6707	5923	4096	3782	4257	3515	4609	4123	6474	5829	5936	5001	5139	5143	2205	1899	2054	2670	1875	2103	5749	5432	5401	4773	5931	5545
+palmitic acid	10532	6528	7445	9273	11137	10542	9071	11936	8746	9802	8412	9809	6718	9297	8016	13801	8934	14189	6304	9866	8010	11347	7527	6908	8429	5635	6550	9909	10064	9475	9335	8117	13179	11121	8698	7510	11705	7678	10905	11002	10392	8472	11777	10600	13903	15705	13287	10058	10614	8750	11213	5449	10367	8720	9775	11571	11528	7622	11537	10446	11447	14657	11840	9805	13427	7258	7640	11479	6830	11399	11608	9650	6016	23489	9988	8258	6914	8052
+oxoproline	152622	195562	187690	243438	209171	251883	295661	341542	253062	346623	335733	370042	316461	287508	204570	265267	346247	367226	135880	207604	153013	228542	117592	198656	194084	290052	297906	213772	268741	365189	291830	300554	402224	271065	346223	396990	284816	320068	384025	375909	248637	333602	201214	155585	188492	212231	189362	255020	216892	279838	264076	261459	252236	257125	257538	327836	332663	202934	197759	278655	236257	256258	227800	257472	313722	366971	130415	180595	232583	107696	137663	195303	212894	232437	259024	289038	180150	236255
+ornithine	9446	7107	6361	7818	2912	3625	8137	8267	2615	2506	2772	2640	8311	8013	6934	2349	2029	2217	9925	9950	10036	7081	11813	3637	9135	8234	7717	8966	2191	2451	8998	8498	7484	8959	2539	3105	8363	7669	6444	7077	9043	1831	9725	13385	3713	3658	4276	4214	9820	6891	8203	7925	2495	2594	8468	7334	6355	8463	9309	7296	9132	8807	9383	3616	3477	3826	8363	7882	7636	9847	4579	6937	8935	13244	8515	7415	9483	3880
+oleic acid	499	480	440	296	531	411	152	729	768	440	258	424	475	445	452	647	443	451	368	488	449	439	440	487	464	427	110	644	658	17	1230	370	744	661	648	504	545	415	774	549	635	687	576	411	247	488	698	666	571	369	461	499	571	317	605	663	653	135	594	510	478	250	378	344	255	405	562	699	353	574	639	469	398	3628	423	494	544	591
+octadecanol	1027	752	922	716	728	595	828	821	867	669	947	637	314	602	610	912	481	635	451	756	651	740	718	554	570	576	611	770	680	768	931	806	890	837	811	396	865	760	829	739	755	699	755	808	830	865	868	767	821	598	793	671	924	695	818	895	920	558	506	868	772	686	775	720	651	600	881	3135	647	555	786	462	655	1538	574	544	400	654
+N-methylalanine	3380	668	1344	1156	3029	1303	1728	2040	3129	2829	2821	2375	2588	3017	2129	3324	2744	2532	1010	2375	1196	1340	2061	2157	2410	2427	1175	4494	1939	2515	3303	1772	1811	2891	3120	2582	1565	1467	2080	2382	1928	3943	1689	1819	3284	3276	3546	2857	1834	1427	2114	1876	2707	2684	2504	2795	2482	2157	2814	2360	2661	2978	3482	2897	2718	1009	2321	1401	2511	2843	2987	1767	1871	1211	1551	1555	2580	2443
+N-acetyl-D-mannosamine	758	362	329	532	581	462	349	275	281	210	292	122	147	148	182	241	94	138	102	260	209	134	157	92	194	134	140	226	132	261	335	227	317	322	198	127	134	210	164	148	190	120	164	138	151	166	223	135	226	137	203	109	172	164	337	323	198	192	229	149	147	223	255	213	137	167	157	225	102	192	298	213	149	185	255	197	176	216
+N-acetylaspartic acid	2285	2319	2537	1924	2864	2791	4737	5998	6010	6422	5844	4122	4104	4704	3948	4793	4841	5107	2738	3869	3879	3793	3678	3362	4513	4957	4956	6875	4139	6260	8114	6734	6575	5105	6711	6406	6911	5951	5502	4916	6980	4900	5429	6068	5708	6088	5827	5548	5890	5596	5140	4070	4777	5144	5654	4995	5253	4714	5874	6066	5473	5163	4677	4416	4209	4867	4875	4297	4092	4556	4324	3606	3639	3970	3989	3731	3886	3877
+myristic acid	2250	1712	2068	1765	2066	173	1801	2240	1887	157	2460	1891	1229	1778	1908	146	1601	1956	1145	1851	1815	2294	2291	1424	1716	1539	1769	2621	1842	2470	2513	2113	2040	2675	2059	1846	2413	1947	1804	1818	2432	1780	2042	2277	129	2479	2613	2311	2274	1785	2013	1527	1968	168	1950	2269	2011	1698	2498	2348	2000	1936	1787	1933	1781	1788	1913	1774	1690	2269	2148	1392	1445	5582	1748	1496	1817	1951
+monopalmitin-1-glyceride	233	109	174	109	169	190	240	227	281	197	315	249	229	207	259	318	200	236	151	218	231	200	306	147	278	238	287	374	194	175	374	269	306	266	239	198	158	238	162	272	253	387	276	217	215	204	228	240	313	224	302	110	223	271	170	348	259	130	322	200	213	253	295	247	260	265	212	226	208	199	227	167	241	645	247	128	256	276
+methylhexadecanoic acid	1676	1252	1223	1072	1854	1470	1874	1560	2383	1988	2355	1999	1084	1303	2225	3008	1384	2853	958	1459	1266	1487	1930	1301	1760	1002	1878	2842	1680	2777	1743	1381	1485	2084	1759	1300	1792	1803	1500	1355	2703	1460	1549	1931	1805	2254	1807	1923	1426	1157	2284	1439	2161	1721	1626	1933	2479	1907	2621	2565	1405	1627	1594	1394	2118	1754	1392	1331	1137	1766	2075	1149	1014	8131	1273	1183	1928	1820
+methionine	3570	4561	3472	3591	4276	4144	5196	5181	4804	3789	4171	5241	4689	4454	3029	5973	5001	3775	3831	3644	2249	2831	2670	2964	4288	3342	4016	4877	3894	4669	5459	5043	4976	4781	5727	5305	5949	5670	6255	6513	5373	6035	3568	3495	4017	3761	4017	3087	3475	3441	4595	4567	3874	3809	5559	5917	6426	5658	5420	4597	5943	6664	5868	6050	6752	5730	3628	3585	3666	3393	3254	2643	3171	3462	3713	4800	4647	4122
+methanolphosphate	3508	3309	2169	2787	3505	4092	9294	13462	10149	7235	10185	6423	9078	9433	9162	14022	5860	4036	1769	4082	7962	3803	5097	3317	7789	9300	5866	11362	8539	6828	11519	10445	8257	10629	9465	7409	12197	9675	6099	6910	11221	10856	4843	4822	1963	3565	5009	4079	13994	7086	7235	6664	12937	11491	10125	7872	9449	7818	12086	8301	3926	8628	9886	8943	8271	6126	4205	3577	4580	5295	5490	3627	6979	8129	9443	7384	8451	11024
+mannose-6-phosphate NIST	170	821	222	773	266	816	2482	177	3483	674	1480	234	268	1030	748	1097	1332	830	206	1604	483	489	352	1345	484	1513	1150	340	1361	2892	854	749	197	154	317	1508	240	241	300	554	218	300	172	155	142	85	154	348	159	924	169	210	332	179	434	369	414	280	474	635	193	1174	360	557	1293	158	155	468	150	282	117	347	1781	157	358	623	179	397
+mannose	2167	1000	2266	1189	19987	17752	1267	1618	268	10607	10504	388	847	776	823	1141	10519	6179	905	309	382	106	406	33225	624	99	78	425	120	8061	500	692	180	692	14185	23165	562	185	441	146	546	2123	160	630	3153	431	1449	337	786	651	545	368	899	722	6006	3501	3680	16468	4602	3067	5249	4961	2212	3721	5895	3444	2399	2119	2139	2129	773	19195	9070	2785	4120	4449	3077	2863
+mannitol	2671	2315	3302	2353	2481	2928	526	794	468	1083	650	661	709	474	561	691	471	527	2233	814	607	550	994	658	660	487	547	827	340	723	884	802	629	974	501	735	968	541	498	526	622	470	545	721	643	750	599	603	824	475	542	792	617	624	181	1805	1481	453	195	759	3480	185	90	809	42	2500	1128	252	1123	614	39	186	164	867	109	548	669	8
+malic acid	750	600	735	513	696	799	1892	2233	2503	2704	2523	3145	3418	3559	5432	4307	3739	3940	1403	1888	1803	1755	2188	1753	4272	5223	5098	6109	4131	2437	1722	1208	1202	1359	1144	1269	3697	3153	2988	3185	3809	3210	1401	1850	1596	1557	1573	2025	5754	5877	4905	4425	6207	5606	1560	1152	1618	1281	1589	1607	3414	2821	3259	3432	3218	3174	1657	1644	1911	1786	1756	1423	3808	3942	4397	3713	3989	4423
+lysine	4978	4700	2456	3582	2902	4228	2472	2164	1728	940	1836	3100	2011	3063	3426	2314	2978	2362	4851	2495	2319	2189	2873	4929	2248	3157	1139	1713	1697	957	2834	3520	1762	4896	2897	4782	1701	1334	2148	2763	1148	2854	1903	4522	2050	2684	2791	2167	2032	2858	1513	3603	1668	1083	4181	2007	1864	5046	1505	993	1811	3526	3155	1761	2339	1692	2220	1916	2396	2838	2411	4867	3861	5085	3346	2253	3256	1676
+leucine	32487	38295	31195	33170	38131	34900	46622	43066	42080	33286	33443	43345	34512	38836	27059	50426	44846	33628	37638	31210	24059	29113	26849	27688	34644	27712	33138	37263	32161	37412	44546	42943	43730	42628	49437	46985	49269	47567	51545	51944	37439	46728	32040	34092	36028	34258	37054	166	27534	29326	35189	40511	32277	33158	46043	51752	50990	53941	47553	40163	45397	44476	43745	49658	51135	44323	30816	31100	29519	28299	29029	29039	27712	30520	27593	38250	35920	33975
+lauric acid	30792	31261	33116	28552	585	656	32645	43568	483	634	602	357	25582	25806	26364	662	483	503	20077	25741	29775	43264	29614	361	27097	21575	27737	40196	34510	33067	44230	31859	33097	38044	554	502	33659	33792	27357	23646	30978	25649	29772	35796	623	767	826	774	40490	32943	28636	22883	547	483	33659	37860	31954	26752	42592	32317	25210	28617	29201	28361	29495	496	29871	32123	25439	29446	565	425	28606	29633	28775	25108	29263	400
+lathosterol NIST	187	178	210	176	228	231	376	273	246	366	458	213	294	214	203	365	249	254	165	515	823	357	560	80	468	293	437	469	238	415	372	400	390	331	352	210	346	250	136	215	207	232	411	366	199	228	417	320	350	499	334	304	327	400	292	324	256	221	249	202	267	206	280	274	166	190	250	290	294	260	332	260	316	416	369	256	338	323
+lactic acid	15202	14004	14216	19853	24609	20002	33335	30500	31368	33468	35416	29991	20262	27360	38733	30596	28642	26467	46348	49190	67870	53070	65326	59292	31424	33786	44312	38878	31994	29100	21884	25731	29428	33670	30940	26562	21600	19962	29599	22209	28195	32947	73459	33347	22354	32926	52283	23107	33553	30458	31627	37916	44717	39244	21598	25594	27255	29909	26244	20871	24209	23953	23536	27644	27210	20067	38225	39548	35937	43862	45054	47991	28598	56331	28880	32956	35937	26911
+isothreonic acid	1254	1235	1148	1069	1371	1322	540	510	590	610	590	473	443	513	516	520	426	514	407	436	487	346	493	415	425	559	430	663	449	562	402	378	279	339	319	282	333	428	370	334	445	327	195	253	165	247	247	253	572	559	587	487	638	528	691	494	558	542	605	665	512	479	487	531	492	505	514	470	470	534	532	505	357	415	404	463	503	555
+isoleucine	37998	36736	35286	37746	44866	41304	45758	43854	49707	49872	52009	43359	44194	50911	42124	54223	45985	47099	40598	36135	36834	33027	37157	43787	34830	39772	36734	42546	38843	46805	49846	58988	45952	53625	57723	57516	51841	54898	51887	51295	56265	52415	33744	47390	42414	41594	43221	38726	38525	40776	34604	41096	42872	40926	54910	49832	50084	56905	58177	57688	55583	53894	54038	55163	54361	54452	39934	35982	35714	38605	39239	46095	48006	40951	41555	37902	39425	43586
+inositol-4-monophosphate	369	343	319	400	368	450	278	334	283	368	493	395	322	313	286	537	311	412	136	442	1311	323	661	300	344	199	356	391	270	495	594	270	342	443	374	402	386	331	285	297	370	390	534	796	347	488	868	684	333	311	252	209	261	317	379	344	234	350	441	407	370	337	344	325	281	423	538	358	559	355	567	511	275	383	353	335	412	337
+inositol myo-	1238	1162	1184	1668	1076	1358	1730	1150	1328	1229	1217	1044	1152	1329	1397	1292	1177	1214	2616	1346	1413	1330	1509	2090	925	994	911	1169	1041	1299	1522	1904	1295	2179	2015	2730	1562	1602	1736	1766	1956	1313	1726	2437	2213	2006	1887	2081	998	1174	982	1508	960	881	1571	1233	1408	2829	1682	1307	1656	1685	1524	1372	1660	1272	1662	1385	1406	1658	1611	2574	1697	1163	1096	1127	1024	1381
+inosine	1568	1406	1579	1383	1580	934	547	613	492	617	585	521	477	511	384	399	463	509	398	578	551	612	581	487	526	447	549	530	434	653	603	595	409	523	487	395	419	449	399	490	411	424	529	460	478	508	562	621	674	345	487	359	453	432	548	497	676	400	533	582	631	498	539	416	406	441	558	544	464	559	470	452	396	838	494	393	581	388
+idonic acid NIST	102	133	120	150	126	106	237	108	240	289	267	81	195	282	209	270	183	127	205	185	175	312	311	85	232	201	216	54	188	282	156	326	273	142	168	102	284	319	287	263	310	270	322	260	197	336	275	323	242	196	203	195	131	201	155	291	155	231	307	295	314	209	257	59	224	97	222	106	217	338	336	202	145	180	181	117	217	211
+hydroxylamine	15776	12617	10861	9962	15029	14893	11736	13652	14309	15705	18093	9211	9678	12142	12638	14290	10632	13511	7751	11333	11020	11255	14016	317	8417	12674	11275	14046	11127	16578	16934	16293	13783	16171	14041	12373	12556	14396	12292	11328	12870	12372	13006	14611	15422	16130	15496	16132	13613	12614	11889	9792	410	12753	14824	13215	13734	10355	12975	17100	14306	13221	12825	12407	11315	13495	13700	10931	10979	12866	13368	10173	13086	10940	13101	8805	11206	12606
+homoserine	168	263	187	160	304	401	330	396	270	215	242	121	217	203	159	285	187	109	95	246	245	206	442	307	215	133	143	253	210	289	320	365	416	205	316	336	298	231	314	340	281	187	366	572	241	195	413	218	156	199	228	180	176	180	239	327	181	240	288	262	275	212	206	224	248	149	344	191	274	446	270	250	105	128	171	191	187	234
+hexuronic acid	329	364	112	123	339	142	143	113	91	123	148	106	145	124	109	113	71	76	111	107	122	124	104	95	113	67	82	109	122	148	116	128	110	112	122	115	104	82	122	110	97	66	104	142	138	102	104	97	116	106	86	82	104	109	120	111	123	124	104	97	100	111	85	75	94	81	92	103	108	87	87	107	114	81	92	72	87	59
+glycolic acid	781	802	441	612	117	166	710	958	154	154	162	603	652	797	778	133	138	118	447	450	878	822	834	92	617	877	603	694	125	165	977	719	940	1329	139	113	653	790	861	525	896	126	2409	1003	558	207	1904	154	817	918	1598	643	101	129	995	789	1158	582	1000	739	596	706	697	165	150	96	639	854	585	834	119	978	827	726	771	830	863	96
+glycine	82880	81934	76756	76763	98213	97799	67904	80939	88840	95641	95213	75548	87980	92436	107725	93985	87160	95021	73121	100750	108027	94204	114836	102940	97427	113198	105616	132309	111220	84444	91131	83365	77308	77483	82465	77155	91687	96337	82418	86649	108218	95815	107025	119148	127230	129954	126441	120616	114794	107108	101243	89634	118049	121984	102179	84170	90141	88552	105343	109034	103302	93224	99237	96278	93162	97571	138541	125032	132694	139257	147435	121334	115139	132688	121890	104234	120088	125312
+glycerol-beta-phosphate	119	97	104	88	98	310	121	279	213	184	231	101	125	79	138	79	81	144	56	79	213	179	196	70	104	121	125	139	197	112	147	194	237	92	102	137	121	125	133	99	147	110	103	110	79	105	99	133	110	112	101	55	119	66	125	184	247	71	201	123	161	74	102	91	72	105	118	180	94	80	86	164	83	84	116	122	113	82
+glycerol-alpha-phosphate	16278	21217	25266	20225	25583	22249	43250	44813	48503	46581	50488	28031	30527	28768	21450	31219	23844	28991	16483	27194	33255	26426	28089	19330	23282	17863	30020	31030	23958	46331	23002	24906	26790	23222	24781	18897	22683	22846	22008	22282	25399	19465	8768	10170	9818	9005	9254	10421	23204	16167	23757	20015	24276	21668	26320	31457	32847	23927	38544	33757	26510	17957	18826	23075	21114	24420	19246	22438	19447	27088	22975	21098	18820	17536	17754	17533	24030	21138
+glutathione	344	270	352	359	291	277	178	387	449	512	455	352	287	259	435	333	360	508	466	569	298	533	373	325	351	486	428	436	542	392	513	435	316	328	459	412	765	634	503	357	518	323	565	267	615	357	433	401	318	439	321	474	377	296	280	200	399	235	258	295	697	328	283	264	150	384	662	283	475	273	405	326	261	309	415	331	245	382
+glutamine	31910	32605	16714	16185	21988	27680	17159	23315	17477	12077	19748	34781	18420	30342	24562	20133	26241	20632	6132	4772	2261	3893	4588	6566	16322	30514	8657	13692	15458	12725	34784	23114	17589	35909	18824	24116	17473	15849	21159	32403	13622	30275	2250	4767	2135	3043	3070	3457	17524	25437	13800	19895	20472	13481	30632	20915	23152	20033	19547	12469	17066	33486	35148	19725	22392	19537	2343	2441	2843	3017	3165	3721	20271	18276	23917	15989	26558	14561
+glutamic acid	47169	38589	35167	20408	48206	35068	58458	72330	102447	80982	80005	54874	89032	102340	92244	115599	77323	80859	44762	42802	55732	28085	74820	37353	81457	73871	60444	125705	64108	63043	127882	112579	71677	116011	89556	65574	118909	111697	78468	84677	156886	98879	47325	81229	64929	58845	51801	50598	92508	76089	60718	50970	77325	69285	88901	49866	56255	88495	113413	85528	121995	92319	106560	87189	73999	60404	60927	39605	31530	67483	58686	29957	73495	74020	73456	42882	89639	81950
+glucose-6-phosphate	509	392	556	517	495	522	1453	1839	1950	2088	1896	931	918	1046	1239	889	992	1173	719	1327	1577	1129	1807	1035	813	1327	798	1534	919	1685	1838	2315	1694	1832	2062	1584	509	582	706	571	693	634	275	145	147	501	148	225	324	1405	255	513	747	346	2074	1651	1940	1617	1797	1642	1630	1494	1733	1330	1460	1364	1316	1472	1213	1377	1173	1123	1689	1303	1370	1356	1417	1510
+glucose	57587	31016	47523	65304	34765	39410	151200	33923	86192	64581	62048	34660	36834	41398	110724	45976	64279	37790	324956	6343	21939	14597	26005	201734	20410	47596	19107	36777	28520	48113	21217	84664	17353	116480	85147	141555	14217	17452	29612	18731	28289	12437	980	92555	18900	1981	6981	1518	5340	25587	4639	70553	7150	5955	42091	10619	15782	170049	23300	12330	22703	36699	15982	22451	35043	19937	8248	4096	1363	2326	4430	122216	75451	6948	13844	17333	8680	17760
+gluconic acid lactone	4715	555	6834	6082	6576	6555	598	325	303	221	311	56	261	292	362	251	297	191	779	162	194	204	165	667	173	258	222	199	253	305	252	435	182	322	373	555	186	225	283	256	216	197	139	319	132	153	151	128	176	255	262	288	267	223	1151	1109	690	687	494	983	420	712	887	1061	1207	1445	413	473	901	374	528	692	1112	1000	1041	1469	537	987
+gluconic acid	304	234	270	239	70	87	158	223	128	108	108	80	206	186	180	102	59	66	34	115	148	109	153	55	159	141	122	164	166	85	209	118	161	135	93	61	196	184	190	176	134	98	99	88	100	70	86	83	225	134	185	155	121	108	130	172	176	99	209	141	120	166	167	81	80	55	111	85	101	55	90	58	210	213	135	218	193	99
+galactose-6-phosphate	211	312	345	220	270	134	990	1117	150	82	809	126	399	419	410	83	419	82	321	738	788	580	803	432	236	694	337	790	383	179	890	1104	748	1023	1024	91	255	239	266	216	276	104	125	183	110	107	90	107	189	403	180	202	106	78	683	674	714	793	461	393	634	539	459	422	538	109	742	553	557	468	575	84	515	352	468	288	310	139
+fumaric acid	471	421	433	489	422	371	803	976	1201	1157	1228	1565	1746	1839	2136	2022	1534	1896	646	1041	964	831	1059	815	1831	2571	2116	2803	1926	1235	931	644	683	631	569	616	1566	1478	1435	1348	1699	1355	767	884	754	568	671	818	2291	2475	2087	1752	2687	2193	790	903	756	492	744	813	1655	1248	1669	1634	1242	1442	946	766	874	898	847	633	1675	2408	1948	1326	1747	1821
+fructose-6-phosphate	1569	1909	1236	1476	747	2458	2507	3240	2832	2540	2706	876	1363	1056	1462	1200	1046	1262	654	1133	1603	1053	1572	929	951	1707	1003	2067	881	2096	2486	2684	1930	2126	2239	2093	725	883	594	540	479	495	268	363	260	247	279	356	693	999	605	511	926	520	1749	1758	1771	1506	1657	1056	1512	1625	1823	1239	1583	1463	7139	1472	2709	3329	1168	1016	1420	1404	1969	1618	1414	1570
+fructose	4363	3852	4490	4960	4343	7678	2592	997	1296	2014	996	1270	1044	1479	2099	2077	1179	1610	4904	512	1087	649	955	3827	714	1036	807	1021	864	954	952	2667	744	3626	2475	3927	1127	1080	1352	934	1507	886	344	3067	905	861	595	256	735	1451	921	2351	706	697	32958	17959	20435	101357	25271	18133	29976	27859	24524	28097	26322	27946	12739	11400	11627	11864	12282	71237	55212	15039	19952	24600	17518	25730
+erythritol	845	661	796	1057	709	711	378	533	719	640	431	394	514	74	391	612	110	247	640	344	391	226	281	304	241	432	236	435	411	561	417	491	515	503	463	462	226	300	395	358	334	236	195	718	269	164	276	483	358	533	409	406	250	269	333	492	588	802	460	612	401	587	358	436	86	437	203	287	344	486	557	613	464	611	683	224	326	308
+elaidic acid	153	63	335	401	430	583	118	88	103	304	97	64	309	450	506	88	116	113	187	88	343	439	467	64	119	532	430	426	136	519	156	112	593	714	87	463	511	431	96	549	89	118	410	537	507	292	698	569	152	71	445	43	653	54	89	71	100	459	106	510	335	632	193	133	94	31	562	348	377	471	132	105	45	3314	425	50	544	130
+dodecanol	421	382	465	386	479	1673	412	480	677	560	570	524	380	514	407	507	383	1474	249	446	706	468	443	657	334	397	410	481	486	617	585	520	499	456	533	414	575	493	556	464	647	265	417	398	479	505	517	530	430	425	501	326	478	518	529	499	490	371	466	465	358	455	439	484	473	468	403	416	462	470	384	308	329	813	379	337	391	411
+dodecane	739	138	484	498	668	663	577	584	284	717	378	394	666	263	666	975	560	659	358	1022	499	180	868	951	790	160	199	1067	706	710	869	333	591	1081	747	597	554	627	490	557	940	368	437	868	897	1090	736	1057	151	646	472	365	673	823	699	583	362	538	717	906	525	660	642	350	575	767	1265	498	655	853	486	405	788	144	474	412	324	699
+dehydroabietic acid	2649	2154	2084	1920	2405	6457	1824	2344	2379	2715	2845	2162	1208	1785	2109	3114	1696	2064	1314	1909	2064	2168	2232	1760	1574	1951	3040	3322	2100	2718	3066	2378	2427	2782	2326	2199	2385	2254	2247	1994	2311	2005	2300	2787	2692	2684	2705	2932	2523	2092	1967	987	2005	1981	2735	2583	2567	1776	2320	2344	2021	2221	2327	2114	2124	2294	2241	2238	2173	2408	2263	1587	1976	1939	2082	1678	2037	2094
+cytidine-5-monophosphate NIST	4942	14307	9421	5581	19945	14040	14145	19336	14387	20289	20963	15989	10556	15129	1043	13574	11321	14941	11054	2674	6869	17129	2068	8254	11958	1210	684	3351	9590	895	24371	22773	15211	20003	17513	442	19487	17266	17417	12860	1403	13802	18175	19484	20161	21048	18607	17408	18768	2718	16123	14694	12389	17150	2138	20302	21628	15257	20644	19314	2723	13629	17386	15546	12202	17042	13615	3189	16923	18425	1771	1390	10634	12607	2072	13445	12022	1844
+cysteine	497	756	548	342	806	686	156	191	212	107	170	129	102	130	99	153	90	95	264	162	140	105	102	129	159	110	199	237	93	133	203	187	183	224	180	258	254	152	145	136	203	136	155	146	177	109	160	141	162	132	202	138	97	153	93	147	193	286	168	165	274	150	145	86	111	120	139	98	103	139	105	112	162	205	110	111	209	100
+creatinine	2473	1501	1397	533	1968	1622	4360	3552	5796	3087	3535	2201	6120	3577	7102	4581	2551	1326	4064	2373	2943	1691	7880	1968	6407	3836	2507	11468	3744	2365	6286	5856	2495	8749	4318	2857	8148	3892	2975	3517	11996	2914	4708	11035	6658	6158	4996	4463	10143	4127	5079	4137	7585	3557	5521	3500	3345	10780	13684	6111	8467	6768	5894	5191	3985	2805	6187	3516	1684	9058	5689	3048	4598	5597	4611	2636	9155	6144
+citramalic acid	310	343	229	182	357	362	218	248	291	273	284	191	217	253	205	191	103	210	114	204	216	212	205	171	209	201	232	348	215	109	267	200	239	278	239	179	252	196	214	185	208	70	232	187	224	191	196	179	241	234	201	175	206	169	177	228	237	163	250	252	266	236	211	193	167	168	231	169	158	184	197	158	183	229	99	152	204	200
+cholesterol	843	778	781	868	884	691	1236	1022	1324	590	1124	89114	129087	299	74854	1350	475	866	378	1569	1740	808	1473	673	133477	533	1112	1078	60349	1034	1210	1568	948	674	1375	518	648	544	853	931	1088	1140	1049	5688	70792	633	1688	1289	818	1188	1135	81411	782	1178	1619	1010	769	811	1189	658	788	363	1618	1014	597	727	760	1034	822	942	1416	956	1014	516	1057	766	860	1033
+capric acid	2768	1663	1656	2092	1666	2285	2180	3470	2401	2351	2274	1533	1933	1862	1719	3046	2132	2365	1463	2006	2106	2862	2402	1553	2056	1767	2110	2398	1866	2463	2768	2151	2723	3247	2622	1650	2310	2953	2013	1723	3352	1768	2478	2582	2233	3151	3382	2245	2055	2084	2193	1812	2108	1759	2932	2488	3073	1718	2185	2382	1837	1951	1694	1801	1949	2828	2323	2747	2005	2556	2812	2145	1911	1759	2558	2088	1517	2361
+butylamine NIST	480	549	61	487	698	652	456	572	666	713	809	480	207	465	582	736	476	556	319	549	135	664	582	615	420	556	581	575	128	737	701	674	652	691	617	603	507	408	548	514	647	536	761	548	835	940	768	821	578	504	577	534	679	647	626	547	602	484	547	665	632	466	617	545	533	525	641	646	612	516	696	801	519	501	538	514	569	686
+beta-sitosterol	407	443	339	383	282	305	589	641	246	510	399	347	714	547	312	371	382	539	236	482	1250	621	850	203	448	327	422	480	240	276	689	552	561	133	525	361	436	204	385	471	392	424	826	588	394	372	284	762	512	449	372	269	198	398	448	614	483	433	513	318	530	324	655	357	329	477	596	428	801	187	406	380	422	604	477	357	481	426
+beta-alanine	1048	929	1096	882	1374	1078	898	1076	1246	1153	1393	1266	1166	1565	701	1422	1043	1345	398	592	359	468	530	506	577	719	649	891	585	1199	1178	1088	1052	937	967	868	1303	1272	1169	1183	1353	1149	385	494	539	94	81	81	861	863	696	586	1064	645	1073	1116	937	729	1188	1175	1437	1112	1353	1412	1108	1284	654	322	330	594	428	378	582	589	805	638	666	737
+benzoic acid	9066	5052	2843	3000	5807	5694	6515	4494	5807	10357	7529	3100	7602	8328	4375	7839	4217	5771	5432	4953	6251	6833	6944	4455	7718	9222	3736	2557	7797	9286	10662	9793	3757	6815	4846	4883	5971	8634	4803	6434	7475	4787	5528	3510	4242	4296	3865	6621	6694	3710	7565	4811	3725	5250	9122	5311	4606	4702	4637	8694	11338	4582	5120	4383	6046	7097	8022	4624	4785	8480	5607	4255	6554	6149	5987	4180	4537	4617
+behenic acid	2172	2091	2052	2470	2355	2187	948	1018	972	347	1219	994	579	352	215	523	860	617	601	558	766	483	536	161	946	308	782	1188	803	624	1291	1150	965	1155	374	980	1232	501	927	257	1080	818	1036	489	702	1092	1217	1027	941	870	909	708	253	869	939	463	1086	842	1002	1051	962	338	866	725	347	1024	988	877	625	1146	409	795	688	2944	853	763	873	413
+aspartic acid	9876	11951	8774	9878	4518	4401	10239	12628	4801	6528	5669	20763	22835	19359	22057	23340	26083	26605	6373	7076	4927	4774	6166	2644	16662	19838	15725	24194	16907	4864	10363	7428	8808	9304	2728	3636	24807	20801	20102	20848	25407	22774	6794	7899	2942	2673	2663	3588	20560	23296	20415	18045	20359	19579	10280	7803	10846	10389	8650	8363	31843	30451	29824	26461	30475	26360	6774	6839	7407	6673	3387	3406	21360	26831	23695	24085	23347	30044
+asparagine	1546	1718	1391	1273	7337	1874	1754	2467	1705	1411	7386	2270	1751	1707	2310	1838	1635	1530	974	1096	727	1142	1076	3686	1576	1355	1656	2349	1880	1667	1905	2112	2191	1616	1530	1910	2700	2014	2780	3213	2673	2491	998	1045	5108	4893	5529	4430	1730	2013	2713	2323	2137	1864	1254	1570	1776	1375	1890	1560	1658	1497	1403	1511	1243	1562	941	868	889	877	4783	3553	1601	1433	1171	1854	1634	1572
+arachidic acid	2065	1300	1761	1711	1302	276	435	2065	748	595	834	518	1530	1808	149	660	461	512	1150	97	1678	1896	2305	734	1401	1220	1931	2408	531	671	2060	1881	1937	2599	772	697	2014	2083	1932	1653	2419	493	2147	2495	748	676	610	586	1748	1509	2226	1131	652	487	1962	688	2350	1430	2066	29	2063	2053	1851	582	585	593	1777	2208	1436	2332	761	620	1537	4047	1698	1417	1703	699
+alpha ketoglutaric acid	344	310	437	145	114	89	616	686	728	831	661	541	677	842	1283	125	77	537	781	1094	1402	1372	889	1001	1444	1290	1824	1629	1462	103	623	683	527	464	105	93	1025	838	901	958	987	81	1022	1055	1035	1135	954	102	1918	1370	1705	1346	1877	1634	607	622	551	391	600	634	508	168	361	528	104	580	840	1067	1183	788	955	752	786	962	839	867	824	769
+alanine	93150	105875	76728	79271	90877	96591	88357	101136	97575	82796	83607	95220	100283	114498	183543	115426	108547	100339	245644	352405	328305	321243	367840	258629	222357	200259	215945	254904	196553	85269	97099	84556	77694	73542	76357	65442	123375	116132	121298	117505	115306	113528	268647	259390	277275	287986	289999	251833	227411	194059	235675	210124	239054	212217	88695	84305	92933	81425	93850	90030	133613	126889	129277	105086	116070	100715	382394	339198	327277	360522	359445	251189	182827	204594	213569	218564	258029	212158
+adenosine	243	251	228	211	879	916	246	264	990	219	942	781	216	194	218	986	746	785	152	178	194	265	342	614	234	184	282	337	672	1000	245	262	287	185	975	780	226	309	218	243	234	724	325	293	904	1057	977	953	255	283	313	124	682	765	323	252	300	183	260	249	354	237	293	838	811	821	298	306	279	237	971	590	222	152	286	217	297	698
+adenine	1439	1466	1206	1255	1120	1416	1626	1992	1686	1539	1976	1061	931	1064	658	1403	1207	1289	1203	1902	2354	1676	1863	1458	635	483	643	979	717	1764	2396	1604	2470	2121	1952	1480	1551	1771	1530	1412	1513	1422	2316	2384	2133	2096	1894	2267	706	729	790	560	682	539	1946	1848	1758	1240	1428	1376	1010	1154	1472	916	1043	1181	1643	1887	1686	1495	1694	1493	827	845	963	674	892	727
+6-deoxyglucitol NIST	1963	1088	1557	1804	2032	1376	1098	2335	2040	1357	1954	2007	1452	1434	1072	1835	2113	1379	1020	1178	1359	1568	2078	1092	1183	1472	1767	8004	1078	2125	1824	1708	2520	1734	2063	1012	1813	1373	863	1291	2127	1023	2131	1650	2347	1946	2521	1733	1496	4408	2901	1224	1863	1437	961	1555	1826	616	2101	1713	845	1501	1454	1278	1134	1339	1526	1684	1173	1499	1658	1705	1291	1358	1333	1345	1721	1822
+5-deoxy-5-methylthioadenosine	1048	965	1061	933	1037	1054	1823	2240	2083	2113	2232	1322	1484	1769	619	1765	1550	2165	2015	3201	3366	2654	2839	1979	1092	868	951	979	780	1784	2761	2254	3275	2507	2698	1926	1992	1790	2150	2001	1865	1958	4499	3873	4004	3278	4125	3481	1011	958	947	725	836	948	1866	2029	1524	1396	1975	1617	1477	1445	1630	1248	1472	1256	2030	2815	1871	2639	2619	1910	735	793	970	757	876	735
+3-phosphoglycerate	242	278	346	179	198	281	746	778	880	678	984	1376	1223	1408	1163	1344	870	1242	981	1560	1671	1666	1156	1123	1431	1586	1359	1501	1336	1069	1168	889	1034	808	1005	690	1362	1290	1250	1281	1370	1192	1419	1444	1484	1345	1094	1247	1304	1549	1065	1025	1096	1193	841	1221	915	670	737	947	825	758	998	905	715	689	603	856	725	822	771	533	967	757	827	690	889	841
+3-aminoisobutyric acid	140	171	61	187	174	203	199	215	268	84	150	207	80	266	154	183	198	103	148	286	41	229	217	182	123	253	177	143	183	110	57	68	305	202	132	171	267	135	84	286	55	187	103	325	315	388	163	154	169	215	176	26	226	181	288	230	282	157	208	156	167	198	201	81	104	146	223	97	181	168	220	220	179	162	194	163	125	157
+2-ketoisocaproic acid	237	272	231	234	147	221	257	254	243	200	250	232	212	261	235	292	264	206	180	330	292	297	195	157	311	255	240	352	267	221	284	204	255	178	242	160	264	237	231	277	291	229	261	251	300	303	302	246	108	224	390	224	278	139	215	343	299	229	269	228	250	234	324	232	182	228	280	260	288	230	214	207	190	201	283	252	279	206
+2-hydroxyglutaric acid	1126	1100	1246	1117	278	252	1787	1916	299	332	340	319	1590	1505	1838	288	341	318	1215	2006	2179	1918	2144	137	1669	1783	1411	2254	243	236	4378	4235	4150	4040	305	277	2582	2125	2318	2444	2743	374	6713	7998	230	224	234	284	2254	1969	2088	1614	305	1508	2480	2407	2438	1834	2375	2592	1638	1404	1827	367	268	363	3264	2829	2675	2947	2527	2238	1200	1668	1669	1449	1836	286
+2-aminoadipic acid	393	421	400	367	103	98	653	733	785	106	97	84	664	697	1083	423	567	602	392	416	125	474	509	68	1435	1306	777	1828	860	105	2364	1287	1560	1618	1040	107	1543	1139	1051	1054	1183	73	481	750	91	76	111	71	1129	1304	1035	741	92	82	1369	1236	1218	1163	1252	1183	1092	1215	1199	880	98	872	965	885	766	993	800	81	1280	1275	1500	1362	1542	977
+1-monostearin	108	89	155	100	120	114	100	175	121	211	157	96	139	100	84	123	91	67	59	96	87	87	141	55	99	72	238	104	82	94	149	155	99	120	100	77	106	98	122	96	104	1779	112	127	107	228	96	103	213	69	75	94	103	192	148	119	116	69	118	119	91	86	111	238	101	95	82	151	80	106	107	87	80	219	92	95	111	68
+1,2,4-benzenetriol	356	29	230	176	232	80	170	236	221	249	59	223	265	215	307	290	144	179	207	179	197	248	322	149	133	183	176	265	116	88	335	217	210	399	265	89	448	277	228	158	259	154	249	302	185	281	191	224	330	209	49	155	251	168	113	207	50	200	243	122	361	290	275	196	210	84	283	168	146	227	156	184	110	181	156	53	382	197
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	retention index	quantified m/z	PubChem ID	KEGG ID
+zymosterol	1089370	129	92746	C05437
+valine	313224	144	6287	C00183
+urea	325479	171	1176	C00086
+uracil	385903	99	1174	C00106
+UDP GlcNAc	623732	226	445675	C00043
+tyrosine	671221	179	6057	C00082
+tryptophan	779834	202	6305	C00078
+triethanolamine	531423	262	7618	C06771
+trans-4-hydroxyproline	460567	158	5810	C01157
+threonine	409403	117	6288	C00188
+taurine	556913	326	1123	C00245
+talose	655071	160	99459	C06467
+tagatose	630162	307	92092	D09007
+sucrose	915457	271	5988	C00089
+succinic acid	370518	247	1110	C00042
+stearic acid	787358	117	5281	C01530
+serine	394650	204	5951	C00065
+sorbitol	667682	103	5780	C00794
+salicylaldehyde	406706	193	6998	C06202
+ribulose-5-phosphate	735613	357	439184	C00199
+ribose-5-phosphate	731702	315	77982	C00117
+ribose	553606	307	5779	C00121
+ribitol	575953	319	827	C00474
+pyrophosphate	327474	110	1023	C00013
+pyrazine 2,5-dihydroxy NIST	396061	241	15532987
+putrescine	588836	174	1045	C00134
+propane-1,3-diol NIST	214259	177	10442	C02457
+proline	364232	142	145742	C00148
+p-hydroquinone	422925	239	785	C00530
+phosphoric acid	344674	314	1004	C00009
+phosphogluconic acid	847355	299	91493	C00345
+phosphoethanolamine	604454	100	1015	C00346
+phenylalanine	537760	218	6140	C00079
+pelargonic acid	399114	117	8158	C01601
+pantothenic acid	691214	103	6613	C00864
+palmitic acid	713542	313	985	C00249
+oxoproline	486399	156	7405	C01879
+ornithine	594392	174	6262	C00077
+oleic acid	778858	339	445639	C00712
+octadecanol	755073	327	8221	D01924
+N-methylalanine	286258	130	5288725	C02721
+N-acetyl-D-mannosamine	723859	202	65150	C00645
+N-acetylaspartic acid	547636	158	65065	C01042
+myristic acid	634543	285	11005	C06424
+monopalmitin-1-glyceride	901207	371	14900
+methylhexadecanoic acid	750645	117	10465
+methionine	483568	176	6137	C00073
+methanolphosphate	290163	241	13130
+mannose-6-phosphate NIST	813200	387	65127	C00275
+mannose	645005	205	18950	C00159
+mannitol	665209	103	6251	C00392
+malic acid	461034	233	222656	C00149
+lysine	662967	156	5962	C00047
+leucine	346072	158	6106	C00123
+lauric acid	547810	117	3893	C02679
+lathosterol NIST	1095135	255	65728	C01189
+lactic acid	216442	191	612	C00186
+isothreonic acid	489846	292	151152
+isoleucine	356931	158	6306	C00407
+inositol-4-monophosphate	845491	318	440043	C03546
+inositol myo-	729867	305	892	C00137
+inosine	897806	217	6021	C00294
+idonic acid NIST	698217	333	193325
+hydroxylamine	255769	146	787	C00192
+homoserine	444244	218	12647	C00263
+hexuronic acid	680828	333	19770757
+glycolic acid	227487	177	757	C00160
+glycine	364262	174	750	C00037
+glycerol-beta-phosphate	571748	243	2526	C02979
+glycerol-alpha-phosphate	591357	299	754	C00093
+glutathione	761040	213	124886	C00051
+glutamine	600028	156	5961	C00064
+glutamic acid	527101	246	33032	C00025
+glucose-6-phosphate	806065	387	5958	C00092
+glucose	650726	160	5793	C00031
+gluconic acid lactone	655155	217	7027	C00198
+gluconic acid	693140	333	10690	C00257
+galactose-6-phosphate	817783	387	99058	C00446
+fumaric acid	390853	245	444972	C00122
+fructose-6-phosphate	805246	315	69507	C00085
+fructose	640798	307	5984	C00095
+erythritol	471274	205	222285	C00503
+elaidic acid	780799	339	5282749	C01712
+dodecanol	508488	243	8193	C02277
+dodecane	247379	98	8182	C08374
+dehydroabietic acid	850402	239	94391	C12078
+cytidine-5-monophosphate NIST	975265	169	6131	C00055
+cysteine	501345	220	594	C00097
+creatinine	502434	115	588	C00791
+citramalic acid	457737	247	1081	C00815
+cholesterol	1079924	129	5997	C00187
+capric acid	451122	117	2969	C01571
+butylamine NIST	240203	174	8007
+beta-sitosterol	1123681	129	222284	C01753
+beta-alanine	435375	248	239	C00099
+benzoic acid	338043	179	243	C00180
+behenic acid	919675	117	8215	C08281
+aspartic acid	480543	232	5960	C00049
+asparagine	476542	100	236	C00152
+arachidic acid	856486	117	10467	C06425
+alpha ketoglutaric acid	507734	198	51	C00026
+alanine	246015	116	5950	C00041
+adenosine	917818	236	60961	C00212
+adenine	646247	264	190	C00147
+6-deoxyglucitol NIST	595333	117	151266
+5-deoxy-5-methylthioadenosine	967673	236	439176	C00170
+3-phosphoglycerate	611619	299	724	C00197
+3-aminoisobutyric acid	452732	248	64956	C05145
+2-ketoisocaproic acid	310629	200	70	C00233
+2-hydroxyglutaric acid	506359	129	43	C02630
+2-aminoadipic acid	572700	260	469	C00956
+1-monostearin	956148	399	24699	D01947
+1,2,4-benzenetriol	524257	239	10787	C02814
+METABOLITES_END
+#END

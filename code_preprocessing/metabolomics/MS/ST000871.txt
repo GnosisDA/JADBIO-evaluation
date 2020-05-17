@@ -1,0 +1,123 @@
+#METABOLOMICS WORKBENCH dsl15_20170822_102809 DATATRACK_ID:1224 STUDY_ID:ST000871 ANALYSIS_ID:AN001415
+VERSION             	1
+CREATED_ON             	August 28, 2017, 11:27 am
+#PROJECT
+PR:PROJECT_TITLE                 	Causal genetic variation underlying metabolome differences
+PR:PROJECT_SUMMARY               	A goal of biology is to predict the phenotypes of individuals, such as side
+PR:PROJECT_SUMMARY               	effects to drugs, from their genotypes. Genetic variants that cause disease can
+PR:PROJECT_SUMMARY               	change an individual’s total metabolite profile, or metabolome. Understanding
+PR:PROJECT_SUMMARY               	the function of these genetic variants may help predict novel phenotypes. We
+PR:PROJECT_SUMMARY               	used an unbiased method in yeast to show that genetic differences in two genes
+PR:PROJECT_SUMMARY               	change the levels of several urea cycle metabolites. Leveraging knowledge of the
+PR:PROJECT_SUMMARY               	urea cycle, we then predicted and validated the sensitivity of yeast strains to
+PR:PROJECT_SUMMARY               	a particular drug. The interpretability of our results demonstrates the promise
+PR:PROJECT_SUMMARY               	of using genetic variants underlying differences in the metabolome to predict
+PR:PROJECT_SUMMARY               	novel phenotypes from genotype.
+PR:INSTITUTE                     	Washington University in St. Louis
+PR:LAST_NAME                     	Swain Lenz
+PR:FIRST_NAME                    	Devjanee
+PR:ADDRESS                       	4515 McKinley Avenue, Saint Louis, Missouri, 63110, USA
+PR:EMAIL                         	devjanee.swain.lenz@duke.edu
+PR:PHONE                         	314-362-3679
+#STUDY
+ST:STUDY_TITLE                   	Untargeted metabolomic profile of reciprocal hemizygotes (oak/win hybrid, genes
+ST:STUDY_TITLE                   	AUA1, ARG82) (part III)
+ST:STUDY_SUMMARY                 	Metabolomic profiles were compiled from reciprocal hemizygotes (oak/win hybrid,
+ST:STUDY_SUMMARY                 	genes AUA1, ARG82) (batch). Included in this study are extraction controls.
+ST:INSTITUTE                     	Washington University in St. Louis
+ST:LAST_NAME                     	Swain Lenz
+ST:FIRST_NAME                    	Devjanee
+ST:ADDRESS                       	4515 McKinley Avenue, Saint Louis, Missouri, 63110, USA
+ST:EMAIL                         	devjanee.swain.lenz@duke.edu
+ST:PHONE                         	314-362-3679
+#SUBJECT
+SU:SUBJECT_TYPE                  	Fungal
+SU:SUBJECT_SPECIES               	Saccharomyces cerevisiae
+SU:TAXONOMY_ID                   	4932
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 1	2015_10_26_C	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 3	2015_10_26_E	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 4	2015_10_26_I	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	media only	2015_10_26_M	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 3	2015_10_27_A	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 3	2015_10_27_D	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 2	2015_10_27_E	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 2	2015_10_27_H	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 1	2015_10_27_J	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	media only	2015_10_27_M	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	no cells/no media	2015_10_27_N	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 2	2015_10_28_C	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 4	2015_10_28_E	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 3	2015_10_28_H	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 1	2015_10_28_I	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 1	2015_10_28_J	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	media only	2015_10_28_M	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	no cells/no media	2015_10_28_N	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 3	2015_10_30_A	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 2	2015_10_30_E	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 1	2015_10_30_F	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 3	2015_10_30_G	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81W::KAN 2	2015_10_30_H	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 2	2015_10_30_I	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 4	2015_10_30_J	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	no cells/no media	2015_10_30_N	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	ARG81O::KAN 1	2015_11_02_G	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 5	2015_11_11_C	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 4	2015_11_11_D	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 1	2015_11_11_H	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 1	2015_11_11_J	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 2	2015_11_11_K	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 5	2015_11_11_N	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 4	2015_11_11_O	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 3	2015_11_11_P	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 2	2015_11_11_S	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 5	2015_11_13_B	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 4	2015_11_13_D	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 5	2015_11_13_E	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 1	2015_11_13_F	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 3	2015_11_13_K	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 2	2015_11_13_M	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 4	2015_11_13_O	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 3	2015_11_13_R	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 3	2015_11_14_A	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 2	2015_11_14_B	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 5	2015_11_14_C	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 1	2015_11_14_D	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 4	2015_11_14_J	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 1	2015_11_14_L	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 5	2015_11_14_P	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 2	2015_11_14_Q	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 4	2015_11_14_R	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 3	2015_11_14_S	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1W::KAN 3	2015_11_16_C	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 2	2015_11_16_D	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	AUA1O::KAN 1	2015_11_16_M	Batch:3	
+SUBJECT_SAMPLE_FACTORS           	BC233_BC240_mix	STD_14	Batch:3	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Cells were grown at 30°C in synthetic dextrose media (0.145% yeast nitrogen
+CO:COLLECTION_SUMMARY            	base minus amino acids/ammonium sulfate, 0.5% ammonium sulfate, 2% dextrose) to
+CO:COLLECTION_SUMMARY            	an OD of 0.55 - 0.65. We harvested cells by vacuum filter.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Cells were grown at 30°C in synthetic dextrose media (0.145% yeast nitrogen
+TR:TREATMENT_SUMMARY             	base minus amino acids/ammonium sulfate, 0.5% ammonium sulfate, 2% dextrose) to
+TR:TREATMENT_SUMMARY             	an OD of 0.55 - 0.65. Different genotypes were used, and media was made at three
+TR:TREATMENT_SUMMARY             	separate times (batch).
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	We harvested cells by vacuum filter, and extracted hydrophilic metabolites from
+SP:SAMPLEPREP_SUMMARY            	0.2 um filters using 40:40:20% (v/v/v) methanol/acetonitrile/water8. We froze
+SP:SAMPLEPREP_SUMMARY            	and thawed extracts at -80 °C and -20 °C, respectively, three times. We
+SP:SAMPLEPREP_SUMMARY            	pelleted cells, and stored the supernatant at -80 °C until we performed mass
+SP:SAMPLEPREP_SUMMARY            	spectrometry
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	None (Direct infusion)
+CH:INSTRUMENT_NAME            	none
+CH:COLUMN_NAME                	none
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	LTQ Orbitrap Discovery
+MS:INSTRUMENT_TYPE          	Orbitrap
+MS:MS_TYPE                  	API
+MS:ION_MODE                 	NEGATIVE
+MS:MS_RESULTS_FILE       	rec_hemi.txt	UNITS:normalized peak intensity
+#END

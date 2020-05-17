@@ -1,0 +1,282 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170427_170716_mwtab.txt DATATRACK_ID:900 STUDY_ID:ST000604 ANALYSIS_ID:AN000924
+VERSION             	1
+CREATED_ON             	May 11, 2017, 10:44 am
+#PROJECT
+PR:PROJECT_TITLE                 	Impact Of High Sugar Diet On L-Arginine Metabolism In The Lung
+PR:PROJECT_SUMMARY               	Asthma is a progressive inflammatory airways disease that leads to structural
+PR:PROJECT_SUMMARY               	airway changes and debilitating symptoms in many severely affected adults. We
+PR:PROJECT_SUMMARY               	need novel therapeutic agents that are affordable, can decrease the reliance on
+PR:PROJECT_SUMMARY               	steroids, and can improve quality of life. This clinical and mechanistic study
+PR:PROJECT_SUMMARY               	has the potential to impact treatment of a subset of adult severe asthmatics and
+PR:PROJECT_SUMMARY               	to further our understanding of the mechanisms of L-arginine metabolism and NO
+PR:PROJECT_SUMMARY               	biology in the airways of asthmatics. We will pursue a clinical trial in
+PR:PROJECT_SUMMARY               	subjects not well controlled on standard drug therapy; this strategy will
+PR:PROJECT_SUMMARY               	address whether L-arginine is efficacious in patients receiving standard of care
+PR:PROJECT_SUMMARY               	medications. In studies using animal models, we and others have shown that
+PR:PROJECT_SUMMARY               	interventions that augment NO levels, through either supplementation of
+PR:PROJECT_SUMMARY               	L-arginine or inhibition of arginase, decrease allergic airway inflammation and
+PR:PROJECT_SUMMARY               	hyperresponsiveness-the two hallmarks of asthma. Overall, we hypothesize that a
+PR:PROJECT_SUMMARY               	responder subset of adult severe asthma patients will derive clinical benefit
+PR:PROJECT_SUMMARY               	from supplemental L-arginine therapy and that these patients will have a lower
+PR:PROJECT_SUMMARY               	exhaled NO concentrations (<20 ppb) and a higher NOS2/Arg1 mRNA and protein
+PR:PROJECT_SUMMARY               	ratio in their airway epithelial cells than non-responders. We aim to: 1) test
+PR:PROJECT_SUMMARY               	the hypothesis that uncontrolled, adult severe asthma patients with exhaled
+PR:PROJECT_SUMMARY               	breath NO concentrations <20 ppb will have fewer asthma exacerbations over 3
+PR:PROJECT_SUMMARY               	months when treated with L-arginine compared to patients with FeNO > 25, 2)
+PR:PROJECT_SUMMARY               	determine the mechanisms by which L-arginine affects the regulation of NOS and
+PR:PROJECT_SUMMARY               	arginase enzymes in primary airway epithelial cell cultures from severe
+PR:PROJECT_SUMMARY               	asthmatic subjects, and 3) test the hypothesis that inhaled nanoparticle carrier
+PR:PROJECT_SUMMARY               	formulations of L-arginine will decrease airway inflammation, airway
+PR:PROJECT_SUMMARY               	hyperresponsiveness, and airway fibrosis at lower doses than systemically
+PR:PROJECT_SUMMARY               	administered L-arginine. The major impact of our study will be to identify the
+PR:PROJECT_SUMMARY               	adult severe asthma cohort that will benefit from supplemental L-arginine
+PR:PROJECT_SUMMARY               	therapy. Our ultimate goal is to develop novel therapeutic agents to treat adult
+PR:PROJECT_SUMMARY               	severe asthma patients better. PUBLIC HEALTH RELEVANCE: Asthma is a progressive
+PR:PROJECT_SUMMARY               	inflammatory airways disease that leads to structural airway changes and
+PR:PROJECT_SUMMARY               	debilitating symptoms in many severely affected adults. This clinical study has
+PR:PROJECT_SUMMARY               	the potential to improve the care of adult severe asthmatics and to further our
+PR:PROJECT_SUMMARY               	understanding of the mechanisms of L-arginine metabolism and nitric oxide
+PR:PROJECT_SUMMARY               	biology in the lung. If we demonstrate that L-arginine supplementation can
+PR:PROJECT_SUMMARY               	decrease asthma attacks in a subset of severe asthmatics, it will have great
+PR:PROJECT_SUMMARY               	implications for future research as well as for the daily lives of patients with
+PR:PROJECT_SUMMARY               	asthma.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+PR:LABORATORY                    	WCMC Metabolomics Core
+PR:LAST_NAME                     	Fiehn
+PR:FIRST_NAME                    	Oliver
+PR:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+PR:ADDRESS                       	CA 95616
+PR:EMAIL                         	ofiehn@ucdavis.edu
+PR:PHONE                         	(530) 754-8258
+PR:FUNDING_SOURCE                	NIH U24DK097154
+#STUDY
+ST:STUDY_TITLE                   	Impact Of High Sugar Diet On L-Arginine Metabolism In The Lung
+ST:STUDY_SUMMARY                 	Asthma is a progressive inflammatory airways disease that leads to structural
+ST:STUDY_SUMMARY                 	airway changes and debilitating symptoms in many severely affected adults. We
+ST:STUDY_SUMMARY                 	need novel therapeutic agents that are affordable, can decrease the reliance on
+ST:STUDY_SUMMARY                 	steroids, and can improve quality of life. This clinical and mechanistic study
+ST:STUDY_SUMMARY                 	has the potential to impact treatment of a subset of adult severe asthmatics and
+ST:STUDY_SUMMARY                 	to further our understanding of the mechanisms of L-arginine metabolism and NO
+ST:STUDY_SUMMARY                 	biology in the airways of asthmatics. We will pursue a clinical trial in
+ST:STUDY_SUMMARY                 	subjects not well controlled on standard drug therapy; this strategy will
+ST:STUDY_SUMMARY                 	address whether L-arginine is efficacious in patients receiving standard of care
+ST:STUDY_SUMMARY                 	medications. In studies using animal models, we and others have shown that
+ST:STUDY_SUMMARY                 	interventions that augment NO levels, through either supplementation of
+ST:STUDY_SUMMARY                 	L-arginine or inhibition of arginase, decrease allergic airway inflammation and
+ST:STUDY_SUMMARY                 	hyperresponsiveness-the two hallmarks of asthma. Overall, we hypothesize that a
+ST:STUDY_SUMMARY                 	responder subset of adult severe asthma patients will derive clinical benefit
+ST:STUDY_SUMMARY                 	from supplemental L-arginine therapy and that these patients will have a lower
+ST:STUDY_SUMMARY                 	exhaled NO concentrations (<20 ppb) and a higher NOS2/Arg1 mRNA and protein
+ST:STUDY_SUMMARY                 	ratio in their airway epithelial cells than non-responders. We aim to: 1) test
+ST:STUDY_SUMMARY                 	the hypothesis that uncontrolled, adult severe asthma patients with exhaled
+ST:STUDY_SUMMARY                 	breath NO concentrations <20 ppb will have fewer asthma exacerbations over 3
+ST:STUDY_SUMMARY                 	months when treated with L-arginine compared to patients with FeNO > 25, 2)
+ST:STUDY_SUMMARY                 	determine the mechanisms by which L-arginine affects the regulation of NOS and
+ST:STUDY_SUMMARY                 	arginase enzymes in primary airway epithelial cell cultures from severe
+ST:STUDY_SUMMARY                 	asthmatic subjects, and 3) test the hypothesis that inhaled nanoparticle carrier
+ST:STUDY_SUMMARY                 	formulations of L-arginine will decrease airway inflammation, airway
+ST:STUDY_SUMMARY                 	hyperresponsiveness, and airway fibrosis at lower doses than systemically
+ST:STUDY_SUMMARY                 	administered L-arginine. The major impact of our study will be to identify the
+ST:STUDY_SUMMARY                 	adult severe asthma cohort that will benefit from supplemental L-arginine
+ST:STUDY_SUMMARY                 	therapy. Our ultimate goal is to develop novel therapeutic agents to treat adult
+ST:STUDY_SUMMARY                 	severe asthma patients better. PUBLIC HEALTH RELEVANCE: Asthma is a progressive
+ST:STUDY_SUMMARY                 	inflammatory airways disease that leads to structural airway changes and
+ST:STUDY_SUMMARY                 	debilitating symptoms in many severely affected adults. This clinical study has
+ST:STUDY_SUMMARY                 	the potential to improve the care of adult severe asthmatics and to further our
+ST:STUDY_SUMMARY                 	understanding of the mechanisms of L-arginine metabolism and nitric oxide
+ST:STUDY_SUMMARY                 	biology in the lung. If we demonstrate that L-arginine supplementation can
+ST:STUDY_SUMMARY                 	decrease asthma attacks in a subset of severe asthmatics, it will have great
+ST:STUDY_SUMMARY                 	implications for future research as well as for the daily lives of patients with
+ST:STUDY_SUMMARY                 	asthma.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+ST:LABORATORY                    	WCMC Metabolomics Core
+ST:LAST_NAME                     	Fiehn
+ST:FIRST_NAME                    	Oliver
+ST:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+ST:ADDRESS                       	CA 95616
+ST:EMAIL                         	ofiehn@ucdavis.edu
+ST:PHONE                         	(530) 754-8258
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Male
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	QC	Inj011_CSH_QC_01.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj022_CSH_QC_02.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj033_CSH_QC_03.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj039_CSH_QC_04.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj050_CSH_QC_05.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj061_CSH_QC_06.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj067_CSH_QC_07.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj078_CSH_QC_08.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj089_CSH_QC_09.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	QC	Inj096_CSH_QC_10.d	Source:Plasma | Species:Human | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	HFS59	Inj012_CSH_Kid_HFS59.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS70	Inj013_CSH_Kid_HFS70.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF90	Inj014_CSH_Kid_CF90.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF97	Inj015_CSH_Kid_VHF97.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF54	Inj016_CSH_Kid_CF54.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF78	Inj017_CSH_Kid_CF78.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF49	Inj018_CSH_Kid_CF49.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS82	Inj019_CSH_Kid_HFS82.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS1	Inj020_CSH_Kid_HFS1.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF45	Inj021_CSH_Kid_VHF45.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF92	Inj023_CSH_Kid_VHF92.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF2	Inj024_CSH_Kid_VHF2.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF80	Inj025_CSH_Kid_VHF80.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF57	Inj026_CSH_Kid_CF57.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF64	Inj027_CSH_Kid_VHF64.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF82	Inj028_CSH_Kid_CF82.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF70	Inj029_CSH_Kid_CF70.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF86	Inj030_CSH_Kid_VHF86.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF26	Inj031_CSH_Kid_CF26.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS69	Inj032_CSH_Kid_HFS69.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS87	Inj034_CSH_Kid_HFS87.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF31	Inj035_CSH_Kid_VHF31.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS55	Inj036_CSH_Kid_HFS55.d	Source:Kidney | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF70	Inj037_CSH_Kid_VHF70.d	Source:Kidney | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF11	Inj038_CSH_Kid_CF11.d	Source:Kidney | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS55	Inj068_CSH_Liv_HFS55.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS1	Inj069_CSH_Liv_HFS1.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF64	Inj070_CSH_Liv_VHF64.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS82	Inj071_CSH_Liv_HFS82.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF78	Inj072_CSH_Liv_CF78.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF2	Inj073_CSH_Liv_VHF2.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF86	Inj074_CSH_Liv_VHF86.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF31	Inj075_CSH_Liv_VHF31.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF45	Inj076_CSH_Liv_VHF45.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS59	Inj077_CSH_Liv_HFS59.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF57	Inj079_CSH_Liv_CF57.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF92	Inj080_CSH_Liv_VHF92.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF97	Inj081_CSH_Liv_VHF97.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS69	Inj082_CSH_Liv_HFS69.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS87	Inj083_CSH_Liv_HFS87.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF49	Inj084_CSH_Liv_CF49.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF70	Inj085_CSH_Liv_CF70.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF70	Inj086_CSH_Liv_VHF70.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF80	Inj087_CSH_Liv_VHF80.d	Source:Liver | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF54	Inj088_CSH_Liv_CF54.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF11	Inj090_CSH_Liv_CF11.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF82	Inj091_CSH_Liv_CF82.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF90	Inj092_CSH_Liv_CF90.d	Source:Liver | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS92	Inj093_CSH_Liv_HFS92.d	Source:Liver | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS55	Inj040_CSH_Lung_HFS55.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF54	Inj041_CSH_Lung_CF54.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS82	Inj042_CSH_Lung_HFS82.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF2	Inj043_CSH_Lung_VHF2.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF90	Inj044_CSH_Lung_CF90.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF82	Inj045_CSH_Lung_CF82.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF80	Inj046_CSH_Lung_VHF80.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF31	Inj047_CSH_Lung_VHF31.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS87	Inj048_CSH_Lung_HFS87.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF45	Inj049_CSH_Lung_VHF45.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF70	Inj051_CSH_Lung_VHF70.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF86	Inj052_CSH_Lung_VHF86.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF70	Inj053_CSH_Lung_CF70.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF49	Inj054_CSH_Lung_CF49.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF92	Inj055_CSH_Lung_VHF92.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS59	Inj056_CSH_Lung_HFS59.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS92	Inj057_CSH_Lung_HFS92.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF78	Inj058_CSH_Lung_CF78.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS69	Inj059_CSH_Lung_HFS69.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF57	Inj060_CSH_Lung_CF57.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	CF11	Inj062_CSH_Lung_CF11.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+SUBJECT_SAMPLE_FACTORS           	VHF64	Inj063_CSH_Lung_VHF64.d	Source:Lung | Species:Mouse | Treatment:Very High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS70	Inj064_CSH_Lung_HFS70.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	HFS1	Inj065_CSH_Lung_HFS1.d	Source:Lung | Species:Mouse | Treatment:High Fat Diet	
+SUBJECT_SAMPLE_FACTORS           	CF26	Inj066_CSH_Lung_CF26.d	Source:Lung | Species:Mouse | Treatment:Control Diet	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	C57BL/6 mice, 6-7 weeks of age upon diet assignment were fed for 150 days and
+CO:COLLECTION_SUMMARY            	weighed daily. Mice were euthanized with an overdose of pentobarbital IP and
+CO:COLLECTION_SUMMARY            	lungs were flash frozen. 6 mg of lung tissue was extracted for GC-TOFMS and
+CO:COLLECTION_SUMMARY            	HILIC-QTOFMS analysis.
+CO:SAMPLE_TYPE                   	Tissue
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Male C57BL/6N mice (6-7 weeks of age) were provided ad libitum access to one of
+TR:TREATMENT_SUMMARY             	three diets for 150 days: low fat (10% kcals) control (CTRL) chow, high fat (45%
+TR:TREATMENT_SUMMARY             	kcals) with sugar (HFS) chow or very high (60% kcals) fat (VHF) chow. Body
+TR:TREATMENT_SUMMARY             	weight and food intake were measured daily.
+TR:TREATMENT_DOSEDURATION        	150 Days
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	1. Weigh 50 mg tissue sample in to a 25 ml conical polypropylene centrifuge
+SP:SAMPLEPREP_SUMMARY            	tube. 2. Add 2.5mL extraction solvent to the tissue sample and homogenize for 45
+SP:SAMPLEPREP_SUMMARY            	seconds ensuring that sample resembles a powder. In between samples, clean the
+SP:SAMPLEPREP_SUMMARY            	homogenizer in solutions of methanol, acetone, water, and the extraction
+SP:SAMPLEPREP_SUMMARY            	solvent. 3. Centrifuge the samples at 2500 rpm. for 5 minutes. Aliquot 2 X
+SP:SAMPLEPREP_SUMMARY            	500?l supernatant, one for analysis and one for a backup sample. Store backup
+SP:SAMPLEPREP_SUMMARY            	aliquot in the -20°C freezer. 4. Evaporate one 500?l aliquot of the sample in
+SP:SAMPLEPREP_SUMMARY            	the Labconco Centrivap cold trap concentrator to complete dryness 5. The dried
+SP:SAMPLEPREP_SUMMARY            	aliquot is then re-suspended with 500l 50% acetonitrile (degassed as given) 6.
+SP:SAMPLEPREP_SUMMARY            	Centrifuge for 2 min at 14000 rcf using the centrifuge Eppendorf 5415. 7. Remove
+SP:SAMPLEPREP_SUMMARY            	supernatant to a new Eppendorff tube. 8. Evaporate the supernatant to dryness in
+SP:SAMPLEPREP_SUMMARY            	the the Labconco Centrivap cold trap concentrator. 9. Submit to derivatization.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	SOP_Extraction_of_Mammalian_Tissue_Samples.pdf
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	This study combined 2 different injection volumes for certain samples when
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	processing positive mode data. The reason for this was because in certain
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	samples the TG's were overloaded with the 1uL injections, but everything else
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	was at a normal peak height. Therefore samples were run at a 0.1uL injection
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	volume and took the data from 9-12.5 minutes because that's when TG's elute. The
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	samples that were injected at 0.1uL were used for times 9 min-12.5 min and the
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	1uL samples were used for times 0-8.99min.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	Data Dictionary Fiehn laboratory_CSH QTOF lipidomics_05-29-2014.pdf
+CH:CHROMATOGRAPHY_TYPE        	Lipidomics
+CH:INSTRUMENT_NAME            	Agilent 6530 Accurate Mass QTOF (Positive mode)
+CH:COLUMN_NAME                	Waters Acquity CSH C-18 1.7um (2.1x100mm) and Waters Acquity VanGuard CSH C18
+CH:COLUMN_NAME                	1.7um Pre-Column
+CH:FLOW_GRADIENT              	15% B to 99% B
+CH:FLOW_RATE                  	0.6 mL/min
+CH:COLUMN_TEMPERATURE         	65 C
+CH:SOLVENT_A                  	60:40 Acetonitrile:Water +10mM Ammonium Formate +10mM Formic Acid
+CH:SOLVENT_B                  	9:1 Isopropanol:Acetonitrile +10mM Ammonium Formate +10mM Formic Acid
+CH:COLUMN_PRESSURE            	450-850 bar
+CH:INJECTION_TEMPERATURE      	4 C
+CH:INTERNAL_STANDARD          	See data dictionary
+CH:RETENTION_TIME             	See data dictionary
+CH:SAMPLE_INJECTION           	1.67 uL
+CH:ANALYTICAL_TIME            	13 min
+CH:CAPILLARY_VOLTAGE          	3500
+CH:TIME_PROGRAM               	15 min
+CH:WEAK_WASH_SOLVENT_NAME     	Isopropanol
+CH:STRONG_WASH_SOLVENT_NAME   	Isopropanol
+CH:TARGET_SAMPLE_TEMPERATURE  	Autosampler temp 4 C
+CH:RANDOMIZATION_ORDER        	Excel
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	WCMC Metabolomics Core
+AN:DETECTOR_TYPE            	TOF MCP
+AN:SOFTWARE_VERSION         	Masshunter
+AN:DATA_FORMAT              	.d
+#MS
+MS:INSTRUMENT_NAME          	Agilent/6530 Accurate Mass QTOF LC/MS
+MS:INSTRUMENT_TYPE          	QTOF
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:CAPILLARY_VOLTAGE        	3500
+MS:COLLISION_ENERGY         	25 eV
+MS:COLLISION_GAS            	Nitrogen
+MS:DRY_GAS_FLOW             	8L/min
+MS:DRY_GAS_TEMP             	325 C
+MS:FRAGMENT_VOLTAGE         	120
+MS:FRAGMENTATION_METHOD     	Auto MSMS
+MS:ION_SOURCE_TEMPERATURE   	325 C
+MS:ION_SPRAY_VOLTAGE        	1000
+MS:IONIZATION               	Pos
+MS:PRECURSOR_TYPE           	Intact Molecule
+MS:REAGENT_GAS              	Nitrogen
+MS:SOURCE_TEMPERATURE       	325 C
+MS:DATAFORMAT               	.d
+MS:DESOLVATION_GAS_FLOW     	11 L/min
+MS:DESOLVATION_TEMPERATURE  	350 C
+MS:NEBULIZER                	35 psig
+MS:OCTPOLE_VOLTAGE          	750
+MS:RESOLUTION_SETTING       	Exteded Dyamic Range
+MS:SCAN_RANGE_MOVERZ        	60-1700 Da
+MS:SCANNING_CYCLE           	2 Hz
+MS:SCANNING_RANGE           	60-1700 Da
+MS:SKIMMER_VOLTAGE          	65
+MS:MS_RESULTS_FILE          	ST000604_AN000924_Results.txt	UNITS:Counts
+#END

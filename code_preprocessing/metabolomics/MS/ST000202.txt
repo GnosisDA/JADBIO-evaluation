@@ -1,0 +1,175 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000202 ANALYSIS_ID:AN000304
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Citrate Flux Studies
+PR:PROJECT_SUMMARY               	Citrate Flux analysis
+PR:INSTITUTE                     	University of Michigan
+PR:DEPARTMENT                    	Pediatric Nephrology
+PR:LABORATORY                    	Blatt Lab
+PR:LAST_NAME                     	Blatt
+PR:FIRST_NAME                    	Neal
+PR:ADDRESS                       	Ann Arbor, MI
+PR:EMAIL                         	nblatt@umich.edu
+PR:PHONE                         	734/936-4210
+#STUDY
+ST:STUDY_TITLE                   	THP1 Human Monocyte cells Project A (part II)
+ST:STUDY_SUMMARY                 	THP-1 Human Monocyte cells (10^6) were seeded in RPMI 1640 with 0.5% FBS. The
+ST:STUDY_SUMMARY                 	were incubated for 30 minutes in either no citrate, 1 mM citrate, or 6 mM
+ST:STUDY_SUMMARY                 	Separately, cells were either incubated in 1 mM 13C6 citrate or 6mM 13C6
+ST:STUDY_SUMMARY                 	(Sigma-Aldrich #606081). After the 30 minute pre-incubation time, the cells
+ST:STUDY_SUMMARY                 	harvested or stimulated with lipopolysaccharide (LPS) for 1 h or 30 min. Cells
+ST:STUDY_SUMMARY                 	subsequently spun down and washed in 150mM ammonium acetate. Cell were respun
+ST:STUDY_SUMMARY                 	the supernatant was discarded. Cells were flash frozen in liquid nitrogen and
+ST:STUDY_SUMMARY                 	on dry ice.
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@umich.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	15
+ST:TOTAL_SUBJECTS                	59
+#SUBJECT
+SU:SUBJECT_TYPE                  	-
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013571	13C6 Citrate (mM):1 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013572	13C6 Citrate (mM):1 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013573	13C6 Citrate (mM):1 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013574	13C6 Citrate (mM):1 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013587	13C6 Citrate (mM):1 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013588	13C6 Citrate (mM):1 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013589	13C6 Citrate (mM):1 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013590	13C6 Citrate (mM):1 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013579	13C6 Citrate (mM):1 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013580	13C6 Citrate (mM):1 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013581	13C6 Citrate (mM):1 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013582	13C6 Citrate (mM):1 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013567	13C6 Citrate (mM):6 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013568	13C6 Citrate (mM):6 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013569	13C6 Citrate (mM):6 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013570	13C6 Citrate (mM):6 | LPS (Time):0 | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013583	13C6 Citrate (mM):6 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013584	13C6 Citrate (mM):6 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013585	13C6 Citrate (mM):6 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013586	13C6 Citrate (mM):6 | LPS (Time):1 h | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013575	13C6 Citrate (mM):6 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013576	13C6 Citrate (mM):6 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013577	13C6 Citrate (mM):6 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013578	13C6 Citrate (mM):6 | LPS (Time):30 min | Citrate (mM):none	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013540	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013541	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013542	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013543	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013536	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013537	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013538	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013539	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013532	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013533	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013534	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013535	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013563	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013564	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013565	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013566	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013560	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013561	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013562	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013556	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013557	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013558	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013559	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013552	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013553	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013554	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013555	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013548	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013549	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013550	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013551	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013544	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013545	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013546	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	
+SUBJECT_SAMPLE_FACTORS           	SU0003088	S00013547	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Monocytes
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Gly-TCA-nucleotides_analysis_protocol-2015-03-09.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	Luna 3 m NH2 100 , LC Column 150 x 1 mm, Ea (Phenomenex Inc.)
+CH:METHODS_ID                    	AQM020
+CH:METHODS_FILENAME              	QTOF-002-HILIC-35min-1mm-No_Insert.m.zip
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	MRC2 (University of Michigan)
+AN:ACQUISITION_PARAMETERS_FILE   	QTOF-002-HILIC-35min-1mm-No_Insert.m.zip
+AN:PROCESSING_PARAMETERS_FILE    	EX00268-MassHunterQuant-GlyTCA-LCMS-DataAnalysis-Method.m.zip
+#MS
+MS:INSTRUMENT_NAME               	Agilent 6520 QTOF
+MS:INSTRUMENT_TYPE               	Q-TOF
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Area normalized to protein
+MS_METABOLITE_DATA_START
+Samples	S00013540	S00013540	S00013541	S00013541	S00013542	S00013542	S00013543	S00013543	S00013536	S00013536	S00013537	S00013537	S00013538	S00013538	S00013539	S00013539	S00013532	S00013532	S00013533	S00013533	S00013534	S00013534	S00013535	S00013535	S00013563	S00013563	S00013564	S00013564	S00013565	S00013565	S00013566	S00013566	S00013560	S00013560	S00013561	S00013561	S00013562	S00013562	S00013556	S00013556	S00013557	S00013557	S00013558	S00013558	S00013559	S00013559	S00013552	S00013552	S00013553	S00013553	S00013554	S00013554	S00013555	S00013555	S00013548	S00013548	S00013549	S00013549	S00013550	S00013550	S00013551	S00013551	S00013544	S00013544	S00013545	S00013545	S00013546	S00013546	S00013547	S00013547
+Factors	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):0 | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):1 h | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):0	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):1	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6	13C6 Citrate (mM):none | LPS (Time):30 min | Citrate (mM):6
+2 or 3-phosphoglycerate_2PG/3PG	1.8506	1.0546	2.3204	0.0000	1.1874	0.6653	0.4794	1.4250	3.8193	3.5185	3.8415	3.6341	0.0000	0.9886	1.5678	2.5421	2.3973	0.9349	0.0000	1.4290	1.2480	2.6042	1.2559	2.0601	0.0000	2.1419	0.0000	1.7552	2.8352	0.0000	0.0000	2.3683	0.5156	1.8688	1.4328
+6-Phosphogluconate	2.3149	1.3363	2.7300	1.6113	1.4539	0.8110	0.5892	1.6799	4.2332	3.6338	4.4280	3.7765	2.1034	1.4553	1.9139	2.9609	3.0020	1.1236	2.1933	1.8416	1.5099	3.0586	1.4898	2.5493	1.8590	2.5085	2.3831	2.1810	3.3562	2.0682	1.7177	2.8520	0.7281	2.1197	1.8151
+Acetyl-CoA	1.0780	0.4485	0.5239	0.4205	0.5994	0.2793	0.1860	0.4937	0.1986	0.3492	0.2304	0.2686	0.6797	0.3789	0.6420	0.7807	1.2110	0.3979	0.6019	0.5642	0.4753	0.8690	0.5586	0.9051	0.5670	0.6817	0.4620	0.7532	0.6802	0.6457	0.4860	0.9718	0.1844	0.5741	0.6356
+ADP	49.8708	28.2699	37.3402	26.4350	31.3535	14.8794	10.6694	27.9291	16.4527	22.2786	15.6682	22.3661	33.5800	18.2720	31.4972	44.3124	55.8492	20.0593	36.3441	28.3338	24.2415	40.8584	32.0948	45.6851	33.3860	34.7173	26.9772	40.5650	35.4718	37.4907	27.6030	52.0169	10.0637	33.6424	35.9934
+AMP	601.4152	215.1355	283.2006	194.4460	229.8055	98.3094	82.1819	256.7026	188.2079	142.7334	107.9554	116.0585	317.3157	143.0243	198.5779	258.4748	575.5748	285.4424	343.9975	209.5927	211.9127	302.9874	379.0297	419.6070	232.5492	196.6792	148.9659	458.1458	287.0625	265.9440	264.6559	412.7469	87.2085	280.2280	370.3935
+ATP	49.6259	40.5138	56.6645	39.4679	52.4291	26.7723	15.0068	36.5530	25.6294	45.4237	33.7797	48.3703	44.4978	28.5934	57.7194	83.6354	66.4032	18.1800	42.9509	46.2198	38.5446	63.3459	30.6929	61.5373	48.4835	67.1129	61.4196	41.0174	48.0345	55.0460	32.2557	74.2014	14.5695	48.9260	42.4944
+Citrate or Isocitrate	23.9869	13.9876	20.2698	15.5850	29.2432	17.1039	11.8142	33.6833	328.9695	340.2073	1242.8695	228.6038	19.8324	9.1078	17.5359	25.9506	47.0490	16.2258	40.8886	169.7264	68.2482	231.0926	86.2618	23.3970	16.5174	19.8279	17.3113	33.2187	89.9161	56.8217	33.7904	269.3915	56.8821	104.3193	79.6484
+Erythrose 4-phosphate	28229.7283	14068.0874	27755.6433	13445.6122	15128.6925	8996.4089	6928.7319	18050.4819	19198.3236	11199.2618	8359.5837	0.0000	18890.6821	9790.0512	19704.5325	24527.7673	25190.3250	9198.0185	22722.4720	14802.4508	12526.3399	22251.6758	14112.9814	24784.2045	16507.9254	12549.5527	19278.7623	24086.5940	20862.4347	22373.4443	20118.9448	29487.7819	5243.0422	19328.8841	17734.3278
+flavin adenine dinucleotide	0.2093	0.1078	0.1593	0.1053	0.1238	0.0607	0.0351	0.1076	0.0626	0.0667	0.0582	0.0853	0.1709	0.1009	0.1663	0.2144	0.2813	0.0932	0.1598	0.1375	0.1187	0.1989	0.1369	0.2251	0.1426	0.1656	0.1382	0.1640	0.1456	0.1499	0.1133	0.2333	0.0449	0.1450	0.1602
+Fructose 1_6-bisphosphate	8.8218	2.0038	2.2410	1.5362	3.5501	1.1847	1.0320	3.3342	5.1737	3.7101	2.4929	2.5593	4.3710	1.7697	2.3554	2.6925	9.1667	6.0135	2.1715	1.8567	2.9940	4.0325	5.0500	4.0830	2.5699	2.2969	2.6198	6.4476	3.1532	2.6336	2.9105	3.9357	1.0296	3.3545	4.1343
+Glucose 6-phosphate or fructose-6-phosphate	21.7321	11.4516	17.1047	10.9598	10.8585	5.4434	3.8623	11.0623	10.4155	9.5788	7.2399	8.9058	13.2046	8.0151	11.2076	16.5255	21.0066	8.0064	16.3405	11.8079	10.5707	16.1722	12.6890	19.2631	11.6815	13.9861	11.1877	16.2660	16.1275	14.1796	11.7446	20.3244	4.6411	13.5079	14.7788
+Lactate	388.6328	213.0316	463.5945	182.7042	229.6008	118.7811	111.7546	291.0859	532.8511	707.1564	3397.0724	361.2492	310.9164	130.4796	365.9688	792.3734	461.4183	179.6381	355.4279	394.4962	248.5104	632.1092	255.2528	822.9854	241.8078	371.8557	285.9462	374.1227	605.2672	353.8546	236.9269	564.0206	120.0114	322.4071	311.1825
+Malate	28.9653	12.8190	23.4428	11.9587	17.0042	8.3926	5.3592	15.2882	4.5024	4.4960	0.0000	6.0514	18.7508	11.5174	21.7401	28.5016	34.2743	12.2249	22.2571	17.9050	15.0449	24.2606	16.7274	26.9459	17.3472	22.1256	16.3847	23.3215	21.4634	18.8866	13.3677	26.2245	5.8452	18.7065	20.5340
+Nicotinamide Adenine Dinucleotide oxidized	0.2406	0.0935	0.0286	0.0461	0.2065	0.0577	0.0211	0.0780	0.2953	0.0854	0.0411	0.0403	0.1015	0.0849	0.1398	0.1196	0.1781	0.0530	0.0599	0.1329	0.1121	0.1691	0.1095	0.1260	0.0590	0.0761	0.0741	0.0983	0.0362	0.0873	0.0637	0.1006	0.0433	0.1105	0.1062
+nicotinamide adenine dinucleotide phosphate oxidized	0.1350	0.0587	0.0705	0.0519	0.0990	0.0557	0.0239	0.0637	0.1776	0.0590	0.0000	0.0000	0.0927	0.1445	0.1113	0.1198	0.2074	0.0444	0.0504	0.1945	0.1326	0.5167	0.1057	0.1718	0.0718	0.0827	0.0477	0.1220	0.2140	0.0800	0.0508	0.2427	0.0620	0.1569	0.1352
+nicotinamide adenine dinucleotide phosphate reduced	0.1664	0.0160	0.0000	0.0301	0.2056	0.0723	0.0083	0.0000	0.0000	0.0000	0.0000	0.0000	0.0612	0.0624	0.2676	0.0838	0.1900	0.1287	0.0000	0.0638	0.0484	0.0346	0.0862	0.0771	0.0261	0.0000	0.0335	0.0662	0.0000	0.1196	0.0000	0.0524	0.0094	0.1063	0.1557
+Nicotinamide Adenine Dinucleotide reduced	0.0487	0.0016	0.0000	0.0000	0.0206	0.0027	0.0009	0.0034	0.0066	0.0000	0.0000	0.0061	0.0239	0.0107	0.0146	0.0000	0.0241	0.0065	0.0052	0.0111	0.0044	0.0038	0.0169	0.0191	0.0000	0.0000	0.0000	0.0031	0.0000	0.0000	0.0000	0.0040	0.0071	0.0195	0.0383
+Phosphoenolpyruvate	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+Ribose-5-phosphate or xylulose 5-phosphate	85455.6147	36028.9694	35439.6935	33266.6723	36315.8890	16698.9953	13139.5594	39965.2976	40168.2108	41906.9672	37080.4629	34399.0146	53434.6590	21166.5386	32244.8339	51153.6305	94707.9452	50473.1735	49556.8792	26614.8189	29947.4577	49585.0298	59824.8131	53554.2034	41574.9344	31784.0873	31425.8450	67716.6240	50781.8506	43131.3023	44037.9423	61241.5022	12637.9485	43943.8694	55221.9620
+Sedoheptulose 7-phosphate	40012.9116	23664.5000	27702.8476	27420.1348	15990.4568	6948.5574	7895.9856	19701.7992	0.0000	27274.4705	0.0000	0.0000	24796.7676	15582.1119	19779.0154	24939.2031	27939.3191	12142.3179	31868.8991	19982.2756	18579.5219	31980.5147	17979.1306	27187.5494	22586.7167	17571.4921	29509.0936	20575.8897	26187.7179	42647.7442	24200.6696	34028.1851	9111.9553	19378.3747	25040.2011
+Sucrose	7.3789	3.2521	6.3991	3.3656	4.3749	2.3500	1.4001	3.9545	5.0132	4.3890	4.3986	4.3088	5.0889	2.6571	4.6002	7.2432	9.4620	3.0792	5.1222	4.6857	4.3488	6.8687	3.8808	7.0156	4.3945	6.0965	4.2170	6.1767	6.2973	4.1537	3.6376	7.2899	1.4666	4.5559	5.0843
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+2 or 3-phosphoglycerate_2PG/3PG				724			2PG/3PG	UM_Target_ID
+6-Phosphogluconate				91493			6PG	UM_Target_ID
+Acetyl-CoA				444493			aCoA	UM_Target_ID
+ADP				6022			ADP	UM_Target_ID
+AMP				6083			AMP	UM_Target_ID
+ATP				5957			ATP	UM_Target_ID
+Citrate or Isocitrate				311			CIT/ICIT	UM_Target_ID
+Erythrose 4-phosphate				122357			E4P	UM_Target_ID
+flavin adenine dinucleotide				46906035			FAD	UM_Target_ID
+Fructose 1,6-bisphosphate				21125049			FBP	UM_Target_ID
+Glucose 6-phosphate or fructose-6-phosphate				5958			G6P/F6P	UM_Target_ID
+Lactate				612			LAC	UM_Target_ID
+Malate				525			MAL	UM_Target_ID
+Nicotinamide Adenine Dinucleotide oxidized				15938971			NAD	UM_Target_ID
+nicotinamide adenine dinucleotide phosphate oxidized				15938972			NADP	UM_Target_ID
+nicotinamide adenine dinucleotide phosphate reduced				22833512			NADPH	UM_Target_ID
+Nicotinamide Adenine Dinucleotide reduced				439153			NADH	UM_Target_ID
+Phosphoenolpyruvate				1005			PEP	UM_Target_ID
+Ribose-5-phosphate or xylulose 5-phosphate				77982			R5P/X5P	UM_Target_ID
+Sedoheptulose 7-phosphate				165007			S7P	UM_Target_ID
+Sucrose				5988			SUC	UM_Target_ID
+METABOLITES_END
+#END

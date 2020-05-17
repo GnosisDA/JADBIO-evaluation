@@ -1,0 +1,172 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000213 ANALYSIS_ID:AN000315
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Dietary emulsifying agents
+PR:PROJECT_SUMMARY               	SCFA and Bile acid composition in conventional and GermFree SW treated with
+PR:INSTITUTE                     	Georgia State University
+PR:DEPARTMENT                    	Biology
+PR:LABORATORY                    	Gewirtz's Lab
+PR:LAST_NAME                     	Gewirtz
+PR:FIRST_NAME                    	Andrew
+PR:ADDRESS                       	14 Marietta Street, NW  Atlanta, GA 30303-2813
+PR:EMAIL                         	bchassaing@gsu.edu
+PR:PHONE                         	404-413-3589
+#STUDY
+ST:STUDY_TITLE                   	Germfree vs Conventional SW Studies (part II)
+ST:STUDY_TYPE                    	SCFA and Bile acid composition in conventional and GermFree SW treated with
+ST:STUDY_SUMMARY                 	SCFA and Bile acid composition in conventional and GermFree SW treated with
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@umich.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	6
+ST:TOTAL_SUBJECTS                	66
+#SUBJECT
+SU:SUBJECT_TYPE                  	-
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10088
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0002961	S00012778	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002962	S00012779	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002963	S00012780	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002964	S00012781	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002961	S00012782	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002962	S00012783	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002963	S00012784	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002964	S00012785	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002961	S00012811	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002962	S00012812	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002963	S00012813	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002964	S00012814	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002961	S00012815	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002962	S00012816	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002963	S00012817	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002964	S00012818	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002947	S00012764	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002948	S00012765	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002949	S00012766	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002950	S00012767	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002947	S00012797	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002948	S00012798	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002949	S00012799	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002950	S00012800	treatment:CMC | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002965	S00012786	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002966	S00012787	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002967	S00012788	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002965	S00012789	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002966	S00012790	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002967	S00012791	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002968	S00012792	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002965	S00012819	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002966	S00012820	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002967	S00012821	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002965	S00012822	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002966	S00012823	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002967	S00012824	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002968	S00012825	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002951	S00012768	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002952	S00012769	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002953	S00012770	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002954	S00012771	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002955	S00012772	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002951	S00012801	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002952	S00012802	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002953	S00012803	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002954	S00012804	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002955	S00012805	treatment:P80 | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002956	S00012773	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002957	S00012774	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002958	S00012775	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002959	S00012776	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002960	S00012777	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002956	S00012806	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002957	S00012807	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002958	S00012808	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002959	S00012809	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002960	S00012810	treatment:Water | Germfree versus conventional:Conventionaly raised animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002943	S00012760	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002944	S00012761	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002945	S00012762	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002946	S00012763	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002943	S00012793	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002944	S00012794	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002945	S00012795	treatment:Water | Germfree versus conventional:Germfree animal	
+SUBJECT_SAMPLE_FACTORS           	SU0002946	S00012796	treatment:Water | Germfree versus conventional:Germfree animal	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Faces
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Bile-acids-2015-03-11.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+CH:METHODS_ID                    	AQM040
+CH:METHODS_FILENAME              	2014-03-27-Bile_acid-full-ESN-insert.m.zip
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	MRC2 (University of Michigan)
+AN:ACQUISITION_PARAMETERS_FILE   	2014-03-27-Bile_acid-full-ESN-insert.m.zip
+AN:PROCESSING_PARAMETERS_FILE    	EX00249-Bile-Acids-Quant-method.m.zip
+#MS
+MS:INSTRUMENT_NAME               	Agilent QQQ 6490
+MS:INSTRUMENT_TYPE               	Triple quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	pmol/mg sample
+MS_METABOLITE_DATA_START
+Samples	S00012811	S00012812	S00012813	S00012814	S00012815	S00012816	S00012817	S00012818	S00012797	S00012798	S00012799	S00012800	S00012819	S00012820	S00012821	S00012822	S00012823	S00012824	S00012825	S00012801	S00012802	S00012803	S00012804	S00012805	S00012806	S00012807	S00012808	S00012809	S00012810	S00012793	S00012794	S00012795	S00012796
+Factors	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Conventionaly raised animal	treatment:CMC | Germfree versus conventional:Germfree animal	treatment:CMC | Germfree versus conventional:Germfree animal	treatment:CMC | Germfree versus conventional:Germfree animal	treatment:CMC | Germfree versus conventional:Germfree animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Conventionaly raised animal	treatment:P80 | Germfree versus conventional:Germfree animal	treatment:P80 | Germfree versus conventional:Germfree animal	treatment:P80 | Germfree versus conventional:Germfree animal	treatment:P80 | Germfree versus conventional:Germfree animal	treatment:P80 | Germfree versus conventional:Germfree animal	treatment:Water | Germfree versus conventional:Conventionaly raised animal	treatment:Water | Germfree versus conventional:Conventionaly raised animal	treatment:Water | Germfree versus conventional:Conventionaly raised animal	treatment:Water | Germfree versus conventional:Conventionaly raised animal	treatment:Water | Germfree versus conventional:Conventionaly raised animal	treatment:Water | Germfree versus conventional:Germfree animal	treatment:Water | Germfree versus conventional:Germfree animal	treatment:Water | Germfree versus conventional:Germfree animal	treatment:Water | Germfree versus conventional:Germfree animal
+﻿a-Muricholic acid	10.0379	0.8033	3.7723	15.6415	27.4867	6.0112	171.5015	18.9537	0.0842	0.0430	0.3707	0.0653	15.1264	2.4226	12.0913	11.4196	11.1015	60.3824	0.0592	0.1228	0.0502	0.0675	0.0574	0.0467	0.4635	11.3051	0.7910	1.0608	1.0421	0.0592	0.0509	0.0543	0.0705
+b-Muricholic acid	76.2852	55.8490	39.3840	126.5260	120.4018	19.5791	121.4309	35.1270	0.4650	0.3386	0.3248	0.5783	55.4975	38.6361	74.6866	59.7701	52.3362	52.2851	115.3679	1.0339	0.9033	0.8912	1.2021	0.2388	26.1363	34.1928	76.1817	32.2229	58.1324	0.3308	0.6226	0.4533	1.0053
+Chenodeoxycholic acid	44.3723	34.1816	49.2774	93.5364	34.6680	5.8610	164.7756	26.3761	0.2314	0.2019	0.1932	0.2084	22.0174	16.7756	4.9576	7.5199	28.1069	33.1387	18.9587	0.3184	0.3639	0.1978	0.2047	0.1026	17.7671	22.2692	47.9011	9.6198	14.1275	0.2984	0.2893	0.2701	0.4484
+Cholic acid	62.1623	53.0027	43.2210	97.7017	93.7882	15.2149	145.4449	21.0884	0.0000	0.0000	0.0000	0.0000	14.0538	36.6676	54.4531	36.2964	37.5057	79.1444	107.4107	0.0000	0.0000	0.0000	0.0000	0.0000	20.2312	35.9374	117.2313	26.1029	56.9073	0.0000	0.0000	0.0000	0.0000
+Deoxycholic acid	121.7669	50.6464	110.1354	353.7255	242.3692	61.1410	987.1996	173.0107	0.0165	0.0109	0.0086	0.0522	136.0362	36.1630	39.0895	106.7520	224.4244	177.1059	129.4415	0.0104	0.0185	0.0459	0.0352	0.0069	48.0138	345.0181	280.7201	30.2493	44.8427	0.0055	0.0102	0.0156	0.1751
+Glychocholic acid	0.3769	0.3508	0.3326	0.3639	0.4275	0.2772	0.3601	0.2894	0.5000	0.2580	0.2897	0.3923	0.5889	0.3009	0.6946	0.4169	0.3136	0.3064	0.4893	0.7419	0.2982	0.4164	0.3523	0.2902	0.2723	0.3885	0.4346	0.2923	0.5114	0.3538	0.3173	0.3289	0.4318
+Glycochenodeoxycholic acid	0.3819	0.3199	0.2963	0.2754	0.3800	0.2644	0.2691	0.2650	0.5109	0.2623	0.2920	0.3982	0.6012	0.3064	0.6826	0.3471	0.2885	0.2670	0.3774	0.7610	0.3099	0.4109	0.3618	0.2793	0.2594	0.3783	0.2665	0.2931	0.3896	0.3670	0.3083	0.3400	0.4335
+Glycodeoxycholic acid	0.3605	0.2541	0.3253	0.5094	0.4165	0.2107	0.3266	0.2396	0.3605	0.1841	0.2089	0.2834	0.5284	0.2271	0.5253	0.3871	0.3048	0.2806	0.4399	0.5255	0.2150	0.2890	0.2457	0.1998	0.2242	0.4797	0.5353	0.2093	0.2988	0.2534	0.2177	0.2326	0.3019
+GLYCO-HYODEOXYCHOLIC ACID/GLYCOURSODEOXYCHOLIC ACID	0.8131	0.6699	0.6307	0.5934	0.8122	0.5523	0.5602	0.5779	1.0712	0.5483	0.6216	0.8329	1.2761	0.6450	1.4293	0.7336	0.6168	0.5486	0.7893	0.0000	0.6385	0.8585	0.7305	0.5935	0.5540	0.7830	0.5715	0.6052	0.8109	0.7525	0.6479	0.6908	0.8991
+Glycolithocholic acid	7.0817	2.6354	5.2029	11.2252	17.0736	5.7512	8.9220	10.8989	0.9124	0.4660	0.5287	1.2169	4.1215	2.3149	3.5571	10.5172	9.2938	10.3143	1.8650	1.3301	0.5441	0.7316	0.6220	0.5058	0.4546	24.1035	7.5168	0.8315	3.0126	0.6413	0.5511	0.5887	0.7641
+g-Muricholic acid (hyocholic acid)	0.1320	0.1103	0.1022	0.0972	0.1369	0.0960	0.0920	0.0972	0.1878	0.0959	0.1088	0.1455	0.2174	0.1056	0.2463	0.1232	0.1029	0.0901	0.1320	0.2737	0.1120	0.1505	0.1280	0.1041	0.0935	0.1345	0.0954	0.1026	0.1369	0.1320	0.1134	0.1212	0.1572
+Hyodeoxycholic acid	74.2425	38.6060	47.1923	163.3613	128.8817	20.7121	549.6782	102.6577	0.0000	0.0000	0.0000	0.0000	85.0423	20.8939	17.8980	28.1836	86.8339	109.1747	63.5099	0.0000	0.0000	0.0000	0.0000	0.0000	20.6314	118.7700	68.4086	15.1735	21.9773	0.0000	0.0000	0.0000	0.0732
+Lithocholic acid	13.9205	6.0719	8.7284	18.1403	22.3268	8.1750	40.9070	26.2525	0.3288	0.1634	0.2030	0.2828	15.2069	6.3542	4.4328	10.7403	9.0541	11.1195	8.5371	0.4835	0.2253	0.2694	0.2225	0.1792	6.2697	30.7108	10.3798	3.2535	3.7896	0.2394	0.2168	0.2194	0.3460
+Taurochenodeoxycholic acid	2.7671	2.5192	3.7487	2.3086	4.2787	1.1434	2.7434	1.8672	1.6843	1.4427	1.2621	1.5452	2.0057	1.5376	2.5015	2.3739	0.8545	3.1022	1.6455	2.0487	1.1572	1.3645	1.7433	0.7060	1.2495	1.6712	0.9754	1.5173	2.9549	1.4876	1.4113	1.2362	1.8385
+Taurocholic acid	3.2639	5.8144	6.1324	7.5667	9.2089	0.7299	8.4607	2.1268	3.1016	6.7458	5.8605	3.3904	3.4707	2.7253	1.2875	4.3453	1.0912	4.7669	2.3997	3.0579	3.9818	3.0856	3.3902	0.6499	1.6923	0.7982	4.6940	2.0951	5.1886	5.1486	3.8263	3.3749	6.0442
+Taurodeoxycholic acid	2.7740	1.7694	6.3940	10.1430	6.8509	0.9969	13.4384	2.2088	0.9185	0.4692	0.5322	0.7118	1.8711	0.8682	1.2051	3.5626	1.5930	5.3779	1.5865	1.3390	0.5478	0.7365	0.6261	0.5092	1.0864	1.1889	4.0109	0.7267	2.9456	0.6456	0.5548	0.5927	0.7692
+Taurolithocolic acid	0.5724	0.4311	0.4620	0.6215	0.7041	0.3744	1.0851	0.4616	0.6537	0.3324	0.3771	0.5044	0.9315	0.3923	0.8776	0.5604	0.3568	0.4510	0.4577	0.9488	0.3881	0.5218	0.4545	0.3608	0.3408	0.4663	0.3305	0.3558	0.5136	0.4574	0.3931	0.4228	0.5450
+Tauroursodeoxycholic acid/Tauro-hyodeoxycholic acid	4.7238	3.6945	6.5033	3.3430	11.5001	0.8727	3.2427	2.4025	0.2048	0.7209	0.5615	0.4731	1.6635	1.0447	2.6422	3.6977	0.5154	4.8797	1.9086	0.0507	0.5066	0.2239	1.2636	0.0000	0.5320	0.7177	0.5456	1.7925	5.2599	0.6023	0.6768	0.7436	1.1585
+w-Muricholic acid	101.5756	70.6187	50.9380	99.7097	146.7953	50.4968	162.0692	68.9571	0.0000	0.0000	0.0000	0.0000	124.2773	71.0447	87.7668	91.8691	77.7729	108.5399	127.4876	0.0000	0.0000	0.0000	0.0000	0.0000	42.4009	92.0903	92.3630	40.9875	57.6772	0.0000	0.0000	0.8148	0.0095
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+﻿a-Muricholic acid				53477700			aMCA	UM_Target_ID
+b-Muricholic acid				5283853			bMCA	UM_Target_ID
+Chenodeoxycholic acid				10133			CDCA	UM_Target_ID
+Cholic acid				221493			CA	UM_Target_ID
+Deoxycholic acid				6742			DCA	UM_Target_ID
+Glychocholic acid				10140			GCA	UM_Target_ID
+Glycochenodeoxycholic acid				9548796			GCDCA	UM_Target_ID
+Glycodeoxycholic acid				18602029			GDCA	UM_Target_ID
+GLYCO-HYODEOXYCHOLIC ACID/GLYCOURSODEOXYCHOLIC ACID				12310288			GHDCA/GUDCA	UM_Target_ID
+Glycolithocholic acid				115245			GLCA	UM_Target_ID
+g-Muricholic acid (hyocholic acid)				92805			HCA	UM_Target_ID
+Hyodeoxycholic acid				16219478			HDCA	UM_Target_ID
+Lithocholic acid				9903			LCA	UM_Target_ID
+Taurochenodeoxycholic acid				54608447			TCDCA	UM_Target_ID
+Taurocholic acid				6675			TCA	UM_Target_ID
+Taurodeoxycholic acid				10594			TDCA	UM_Target_ID
+Taurolithocolic acid				10595			TLCA	UM_Target_ID
+Tauroursodeoxycholic acid/Tauro-hyodeoxycholic acid				9848818			THDCA/TUDCA	UM_Target_ID
+w-Muricholic acid				5283851			wMCA	UM_Target_ID
+METABOLITES_END
+#END

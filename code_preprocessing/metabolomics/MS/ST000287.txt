@@ -1,0 +1,125 @@
+#METABOLOMICS WORKBENCH efahy_20151226_121228 STUDY_ID:ST000287 ANALYSIS_ID:AN000456
+VERSION             	1
+CREATED_ON             	December 26, 2015, 12:12 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Energetics in dystrophic muscle
+PR:PROJECT_TYPE                  	Cross-sectional
+PR:PROJECT_SUMMARY               	This project utilizes mouse models to establish whether lack of
+PR:PROJECT_SUMMARY               	sarcolemma-localized nNOS impairs muscle metabolism and perfusion.
+PR:INSTITUTE                     	University of Florida
+PR:DEPARTMENT                    	Physical Therapy
+PR:LABORATORY                    	Muscle Physiology Laboratory
+PR:LAST_NAME                     	Forbes
+PR:FIRST_NAME                    	Sean
+PR:ADDRESS                       	University of Florida, College of Public Health & Health Professions, Department
+PR:ADDRESS                       	of Physical Therapy, Box 100154, UFHSC
+PR:EMAIL                         	scforbes@ufl.edu
+PR:PHONE                         	352-273-6111
+PR:FUNDING_SOURCE                	Start-up funds
+#STUDY
+ST:STUDY_TITLE                   	Energetics in dystrophic muscle
+ST:STUDY_TYPE                    	Cross-sectional
+ST:STUDY_SUMMARY                 	This project utilizes mouse models to establish whether lack of
+ST:STUDY_SUMMARY                 	sarcolemma-localized nNOS impairs muscle metabolism and perfusion.
+ST:INSTITUTE                     	University of Florida
+ST:DEPARTMENT                    	SECIM
+ST:LABORATORY                    	Muscle Physiology Laboratory
+ST:LAST_NAME                     	Forbes
+ST:FIRST_NAME                    	Sean
+ST:ADDRESS                       	University of Florida, College of Public Health & Health Professions, Department
+ST:ADDRESS                       	of Physical Therapy, Box 100154, UFHSC
+ST:EMAIL                         	scforbes@ufl.edu
+ST:PHONE                         	352-273-6111
+ST:NUM_GROUPS                    	4
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:GENDER                        	Male
+SU:ANIMAL_ANIMAL_SUPPLIER        	Jackson Lab
+SU:ANIMAL_HOUSING                	McKnight Brain Institute, UF
+SU:ANIMAL_LIGHT_CYCLE            	12 hr light/12 hr dark
+SU:ANIMAL_FEED                   	ad libtum
+SU:ANIMAL_WATER                  	ad libtum
+SU:ANIMAL_INCLUSION_CRITERIA     	males only
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	scf_01-M1	Strain:nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_01-M2	Strain:nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_01-M3	Strain:nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_01-M4	Strain:nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_01-M5	Strain:nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_02-M1	Strain:mdx-nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_02-M2	Strain:mdx-nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_02-M3	Strain:mdx-nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_02-M4	Strain:mdx-nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_02-M5	Strain:mdx-nNOS-/-	
+SUBJECT_SAMPLE_FACTORS           	-	scf_03-M1	Strain:mdx	
+SUBJECT_SAMPLE_FACTORS           	-	scf_03-M2	Strain:mdx	
+SUBJECT_SAMPLE_FACTORS           	-	scf_03-M3	Strain:mdx	
+SUBJECT_SAMPLE_FACTORS           	-	scf_03-M4	Strain:mdx	
+SUBJECT_SAMPLE_FACTORS           	-	scf_03-M5	Strain:mdx	
+SUBJECT_SAMPLE_FACTORS           	-	scf_04-M1	Strain:C57Bl/10	
+SUBJECT_SAMPLE_FACTORS           	-	scf_04-M2	Strain:C57Bl/10	
+SUBJECT_SAMPLE_FACTORS           	-	scf_04-M3	Strain:C57Bl/10	
+SUBJECT_SAMPLE_FACTORS           	-	scf_04-M4	Strain:C57Bl/10	
+SUBJECT_SAMPLE_FACTORS           	-	scf_04-M5	Strain:C57Bl/10	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Muscles extracted under isoflurane, snap frozen with liquid nitrogen, stored at
+CO:COLLECTION_SUMMARY            	-80C
+CO:COLLECTION_PROTOCOL_COMMENTS  	L3-190
+CO:COLLECTION_METHOD             	muscle extraction, frozen
+CO:COLLECTION_LOCATION           	UF, musle physiology laboratory
+CO:COLLECTION_FREQUENCY          	once/mouse
+CO:COLLECTION_DURATION           	Total ~5 min
+CO:COLLECTION_TIME               	no dose
+CO:VOLUMEORAMOUNT_COLLECTED      	entire muscles extracted
+CO:STORAGE_CONDITIONS            	-80C freezer
+CO:COLLECTION_VIALS              	2 ml vials
+CO:STORAGE_VIALS                 	2 ml vials
+CO:COLLECTION_TUBE_TEMP          	-80C
+CO:ADDITIVES                     	none
+CO:BLOOD_SERUM_OR_PLASMA         	none
+CO:TISSUE_CELL_IDENTIFICATION    	none
+CO:TISSUE_CELL_QUANTITY_TAKEN    	none
+#TREATMENT
+TR:TREATMENT_SUMMARY             	No treatment
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	NAD/ATP or NADH
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	SB_NAD-ATP_Assay.pdf, SB_NADH_Assay_Agilent.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	NAD-ATP method
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Agilent 1290 Infinity HPLC
+CH:COLUMN_NAME                	Hypercarb 2.1 x 50 mm, 3 µm column Thermo Scientific
+CH:METHODS_FILENAME           	SB_NAD-ATP_Assay_Agilent.pdf
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_COMMENTS              	NAD/ATP
+MS:INSTRUMENT_NAME               	-
+MS:INSTRUMENT_NAME          	Agilent 6490
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	pmol/mg dry powder
+MS_METABOLITE_DATA_START
+Samples	scf_01-M1	scf_01-M2	scf_01-M3	scf_01-M4	scf_01-M5	scf_02-M1	scf_02-M2	scf_02-M3	scf_02-M4	scf_02-M5	scf_03-M1	scf_03-M2	scf_03-M3	scf_03-M4	scf_03-M5	scf_04-M1	scf_04-M2	scf_04-M3	scf_04-M4	scf_04-M5
+Factors	Strain:nNOS-/-	Strain:nNOS-/-	Strain:nNOS-/-	Strain:nNOS-/-	Strain:nNOS-/-	Strain:mdx-nNOS-/-	Strain:mdx-nNOS-/-	Strain:mdx-nNOS-/-	Strain:mdx-nNOS-/-	Strain:mdx-nNOS-/-	Strain:mdx	Strain:mdx	Strain:mdx	Strain:mdx	Strain:mdx	Strain:C57Bl/10	Strain:C57Bl/10	Strain:C57Bl/10	Strain:C57Bl/10	Strain:C57Bl/10
+NMN		2.57		3.26	3.32	3.57	2.49	3.30		5.35	3.63		3.16	3.40	5.17	2.50	2.91	2.67	2.27	2.97
+NAD	1208.52	1601.82	1484.41	1837.65	1892.69	1772.16	1732.87	1157.78	1392.64	1710.87	1209.64	852.58	1478.12	1416.72	924.83	2118.29	2313.90	2318.14	2186.24	2341.62
+NADP					37.08					42.88			34.52							
+AMP	0.61	0.34	0.62	0.35	0.47	0.51	0.34	0.36	0.45	0.27	0.33	1.18	0.22	0.23	0.34		0.19			0.32
+ADP	4.16	3.50	4.70	3.57	4.01	4.36	4.07	3.08	4.16	3.66	3.33	4.20	3.02	3.13	2.66	2.72	3.30	3.11	3.23	3.64
+ATP	17.74	25.06	22.81	24.31	20.41	24.48	26.02	14.27	18.93	23.10	16.90	10.52	18.07	16.88	10.84	23.07	26.83	24.82	27.29	26.14
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	Retention Index	Moverz Quant	PubChem CID
+NMN	1.20	335.2, 123.1	14180
+NAD	1.80	664.2, 136.1	5893
+NADP	1.70	744.2, 136.1	5886
+AMP	1.50	348.1, 136.1	6083
+ADP	1.50	428.0, 136.1	6022
+ATP	1.50	508.1, 136.1	5957
+METABOLITES_END
+#END

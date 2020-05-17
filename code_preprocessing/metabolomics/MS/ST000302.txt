@@ -1,0 +1,382 @@
+#METABOLOMICS WORKBENCH efahy_20151229_082718 STUDY_ID:ST000302 ANALYSIS_ID:AN000480
+VERSION             	1
+CREATED_ON             	December 29, 2015, 8:27 am
+#PROJECT
+PR:PROJECT_TITLE                 	Isocitrate dehydrogenase-1 and Glioma Studies
+PR:PROJECT_SUMMARY               	Isocitrate dehydrogenase-1 (IDH1)is overexpresed in gliomas and knockdown of
+PR:PROJECT_SUMMARY               	IDH1 leads to increased targeted therapy-induced cell death
+PR:INSTITUTE                     	Northwestern University
+PR:DEPARTMENT                    	Neurology
+PR:LABORATORY                    	Stegh Lab
+PR:LAST_NAME                     	Stegh
+PR:FIRST_NAME                    	Alexander
+PR:ADDRESS                       	Evanston, IL
+PR:EMAIL                         	a-stegh@northwestern.edu
+PR:PHONE                         	312-503-2879
+#STUDY
+ST:STUDY_TITLE                   	Isocitrate dehydrogenase-1/Glioma Fluxomics Study
+ST:STUDY_SUMMARY                 	Tumor neurospheres were grown in culture until ~90% confluent. Media was changed
+ST:STUDY_SUMMARY                 	to contain 1mM acetate. After 24h, 0h time points were collected and media was
+ST:STUDY_SUMMARY                 	changed on all other cells to 1mM 13C-acetate containing media. Cells were then
+ST:STUDY_SUMMARY                 	collected at their various time points, 1, 3, 24, 48, or 72 hours. Cells were
+ST:STUDY_SUMMARY                 	collected into 15mL tubes, spun down at 100xg for 1min and media aspirated.
+ST:STUDY_SUMMARY                 	Pellet was washed (not resuspended) in 150mM ammonium acetate. This was then
+ST:STUDY_SUMMARY                 	aspirated off and the cells snap frozen and stored at -80C until all time points
+ST:STUDY_SUMMARY                 	complete to ship on dry ice. 0h, 1h, and 3h A, B, and C samples will have gTn by
+ST:STUDY_SUMMARY                 	HILIC + TCA by GCMS done on them, while 0h, 1h, and 3h D, E, and F will have
+ST:STUDY_SUMMARY                 	FAMES and DG & PC analysis done on them. 24h, 48h, and 72h A, B, and C samples
+ST:STUDY_SUMMARY                 	will have FAMES analysis done on them.
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@med.umich.edu
+ST:PHONE                         	(734) 232-8175
+ST:NUM_GROUPS                    	6
+ST:TOTAL_SUBJECTS                	54
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017833	Cell line:pLKO | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017834	Cell line:pLKO | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017835	Cell line:pLKO | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017836	Cell line:pLKO | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017837	Cell line:pLKO | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017838	Cell line:pLKO | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017839	Cell line:shIDH1 | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017840	Cell line:shIDH1 | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017841	Cell line:shIDH1 | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017842	Cell line:shIDH1 | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017843	Cell line:shIDH1 | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017844	Cell line:shIDH1 | Labelint time (hours):0	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017845	Cell line:pLKO | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017846	Cell line:pLKO | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017847	Cell line:pLKO | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017848	Cell line:pLKO | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017849	Cell line:pLKO | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017850	Cell line:pLKO | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017851	Cell line:shIDH1 | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017852	Cell line:shIDH1 | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017853	Cell line:shIDH1 | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017854	Cell line:shIDH1 | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017855	Cell line:shIDH1 | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017856	Cell line:shIDH1 | Labelint time (hours):1	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017857	Cell line:pLKO | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017858	Cell line:pLKO | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017859	Cell line:pLKO | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017860	Cell line:pLKO | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017861	Cell line:pLKO | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017862	Cell line:pLKO | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017863	Cell line:shIDH1 | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017864	Cell line:shIDH1 | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017865	Cell line:shIDH1 | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017866	Cell line:shIDH1 | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017867	Cell line:shIDH1 | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017868	Cell line:shIDH1 | Labelint time (hours):3	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017869	Cell line:pLKO | Labelint time (hours):24	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017870	Cell line:pLKO | Labelint time (hours):24	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017871	Cell line:pLKO | Labelint time (hours):24	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017872	Cell line:shIDH1 | Labelint time (hours):24	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017873	Cell line:shIDH1 | Labelint time (hours):24	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017874	Cell line:shIDH1 | Labelint time (hours):24	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017875	Cell line:pLKO | Labelint time (hours):48	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017876	Cell line:pLKO | Labelint time (hours):48	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017877	Cell line:pLKO | Labelint time (hours):48	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017878	Cell line:shIDH1 | Labelint time (hours):48	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017879	Cell line:shIDH1 | Labelint time (hours):48	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017880	Cell line:shIDH1 | Labelint time (hours):48	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017881	Cell line:pLKO | Labelint time (hours):72	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017882	Cell line:pLKO | Labelint time (hours):72	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017883	Cell line:pLKO | Labelint time (hours):72	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017884	Cell line:shIDH1 | Labelint time (hours):72	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017885	Cell line:shIDH1 | Labelint time (hours):72	
+SUBJECT_SAMPLE_FACTORS           	SU0011994	S00017886	Cell line:shIDH1 | Labelint time (hours):72	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Cultured cells
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Fluxomics analysis protocol-2015-03-11.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	HILIC-MS
+CH:CHROMATOGRAPHY_TYPE        	HILIC
+CH:INSTRUMENT_NAME            	Agilent 1260 LC
+CH:COLUMN_NAME                	Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea (Phenomenex Inc.)
+CH:METHODS_FILENAME           	QTOF-002-HILIC-35min-1mm.m
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:ANALYSIS_PROTOCOL_FILE   	Fluxomics analysis protocol-2015-03-11.docx
+AN:ACQUISITION_PARAMETERS_FILE	QTOF-002-HILIC-35min-1mm.m
+#MS
+MS:INSTRUMENT_TYPE          	QTOF
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+MS:INSTRUMENT_NAME               	-
+MS:INSTRUMENT_NAME          	Agilent Q-TOF 6520B
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Area
+MS_METABOLITE_DATA_START
+Samples	S00017833	S00017834	S00017835	S00017839	S00017840	S00017841	S00017845	S00017846	S00017847	S00017851	S00017852	S00017853	S00017857	S00017858	S00017859	S00017863	S00017864	S00017865
+Factors	Cell line:pLKO | Labelint time (hours):0	Cell line:pLKO | Labelint time (hours):0	Cell line:pLKO | Labelint time (hours):0	Cell line:shIDH1 | Labelint time (hours):0	Cell line:shIDH1 | Labelint time (hours):0	Cell line:shIDH1 | Labelint time (hours):0	Cell line:pLKO | Labelint time (hours):1	Cell line:pLKO | Labelint time (hours):1	Cell line:pLKO | Labelint time (hours):1	Cell line:shIDH1 | Labelint time (hours):1	Cell line:shIDH1 | Labelint time (hours):1	Cell line:shIDH1 | Labelint time (hours):1	Cell line:pLKO | Labelint time (hours):3	Cell line:pLKO | Labelint time (hours):3	Cell line:pLKO | Labelint time (hours):3	Cell line:shIDH1 | Labelint time (hours):3	Cell line:shIDH1 | Labelint time (hours):3	Cell line:shIDH1 | Labelint time (hours):3
+2PG/3PG	33064.3	35636.4	36890.4	58025.2	43522.9	37649.6	31564.5	33275.7	44136.1	38741.6	46773.1	37794.1	32109.6	32119.6	30494.0	39985.7	35031.3	32471.9
+2PG/3PG_13C_1																		
+2PG/3PG_13C_2	2575.2	487.2		907.7	1534.7	2182.7												
+2PG/3PG_13C_3																		
+6PG	613909.5	623479.9	596357.1	580167.7	575095.9	548509.3	1061142.7	1031559.0	1087622.8	1160187.5	1235942.5	1136961.3	1106989.4	1075356.4	985458.0	1286145.4	1172306.4	1112138.9
+6PG_13C_1	17956.2	17586.6	17232.7	14760.5	16455.6	12072.9	95627.3	93923.7	102526.8	135904.4	145416.0	121574.9		108621.2	110809.0	167567.9	137427.6	148857.7
+6PG_13C_2	2978.2	3915.0	3627.3		22351.9	1982.1	160542.0	174790.8	174373.1	233280.9	244068.1	204023.3	179454.5	163420.0	154946.6	251974.5	216351.1	212815.8
+6PG_13C_3							19816.6	20899.7	20321.4	39804.1	39744.5	29275.8	28129.5	26499.7	22730.5	45870.0	35519.0	37566.1
+6PG_13C_4	55.2	4.1					8342.7	9823.3	8789.0	15300.9	15150.7	12853.7	10435.3	10036.2	8626.2	19634.9	12140.1	15770.1
+6PG_13C_5					1327.6			317.4		1268.2	2467.3	725.9	253.6					
+6PG_13C_6																		
+aCoA	122978.8	79398.3	103555.6	220950.3	172090.5	172518.1	29283.3	45554.4	58710.9	55530.6	63902.6	32776.0	103571.3	100236.7	68145.3	147328.0	104858.2	117203.7
+aCoA_13C_1	2190.2	841.0	4772.6	7539.2	2521.4	1664.4			504.5	1557.0	6268.5	2570.4	897.5	1620.3		3220.4	767.5	3502.5
+aCoA_13C_2							5715.8	5998.7	7825.0	25276.5	32281.5	10807.8	11052.8	9537.1	7535.1	26811.3	22705.1	23370.2
+ADP	5701738.7	4640250.6	5192029.8	8284796.2	7061625.2	6396391.8	4329495.6	4197460.2	3583907.8	5253375.1	6455186.7	5067419.3	5027773.3	4857151.9	4188767.2	6114536.9	5569574.6	5459827.9
+ADP_13C_1																		
+ADP_13C_2		4352.7	1006.0		304.7	3808.2	16090.1	14727.4	17871.7	13972.8	23667.2	15195.5	11183.8	15268.5	15090.2	20239.5	15003.6	13910.5
+ADP_13C_3	1986.9	1623.6	822.5	5654.9		81.4	125.9			1359.7	4776.4	553.9	2410.3	1034.2	1420.6	1826.1	71.4	3385.8
+ADP_13C_4																		
+ADP_13C_5																		
+AMP	18822751.8	16727021.1	17393002.3	22197201.5	22583663.3	20613328.0	13307124.8	11797774.9	12341553.7	17094804.5	17584477.9	14723934.0	15571441.8	15761542.2	12649991.3	17920244.7	17451159.4	18241280.2
+AMP_13C_1																		
+AMP_13C_2	4320.9	2676.7	21272.8	2372.9	22820.2		32291.4	28364.1	34832.6	48179.0	50198.0	41226.6	34706.1	27335.9	30467.1	33490.3	37033.6	45466.0
+AMP_13C_3	3289.3	1663.1		592.4	308.0				1340.3	3569.4		1709.2	750.4	3607.4		3140.5	922.9	2499.9
+AMP_13C_4						158.2												41.5
+AMP_13C_5																		
+ASP	2666478.4	3062927.5	2934195.6	3105425.4	3208926.2	2905632.9	5455914.3	4913779.9	5048179.5	5394912.6	5909371.8	6127893.3	6223121.3	6146932.5	5456827.6	6125871.3	6396864.5	6431184.1
+ASP_13C_1	8162.1	6392.1	4806.2	6099.1	8269.3	3415.8	97624.6	98415.6	104137.5	143452.7	148742.0	152092.8	160370.8	150737.3	145500.9	209021.3	212058.0	227775.3
+ASP_13C_2	6991.5	3830.4	3259.7		10101.8	8868.9	377680.0	366514.0	370803.5	515442.4	547507.6	508560.8	470444.4	446532.6	366370.8	546059.2	542612.5	600328.0
+ASP_13C_3	5232.3	1312.1		2913.3		3564.8	39328.1	37496.5	28805.5	52979.6	63756.5	49927.9	43006.0	44374.3	34683.1	67393.6	61052.5	69968.5
+ASP_13C_4										2791.6	3543.9	1324.9	712.3		961.4	6416.6	6508.2	5605.5
+ATP	587767.0	467973.5	453305.2	979140.6	810824.0	821947.7	489928.4	575508.5	381614.1	598039.4	1047246.9	618221.4	500803.5	431064.8	455418.3	684822.8	557718.7	458082.8
+ATP_13C_1	8352.8	7469.2	4883.9	10238.6	9128.5	3316.8	6127.7	6107.8	3044.2	3931.6	8124.7	11401.0	6312.8	6309.5	4968.5	3927.4	7488.8	4649.8
+ATP_13C_2		207.3	627.6	1183.5	1272.5	2109.5	636.6	2463.3		1276.5	5744.5	3332.4	2308.6	1935.5	3734.8	3424.3	2575.8	1229.2
+ATP_13C_3	2017.1	3638.0	3804.6	3879.5	3494.8	4566.1	3781.3	2619.4	3786.3	2773.2	5424.2	1571.5	2241.2	615.1	911.4	6090.1	2211.6	344.1
+ATP_13C_4				1940.4		1077.3	632.0					535.4				1587.1		884.4
+ATP_13C_5																		
+CIT/ICIT	10473943.3	11647476.1	10360534.3	14396837.2	12114530.8	14086381.8	7321395.3	7702584.5	8590187.3	7424845.7	8375078.9	7695368.5	7149599.2	8021822.3	7165538.3	8259703.2	8239323.0	8327405.2
+CIT/ICIT_13C_1	117715.9		81048.5	10263.8	95662.6		169417.8	137844.3	258287.0	293041.7	340364.4	276262.1	277922.9	245557.2	249839.0	357893.1	323032.4	376349.0
+CIT/ICIT_13C_2	32277.2	27078.0	25360.5	12132.4	30383.6	31691.0	2885442.4	3595605.6	3718049.0	4353624.8	4861206.9	3569422.5	2843191.9	3084304.2	2907948.9	3486462.5	2918835.1	3277978.9
+CIT/ICIT_13C_3	2725.6	1415.5	2870.1	6471.2	3400.8	5241.8	148350.7	160544.3	125350.6	240329.6	167279.7	244368.4	180524.2	157417.6	126981.8	265974.3	242266.1	280408.7
+CIT/ICIT_13C_4							220706.5	235379.0	213099.0	417774.2	379078.5	293565.3	170293.1	220387.0	176524.5	271048.0	300884.0	259180.7
+CIT/ICIT_13C_5							22555.9	24453.4	27891.3	52214.7	63243.8	36706.2	32075.1	17921.8	20819.0	55049.6	41169.1	48655.2
+CIT/ICIT_13C_6								548.5		4184.0	4967.2	2041.2	2429.1		763.3	2538.2	1515.1	3674.9
+E4P	93495.6	100872.6	101998.8	105232.4	99215.5	105015.7	57775.4	58090.8	67787.7	63291.1	65227.9	44167.5	71010.4	70703.4	56756.5	57064.0	54452.5	48132.6
+E4P_13C_1																		
+E4P_13C_2																		
+E4P_13C_3																		
+E4P_13C_4																		
+FBP	819948.4	592760.6	584267.9	1355625.2	1059125.5	1035047.6	422073.1	463020.7	374282.7	538554.4	993939.4	485762.4	496911.1	394501.8	395799.2	561576.5	532369.3	385293.4
+FBP_13C_1	7749.1	7155.3	1967.7	12638.3	10334.3	8039.3	8604.5	7615.5	3632.4	7235.0	21544.0	7073.4	6647.0	4486.5	8426.9	7828.1	6798.8	3800.6
+FBP_13C_2	3664.0	1090.8	2747.0	8231.1	6272.6	4578.9	3114.4	1718.9	2599.9	3210.3	7730.6	3273.9	2816.4	4881.6	3770.8	3318.9	4272.0	1773.8
+FBP_13C_3																		
+FBP_13C_4																		
+FBP_13C_5																		
+FBP_13C_6																		
+G3P	98115.2	91471.2	86912.9	75685.7	78214.1	67550.8	58256.0	43612.6	53938.6	63244.4	54794.2	52084.8	65789.0	60291.3	65128.3	76510.2	74656.4	70179.3
+G3P_13C_1																		
+G3P_13C_2																		
+G3P_13C_3																		
+G6P/F6P	3334184.4	3154629.1	3187308.4	3688889.7	3047958.9	3395112.3	1478085.6	1669388.4	1629740.1	1508501.1	2082627.7	1208158.5	2043053.9	1798339.5	1632468.1	1750037.3	1531077.9	1312863.6
+G6P/F6P_13C_1	31263.4	13598.9	800.7	25660.7	24808.9	489.9	7945.7	17576.1	7899.6	10826.7	15073.1	13411.3	11663.9	13044.1	12188.9	11989.2	15558.3	6566.0
+G6P/F6P_13C_2																		
+G6P/F6P_13C_3	4735.0	3877.2	1843.3	5444.4	4156.5	4444.6	2269.0	2097.5	2877.4	202.0	3299.1	2520.0	341.5	1474.8			2154.3	2899.5
+G6P/F6P_13C_4																		
+G6P/F6P_13C_5																		
+G6P/F6P_13C_6											1223.9							
+GI_OH3P	82281.5	44408.7	59804.8	230146.7	142868.0	119515.5	36024.0	57283.2	111844.0	284265.5	394797.5	73832.5	118843.1	84158.6	54306.6	170978.4	97690.5	143364.6
+GI_OH3P_13C_1					121.0			203.6		74.2								1777.9
+GI_OH3P_13C_2			2514.6			2999.4		110.5			2049.7	48.4			149.5			
+GI_OH3P_13C_3																		
+GLU	7561691.5	8499688.6	8139128.5	8933081.7	8761449.5	7907856.7	5855323.1	5595990.7	5806294.3	6438846.2	6997665.6	6721993.9	7481188.9	6647505.3	6322365.2	7664440.1	7644203.5	7868122.2
+GLU_13C_1	20339.2	3003.4	16684.3	16176.9	16136.6	21458.0	156757.1	150699.7	157717.4	224545.1	254969.6	212652.2	215069.1	230023.7	256876.4	259116.8	229722.0	322620.9
+GLU_13C_2	654.9	678.0		1844.8	3609.9	1747.2	1380571.0	1485767.4	1545198.6	1975461.7	2309298.4	1762667.7	1744990.5	1741849.2	1609991.1	2149636.7	2117644.1	2327494.1
+GLU_13C_3			241.2				86903.9	86591.2	88173.2	154472.9	174344.8	127511.9	133374.9	118899.8	117146.1	202433.3	169388.0	191576.7
+GLU_13C_4							65486.2	65925.6	69341.5	119601.9	145885.1	97111.9	98928.4	85195.8	85975.5	152727.0	121058.8	142192.1
+GLU_13C_5							2922.0	898.5	4122.7	8744.9	11093.5	6313.1	5998.9	5458.9	5175.1	17669.6	9550.4	10353.5
+LAC	1316246.6	765940.8	1130747.3	2031946.7	1757441.4	1668463.3	442684.9	494453.3	600204.7	608873.9	1006959.9	653599.4	782771.8	725471.8	554998.6	1113549.7	922187.7	981906.1
+LAC_13C_1																		
+LAC_13C_2																		
+LAC_13C_3																		
+MAL	7108501.4	7132702.9	7108694.4	8657604.0	8428157.3	7643632.9	9776389.9	8974627.4	9332705.0	11808343.5	13027797.0	11080540.5	10153203.6	9678892.8	8941695.3	12109459.9	11402726.4	11172326.0
+MAL_13C_1	23538.8	2300.1	149.8	13078.0	1425.0		166332.3	194914.2	216127.1	338524.0	337337.7	275053.4	292651.8	250126.5	213617.8	417387.8	333545.0	372010.1
+MAL_13C_2	5633.5	806.4	6952.2	4140.1	4585.1	5851.7	688914.3	727881.2	697238.6	1225423.7	1320152.0	940661.9	759112.0	746302.2	591380.8	1207815.4	1031660.4	992900.4
+MAL_13C_3							50667.4	65799.8	70486.6	136795.7	152111.8	103131.3	79095.3	72897.3	65619.9	150511.0	122725.8	140094.5
+MAL_13C_4						915.8	4210.8	6407.9	14210.4	16054.9	21113.1	11066.6	14197.0	8345.8	4822.9	23378.2	19222.8	16143.6
+mCoA	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+mCoA_13C_1																		
+mCoA_13C_2																		
+mCoA_13C_3																		
+NAD	1002183.8	904590.3	919532.3	1002128.3	948736.9	883854.6	758337.9	692627.2	674551.6	672382.0	733041.3	685644.1	811823.6	795859.2	717895.5	807128.3	698425.8	721066.7
+NAD_13C_1	1222.9	1797.5	3004.7			9186.1				999.2	3835.7	4420.5	5416.7	6737.4	7555.1	7755.8	11976.3	2418.1
+NAD_13C_2	1396.1					20.2				2120.8			1555.0		909.6		1751.5	757.3
+NAD_13C_3		793.2		713.5							199.0							
+NAD_13C_4																		
+NAD_13C_5																		
+NADH	514622.3	401252.5	455269.9	786828.1	753505.7	739550.9	451165.7	504965.3	776954.4	855893.9	879146.5	585191.5	633872.9	659544.5	466619.3	763391.9	634233.7	778814.2
+NADH_13C_1	5185.9	2132.2	7205.1	4489.2	2208.8	8017.5			8276.7	159.5		1197.7	4460.6	172.1	3837.1	3498.5	14165.2	6385.0
+NADH_13C_2	1529.0	3243.0	661.1	5774.3	3602.7	919.1	2018.6	801.9	2980.5	6022.8	6518.8	4487.7	2419.7	3467.0	1789.1	5950.1	1193.5	4092.9
+NADH_13C_3															445.8			
+NADH_13C_4	6484.6	4614.7	3836.7	17085.9	15792.5	14274.9	1576.8		4206.0	13929.8	9651.4	9173.5	6344.6	2626.1	584.4	13538.1	8404.0	12781.2
+NADH_13C_5																		
+PEP			1092.2	1594.7	1954.2	2451.6			3709.6		1079.0	1901.6		2792.1	1571.8	1804.5	3510.2	1748.3
+PEP_13C_1																		
+PEP_13C_2																		
+PEP_13C_3																		
+R5P/X5P	341254.4	320923.8	309060.0	429694.3	383922.6	363337.5	245842.2	319784.2	331714.9	323223.7	388845.3	310182.8	299267.4	250686.7	239885.6	252023.3	228512.2	205677.3
+R5P/X5P_13C_1	2141.2	5207.5	5827.4	4805.8	3586.4	7232.3	4254.8	4037.7	4868.8	3008.6	5538.2	4941.4	5743.0	5355.5	4158.2	5936.0	3257.6	5822.0
+R5P/X5P_13C_2																		
+R5P/X5P_13C_3																		
+R5P/X5P_13C_4						1706.5					1411.0		905.6					
+R5P/X5P_13C_5																		
+S7P	391879.5	445976.6	375548.5	432159.9	368141.4	432457.0	374777.7	462021.1	461553.9	314671.7	374837.4	327878.5	457097.0	372976.7	390597.5	303655.2	283832.6	210544.7
+S7P_13C_1	2887.2	1884.7	6070.9		3039.8				14137.6	284.4	7376.2		7342.9			4430.9	4186.3	20601.5
+S7P_13C_2					249.3			987.5										
+S7P_13C_3																		
+S7P_13C_4												1793.7						
+S7P_13C_5																		
+S7P_13C_6																		
+S7P_13C_7																		
+SUC	559641.7	501886.8	521778.0	852095.9	817452.1	731169.2	621980.8	594276.9	670221.3	903598.3	991554.2	782901.8	768681.9	724958.0	583156.1	947430.7	809789.9	878164.5
+SUC_13C_1		1314.8	91.6	4111.8	1889.5	2002.6	25916.6	25369.5	24551.2	57669.8	65210.6	45298.0	36005.0	33052.5	27269.7	61462.3	49328.7	51328.9
+SUC_13C_2																		
+SUC_13C_3																		
+SUC_13C_4																		
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	Full name	PubChem CID
+2PG/3PG	2 or 3-phosphoglycerate	724
+2PG/3PG_13C_1	2 or 3-phosphoglycerate	724
+2PG/3PG_13C_2	2 or 3-phosphoglycerate	724
+2PG/3PG_13C_3	2 or 3-phosphoglycerate	724
+6PG	6-Phosphogluconate	91493
+6PG_13C_1	6-Phosphogluconate	91493
+6PG_13C_2	6-Phosphogluconate	91493
+6PG_13C_3	6-Phosphogluconate	91493
+6PG_13C_4	6-Phosphogluconate	91493
+6PG_13C_5	6-Phosphogluconate	91493
+6PG_13C_6	6-Phosphogluconate	91493
+aCoA	Acetyl-CoA	444493
+aCoA_13C_1	Acetyl-CoA	444493
+aCoA_13C_2	Acetyl-CoA	444493
+ADP	Adenosine diphosphate	6022
+ADP_13C_1	Adenosine diphosphate	6022
+ADP_13C_2	Adenosine diphosphate	6022
+ADP_13C_3	Adenosine diphosphate	6022
+ADP_13C_4	Adenosine diphosphate	6022
+ADP_13C_5	Adenosine diphosphate	6022
+AMP	Adenosine monophosphate	6083
+AMP_13C_1	Adenosine monophosphate	6083
+AMP_13C_2	Adenosine monophosphate	6083
+AMP_13C_3	Adenosine monophosphate	6083
+AMP_13C_4	Adenosine monophosphate	6083
+AMP_13C_5	Adenosine monophosphate	6083
+ASP	Aspartate	424
+ASP_13C_1	Aspartate	424
+ASP_13C_2	Aspartate	424
+ASP_13C_3	Aspartate	424
+ASP_13C_4	Aspartate	424
+ATP	Adenosine triphosphate	5957
+ATP_13C_1	Adenosine triphosphate	5957
+ATP_13C_2	Adenosine triphosphate	5957
+ATP_13C_3	Adenosine triphosphate	5957
+ATP_13C_4	Adenosine triphosphate	5957
+ATP_13C_5	Adenosine triphosphate	5957
+CIT/ICIT	Citrate or Isocitrate	311
+CIT/ICIT_13C_1	Citrate or Isocitrate	311
+CIT/ICIT_13C_2	Citrate or Isocitrate	311
+CIT/ICIT_13C_3	Citrate or Isocitrate	311
+CIT/ICIT_13C_4	Citrate or Isocitrate	311
+CIT/ICIT_13C_5	Citrate or Isocitrate	311
+CIT/ICIT_13C_6	Citrate or Isocitrate	311
+E4P	Erythrose 4-phosphate	122357
+E4P_13C_1	Erythrose 4-phosphate	122357
+E4P_13C_2	Erythrose 4-phosphate	122357
+E4P_13C_3	Erythrose 4-phosphate	122357
+E4P_13C_4	Erythrose 4-phosphate	122357
+FBP	Fructose 1,6-bisphosphate	21125049
+FBP_13C_1	Fructose 1,6-bisphosphate	21125049
+FBP_13C_2	Fructose 1,6-bisphosphate	21125049
+FBP_13C_3	Fructose 1,6-bisphosphate	21125049
+FBP_13C_4	Fructose 1,6-bisphosphate	21125049
+FBP_13C_5	Fructose 1,6-bisphosphate	21125049
+FBP_13C_6	Fructose 1,6-bisphosphate	21125049
+G3P	3-phosphoglyceraldehyde	729
+G3P_13C_1	3-phosphoglyceraldehyde	729
+G3P_13C_2	3-phosphoglyceraldehyde	729
+G3P_13C_3	3-phosphoglyceraldehyde	729
+G6P/F6P	Glucose 6-phosphate or fructose-6-phosphate	5958
+G6P/F6P_13C_1	Glucose 6-phosphate or fructose-6-phosphate	5958
+G6P/F6P_13C_2	Glucose 6-phosphate or fructose-6-phosphate	5958
+G6P/F6P_13C_3	Glucose 6-phosphate or fructose-6-phosphate	5958
+G6P/F6P_13C_4	Glucose 6-phosphate or fructose-6-phosphate	5958
+G6P/F6P_13C_5	Glucose 6-phosphate or fructose-6-phosphate	5958
+G6P/F6P_13C_6	Glucose 6-phosphate or fructose-6-phosphate	5958
+GI_OH3P	3-Glycerophosphate	754
+GI_OH3P_13C_1	3-Glycerophosphate	754
+GI_OH3P_13C_2	3-Glycerophosphate	754
+GI_OH3P_13C_3	3-Glycerophosphate	754
+GLU	Glutamate	611
+GLU_13C_1	Glutamate	611
+GLU_13C_2	Glutamate	611
+GLU_13C_3	Glutamate	611
+GLU_13C_4	Glutamate	611
+GLU_13C_5	Glutamate	611
+LAC	Lactate	612
+LAC_13C_1	Lactate	612
+LAC_13C_2	Lactate	612
+LAC_13C_3	Lactate	612
+MAL	Malate	525
+MAL_13C_1	Malate	525
+MAL_13C_2	Malate	525
+MAL_13C_3	Malate	525
+MAL_13C_4	Malate	525
+mCoA	Malonyl-CoA	10663
+mCoA_13C_1	Malonyl-CoA	10663
+mCoA_13C_2	Malonyl-CoA	10663
+mCoA_13C_3	Malonyl-CoA	10663
+NAD	Nicotinamide Adenine Dinucleotide oxidized	15938971
+NAD_13C_1	Nicotinamide Adenine Dinucleotide oxidized	15938971
+NAD_13C_2	Nicotinamide Adenine Dinucleotide oxidized	15938971
+NAD_13C_3	Nicotinamide Adenine Dinucleotide oxidized	15938971
+NAD_13C_4	Nicotinamide Adenine Dinucleotide oxidized	15938971
+NAD_13C_5	Nicotinamide Adenine Dinucleotide oxidized	15938971
+NADH	Nicotinamide Adenine Dinucleotide reduced	439153
+NADH_13C_1	Nicotinamide Adenine Dinucleotide reduced	439153
+NADH_13C_2	Nicotinamide Adenine Dinucleotide reduced	439153
+NADH_13C_3	Nicotinamide Adenine Dinucleotide reduced	439153
+NADH_13C_4	Nicotinamide Adenine Dinucleotide reduced	439153
+NADH_13C_5	Nicotinamide Adenine Dinucleotide reduced	439153
+PEP	Phosphoenolpyruvate	1005
+PEP_13C_1	Phosphoenolpyruvate	1005
+PEP_13C_2	Phosphoenolpyruvate	1005
+PEP_13C_3	Phosphoenolpyruvate	1005
+R5P/X5P	Ribose-5-phosphate or xylulose 5-phosphate	77982
+R5P/X5P_13C_1	Ribose-5-phosphate or xylulose 5-phosphate	77982
+R5P/X5P_13C_2	Ribose-5-phosphate or xylulose 5-phosphate	77982
+R5P/X5P_13C_3	Ribose-5-phosphate or xylulose 5-phosphate	77982
+R5P/X5P_13C_4	Ribose-5-phosphate or xylulose 5-phosphate	77982
+R5P/X5P_13C_5	Ribose-5-phosphate or xylulose 5-phosphate	77982
+S7P	Sedoheptulose 7-phosphate	165007
+S7P_13C_1	Sedoheptulose 7-phosphate	165007
+S7P_13C_2	Sedoheptulose 7-phosphate	165007
+S7P_13C_3	Sedoheptulose 7-phosphate	165007
+S7P_13C_4	Sedoheptulose 7-phosphate	165007
+S7P_13C_5	Sedoheptulose 7-phosphate	165007
+S7P_13C_6	Sedoheptulose 7-phosphate	165007
+S7P_13C_7	Sedoheptulose 7-phosphate	165007
+SUC	Sucrose	5988
+SUC_13C_1	Sucrose	5988
+SUC_13C_2	Sucrose	5988
+SUC_13C_3	Sucrose	5988
+SUC_13C_4	Sucrose	5988
+METABOLITES_END
+#END

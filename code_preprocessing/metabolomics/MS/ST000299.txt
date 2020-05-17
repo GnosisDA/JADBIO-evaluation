@@ -1,0 +1,217 @@
+#METABOLOMICS WORKBENCH efahy_20151228_120838 STUDY_ID:ST000299 ANALYSIS_ID:AN000477
+VERSION             	1
+CREATED_ON             	December 28, 2015, 12:08 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Conjugated linoleic acid (CLA) metabolomics
+PR:PROJECT_SUMMARY               	Effects of CLA on lipid metabolism in obese mice
+PR:INSTITUTE                     	University of Washington
+PR:DEPARTMENT                    	Medicine/Metabolism
+PR:LABORATORY                    	Chait Lab
+PR:LAST_NAME                     	den Hartigh
+PR:FIRST_NAME                    	Laura
+PR:ADDRESS                       	Seattle, WA
+PR:EMAIL                         	lauradh@uw.edu
+PR:PHONE                         	206-543-2264
+#STUDY
+ST:STUDY_TITLE                   	Conjugated linoleic acid (CLA) study in LDLR-/- mice
+ST:STUDY_TYPE                    	Acylcarnitine analysis
+ST:STUDY_SUMMARY                 	LDLR-/- mice were fed a high fat high sucrose diet with either 9,11 CLA or 10,12
+ST:STUDY_SUMMARY                 	CLA. Control groups included no supplementation or caloric restriction to mirror
+ST:STUDY_SUMMARY                 	weight loss seen in CLA group. Mice were sacrificed and blood was collected into
+ST:STUDY_SUMMARY                 	EDTA tubes. Isolated plasma was immediately frozen at -80C. Adipose tissue from
+ST:STUDY_SUMMARY                 	gonadal fat (epididymal white adipose tissue, EWAT) and subcutaneous fat
+ST:STUDY_SUMMARY                 	(inguinal white adipose tissue, IWAT) and liver were harvested, snap frozen in
+ST:STUDY_SUMMARY                 	liquid nitrogen, and immediately frozen at -80C. An aliquot of thawed plasma was
+ST:STUDY_SUMMARY                 	prepared for this project and frozen in an eppendorf tube. Small pieces of
+ST:STUDY_SUMMARY                 	frozen tissue were cut and weighed on dry ice and packaged in individual foil
+ST:STUDY_SUMMARY                 	packets for this project. **Note: tissue weight is approximate**
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@med.umich.edu
+ST:PHONE                         	(734) 232-8175
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	80
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017431	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017432	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017433	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017434	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017435	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017436	Sample type:Plasma | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017437	Sample type:Plasma | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017438	Sample type:Plasma | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017439	Sample type:Plasma | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017440	Sample type:Plasma | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017441	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017442	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017443	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017444	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017445	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017446	Sample type:Plasma | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017447	Sample type:Plasma | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017448	Sample type:Plasma | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017449	Sample type:Plasma | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017450	Sample type:Plasma | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017451	Sample type:Epididymal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017452	Sample type:Epididymal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017453	Sample type:Epididymal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017454	Sample type:Epididymal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017455	Sample type:Epididymal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017456	Sample type:Epididymal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017457	Sample type:Epididymal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017458	Sample type:Epididymal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017459	Sample type:Epididymal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017460	Sample type:Epididymal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017461	Sample type:Epididymal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017462	Sample type:Epididymal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017463	Sample type:Epididymal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017464	Sample type:Epididymal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017465	Sample type:Epididymal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017466	Sample type:Epididymal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017467	Sample type:Epididymal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017468	Sample type:Epididymal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017469	Sample type:Epididymal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017470	Sample type:Epididymal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017471	Sample type:Inguinal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017472	Sample type:Inguinal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017473	Sample type:Inguinal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017474	Sample type:Inguinal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017475	Sample type:Inguinal white adipose tissue | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017476	Sample type:Inguinal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017477	Sample type:Inguinal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017478	Sample type:Inguinal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017479	Sample type:Inguinal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017480	Sample type:Inguinal white adipose tissue | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017481	Sample type:Inguinal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017482	Sample type:Inguinal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017483	Sample type:Inguinal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017484	Sample type:Inguinal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017485	Sample type:Inguinal white adipose tissue | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017486	Sample type:Inguinal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017487	Sample type:Inguinal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017488	Sample type:Inguinal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017489	Sample type:Inguinal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017490	Sample type:Inguinal white adipose tissue | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017491	Sample type:Liver | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017492	Sample type:Liver | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017493	Sample type:Liver | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017494	Sample type:Liver | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017495	Sample type:Liver | Diet modification:9,11-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017496	Sample type:Liver | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017497	Sample type:Liver | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017498	Sample type:Liver | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017499	Sample type:Liver | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017500	Sample type:Liver | Diet modification:Caloric restriction	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017501	Sample type:Liver | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017502	Sample type:Liver | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017503	Sample type:Liver | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017504	Sample type:Liver | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017505	Sample type:Liver | Diet modification:10,12-conjugated linoleic acid	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017506	Sample type:Liver | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017507	Sample type:Liver | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017508	Sample type:Liver | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017509	Sample type:Liver | Diet modification:None	
+SUBJECT_SAMPLE_FACTORS           	SU0011757	S00017510	Sample type:Liver | Diet modification:None	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Blood, tissues
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	AcylCarnitines - 20150305.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Agilent 1260 LC
+CH:COLUMN_NAME                	Waters X BridgeC18 1mm x 50mm
+CH:METHODS_FILENAME           	QM_004XBridge2mm_ACAR_MRM20150412.m
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:ANALYSIS_PROTOCOL_FILE   	AcylCarnitines - 20150305.docx
+AN:ACQUISITION_PARAMETERS_FILE	QM_004XBridge2mm_ACAR_MRM20150412.m
+AN:PROCESSING_PARAMETERS_FILE	EX00409-ACAR-Quant-method.m
+#MS
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:INSTRUMENT_NAME               	-
+MS:INSTRUMENT_NAME          	Agilent 6410A QQQ
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	uM
+MS_METABOLITE_DATA_START
+Samples	S00017431	S00017432	S00017433	S00017434	S00017435	S00017436	S00017437	S00017438	S00017439	S00017440	S00017441	S00017442	S00017443	S00017444	S00017445	S00017446	S00017447	S00017448	S00017449	S00017450
+Factors	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	Sample type:Plasma | Diet modification:9,11-conjugated linoleic acid	Sample type:Plasma | Diet modification:Caloric restriction	Sample type:Plasma | Diet modification:Caloric restriction	Sample type:Plasma | Diet modification:Caloric restriction	Sample type:Plasma | Diet modification:Caloric restriction	Sample type:Plasma | Diet modification:Caloric restriction	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	Sample type:Plasma | Diet modification:10,12-conjugated linoleic acid	Sample type:Plasma | Diet modification:None	Sample type:Plasma | Diet modification:None	Sample type:Plasma | Diet modification:None	Sample type:Plasma | Diet modification:None	Sample type:Plasma | Diet modification:None
+Carnitine	1382.377788	12.2192453	20.0743578	10.7736231	12.86481679	15.10487152	14.83978347	17.97811498	10.45096834	15.29079142	26.25969025	15.19691518	19.17300867	13.66931093	15.17132844	11.94723097	11.32541421	19.97842162	12.79676918	11.31177192
+CAR(2:0)	10.97036324	12.11630535	11.03316386	10.12862668	11.55714543	16.94178259	13.33489266	13.00268677	13.59005441	12.80306858	13.57593643	15.4294811	11.59346988	10.76582396	12.60261172	12.12621733	10.91894627	10.58065199	12.08474755	8.79564457
+CAR(3:0)	0.361730524	0.41940269	0.315210339	0.406335197	0.312311094	0.28520846	0.338904645	0.346975925	0.297980908	0.290133799	0.512735155	0.535393331	0.493200065	0.34599066	0.352800387	0.347072795	0.275794025	0.316304983	0.369620397	0.229348404
+CAR(4:0)	0.002858944	0.004373716	0.002875234	0.002109421	0.002797221	0.002520309	0.002324573	0.002023507	0.0021731	0.001679403	0.003323822	0.004258668	0.003185053	0.003798934	0.003098549	0.003017836	0.002672924	0.003973897	0.004076235	0.003147002
+CAR(5:0)	0.054184285	0.049968509	0.154640372	0.091457584	0.068599078	0.048623565	0.06320824	0.124490568	0.052980853	0.082872067	0.110949895	0.043042573	0.043056476	0.047186322	0.050209672	0.041821149	0.063316018	0.215882425	0.043943962	0.13609005
+CAR(5:0-DC)	0.115306068	0.29243186	0.647234955	0.291259795	0.379919306	0.23117219	0.113698877	0.657078466	0.234822889	0.340489959	0.536591356	0.290720963	0.331883861	0.291013878	0.331926249	0.250872627	0.170078176	0.117313828	0.183206408	0.474086774
+CAR(6:0)	0.075138526	0.126050514	0.093205552	0.051704356	0.067112775	0.066705802	0.061546025	0.053620318	0.10240113	0.041444927	0.090189081	0.190781109	0.10398582	0.080547339	0.057518087	0.077868103	0.056167676	0.153800887	0.047019611	0.050331813
+CAR(8:0)	0.006317838	0.009581319	0.009730025	0.007499171	0.009080303	0.005981703	0.006272613	0.005854308	0.008055385	0.005807145	0.010338504	0.010889979	0.007302474	0.007746233	0.008853478	0.00869005	0.007007263	0.010699273	0.006411639	0.007860671
+CAR(8:1)	0.001219586	0.0014691	0.002081842	0.001465722	0.003006499	0.001051895	0.001257527	0.001247052	0.001375727	0.001039575	0.002123785	0.001884231	0.0015028	0.001395836	0.001046899	0.00174811	0.001955808	0.004132955	0.00410604	0.005505311
+CAR(10:0)	0.001628678	0.002708279	0.002792757	0.001789665	0.00264952	0.001235659	0.000835906	0.001158419	0.001984469	0.000827534	0.001927732	0.002048812	0.001606813	0.001816263	0.001412737	0.001410649	0.001526312	0.003984149	0.001627733	0.002255032
+CAR(10:1)	0.000836816	0.001015694	0.001137485	0.000828566	0.001878735	0.001197257	0.000738682	0.000951469	0.001121826	0.000753301	0.000824901	0.000852391	0.000757666	0.000895615	0.000701984	0.000405516	0.000606986	0.002528263	0.00174026	0.001514541
+CAR(12:0)	0.015069335	0.023342846	0.016357799	0.01006714	0.012233838	0.009894943	0.006636302	0.007235751	0.011741947	0.006337782	0.011328653	0.017531474	0.014091609	0.00911318	0.009809855	0.016704045	0.011020928	0.018086312	0.010123281	0.011517485
+CAR(12:1)	0.002461189	0.003996569	0.002701131	0.002313486	0.001714954	0.001971432	0	0.001323374	0.002587714	0.00124311	0.001564195	0.003213372	0	0.001506255	0.001835312	0.002980377	0.002024003	0.003089485	0.001428403	0.001979955
+CAR(12-OH)	0.000183681	0.000286073	0.000246542	0.000115494	0.000237679	0.000110186	5.38085E-05	6.3065E-05	0.000160029	0.00010531	0.000108278	0.000188597	6.96567E-05	0.000128801	9.97173E-05	0.000253422	0.000253972	0.000437204	0.000193109	0.000380328
+CAR(14:0)	0.12201126	0.196114855	0.126383902	0.090186274	0.105140844	0.091881606	0.057227144	0.056287804	0.066698255	0.058830813	0.083832828	0.126144407	0.116620196	0.065077462	0.084102679	0.152880044	0.09079688	0.150292406	0.082255432	0.101914071
+CAR(14:1)	0.04936252	0.080049973	0.060970524	0.040730605	0.041212909	0.062138264	0.039528635	0.031393406	0.055615052	0.036115645	0.044131058	0.073227246	0.069206464	0.044386255	0.042791754	0.058359608	0.038144314	0.05860789	0.035822444	0.030392493
+CAR(14:2)	0.00615207	0.008218945	0.007251691	0.00566531	0.005254593	0.005818667	0.00499756	0.004407137	0.006946502	0.003186348	0.005450415	0.007047204	0.007600774	0.005055957	0.005630448	0.007848286	0.006050987	0.007824286	0.005015683	0.004618102
+CAR(14:0-OH)	0.005170275	0.011257995	0.009780992	0.002578672	0.005064121	0.002937358	0.001762832	0.00314601	0.003120791	0.001376279	0.003672246	0.004232688	0.00309841	0.001937026	0.002765342	0.008746092	0.003950755	0.012709689	0.004868343	0.007242206
+CAR(16:0)	0.7987832	1.180999436	0.786144895	0.550350692	0.713860966	0.474219842	0.327061177	0.36419783	0.437095755	0.363083417	0.490724334	0.709608258	0.683339423	0.380208473	0.554654645	0.948374782	0.572405259	0.801782867	0.563528011	0.630203221
+CAR(16:1)	0.365550513	0.638045368	0.433831338	0.212929618	0.256721339	0.180656544	0.106363263	0.121858515	0.19329255	0.10876552	0.178877446	0.313576724	0.233014609	0.126270825	0.202512603	0.400390803	0.217248881	0.500093443	0.2135045	0.270054465
+CAR(16:0-OH)	0.032251434	0.069809632	0.056470001	0.014987629	0.027945836	0.016063241	0.010190329	0.019699089	0.017831748	0.009038417	0.028364112	0.028538449	0.022587456	0.013643173	0.019738661	0.056373159	0.024934404	0.072817154	0.026615368	0.04491235
+CAR(18:0)	0.599805688	0.866435575	0.677204343	0.232522985	0.480991029	0.272006829	0.168036812	0.23580197	0.239391839	0.24639991	0.328691894	0.486050727	0.482708058	0.216540045	0.321112888	0.749805958	0.363203601	0.688751399	0.414995658	0.41286782
+CAR(18:1)	2.091340452	2.961148268	2.129023451	1.21633961	1.362557489	1.361404543	0.788313446	0.95631284	1.088904248	1.054702899	1.00022173	1.827411032	1.775621339	1.003663798	1.328953968	1.964235528	1.319216626	2.144030476	1.171790856	1.318076583
+CAR(18:2)	0.141846618	0.179399439	0.173772864	0.094194765	0.093870271	0.102600275	0.078304301	0.08297058	0.122007124	0.084175268	0.11389676	0.147571732	0.127955259	0.07343792	0.104194719	0.137775785	0.103680457	0.183323517	0.102830668	0.126539759
+CAR(18:2-OH)	0.030898024	0.058200565	0.040488615	0.016188211	0.027599839	0.023536335	0.015094912	0.02253929	0.024203692	0.014074326	0.022059585	0.034723279	0.029746608	0.01556363	0.022128861	0.047236257	0.027032359	0.058471724	0.021182746	0.035906754
+CAR(20:0)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAR(20:1)	0.072645542	0.108475715	0.07549236	0.042174261	0.034567446	0.024352522	0.020992466	0.020024642	0.02232719	0.021894421	0.028278654	0.073230452	0.062910149	0.037890006	0.056445036	0.092058534	0.046747177	0.096348243	0.039578887	0.034947989
+CAR(20:2)	0.030065338	0.04858414	0.04062141	0.017383637	0.027254321	0.020901257	0.011725637	0.02268778	0.017202679	0.015655132	0.021505405	0.024463406	0.025880119	0.011517897	0.018775368	0.045711784	0.023838425	0.052220225	0.029569975	0.028120253
+CAR(20:3)	0.004666787	0.007115448	0.005578308	0.003285053	0.004137877	0.002512851	0.001889693	0.002779404	0.003326383	0.001861852	0.0035338	0.00552905	0.004792207	0.002506772	0.003511041	0.00725203	0.004362264	0.006541877	0.004699036	0.00431932
+CAR(20:4)	0.021115069	0.036823873	0.030048105	0.015623541	0.017508548	0.013716355	0.01231743	0.014994634	0.020443602	0.012337287	0.017686599	0.032871796	0.02898849	0.015678022	0.014989723	0.030241182	0.018478129	0.03239071	0.017623422	0.016575111
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	PubChem CID
+Carnitine	288
+CAR(2:0)	1
+CAR(3:0)	107738
+CAR(4:0)	213144
+CAR(5:0)	6426851
+CAR(5:0-DC)	71317118
+CAR(6:0)	3082079
+CAR(8:0)	123701
+CAR(8:1)	77908888
+CAR(10:0)	10245190
+CAR(10:1)	57357170
+CAR(12:0)	10427569
+CAR(12:1)	87087953
+CAR(12-OH)	71464535
+CAR(14:0)	6426854
+CAR(14:1)	87088002
+CAR(14:2)	87087940
+CAR(14:0-OH)	71464541
+CAR(16:0)	11953816
+CAR(16:1)	76040365
+CAR(16:0-OH)	71464553
+CAR(18:0)	6426855
+CAR(18:1)	6441392
+CAR(18:2)	53477834
+CAR(18:2-OH)	71464556
+CAR(20:0)	53477833
+CAR(20:1)	71464507
+CAR(20:2)	71464509
+CAR(20:3)	54500892
+CAR(20:4)	53477832
+METABOLITES_END
+#END

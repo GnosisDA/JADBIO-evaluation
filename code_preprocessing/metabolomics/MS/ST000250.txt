@@ -1,0 +1,164 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000250 ANALYSIS_ID:AN000394
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	The Role of Obesity and Adipocytes in Immune Activation on Antiretroviral
+PR:PROJECT_TYPE                  	Clinical research
+PR:PROJECT_SUMMARY               	The goal of this study is the use metabolomics to probe the role of BCAA
+PR:PROJECT_SUMMARY               	in the apthogenisis of insulin-resistance associated with HIV-infection/ART. We
+PR:PROJECT_SUMMARY               	also quantify the plasma levels of 2-HBA in HIV-infected, ART -treated
+PR:PROJECT_SUMMARY               	These patients were substratified into obese or lean subjects
+PR:INSTITUTE                     	Vanderbilt University
+PR:DEPARTMENT                    	Division of Infectious Diseases
+PR:LAST_NAME                     	Koethe
+PR:FIRST_NAME                    	John
+PR:ADDRESS                       	A2200-MCN, 1161 21st Ave South, Nashville, TN  37232-2582
+PR:EMAIL                         	john.r.koethe@vanderbilt.edu
+PR:PHONE                         	615-343-0533
+PR:FUNDING_SOURCE                	National Institute of Allergy and Infectious Diseases
+#STUDY
+ST:STUDY_TITLE                   	The Role of Obesity and Adipocytes in Immune Activation on Antiretroviral
+ST:STUDY_TYPE                    	Observational, no intervention
+ST:STUDY_SUMMARY                 	Cross-sectional, three arms
+ST:INSTITUTE                     	University of Florida
+ST:DEPARTMENT                    	SECIM
+ST:LAST_NAME                     	Koethe
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	A2200-MCN, 1161 21st Ave South, Nashville, TN  37232-2582
+ST:EMAIL                         	john.r.koethe@vanderbilt.edu
+ST:PHONE                         	615-343-0533
+ST:NUM_GROUPS                    	3
+ST:TOTAL_SUBJECTS                	100 patients, one sample per patient
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:SPECIES_GROUP                 	Human
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	509	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	515	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	516	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	517	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	520	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	523	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	524	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	527	HIV status:negative | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	501	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	502	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	503	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	505	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	513	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	514	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	521	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	525	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	533	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	534	HIV status:negative | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	507	HIV status:negative | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	512	HIV status:negative | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	528	HIV status:negative | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	531	HIV status:negative | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	506	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	508	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	510	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	511	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	518	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	519	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	530	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	532	HIV status:negative | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	23	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	24	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	3	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	33	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	34	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	37	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	41	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	42	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	58	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	71	HIV status:positive | Obesity:No | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	43	HIV status:positive | Obesity:No | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	55	HIV status:positive | Obesity:No | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	60	HIV status:positive | Obesity:No | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	61	HIV status:positive | Obesity:No | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	13	HIV status:positive | Obesity:No | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	14	HIV status:positive | Obesity:No | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	27	HIV status:positive | Obesity:No | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	30	HIV status:positive | Obesity:No | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	35	HIV status:positive | Obesity:No | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	4	HIV status:positive | Obesity:No | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	1	HIV status:positive | Obesity:No | Sex:M | Race:O	
+SUBJECT_SAMPLE_FACTORS           	-	16	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	26	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	31	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	36	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	5	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	54	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	57	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	6	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	67	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	7	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	8	HIV status:positive | Obesity:No | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	10	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	15	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	17	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	20	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	25	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	32	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	56	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	62	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	64	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	69	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	74	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	77	HIV status:positive | Obesity:Yes | Sex:F | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	22	HIV status:positive | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	45	HIV status:positive | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	52	HIV status:positive | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	66	HIV status:positive | Obesity:Yes | Sex:F | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	12	HIV status:positive | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	39	HIV status:positive | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	44	HIV status:positive | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	48	HIV status:positive | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	63	HIV status:positive | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	65	HIV status:positive | Obesity:Yes | Sex:M | Race:B	
+SUBJECT_SAMPLE_FACTORS           	-	75	HIV status:positive | Obesity:Yes | Sex:M | Race:O	
+SUBJECT_SAMPLE_FACTORS           	-	76	HIV status:positive | Obesity:Yes | Sex:M | Race:O	
+SUBJECT_SAMPLE_FACTORS           	-	80	HIV status:positive | Obesity:Yes | Sex:M | Race:O	
+SUBJECT_SAMPLE_FACTORS           	-	11	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	19	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	28	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	40	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	46	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	47	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	49	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	50	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	59	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	72	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	78	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	79	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+SUBJECT_SAMPLE_FACTORS           	-	9	HIV status:positive | Obesity:Yes | Sex:M | Race:W	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:COLLECTION_PROTOCOL_FILENAME  	Koethe_SECIM_collection.txt
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+TR:TREATMENT_PROTOCOL_FILENAME   	Koethe_SECIM_treatments.txt
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Amino acid|Organic acid|Acylcarnitines
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	SB_AA_Assay.pdf;SB_OA_Assay.pdf;SB_Acylcarnitine_Assay.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Amino acid|Organic acid|Acylcarnitines
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+CH:METHODS_FILENAME              	SB_AA_Assay.pdf;SB_OA_Assay.pdf;SB_Acylcarnitine_Assay.pdf
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Sanford Burnham
+AN:DETECTOR_TYPE                 	Triple Quadrupole
+#MS
+MS:INSTRUMENT_NAME               	Agilent 6490
+MS:INSTRUMENT_TYPE               	Triple Quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	-
+MS:MS_COMMENTS                   	POSITIVE
+MS:MS_COMMENTS                   	Amino Acids
+#END

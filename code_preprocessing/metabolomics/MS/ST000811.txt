@@ -1,0 +1,292 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170720_111352_mwtab.txt DATATRACK_ID:1166 STUDY_ID:ST000811 ANALYSIS_ID:AN001284
+VERSION             	1
+CREATED_ON             	July 24, 2017, 12:17 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Etiologies of preterm delivery among obese women
+PR:PROJECT_SUMMARY               	Here we propose a pilot project to examine the contribution of lipid mediators
+PR:PROJECT_SUMMARY               	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+PR:PROJECT_SUMMARY               	the top causes of infant morbidity and mortality. Our specific interests are in
+PR:PROJECT_SUMMARY               	understanding risks of preterm delivery among obese women, and in particular the
+PR:PROJECT_SUMMARY               	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+PR:PROJECT_SUMMARY               	among obese women. The inflammatory response is a known contributor to preterm
+PR:PROJECT_SUMMARY               	delivery, and obesity is associated with inflammation and an increased risk of
+PR:PROJECT_SUMMARY               	early preterm delivery, but the distinct contribution of aberrations in the
+PR:PROJECT_SUMMARY               	inflammatory response to preterm delivery among obese women has not been
+PR:PROJECT_SUMMARY               	examined previously. Most previous studies of preterm delivery and the
+PR:PROJECT_SUMMARY               	inflammatory response have examined one or only a few of its components at once,
+PR:PROJECT_SUMMARY               	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+PR:PROJECT_SUMMARY               	extend these types of investigations by examining lipid mediators and conducting
+PR:PROJECT_SUMMARY               	global lipid profiling. Lipid mediators are key regulators of inflammation and
+PR:PROJECT_SUMMARY               	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+PR:PROJECT_SUMMARY               	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+PR:PROJECT_SUMMARY               	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+PR:PROJECT_SUMMARY               	Examination of lipid mediators and lipid profiling is particularly relevant to
+PR:PROJECT_SUMMARY               	understanding distinct risks among obese women, given the known
+PR:PROJECT_SUMMARY               	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+PR:PROJECT_SUMMARY               	hypothesis is that the inflammatory response impacts risk of preterm delivery
+PR:PROJECT_SUMMARY               	and that its impact is distinct among obese versus non-obese women. Here we
+PR:PROJECT_SUMMARY               	propose a pilot project that compares mid-pregnancy measurements of lipid
+PR:PROJECT_SUMMARY               	mediators and lipid profiling among obese pregnant women. Findings from this
+PR:PROJECT_SUMMARY               	pilot will provide critical preliminary data to inform larger-scope grant
+PR:PROJECT_SUMMARY               	proposals that will comprehensively address our overarching hypothesis.
+PR:PROJECT_SUMMARY               	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+PR:PROJECT_SUMMARY               	deliver preterm compared to those who deliver at term. In addition, we will use
+PR:PROJECT_SUMMARY               	untargeted global profiling of complex lipids to determine whether obese women
+PR:PROJECT_SUMMARY               	who deliver preterm have a distinct lipidomic signature, relative to obese women
+PR:PROJECT_SUMMARY               	who deliver at term. We propose a nested case-control study that utilizes
+PR:PROJECT_SUMMARY               	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+PR:PROJECT_SUMMARY               	represents over one million deliveries in California from 2007-2012. We propose
+PR:PROJECT_SUMMARY               	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+PR:PROJECT_SUMMARY               	This will provide adequate preliminary data for a larger-scale grant proposal.
+PR:INSTITUTE                     	Stanford University
+PR:DEPARTMENT                    	Pediatrics - Neonatology
+PR:LAST_NAME                     	Carmichael
+PR:FIRST_NAME                    	Suzan
+PR:ADDRESS                       	450 Serra Mall, Stanford, CA 94305
+PR:EMAIL                         	scarmichael@stanford.edu
+PR:PHONE                         	(650) 736-0735
+#STUDY
+ST:STUDY_TITLE                   	Etiologies of preterm delivery among obese women (part III)
+ST:STUDY_TYPE                    	Case-control study
+ST:STUDY_SUMMARY                 	Here we propose a pilot project to examine the contribution of lipid mediators
+ST:STUDY_SUMMARY                 	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+ST:STUDY_SUMMARY                 	the top causes of infant morbidity and mortality. Our specific interests are in
+ST:STUDY_SUMMARY                 	understanding risks of preterm delivery among obese women, and in particular the
+ST:STUDY_SUMMARY                 	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+ST:STUDY_SUMMARY                 	among obese women. The inflammatory response is a known contributor to preterm
+ST:STUDY_SUMMARY                 	delivery, and obesity is associated with inflammation and an increased risk of
+ST:STUDY_SUMMARY                 	early preterm delivery, but the distinct contribution of aberrations in the
+ST:STUDY_SUMMARY                 	inflammatory response to preterm delivery among obese women has not been
+ST:STUDY_SUMMARY                 	examined previously. Most previous studies of preterm delivery and the
+ST:STUDY_SUMMARY                 	inflammatory response have examined one or only a few of its components at once,
+ST:STUDY_SUMMARY                 	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+ST:STUDY_SUMMARY                 	extend these types of investigations by examining lipid mediators and conducting
+ST:STUDY_SUMMARY                 	global lipid profiling. Lipid mediators are key regulators of inflammation and
+ST:STUDY_SUMMARY                 	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+ST:STUDY_SUMMARY                 	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+ST:STUDY_SUMMARY                 	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+ST:STUDY_SUMMARY                 	Examination of lipid mediators and lipid profiling is particularly relevant to
+ST:STUDY_SUMMARY                 	understanding distinct risks among obese women, given the known
+ST:STUDY_SUMMARY                 	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+ST:STUDY_SUMMARY                 	hypothesis is that the inflammatory response impacts risk of preterm delivery
+ST:STUDY_SUMMARY                 	and that its impact is distinct among obese versus non-obese women. Here we
+ST:STUDY_SUMMARY                 	propose a pilot project that compares mid-pregnancy measurements of lipid
+ST:STUDY_SUMMARY                 	mediators and lipid profiling among obese pregnant women. Findings from this
+ST:STUDY_SUMMARY                 	pilot will provide critical preliminary data to inform larger-scope grant
+ST:STUDY_SUMMARY                 	proposals that will comprehensively address our overarching hypothesis.
+ST:STUDY_SUMMARY                 	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+ST:STUDY_SUMMARY                 	deliver preterm compared to those who deliver at term. In addition, we will use
+ST:STUDY_SUMMARY                 	untargeted global profiling of complex lipids to determine whether obese women
+ST:STUDY_SUMMARY                 	who deliver preterm have a distinct lipidomic signature, relative to obese women
+ST:STUDY_SUMMARY                 	who deliver at term. We propose a nested case-control study that utilizes
+ST:STUDY_SUMMARY                 	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+ST:STUDY_SUMMARY                 	represents over one million deliveries in California from 2007-2012. We propose
+ST:STUDY_SUMMARY                 	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+ST:STUDY_SUMMARY                 	This will provide adequate preliminary data for a larger-scale grant proposal.
+ST:INSTITUTE                     	U.S.D.A. Western Human Nutrition Research Center, University of California,
+ST:INSTITUTE                     	Davis
+ST:DEPARTMENT                    	Nutrition
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 W. Health Sciences Dr., Davis, CA 95616
+ST:EMAIL                         	john.newman@ars.usda.gov
+ST:PHONE                         	+1-530-752-1009
+ST:STUDY_COMMENTS                	Case status was blinded by collaborator
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Females
+SU:SUBJECT_COMMENTS              	Obese pregnant femals
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar001	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar002	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar003	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar004	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar005	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar006	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar007	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar008	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar009	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar010	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar011	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar012	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar013	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar014	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar015	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar016	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar017	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar018	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar019	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar020	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar023	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar024	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar025	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar026	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar027	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar028	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar029	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar030	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar031	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar032	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar033	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar034	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar035	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar036	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar037	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar038	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar039	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar040	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar041	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar042	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar045	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar046	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar047	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar048	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar049	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar050	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar051	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar052	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar053	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar054	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar055	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar056	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar057	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar058	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar059	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar060	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar061	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar062	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar063	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar064	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar067	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar068	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar069	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar070	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar071	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar072	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar073	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar074	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar075	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar076	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar077	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar078	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar079	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar080	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar081	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar082	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar083	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar084	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar085	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar086	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar089	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar090	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar091	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar092	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar093	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar094	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar095	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar096	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar097	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar098	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar099	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar100	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar101	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar102	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar103	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar104	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar105	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar106	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar107	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar108	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar109	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	EndoCar110	Test_sample:test	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	"The collection and processing of specimens was as follows: 1) samples were
+CO:COLLECTION_SUMMARY            	taken at draw stations using BDTM Vacutainer 3.5 mL serum separator tubes with
+CO:COLLECTION_SUMMARY            	no anticoagulants or preservatives and centrifuged 2) samples were received by
+CO:COLLECTION_SUMMARY            	designated clinical laboratories from draw stations at room temperature, on
+CO:COLLECTION_SUMMARY            	average 3.0 days after draw 3) AFP assays were run on samples usually on the day
+CO:COLLECTION_SUMMARY            	received 4) samples were refrigerated up to 7 days, in case further testing was
+CO:COLLECTION_SUMMARY            	necessary 5) samples were sent on cold packs via overnight mail to the serum
+CO:COLLECTION_SUMMARY            	storage bank 6) samples were aliquoted, labeled with barcodes, and frozen at
+CO:COLLECTION_SUMMARY            	−70° C."
+CO:COLLECTION_PROTOCOL_FILENAME  	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+CO:SAMPLE_TYPE                   	Blood
+CO:BLOOD_SERUM_OR_PLASMA         	Serum
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Among the more than 100,000 pregnancy specimens collected for testing in 2003
+TR:TREATMENT_SUMMARY             	and that resulted in a liveborn delivery in 2003, we identified 63 cases with
+TR:TREATMENT_SUMMARY             	hypospadias. Among the 29 cases for which two serum specimens were available, we
+TR:TREATMENT_SUMMARY             	selected all 16 for whom the degree of severity was not specified and the four
+TR:TREATMENT_SUMMARY             	that were coronal, to give a total of 20 cases. As controls, we randomly
+TR:TREATMENT_SUMMARY             	selected 28 specimens that were collected at the same lab during the same time
+TR:TREATMENT_SUMMARY             	period and corresponded to non-malformed, liveborn male infants delivered in
+TR:TREATMENT_SUMMARY             	2003. Thus, this was a nested case-control study. The selection of samples was
+TR:TREATMENT_SUMMARY             	limited to singletons. All samples were obtained with approval from the
+TR:TREATMENT_SUMMARY             	California Health and Welfare Agency Committee for the Protection of Human
+TR:TREATMENT_SUMMARY             	Subjects.
+TR:TREATMENT_PROTOCOL_FILENAME   	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Non-esterified oxylipins, endocannabinoids, polyunsaturated fatty acids and bile
+SP:SAMPLEPREP_SUMMARY            	acids extraction: Oxylipins, endocannabinoids, fatty acids and bile acids were
+SP:SAMPLEPREP_SUMMARY            	isolated by liquid extraction protocol using methanol/acetonitrile mixture (1:1
+SP:SAMPLEPREP_SUMMARY            	v/v] from 40 µL of serum and quantified by UPLC-MS/MS using internal standard
+SP:SAMPLEPREP_SUMMARY            	methods. Procedure shortly: 40 µL of serum was mixed with 5 µL BHT/EDTA (1:1
+SP:SAMPLEPREP_SUMMARY            	MeOH:water), 10 µL of 0.5 µM deuterated oxylipins and endocannabinoids
+SP:SAMPLEPREP_SUMMARY            	surrogates and 20 µL of 1 µM deuterated bile acids surrogates in methanol.
+SP:SAMPLEPREP_SUMMARY            	Next, serum was homogenized by addition of 200 µL of 1-cyclohexyl ureido,
+SP:SAMPLEPREP_SUMMARY            	3-dodecanoic acid (CUDA) and 1-phenyl ureido 3-hexanoic acid (PUHA) at 100 nM in
+SP:SAMPLEPREP_SUMMARY            	1:1 methanol:acetonitrile. Next, homogenate was centrifuge at 15000 rcf for 10
+SP:SAMPLEPREP_SUMMARY            	min and the methanol/acetonitrile supernatant was collected for mass
+SP:SAMPLEPREP_SUMMARY            	spectrometry analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity
+CH:COLUMN_NAME                	Waters 2.1 x 150mm, 1.7µm BEH C18 column
+CH:FLOW_GRADIENT              	See protocol/methods file
+CH:FLOW_RATE                  	0.25
+CH:COLUMN_TEMPERATURE         	60 °C
+CH:SOLVENT_A                  	0.1% acetic acid
+CH:SOLVENT_B                  	90% ACN / 10% IPA
+CH:INTERNAL_STANDARD          	See protocol/methods file
+CH:RETENTION_TIME             	See protocol/methods file
+CH:SAMPLE_INJECTION           	0.5 uL
+CH:ANALYTICAL_TIME            	16 min
+CH:WEAK_WASH_SOLVENT_NAME     	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME           	600 µL
+CH:STRONG_WASH_SOLVENT_NAME   	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME         	600 µL
+CH:SAMPLE_LOOP_SIZE           	17 uL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	QTRAP
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration pmol/g
+MS_METABOLITE_DATA_START
+Samples	EndoCar001	EndoCar002	EndoCar003	EndoCar004	EndoCar005	EndoCar006	EndoCar007	EndoCar008	EndoCar009	EndoCar010	EndoCar011	EndoCar012	EndoCar013	EndoCar014	EndoCar015	EndoCar016	EndoCar017	EndoCar018	EndoCar019	EndoCar020	EndoCar023	EndoCar024	EndoCar025	EndoCar026	EndoCar027	EndoCar028	EndoCar029	EndoCar030	EndoCar031	EndoCar032	EndoCar033	EndoCar034	EndoCar035	EndoCar036	EndoCar037	EndoCar038	EndoCar039	EndoCar040	EndoCar041	EndoCar042	EndoCar045	EndoCar046	EndoCar047	EndoCar048	EndoCar049	EndoCar050	EndoCar051	EndoCar052	EndoCar053	EndoCar054	EndoCar055	EndoCar056	EndoCar057	EndoCar058	EndoCar059	EndoCar060	EndoCar061	EndoCar062	EndoCar063	EndoCar064	EndoCar067	EndoCar068	EndoCar069	EndoCar070	EndoCar071	EndoCar072	EndoCar073	EndoCar074	EndoCar075	EndoCar076	EndoCar077	EndoCar078	EndoCar079	EndoCar080	EndoCar081	EndoCar082	EndoCar083	EndoCar084	EndoCar085	EndoCar086	EndoCar089	EndoCar090	EndoCar091	EndoCar092	EndoCar093	EndoCar094	EndoCar095	EndoCar096	EndoCar097	EndoCar098	EndoCar099	EndoCar100	EndoCar101	EndoCar102	EndoCar103	EndoCar104	EndoCar105	EndoCar106	EndoCar107	EndoCar108	EndoCar109	EndoCar110
+Factors	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test
+OEA	4.07	2.76	3.71	4.16	6.25	4.59	3.8	8.7	2.29	4.96	2.85	4.41	4.97	6.82	6.05	3.54	13.1	5.21	0.884	4.83	11.5	2.74	2.87	4.84	5.44	4.47	3.43	2.93	3.7	4.85	6.75	6.11	3.63	13.1	10.3	2.66	3.16	4.48	1.7	6.42	2.83	3.48	5.82	3.56	17.3	5.23	9.93	1.82	3	4.39	8.67	5.59	4.44	2	2.77	5.78	2.72	3.3	2.72	2.38	7.96	5.78	4.96	3.7	5.81	10.1	7.07	5.71	2.02	7.15	2.11	2.43	6.01	4.21	3.23	5.18	17.3	4.94	9.18	3.8	2.36	5.15	5.67	5.17	1.95	4.86	2.78	6.42	12.9	2.58	10.3	2.68	1.52	2.65	2.71	4.05	3.61	2.82	10.1	2.22	2.16	4.19
+LEA	1.67	2.91	2.02	4.18	4.51	2.87	2.75	3.5	1.45	4.35	3.32	4.91	4.63	5.75	2.84	3.53	12.3	3.33	1.07	2.07	7.01	1.85	2.84	3.26	1.59	4.21	1.66	1.38	2.92	3.11	4.84	2.88	4.08	4.62	3.59	2.2	1.87	3.81	1.05	3.69	4.58	2.7	3.02	2.68	10.9	5.62	8.83	1.97	2.69	3.26	5.16	5.17	3.33	1.68	3.53	6.45	1.82	3.04	1.87	1.71	2.79	2.27	4.17	2.45	5.4	8.93	7	3.05	1.33	5.22	2.86	3.69	4.03	1.87	2.31	2.8	8.82	4.01	6.08	1.76	2.21	2.3	3.9	3.28	1.45	5.05	3.28	2.47	4.94	3.77	15.8	2.57	1.42	1.94	0.503	2.97	3.44	2.82	10	2.16	2.08	2.19
+aLEA	0.0364	0.0486	0.0461	0.0965	0.0778	0.0513	0.0576	0.0779	0.0315	0.207	0.0592	0.1	0.0721	0.133	0.0492	0.0701	0.558	0.0663	0.00924	0.0291	0.227	ND	0.0416	0.0655	0.0171	0.155	0.0356	0.0316	0.0304	0.14	0.112	0.0789	0.0638	0.255	0.0805	0.0515	0.0164	0.124	ND	0.0691	0.0622	0.0166	0.0565	0.0507	0.393	0.143	0.23	0.036	0.0721	0.0525	0.15	0.311	0.0474	0.029	0.0947	0.162	0.00302	0.0517	0.0327	0.0349	0.0224	0.0192	0.0725	0.0849	0.0789	0.192	0.0974	0.0598	0.0262	0.0411	0.0323	0.0298	0.0448	0.0135	0.0149	0.0217	0.152	0.0665	0.143	0.00287	0.0222	0.0355	0.0465	0.0639	0.00941	0.0832	0.07	0.0459	0.0772	0.0267	0.291	0.0621	0.00422	0.0314	ND	0.0666	0.119	0.0541	0.161	0.0138	0.0244	0.0287
+DGLA EA	0.391	0.251	0.149	0.181	0.278	0.0669	0.0915	0.283	0.0869	0.248	0.172	0.126	0.403	0.318	0.201	0.177	0.0588	0.284	0.134	0.236	0.282	0.0841	0.136	0.21	0.147	0.133	0.0674	0.213	0.113	0.104	0.104	0.119	0.287	0.0602	0.199	0.195	0.0144	0.0697	0.16	0.223	0.263	0.115	0.137	0.159	0.362	0.259	0.161	0.158	0.307	0.132	0.505	0.109	0.156	0.158	0.0414	0.133	0.0447	0.401	0.0591	0.16	0.0815	0.203	0.124	0.146	0.139	0.208	0.624	0.193	0.148	0.323	0.241	0.257	0.127	0.0689	0.306	0.122	0.641	0.201	0.373	0.109	0.156	0.17	0.41	0.186	0.0552	0.523	0.221	0.371	0.47	0.282	0.261	0.226	0.122	0.13	0.0226	0.157	0.159	0.158	0.249	0.237	0.154	0.354
+AEA	0.634	0.492	0.73	0.289	1.06	0.326	0.57	0.601	0.419	0.641	0.298	0.647	1.01	1.17	0.531	0.381	0.252	0.816	0.431	1.21	1.32	0.557	0.298	0.597	0.478	0.282	0.391	0.419	0.524	0.55	0.498	0.969	0.479	0.449	0.605	0.636	0.239	0.425	0.409	0.616	0.313	0.656	0.856	0.883	0.567	0.328	0.636	0.243	0.571	0.595	0.992	0.387	0.39	0.59	0.571	0.248	0.255	1.11	0.504	0.563	0.832	0.806	0.622	0.581	0.36	0.795	0.542	0.494	0.232	0.834	0.293	0.584	0.846	0.744	0.565	0.459	0.981	0.808	0.582	0.56	0.417	0.526	1.32	0.479	0.447	1.15	0.595	0.608	1.06	1.01	0.794	0.743	0.4	0.81	0.122	0.542	0.36	0.511	0.946	0.488	0.49	0.497
+DEA	0.977	0.657	0.566	0.673	1.13	0.527	0.527	0.46	0.189	0.896	0.309	0.121	0.799	0.434	0.5	0.284	0.224	0.677	0.253	1.01	0.853	0.313	0.518	0.695	0.174	0.433	0.125	0.16	0.552	0.493	0.229	0.423	0.646	0.355	0.555	0.475	0.438	0.491	0.152	0.423	0.47	0.479	0.244	0.723	1.39	0.717	0.302	0.173	0.804	0.516	0.946	0.249	0.318	0.258	0.368	0.214	0.376	1.1	0.505	0.505	0.602	0.907	0.762	0.464	0.449	0.8	0.811	0.577	0.422	0.962	0.644	0.494	0.854	0.757	0.573	0.5	1.02	0.747	0.309	0.605	0.403	1.2	0.532	0.483	0.482	1.14	0.843	0.319	1.58	1.54	0.563	0.903	0.691	0.525	0.309	0.632	0.69	0.804	0.839	0.598	0.524	1.08
+DHEA	0.235	0.178	0.841	0.207	0.372	0.303	0.298	0.229	0.152	0.923	0.29	0.195	0.196	0.475	0.664	0.22	0.496	0.48	0.246	0.55	0.773	0.226	0.194	0.308	0.181	0.281	0.78	0.614	0.37	0.633	0.154	0.395	0.226	0.64	0.421	0.313	0.247	0.29	0.439	0.115	0.248	0.423	0.53	0.476	0.321	0.236	0.411	0.12	0.257	0.451	0.64	0.89	0.205	0.205	0.459	0.208	0.144	0.421	0.348	0.305	0.899	0.972	0.375	0.729	0.339	0.371	0.331	0.48	0.192	0.426	0.394	0.0917	0.264	0.141	0.226	0.509	0.906	0.242	0.454	0.224	0.334	0.305	0.642	0.326	0.251	0.607	0.356	0.331	0.904	0.451	0.4	0.287	0.212	0.538	0.229	0.341	0.233	0.642	0.698	0.247	0.268	0.303
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	HMDB ID	InChIKey	PubChem CID	KEGG
+OEA	HMDB02088	BOWVQLFMWHZBEF-KTKRTIGZSA-N	5283454
+LEA	HMDB12252	KQXDGUVSAAQARU-HZJYTTRNSA-N	5283446
+aLEA	HMDB13624	HBJXRRXWHSHZPU-PDBXOOCHSA-N	5283449
+DGLA EA	HMDB13625	ULQWKETUACYZLI-QNEBEIHSSA-N	5282272	C13828
+AEA	HMDB04080	LGEQQWMQCRIYKG-DOFZRALJSA-N	5281969	C11695
+DEA	HMDB13626	FMVHVRYFQIXOAF-DOFZRALJSA-N	5282273	C13829
+DHEA	HMDB13627	CXWASNUDKUTFPQ-KUBAVDMBSA-N	53245830
+METABOLITES_END
+#END

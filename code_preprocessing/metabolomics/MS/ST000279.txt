@@ -1,0 +1,144 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000279 ANALYSIS_ID:AN000445
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Viral Effect on Metabolism
+PR:PROJECT_TYPE                  	Glycolysis/TCA/Nucleotide analysis (tissue/cells)
+PR:PROJECT_SUMMARY               	Global Metabolic profiling of infection by respiratory virus
+PR:INSTITUTE                     	University of Texas Medical Branch
+PR:DEPARTMENT                    	Department of Pediatrics
+PR:LABORATORY                    	Casola Lab
+PR:LAST_NAME                     	Casola
+PR:FIRST_NAME                    	Antonella
+PR:ADDRESS                       	Galveston, TX
+PR:EMAIL                         	yazhao1@utmb.edu
+PR:PHONE                         	409-772-2798
+#STUDY
+ST:STUDY_TITLE                   	Viral Effect on Metabolism (part II)
+ST:STUDY_TYPE                    	Glycolysis/TCA/Nucleotide analysis (tissue/cells)
+ST:STUDY_SUMMARY                 	Small airway epithelial cell (SAEC) (Lonza Walkersville, Inc., MD) were grown
+ST:STUDY_SUMMARY                 	to the manufacturer's instructions in growth medium (SAGM) containing 0.03
+ST:STUDY_SUMMARY                 	bovine pituitary extract (BPE), 0.5 µg/ml hydrocortisone, 0.5 ng/ml hEGF, 0.5
+ST:STUDY_SUMMARY                 	epinephrine, 10 µg/ml transferrin, 5 µg/ml insulin, 0.1 ng/ml retinoic acid,
+ST:STUDY_SUMMARY                 	triiodothyronine, 50 µg/ml gentamicin and 50ng/ml Amphotericin-B, and 0.5
+ST:STUDY_SUMMARY                 	bovine serum albumin (BSA, fatty acid free). When SAE grew to around 80 to 90%
+ST:STUDY_SUMMARY                 	the cells were put into basal medium not supplemented with growth factors
+ST:STUDY_SUMMARY                 	Then the cell monolayers were infected with naïve hMPV at multiplicity of
+ST:STUDY_SUMMARY                 	(MOI) of 3 to certain time. The supernatant was saved and cells were harvested
+ST:STUDY_SUMMARY                 	stored exactly according to the protocol provided by University of Michigan
+ST:STUDY_SUMMARY                 	Core Facility for metabolomics analysis. 50mM ammonium acetate in water was
+ST:STUDY_SUMMARY                 	for rinse buffer.
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Department of Pediatrics
+ST:LABORATORY                    	Casola Lab (University of Texas Medical Branch)
+ST:LAST_NAME                     	Zhao
+ST:FIRST_NAME                    	Yanhua
+ST:ADDRESS                       	Galveston, TX
+ST:EMAIL                         	yazhao1@utmb.edu
+ST:PHONE                         	409-443-1461
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	24
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:SPECIES_GROUP                 	Human
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	S00017199	Time:Naïve hMPV | Diseased:0hr	
+SUBJECT_SAMPLE_FACTORS           	-	S00017200	Time:Naïve hMPV | Diseased:0hr	
+SUBJECT_SAMPLE_FACTORS           	-	S00017201	Time:Naïve hMPV | Diseased:0hr	
+SUBJECT_SAMPLE_FACTORS           	-	S00017205	Time:Naïve hMPV | Diseased:15hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017206	Time:Naïve hMPV | Diseased:15hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017207	Time:Naïve hMPV | Diseased:15hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017208	Time:Naïve hMPV | Diseased:24hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017209	Time:Naïve hMPV | Diseased:24hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017210	Time:Naïve hMPV | Diseased:24hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017202	Time:Naïve hMPV | Diseased:6hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017203	Time:Naïve hMPV | Diseased:6hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017204	Time:Naïve hMPV | Diseased:6hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017187	Time:RSV | Diseased:0hr	
+SUBJECT_SAMPLE_FACTORS           	-	S00017188	Time:RSV | Diseased:0hr	
+SUBJECT_SAMPLE_FACTORS           	-	S00017189	Time:RSV | Diseased:0hr	
+SUBJECT_SAMPLE_FACTORS           	-	S00017193	Time:RSV | Diseased:15hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017194	Time:RSV | Diseased:15hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017195	Time:RSV | Diseased:15hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017196	Time:RSV | Diseased:24hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017197	Time:RSV | Diseased:24hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017198	Time:RSV | Diseased:24hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017190	Time:RSV | Diseased:6hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017191	Time:RSV | Diseased:6hrs	
+SUBJECT_SAMPLE_FACTORS           	-	S00017192	Time:RSV | Diseased:6hrs	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Cells, Cultured
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Gly-TCA-nucleotides_analysis_protocol-2015-03-09.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	HILIC
+CH:INSTRUMENT_NAME               	Agilent 1260 LC
+CH:COLUMN_NAME                   	Luna 3um NH2 100 , LC Column 150 x 1 mm, Ea (Phenomenex Inc.)
+CH:METHODS_ID                    	AQM020
+CH:METHODS_FILENAME              	QTOF-002-HILIC-35min-1mm-No_Insert.m
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	MRC2 (University of Michigan)
+AN:ACQUISITION_PARAMETERS_FILE   	QTOF-002-HILIC-35min-1mm-No_Insert.m
+#MS
+MS:INSTRUMENT_NAME               	Agilent Q-TOF 6530
+MS:INSTRUMENT_TYPE               	Q-TOF
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	pmol/µg protein
+MS_METABOLITE_DATA_START
+Samples	S00017199	S00017200	S00017201	S00017205	S00017206	S00017207	S00017208	S00017209	S00017210	S00017202	S00017203	S00017204	S00017187	S00017188	S00017189	S00017193	S00017194	S00017195	S00017196	S00017197	S00017198	S00017190	S00017191	S00017192
+Factors	Time:Naïve hMPV | Diseased:0hr	Time:Naïve hMPV | Diseased:0hr	Time:Naïve hMPV | Diseased:0hr	Time:Naïve hMPV | Diseased:15hrs	Time:Naïve hMPV | Diseased:15hrs	Time:Naïve hMPV | Diseased:15hrs	Time:Naïve hMPV | Diseased:24hrs	Time:Naïve hMPV | Diseased:24hrs	Time:Naïve hMPV | Diseased:24hrs	Time:Naïve hMPV | Diseased:6hrs	Time:Naïve hMPV | Diseased:6hrs	Time:Naïve hMPV | Diseased:6hrs	Time:RSV | Diseased:0hr	Time:RSV | Diseased:0hr	Time:RSV | Diseased:0hr	Time:RSV | Diseased:15hrs	Time:RSV | Diseased:15hrs	Time:RSV | Diseased:15hrs	Time:RSV | Diseased:24hrs	Time:RSV | Diseased:24hrs	Time:RSV | Diseased:24hrs	Time:RSV | Diseased:6hrs	Time:RSV | Diseased:6hrs	Time:RSV | Diseased:6hrs
+2 or 3-phosphoglycerate_2PG/3PG	3.0300	5.4715	3.9140	3.6314	3.5102	1.6687	2.7495	3.5634	3.2931	3.8788	4.4251	3.1348	3.2089	1.3745	3.2108	1.7846	2.3568	1.8794	3.4603	4.6491	4.1465	7.1894	6.7714	4.9152
+6-Phosphogluconate	11.2016	6.9106	7.9103	8.3289	9.8612	8.3304	5.1610	7.8513	6.7206	4.2251	7.0076	10.4958	5.4017	2.6461	5.1609	2.7782	5.5029	3.8079	2.1807	2.8040	2.2602	6.3570	4.4971	5.9374
+Acetyl-CoA	2.0885	2.4832	2.1906	2.2873	2.0760	1.8607	0.5350	0.8296	1.3399	1.2945	2.5515	1.9818	1.6383	0.6995	1.5705	4.4657	4.3742	5.0509	3.4607	4.4356	3.9344	3.5173	3.4994	3.1345
+ADP	156.9476	94.3725	76.4735	146.7061	121.4355	157.0258	68.2238	72.7214	61.0428	95.3284	118.9152	121.5772	68.8920	27.2780	64.7285	144.7680	140.5737	139.1232	70.9224	74.6783	73.0232	56.4323	62.0778	81.9420
+AMP	1013.9323	195.3187	128.7634	1001.8170	504.2473	1200.3625	476.9515	389.8142	156.9215	408.2648	409.3769	526.3854	170.9564	65.9886	210.6911	2087.0643	1988.0352	2699.3845	1895.3751	2385.7660	1928.7641	68.8622	74.4723	147.2613
+ATP	520.2769	891.0719	833.5854	471.1378	473.3308	411.7341	151.5543	244.8801	327.8363	491.8458	623.7565	460.9522	722.4480	277.5184	588.2159	123.2453	143.4473	115.8510	65.1435	76.3267	71.2992	1086.3231	870.6704	283.5875
+Citrate or Isocitrate	19.8156	25.6571	21.2174	32.9692	30.6935	36.0956	17.8032	22.0665	22.8061	15.0191	19.4379	14.9865	19.7685	7.6025	19.3274	22.8480	23.1566	28.1139	12.5244	13.8489	11.8740	18.8842	15.9767	16.5737
+Erythrose 4-phosphate	33.7402	26.1983	26.2469	35.6549	40.9327	32.0901	29.0113	13.6360	34.5854	32.4340	35.6971	29.6916	28.4341	9.6746	25.7083	16.6929	20.1388	19.4057	23.8711	14.5543	23.3222	29.2177	14.7612	29.3856
+flavin adenine dinucleotide	0.6511	0.7326	0.7093	0.8179	0.7441	0.8495	0.4957	0.4954	0.5468	0.7318	0.8209	0.6944	0.6466	0.2268	0.4967	0.8298	0.8192	0.9400	0.8548	0.8068	0.8694	0.9247	0.8010	0.6494
+Fructose 1_6-bisphosphate	45.2090	85.5564	82.3507	26.9921	22.5788	18.4754	16.4796	24.5820	27.7648	43.8481	57.6367	56.5934	46.8487	20.3622	57.0509	16.7323	25.4952	21.5286	22.0464	39.9983	43.8452	147.8405	131.1691	94.7269
+Glucose 6-phosphate or fructose-6-phosphate	35.0492	27.1784	22.4700	65.5903	53.9854	59.6978	49.4604	37.8590	34.0526	32.8442	42.3670	31.5440	31.7386	11.3993	30.4676	27.5218	28.8893	24.7298	19.6649	22.8095	19.8898	23.7801	19.6896	24.8745
+Malate	58.4253	71.9577	56.2756	67.4665	57.8685	65.1530	46.4288	59.3166	57.2419	68.1135	73.3895	56.8575	58.5618	20.5604	51.0829	72.1114	83.4297	93.2154	56.5770	64.8125	58.1530	84.4214	66.0436	76.2643
+Nicotinamide Adenine Dinucleotide oxidized	19.8095	27.1996	21.0416	21.9719	20.1667	22.6767	12.1419	14.4904	15.1871	22.9528	26.4703	21.9052	18.4673	6.2626	16.6286	19.4022	21.8996	24.6445	14.8864	16.4953	14.9003	30.1234	23.5648	25.3027
+nicotinamide adenine dinucleotide phosphate oxidized	3.5198	5.5322	5.3970	2.5397	2.5059	1.4448	1.5613	1.8880	2.0055	1.5534	2.0581	3.2427	1.3624	0.6680	1.3088	1.4790	1.5163	1.5189	1.3536	1.4970	1.3361	3.0789	4.0192	2.7437
+nicotinamide adenine dinucleotide phosphate reduced	10.6056	8.0767	6.2390	2.7090	2.6029	9.1028			0.6922	19.6481	22.1884	10.3575	18.8808	6.6410	17.0540	5.0951	6.3317	5.7507	1.2540			27.2657	15.3741	13.5275
+Nicotinamide Adenine Dinucleotide reduced	43.7542	34.3515	34.1199	40.7022	31.8218	30.1386	10.8743	12.1345	13.7749	93.7257	80.1129	68.5581	79.4575	28.7480	66.7433	77.5181	79.4167	75.6926	101.4091	128.2782	116.1678	104.2243	61.9185	78.3299
+Phosphoenolpyruvate	7.9949	4.7296	4.3713							5.6974	6.5495	4.8010	3.4416	1.7023	4.4648	2.5391	2.6348			7.8831	11.2386	7.5974	10.2154	4.3632
+Ribose-5-phosphate or xylulose 5-phosphate	13.0827	9.9636	7.1437	15.5960	18.2411	13.2531	18.6881	10.9257	12.5797	12.7129	15.7034	13.5468	11.5622	4.9760	12.3311	22.6139	21.6020	22.4172	30.7762	33.0507	33.8291	10.5946	8.8118	13.6197
+Sedoheptulose 7-phosphate	9.1243	7.3298	6.2979	10.7133	8.9785	11.4845	9.3430	5.6806	5.7692	8.7814	10.9505	7.7231	5.9658	2.1710	5.4145	13.3929	12.6234	12.2528	12.9555	14.0485	14.5414	10.0836	7.2228	7.4353
+Sucrose	4.2274	4.1683	1.7222	2.6639	2.1311	3.1732	2.1182	2.0213	0.6399	2.5950	3.4461	1.9254	2.1833	0.7031	2.4312		1.6727			2.2318	2.5756	4.8353	3.7254
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+2 or 3-phosphoglycerate_2PG/3PG				724		C00597	2PG/3PG	UM_Target_ID
+6-Phosphogluconate				91493		C00345	6PG	UM_Target_ID
+Acetyl-CoA				444493		C00024	aCoA	UM_Target_ID
+ADP				6022		C00008	ADP	UM_Target_ID
+AMP				6083		C00020	AMP	UM_Target_ID
+ATP				5957		C00002	ATP	UM_Target_ID
+Citrate or Isocitrate				311		C00158	CIT/ICIT	UM_Target_ID
+Erythrose 4-phosphate				122357		C00279	E4P	UM_Target_ID
+flavin adenine dinucleotide				643975		C00016	FAD	UM_Target_ID
+Fructose 1,6-bisphosphate				172313		C00354	FBP	UM_Target_ID
+Glucose 6-phosphate or fructose-6-phosphate				5958		C00092	G6P/F6P	UM_Target_ID
+Malate				222656		C00149	MAL	UM_Target_ID
+Nicotinamide Adenine Dinucleotide oxidized				10897651		C00003	NAD	UM_Target_ID
+nicotinamide adenine dinucleotide phosphate oxidized				5886		C00006	NADP	UM_Target_ID
+nicotinamide adenine dinucleotide phosphate reduced				5886		C00006	NADPH	UM_Target_ID
+Nicotinamide Adenine Dinucleotide reduced				439153		C00004	NADH	UM_Target_ID
+Phosphoenolpyruvate				1005		C00074	PEP	UM_Target_ID
+Ribose-5-phosphate or xylulose 5-phosphate				77982		C00117	R5P/X5P	UM_Target_ID
+Sedoheptulose 7-phosphate				165007		C05382	S7P	UM_Target_ID
+Sucrose				5988		C00089	SUC	UM_Target_ID
+METABOLITES_END
+#END

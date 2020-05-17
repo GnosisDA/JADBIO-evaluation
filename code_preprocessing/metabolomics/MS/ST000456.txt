@@ -1,0 +1,563 @@
+#METABOLOMICS WORKBENCH tcavallo_20160831_093044 DATATRACK_ID:715 STUDY_ID:ST000456 ANALYSIS_ID:AN000713
+VERSION             	1
+CREATED_ON             	September 8, 2016, 12:31 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolomic changes during active immunization with anti-METH vaccines.
+PR:PROJECT_SUMMARY               	Metabolomics studies will be conducted on serum samples from rats immunized with
+PR:PROJECT_SUMMARY               	a methamphetamine conjugate vaccine. The Subjects were approximately 300 g adult
+PR:PROJECT_SUMMARY               	male Sprague Dawley rats. The following samples were sent to RTI International
+PR:PROJECT_SUMMARY               	RCMRC: Pre-immune serum from RI 11-03A (n=12) which is a matched control serum
+PR:PROJECT_SUMMARY               	that was collected before starting immunizations, and week 17 bleeds from RI
+PR:PROJECT_SUMMARY               	11-03A (n=12), RI 11-03B (n=8), and RI 11-03C (n=12). The A-C nomenclature
+PR:PROJECT_SUMMARY               	denotes A) complete antigen with adjuvant, B) complete antigen without adjuvant
+PR:PROJECT_SUMMARY               	and C) only KLH carrier protein and adjuvant without a METH-like hapten.
+PR:INSTITUTE                     	University of Arkansas for Medical Sciences
+PR:DEPARTMENT                    	Department of Pharmacology and Toxicology
+PR:LAST_NAME                     	Owens
+PR:FIRST_NAME                    	S. Michael
+PR:ADDRESS                       	4301 W. Markham St., #611 Little Rock, AR 72205 USA
+PR:EMAIL                         	mowens@uams.edu
+PR:PHONE                         	501-686-5487
+#STUDY
+ST:STUDY_TITLE                   	Metabolomic changes during active immunization with anti-METH vaccines.
+ST:STUDY_SUMMARY                 	A targeted metabolomics analysis was performed on serum samples from rats
+ST:STUDY_SUMMARY                 	immunized with a methamphetamine-like hapten covalently bound to keyhole limpet
+ST:STUDY_SUMMARY                 	hemocyanin (KLH) monomers, and controls. The subjects were approximately 300 g
+ST:STUDY_SUMMARY                 	adult male Sprague Dawley rats. RTI International RCMRC received pre-immune
+ST:STUDY_SUMMARY                 	serum from RI 11-03A (n=12) which is a matched control serum that was collected
+ST:STUDY_SUMMARY                 	before starting immunizations, and week 17 bleeds from RI 11-03A (n=12), RI
+ST:STUDY_SUMMARY                 	11-03B (n=8), and RI 11-03C (n=12). The A-C nomenclature denotes A) complete
+ST:STUDY_SUMMARY                 	antigen with adjuvant, B) complete antigen without adjuvant and C) only KLH
+ST:STUDY_SUMMARY                 	carrier protein and adjuvant without a METH-like hapten. The rats’ serum
+ST:STUDY_SUMMARY                 	samples were extracted and prepared for a combined flow injection (FIA) and
+ST:STUDY_SUMMARY                 	LC-MS/MS assay (Biocrates AbsoluteIDQ® p180 kit). The Biocrates AbsoluteIDQ®
+ST:STUDY_SUMMARY                 	p180 kit (Biocrates Life Sciences AG, Innsbruck, Austria) can quantitatively
+ST:STUDY_SUMMARY                 	measure ~188 biologically relevant metabolites from five analyte groups
+ST:STUDY_SUMMARY                 	(acylcarnitines, amino acids, biogenic amines, glycerophospho- and
+ST:STUDY_SUMMARY                 	sphingolipids, and hexoses) on a triple quadrupole mass spectrometer.
+ST:INSTITUTE                     	RTI International
+ST:DEPARTMENT                    	Discovery-Sciences-Technology (DST)
+ST:LABORATORY                    	RTI Regional Comprehensive Metabolomics Resource Core (RTI RCMRC)
+ST:LAST_NAME                     	Sumner
+ST:FIRST_NAME                    	Susan
+ST:ADDRESS                       	3040 E Cornwallis Road, Research Triangle Park, NC 27709
+ST:EMAIL                         	ssumner@rti.org
+ST:PHONE                         	919-541-7479
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	44
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Rattus norvegicus
+SU:TAXONOMY_ID                   	10116
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	MO_18	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=18; Rat ID=055-061-772; ID #=772
+SUBJECT_SAMPLE_FACTORS           	-	MO_14	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=(60mg/rat); Sample #=14; Rat ID=055-115-828; ID #=828
+SUBJECT_SAMPLE_FACTORS           	-	TP_3	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=55; Rat ID=Allstudy-Pool3; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_11	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=11; Rat ID=055-122-573; ID #=573
+SUBJECT_SAMPLE_FACTORS           	-	P17B_2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=50; Rat ID=17wk-03B_Pool2; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_12	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=12; Rat ID=055-068-005; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_44	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=44; Rat ID=071-562-050; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_42	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=42; Rat ID=071-554-554; ID #=554
+SUBJECT_SAMPLE_FACTORS           	-	TP_2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=54; Rat ID=Allstudy-Pool2; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_8	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=8; Rat ID=055-071-062; ID #=62
+SUBJECT_SAMPLE_FACTORS           	-	MO_16	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=12; Sample #=16; Rat ID=055-120-831; ID #=831
+SUBJECT_SAMPLE_FACTORS           	-	P17A_1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=47; Rat ID=17wk-03A_Pool1; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_29	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=Imm Protocol  (0, 3, 9, 15 wks); Sample #=29; Rat ID=055-126-102; ID #=102
+SUBJECT_SAMPLE_FACTORS           	-	MO_20	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=20; Rat ID=055-071-062; ID #=62
+SUBJECT_SAMPLE_FACTORS           	-	MO_37	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=Imm Protocol  (0, 3, 9, 15 wks); Sample #=37; Rat ID=071-594-608; ID #=608
+SUBJECT_SAMPLE_FACTORS           	-	MO_32	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=-; Sample #=32; Rat ID=055-098-008; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_39	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=39; Rat ID=071-599-004; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_27	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=-; Sample #=27; Rat ID=055-054-555; ID #=555
+SUBJECT_SAMPLE_FACTORS           	-	MO_17	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=Imm Protocol  (17 wks); Sample #=17; Rat ID=055-092-633; ID #=633
+SUBJECT_SAMPLE_FACTORS           	-	MO_25	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=SS-METH(+)MO9-KLH/ no Adjuvant; Sample #=25; Rat ID=055-083-033; ID #=33
+SUBJECT_SAMPLE_FACTORS           	-	MO_10	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=10; Rat ID=055-047-851; ID #=851
+SUBJECT_SAMPLE_FACTORS           	-	MO_40	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=40; Rat ID=071-551-038; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_26	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=(60mg/rat); Sample #=26; Rat ID=055-032-380; ID #=380
+SUBJECT_SAMPLE_FACTORS           	-	MO_9	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=9; Rat ID=055-060-862; ID #=862
+SUBJECT_SAMPLE_FACTORS           	-	MO_31	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=-; Sample #=31; Rat ID=055-091-814; ID #=814
+SUBJECT_SAMPLE_FACTORS           	-	MO_19	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=19; Rat ID=055-080-861; ID #=861
+SUBJECT_SAMPLE_FACTORS           	-	MO_24	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=24; Rat ID=055-068-005; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_35	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=35; Rat ID=055-026-266; ID #=266
+SUBJECT_SAMPLE_FACTORS           	-	MO_21	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=21; Rat ID=055-060-862; ID #=862
+SUBJECT_SAMPLE_FACTORS           	-	MO_5	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=Imm Protocol  (0, 3, 9, 15 wks); Sample #=5; Rat ID=055-092-633; ID #=633
+SUBJECT_SAMPLE_FACTORS           	-	MO_38	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=38; Rat ID=071-596-828; ID #=828
+SUBJECT_SAMPLE_FACTORS           	-	MO_23	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=23; Rat ID=055-122-573; ID #=573
+SUBJECT_SAMPLE_FACTORS           	-	MO_13	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=SS-METH(+)MO9-KLH/ RIBI; Sample #=13; Rat ID=055-067-613; ID #=613
+SUBJECT_SAMPLE_FACTORS           	-	TP_1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=53; Rat ID=Allstudy-Pool1; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_1	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=SS-METH(+)MO9-KLH/ RIBI; Sample #=1; Rat ID=055-067-613; ID #=613
+SUBJECT_SAMPLE_FACTORS           	-	MO_41	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=41; Rat ID=071-551-594; ID #=594
+SUBJECT_SAMPLE_FACTORS           	-	P17B_1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=49; Rat ID=17wk-03B_Pool1; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_30	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=-; Sample #=30; Rat ID=055-108-354; ID #=354
+SUBJECT_SAMPLE_FACTORS           	-	MO_43	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=-; Sample #=43; Rat ID=071-560-345; ID #=345
+SUBJECT_SAMPLE_FACTORS           	-	MO_22	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=22; Rat ID=055-047-851; ID #=851
+SUBJECT_SAMPLE_FACTORS           	-	MO_28	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 B; Group=- 03 B; Immunizing agent=8; Sample #=28; Rat ID=055-041-872; ID #=872
+SUBJECT_SAMPLE_FACTORS           	-	P0_1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=45; Rat ID=0wk-03A_Pool1; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_33	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=Act. KLH/ RIBI; Sample #=33; Rat ID=055-105-638; ID #=638
+SUBJECT_SAMPLE_FACTORS           	-	MO_4	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=12; Sample #=4; Rat ID=055-120-831; ID #=831
+SUBJECT_SAMPLE_FACTORS           	-	P17C_2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=52; Rat ID=17wk-03C_Pool2; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_15	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=15; Rat ID=055-037-043; ID #=43
+SUBJECT_SAMPLE_FACTORS           	-	MO_36	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=12; Sample #=36; Rat ID=055-025-798; ID #=798
+SUBJECT_SAMPLE_FACTORS           	-	MO_7	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=7; Rat ID=055-080-861; ID #=861
+SUBJECT_SAMPLE_FACTORS           	-	MO_3	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=3; Rat ID=055-037-043; ID #=43
+SUBJECT_SAMPLE_FACTORS           	-	P17C_1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=51; Rat ID=17wk-03C_Pool1; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_2	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=(60mg/rat); Sample #=2; Rat ID=055-115-828; ID #=828
+SUBJECT_SAMPLE_FACTORS           	-	MO_34	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	Immunization #=RI 11-03 C; Group=- 03 C; Immunizing agent=(60mg/rat); Sample #=34; Rat ID=055-295-580; ID #=580
+SUBJECT_SAMPLE_FACTORS           	-	P17A_2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=48; Rat ID=17wk-03A_Pool2; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	MO_6	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	Immunization #=RI 11-03 A; Group=- 03 A; Immunizing agent=-; Sample #=6; Rat ID=055-061-772; ID #=772
+SUBJECT_SAMPLE_FACTORS           	-	P0_2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=46; Rat ID=0wk-03A_Pool2; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	PBS_01	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	PBS_02	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	PBS_03	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal3	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal4	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal5	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal6	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180 Cal7	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180-MetaDis QC1	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180-MetaDis QC2	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+SUBJECT_SAMPLE_FACTORS           	-	p180-MetaDis QC3	MCV:- | Adjuvant:- | Sample Collection:-	Immunization #=-; Group=-; Immunizing agent=-; Sample #=-; Rat ID=-; ID #=-
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Serum Samples from Rats Immunized with a Methamphetamine Conjugate Vaccine
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Treatment A - complete antigen with adjuvant
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Study Phenotypic Pools Thawed serum samples were vortexed and centrifuged at
+SP:SAMPLEPREP_SUMMARY            	5,000 rcf for 4 minutes. The following phenotypic pools were created by
+SP:SAMPLEPREP_SUMMARY            	combining 10 µL from each phenotypic sample into a 2 mL LoBind eppendorf tube:
+SP:SAMPLEPREP_SUMMARY            	1. Pre-immune serum from RI 11-03A (n=12) which is a matched control serum that
+SP:SAMPLEPREP_SUMMARY            	was collected before starting immunizations. The final volume of this phenotypic
+SP:SAMPLEPREP_SUMMARY            	pool was 120 µL which was vortexed for 30 seconds. Two phenotypic pools
+SP:SAMPLEPREP_SUMMARY            	(0wk-03A_Pool1 and 0wk-03A_Pool2) of 25 µL each were created. 2. Week 17 bleeds
+SP:SAMPLEPREP_SUMMARY            	from RI 11-03A (n=12). The final volume of this phenotypic pool was 120 µL
+SP:SAMPLEPREP_SUMMARY            	which was vortexed for 30 seconds. Two phenotypic pools (17wk-03A_Pool1 and
+SP:SAMPLEPREP_SUMMARY            	17wk-03A_Pool1) of 25 µL each were created. 3. RI 11-03B (n=8).The final volume
+SP:SAMPLEPREP_SUMMARY            	of this phenotypic pool was 80 µL which was vortexed for 30 seconds. Two
+SP:SAMPLEPREP_SUMMARY            	phenotypic pools (17wk-03B_Pool1 and 17wk-03B_Pool2) of 25 µL each were
+SP:SAMPLEPREP_SUMMARY            	created. 4. and RI 11-03C (n=12). The final volume of this phenotypic pool was
+SP:SAMPLEPREP_SUMMARY            	120 µL which was vortexed for 30 seconds. Two phenotypic pools
+SP:SAMPLEPREP_SUMMARY            	(17wk-03C_Pool1and 17wk-03C_Pool2) of 25 µL each were created. Whole Study
+SP:SAMPLEPREP_SUMMARY            	Pooled QC Whole study pooled QC samples were prepared by combining 25 µL of
+SP:SAMPLEPREP_SUMMARY            	each phenotypic pool sample created above into a 2 mL LoBind eppendorf tube.
+SP:SAMPLEPREP_SUMMARY            	This QC pooled sample was then vortexed for 30 sec. Then, three whole study
+SP:SAMPLEPREP_SUMMARY            	pooled QC samples of 25 µL each were aliquoted into 2 mL LoBind eppendorf
+SP:SAMPLEPREP_SUMMARY            	tubes. Biocrates Plate Preparation: All samples (Phenotypic pools, whole study
+SP:SAMPLEPREP_SUMMARY            	pooled QC and study samples) were vortexed for 10 minutes at 5,000 rpm. Samples
+SP:SAMPLEPREP_SUMMARY            	were then centrifuged at 16,000 rcf for 4 minutes and at 4 °C. A Biocrates p180
+SP:SAMPLEPREP_SUMMARY            	kit was prepared following the AbsoluteIDQ™ p180 Kit metabolomics procedure.
+SP:SAMPLEPREP_SUMMARY            	Briefly, an internal standard mix was added to 95 of the 96 wells. Next, zero
+SP:SAMPLEPREP_SUMMARY            	samples, QC standards and calibration standards were added to their
+SP:SAMPLEPREP_SUMMARY            	corresponding wells. The study samples, phenotypic and whole study pooled QC
+SP:SAMPLEPREP_SUMMARY            	Samples (20 µL) were then added to the appropriate wells and dried for 30
+SP:SAMPLEPREP_SUMMARY            	minutes under nitrogen flow. The plate was derivatized using a 5%
+SP:SAMPLEPREP_SUMMARY            	phenylisothiocyanate (PITC) solution in (1:1:1) ethanol:pyridine:water (v/v/v)
+SP:SAMPLEPREP_SUMMARY            	and, then, incubated for 20 minutes at room temperature followed by a drying
+SP:SAMPLEPREP_SUMMARY            	step under nitrogen flow. An extraction solvent (5 mM ammonium acetate in
+SP:SAMPLEPREP_SUMMARY            	methanol) was added to all wells. The plate was then shaken and centrifuged.
+SP:SAMPLEPREP_SUMMARY            	After centrifugation, 150 µL was removed and transferred to a second 96-well
+SP:SAMPLEPREP_SUMMARY            	plate (LCMS plate). This second plate was diluted with 150 µL of HPLC grade
+SP:SAMPLEPREP_SUMMARY            	water for a subsequent LCMS (MRM analysis) for measuring amino acids and
+SP:SAMPLEPREP_SUMMARY            	biogenic amines. All wells in the original plate were diluted with 400 µL of
+SP:SAMPLEPREP_SUMMARY            	flow injection analysis (FIA) Running Solvent for a FIA-MS (MRM analysis) for
+SP:SAMPLEPREP_SUMMARY            	measuring lipids, acylcarnitines, and hexose.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Agilent 1100
+CH:COLUMN_NAME                	Agilent Eclipse XDB-C18 (3.0 x 100mm)
+CH:FLOW_RATE                  	0.5mL/min
+CH:COLUMN_TEMPERATURE         	50 degrees C
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Applied Biosystems API4000
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Intensity
+MS_METABOLITE_DATA_START
+Samples	MO_5	TP_1	MO_35	MO_2	PBS_01	p180 Cal4	MO_4	P17B_2	MO_10	P0_1	MO_17	p180 Cal5	P17B_1	PBS_02	PBS_03	MO_31	MO_36	p180-MetaDis QC1	MO_3	MO_18	MO_14	MO_42	MO_40	MO_29	MO_33	MO_44	MO_34	p180 Cal6	MO_13	MO_41	MO_19	MO_16	p180 Cal1	MO_9	MO_23	MO_24	MO_26	MO_30	P17A_2	MO_22	p180 Cal7	MO_32	MO_38	MO_20	MO_11	TP_2	MO_21	MO_12	MO_15	p180-MetaDis QC3	MO_8	TP_3	MO_39	p180 Cal2	MO_43	P17C_2	MO_37	MO_7	MO_27	MO_6	MO_1	P17C_1	p180 Cal3	MO_25	p180-MetaDis QC2	MO_28	P0_2	P17A_1
+Factors	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:- | Adjuvant:- | Sample Collection:-	MCV:- | Adjuvant:- | Sample Collection:-	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:Act KLH | Adjuvant:RIBI | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:SSM09 | Adjuvant:RIBI | Sample Collection:Pre-Immune (0 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:SSM09 | Adjuvant:None | Sample Collection:Immunized (17 wks)	MCV:- | Adjuvant:- | Sample Collection:-	MCV:- | Adjuvant:- | Sample Collection:-
+C0	36.8	54.7	55.4	39.1	0.828	0.115	30.9	51.6	30.8	43.5	59.1	0.119	54.6	0.883	0.976	36.1	34	32.9	23	63.1	60.3	45.3	39.5	44.2	29	29.8	46	0.143	53	37.5	48	54.8	0.116	36.6	52.9	42.3	47.4	56.3	66.3	56.4	0.137	58.6	66.9	56	36.6	59.8	56.1	25.2	41.8	81.6	38	58.2	54.8	0.131	34.7	52.4	43.2	40.3	56.6	29.4	29.8	48	0.137	52.8	57.1	43	34.6	75.4
+C10	0.034	0.039	0.032	0.032	0.041	0.034	0.041	0.041	0.032	0.042	0.036	0.029	0.045	0.043	0.035	0.041	0.033	0.512	0.036	0.034	0.032	0.035	0.027	0.035	0.039	0.039	0.041	0.027	0.031	0.032	0.033	0.033	0.032	0.032	0.033	0.041	0.043	0.041	0.045	0.042	0.034	0.044	0.126	0.035	0.028	0.044	0.031	0.032	0.031	3.87	0.034	0.044	0.038	0.029	0.039	0.058	0.044	0.032	0.036	0.028	0.034	0.051	0.028	0.041	2.15	0.038	0.034	0.038
+C10:1	0.022	0.042	0.034	0.028	0.039	0.041	0.032	0.042	0.024	0.042	0.037	0.037	0.04	0.035	0.042	0.039	0.04	0.09	0.035	0.028	0.035	0.037	0.024	0.028	0.039	0.04	0.042	0.027	0.027	0.03	0.029	0.037	0.045	0.029	0.04	0.048	0.045	0.041	0.045	0.038	0.038	0.045	0.085	0.037	0.019	0.042	0.029	0.022	0.032	0.094	0.019	0.043	0.038	0.032	0.046	0.054	0.037	0.03	0.034	0.026	0.029	0.052	0.034	0.034	0.096	0.03	0.03	0.041
+C10:2	0.016	0.038	0.013	0.018	0.014	0.027	0.024	0.02	0.014	0.02	0.028	0.027	0.025	0.02	0.024	0.018	0.021	0.039	0.017	0.027	0.018	0.023	0.018	0.022	0.022	0.023	0.02	0.026	0.024	0.029	0.02	0.022	0.026	0.016	0.022	0.033	0.024	0.021	0.027	0.021	0.031	0.028	0.391	0.025	0.013	0.039	0.019	0.016	0.024	0.039	0.018	0.038	0.02	0.023	0.024	0.069	0.026	0.017	0.018	0.017	0.019	0.056	0.022	0.019	0.039	0.018	0.02	0.028
+C12	0.025	0.052	0.034	0.032	0.032	0.03	0.034	0.041	0.024	0.04	0.038	0.03	0.039	0.026	0.027	0.055	0.048	0.627	0.03	0.034	0.034	0.03	0.026	0.029	0.035	0.036	0.034	0.024	0.038	0.035	0.032	0.038	0.029	0.024	0.024	0.04	0.045	0.035	0.052	0.031	0.028	0.032	0.056	0.04	0.026	0.039	0.032	0.028	0.03	7.05	0.033	0.05	0.036	0.027	0.035	0.042	0.031	0.027	0.035	0.026	0.026	0.045	0.022	0.041	3.84	0.033	0.03	0.046
+C12-DC	0.049	0.047	0.046	0.053	0.075	0.076	0.059	0.05	0.041	0.049	0.051	0.067	0.051	0.08	0.086	0.046	0.052	0.078	0.05	0.049	0.044	0.044	0.053	0.049	0.056	0.039	0.056	0.064	0.051	0.05	0.048	0.043	0.079	0.05	0.043	0.048	0.047	0.054	0.054	0.055	0.069	0.045	0.053	0.044	0.053	0.051	0.046	0.051	0.054	0.075	0.048	0.049	0.043	0.075	0.046	0.056	0.054	0.046	0.049	0.057	0.045	0.049	0.074	0.048	0.072	0.052	0.051	0.055
+C12:1	0.016	0.025	0.019	0.018	0.033	0.03	0.025	0.025	0.012	0.025	0.027	0.024	0.032	0.029	0.037	0.023	0.03	0.059	0.021	0.02	0.015	0.028	0.022	0.018	0.037	0.026	0.028	0.021	0.02	0.024	0.02	0.017	0.035	0.023	0.025	0.025	0.035	0.027	0.026	0.029	0.026	0.035	0.09	0.022	0.014	0.034	0.018	0.02	0.017	0.061	0.016	0.028	0.022	0.031	0.028	0.036	0.027	0.025	0.016	0.022	0.017	0.036	0.028	0.019	0.069	0.024	0.019	0.026
+C14	0.044	0.096	0.048	0.047	0.014	0.016	0.047	0.111	0.039	0.064	0.094	0.017	0.109	0.014	0.013	0.141	0.095	0.817	0.049	0.075	0.07	0.076	0.048	0.061	0.094	0.06	0.067	0.015	0.058	0.06	0.048	0.075	0.018	0.035	0.041	0.079	0.103	0.078	0.085	0.046	0.019	0.077	0.13	0.067	0.033	0.108	0.042	0.035	0.049	4.16	0.052	0.091	0.075	0.017	0.087	0.103	0.038	0.046	0.061	0.041	0.049	0.084	0.016	0.092	2.3	0.071	0.058	0.085
+C14:1	0.028	0.066	0.043	0.035	0.007	0.008	0.031	0.073	0.027	0.047	0.066	0.005	0.074	0.009	0.011	0.083	0.074	0.072	0.046	0.056	0.049	0.055	0.046	0.048	0.063	0.054	0.05	0.003	0.051	0.047	0.043	0.055	0.006	0.027	0.034	0.06	0.069	0.059	0.066	0.052	0.006	0.064	0.064	0.051	0.023	0.068	0.043	0.028	0.035	0.06	0.036	0.069	0.056	0.006	0.058	0.063	0.053	0.03	0.05	0.03	0.04	0.066	0.004	0.063	0.07	0.059	0.045	0.066
+C14:1-OH	0.008	0.013	0.011	0.009	0.005	0.009	0.009	0.016	0.009	0.013	0.016	0.009	0.026	0.01	0.01	0.025	0.017	0.011	0.01	0.013	0.014	0.017	0.013	0.013	0.019	0.017	0.016	0.007	0.013	0.011	0.014	0.015	0.007	0.009	0.007	0.02	0.018	0.014	0.018	0.013	0.007	0.02	0.019	0.014	0.007	0.018	0.012	0.007	0.008	0.024	0.009	0.013	0.02	0.009	0.018	0.023	0.012	0.009	0.012	0.007	0.01	0.016	0.007	0.016	0.021	0.021	0.009	0.016
+C14:2	0.01	0.025	0.016	0.013	0.006	0.005	0.013	0.023	0.008	0.017	0.021	0.003	0.027	0.006	0.01	0.024	0.027	0.03	0.011	0.018	0.017	0.022	0.018	0.018	0.021	0.019	0.019	0.005	0.014	0.021	0.016	0.025	0.004	0.011	0.012	0.022	0.021	0.021	0.029	0.02	0.006	0.026	0.043	0.02	0.008	0.023	0.014	0.011	0.014	0.027	0.012	0.023	0.024	0.005	0.023	0.028	0.014	0.012	0.017	0.013	0.015	0.028	0.004	0.021	0.029	0.023	0.013	0.025
+C14:2-OH	0.01	0.012	0.008	0.011	0.015	0.026	0.011	0.012	0.008	0.01	0.012	0.027	0.013	0.014	0.015	0.015	0.014	0.013	0.012	0.01	0.009	0.012	0.009	0.011	0.011	0.01	0.011	0.023	0.011	0.011	0.008	0.011	0.025	0.008	0.008	0.013	0.011	0.011	0.015	0.012	0.024	0.012	0.014	0.011	0.011	0.014	0.009	0.009	0.008	0.014	0.01	0.011	0.013	0.023	0.01	0.014	0.009	0.008	0.008	0.008	0.01	0.012	0.025	0.01	0.014	0.012	0.009	0.011
+C16	0.134	0.274	0.158	0.152	0.006	0.004	0.133	0.287	0.111	0.207	0.219	0.005	0.286	0.006	0.007	0.391	0.252	0.757	0.133	0.162	0.151	0.217	0.166	0.179	0.285	0.231	0.249	0.009	0.14	0.159	0.128	0.188	0.003	0.128	0.109	0.209	0.304	0.205	0.213	0.145	0.008	0.2	0.231	0.176	0.116	0.269	0.17	0.118	0.124	7.42	0.164	0.261	0.216	0.004	0.271	0.289	0.098	0.147	0.187	0.129	0.149	0.257	0.004	0.255	4.01	0.162	0.17	0.229
+C16-OH	0.018	0.02	0.01	0.02	0.004	0.007	0.02	0.016	0.014	0.025	0.017	0.012	0.021	0.004	0.004	0.031	0.021	0.01	0.019	0.016	0.016	0.022	0.018	0.016	0.021	0.021	0.021	0.011	0.016	0.013	0.011	0.017	0.003	0.017	0.009	0.016	0.027	0.019	0.024	0.014	0.014	0.018	0.015	0.016	0.013	0.023	0.012	0.014	0.016	0.014	0.019	0.023	0.021	0.004	0.023	0.019	0.016	0.019	0.011	0.02	0.019	0.02	0.004	0.019	0.012	0.016	0.02	0.023
+C16:1	0.017	0.041	0.029	0.021	0.018	0.036	0.029	0.05	0.019	0.027	0.044	0.034	0.051	0.018	0.022	0.059	0.052	0.031	0.022	0.041	0.029	0.04	0.032	0.031	0.038	0.037	0.034	0.033	0.027	0.027	0.022	0.039	0.036	0.017	0.021	0.041	0.05	0.043	0.034	0.027	0.034	0.044	0.037	0.035	0.016	0.043	0.024	0.015	0.024	0.036	0.018	0.041	0.045	0.036	0.04	0.035	0.023	0.018	0.033	0.016	0.02	0.042	0.033	0.049	0.032	0.034	0.025	0.039
+C16:1-OH	0.013	0.02	0.01	0.012	0.005	0.006	0.012	0.022	0.008	0.021	0.017	0.006	0.018	0.007	0.006	0.026	0.02	0.011	0.011	0.015	0.014	0.018	0.01	0.017	0.025	0.019	0.02	0.006	0.016	0.015	0.012	0.018	0.006	0.01	0.012	0.016	0.021	0.017	0.02	0.013	0.007	0.019	0.017	0.015	0.011	0.025	0.015	0.011	0.014	0.02	0.015	0.021	0.021	0.005	0.019	0.023	0.012	0.013	0.017	0.012	0.012	0.019	0.005	0.021	0.016	0.017	0.013	0.016
+C16:2	0.006	0.017	0.011	0.007	0.011	0.007	0.009	0.017	0.007	0.01	0.017	0.007	0.019	0.014	0.016	0.022	0.019	0.011	0.008	0.009	0.013	0.016	0.011	0.009	0.017	0.015	0.017	0.006	0.009	0.012	0.01	0.016	0.005	0.006	0.007	0.014	0.015	0.013	0.013	0.01	0.006	0.017	0.02	0.014	0.007	0.021	0.009	0.006	0.007	0.012	0.008	0.02	0.018	0.007	0.017	0.02	0.007	0.006	0.011	0.009	0.009	0.017	0.006	0.015	0.011	0.014	0.009	0.018
+C16:2-OH	0.011	0.016	0.014	0.016	0.024	0.02	0.019	0.017	0.014	0.014	0.015	0.019	0.016	0.032	0.035	0.023	0.018	0.021	0.018	0.014	0.019	0.018	0.015	0.015	0.015	0.019	0.02	0.016	0.014	0.018	0.013	0.016	0.021	0.013	0.013	0.018	0.017	0.016	0.016	0.014	0.019	0.015	0.022	0.015	0.017	0.02	0.016	0.013	0.015	0.022	0.015	0.018	0.019	0.018	0.017	0.019	0.017	0.014	0.014	0.016	0.015	0.019	0.016	0.017	0.027	0.02	0.014	0.019
+C18	0.083	0.121	0.052	0.107	0.004	0.005	0.103	0.106	0.071	0.164	0.071	0.005	0.086	0.006	0.007	0.14	0.079	0.774	0.109	0.076	0.065	0.08	0.063	0.073	0.137	0.074	0.08	0.004	0.066	0.067	0.043	0.079	0.007	0.099	0.046	0.081	0.112	0.059	0.085	0.059	0.008	0.075	0.175	0.078	0.09	0.116	0.067	0.096	0.068	4.18	0.127	0.119	0.074	0.006	0.104	0.102	0.039	0.107	0.076	0.096	0.103	0.098	0.004	0.086	2.19	0.063	0.122	0.088
+C18:1	0.11	0.22	0.131	0.116	0.018	0.016	0.127	0.262	0.09	0.159	0.182	0.011	0.235	0.018	0.029	0.286	0.208	0.087	0.131	0.165	0.136	0.179	0.139	0.143	0.231	0.171	0.176	0.01	0.123	0.143	0.132	0.183	0.017	0.095	0.104	0.158	0.219	0.16	0.168	0.138	0.012	0.196	0.234	0.145	0.113	0.22	0.131	0.091	0.103	0.082	0.12	0.227	0.206	0.017	0.192	0.217	0.08	0.106	0.181	0.11	0.124	0.225	0.016	0.219	0.087	0.151	0.128	0.194
+C18:1-OH	0.017	0.028	0.017	0.022	0.016	0.018	0.026	0.033	0.018	0.029	0.028	0.014	0.026	0.019	0.015	0.042	0.037	0.019	0.022	0.026	0.025	0.028	0.023	0.019	0.035	0.026	0.028	0.014	0.019	0.018	0.018	0.026	0.02	0.016	0.019	0.027	0.034	0.02	0.024	0.024	0.014	0.026	0.032	0.024	0.019	0.028	0.021	0.017	0.021	0.023	0.02	0.034	0.029	0.015	0.034	0.029	0.022	0.022	0.029	0.02	0.024	0.032	0.014	0.028	0.021	0.027	0.02	0.026
+C18:2	0.048	0.116	0.085	0.065	0.02	0.009	0.051	0.139	0.05	0.078	0.077	0.011	0.144	0.021	0.019	0.16	0.116	0.051	0.061	0.073	0.079	0.109	0.076	0.095	0.145	0.097	0.117	0.007	0.055	0.094	0.062	0.089	0.013	0.05	0.047	0.087	0.122	0.099	0.088	0.064	0.008	0.12	0.18	0.071	0.047	0.126	0.059	0.043	0.045	0.057	0.065	0.14	0.103	0.009	0.107	0.129	0.037	0.06	0.107	0.053	0.058	0.128	0.008	0.136	0.052	0.074	0.069	0.096
+C2	2.26	17.1	17.8	1.74	0.043	0.03	1.59	19.8	2.96	2.98	18.5	0.033	19.4	0.051	0.044	15.1	17	4.01	1.37	12.8	12.7	21	12.8	16.8	11.5	31.4	14.9	0.029	10.4	12.3	9.34	12.1	0.03	2.37	16.7	11.3	12.5	21.1	16.7	14.5	0.025	16	40.8	15	3.65	17.3	16.5	2.26	7.54	18.8	2.74	17.3	28	0.033	18.5	25.6	5.82	2.63	21	1.73	1.33	22.9	0.026	14.2	11.2	12.7	2.41	17.7
+C3	0.346	0.447	0.524	0.318	0.02	0.013	0.285	0.46	0.281	0.423	0.388	0.024	0.452	0.021	0.022	0.266	0.198	0.697	0.212	0.344	0.403	0.344	0.462	0.378	0.211	0.363	0.275	0.012	0.412	0.3	0.388	0.338	0.009	0.421	0.288	0.292	0.308	0.34	0.419	0.353	0.014	0.417	0.653	0.384	0.436	0.481	0.379	0.314	0.201	8.39	0.355	0.476	0.452	0.01	0.282	0.468	0.508	0.42	0.323	0.305	0.305	0.423	0.009	0.377	4.49	0.563	0.365	0.464
+C3-DC (C4-OH)	0.05	0.103	0.078	0.056	0.019	0.023	0.041	0.124	0.043	0.061	0.098	0.011	0.119	0.021	0.019	0.118	0.145	0.077	0.053	0.105	0.066	0.106	0.083	0.096	0.106	0.132	0.108	0.014	0.066	0.083	0.081	0.069	0.02	0.064	0.073	0.115	0.119	0.096	0.115	0.095	0.018	0.097	0.289	0.073	0.032	0.115	0.076	0.058	0.069	0.048	0.051	0.1	0.104	0.02	0.14	0.139	0.078	0.087	0.08	0.049	0.055	0.148	0.018	0.092	0.065	0.08	0.057	0.11
+C3-OH	0.013	0.013	0.013	0.017	0.022	0.017	0.017	0.012	0.01	0.012	0.013	0.019	0.019	0.024	0.022	0.014	0.011	0.016	0.013	0.016	0.015	0.023	0.014	0.014	0.018	0.013	0.015	0.016	0.015	0.014	0.016	0.01	0.014	0.016	0.015	0.012	0.016	0.014	0.017	0.015	0.021	0.014	0.037	0.011	0.014	0.021	0.015	0.011	0.008	0.012	0.014	0.015	0.01	0.016	0.016	0.02	0.014	0.018	0.016	0.014	0.015	0.016	0.016	0.016	0.018	0.015	0.013	0.015
+C3:1	0.007	0.007	0.01	0.011	0.021	0.009	0.014	0.012	0.008	0.008	0.012	0.008	0.01	0.017	0.017	0.008	0.008	0.012	0.006	0.011	0.007	0.021	0.01	0.009	0.011	0.015	0.008	0.005	0.008	0.01	0.007	0.01	0.008	0.009	0.009	0.008	0.007	0.011	0.012	0.007	0.005	0.011	0.01	0.009	0.009	0.009	0.006	0.007	0.008	0.013	0.011	0.009	0.009	0.008	0.01	0.012	0.013	0.01	0.007	0.009	0.011	0.007	0.005	0.008	0.017	0.007	0.01	0.01
+C4	0.114	0.284	0.317	0.114	0.02	0.011	0.094	0.276	0.142	0.166	0.277	0.011	0.269	0.023	0.028	0.2	0.191	0.76	0.071	0.225	0.245	0.277	0.185	0.226	0.136	0.226	0.192	0.01	0.236	0.165	0.235	0.242	0.012	0.179	0.24	0.171	0.199	0.331	0.306	0.243	0.011	0.25	0.727	0.19	0.135	0.31	0.294	0.117	0.133	8.17	0.131	0.303	0.333	0.01	0.204	0.403	0.87	0.181	0.146	0.103	0.108	0.338	0.008	0.203	4.25	0.249	0.138	0.314
+C4:1	0.01	0.013	0.009	0.011	0.02	0.012	0.019	0.015	0.009	0.009	0.012	0.012	0.014	0.028	0.022	0.012	0.016	0.02	0.01	0.014	0.013	0.024	0.01	0.013	0.009	0.017	0.009	0.011	0.014	0.013	0.01	0.012	0.013	0.012	0.015	0.01	0.012	0.012	0.013	0.013	0.013	0.012	0.035	0.012	0.01	0.014	0.007	0.011	0.012	0.037	0.013	0.017	0.011	0.012	0.014	0.016	0.017	0.007	0.01	0.01	0.012	0.012	0.012	0.011	0.033	0.01	0.008	0.014
+C6 (C4:1-DC)	0.018	0.047	0.046	0.016	0.018	0.036	0.026	0.054	0.015	0.024	0.053	0.029	0.062	0.022	0.018	0.048	0.059	0.334	0.014	0.041	0.038	0.069	0.03	0.041	0.038	0.069	0.044	0.025	0.033	0.057	0.026	0.056	0.032	0.019	0.03	0.041	0.055	0.059	0.044	0.027	0.031	0.052	0.113	0.044	0.013	0.048	0.034	0.017	0.028	3.84	0.022	0.048	0.074	0.028	0.053	0.074	0.032	0.022	0.045	0.016	0.026	0.055	0.024	0.047	2.01	0.028	0.019	0.046
+C5	0.16	0.189	0.176	0.157	0.033	0.017	0.144	0.166	0.162	0.206	0.131	0.015	0.173	0.036	0.037	0.193	0.117	0.785	0.113	0.089	0.131	0.163	0.119	0.115	0.092	0.148	0.185	0.015	0.124	0.105	0.132	0.171	0.019	0.164	0.116	0.08	0.121	0.133	0.14	0.106	0.018	0.138	0.633	0.134	0.157	0.188	0.104	0.143	0.095	8.42	0.188	0.198	0.191	0.016	0.118	0.227	0.135	0.24	0.124	0.107	0.134	0.197	0.016	0.155	4.71	0.173	0.148	0.148
+C5-M-DC	0.023	0.02	0.024	0.025	0.057	0.043	0.025	0.024	0.021	0.022	0.022	0.046	0.023	0.05	0.05	0.022	0.03	0.053	0.022	0.027	0.026	0.028	0.02	0.021	0.022	0.019	0.027	0.047	0.021	0.023	0.025	0.026	0.06	0.022	0.025	0.023	0.018	0.028	0.024	0.025	0.05	0.021	0.043	0.021	0.024	0.022	0.021	0.023	0.026	0.017	0.021	0.017	0.023	0.049	0.02	0.024	0.02	0.027	0.023	0.023	0.027	0.021	0.047	0.02	0.041	0.02	0.022	0.023
+C5-OH (C3-DC-M)	0.104	0.119	0.119	0.125	0.173	0.092	0.1	0.13	0.108	0.109	0.132	0.101	0.121	0.193	0.174	0.122	0.109	0.183	0.104	0.13	0.133	0.124	0.11	0.104	0.11	0.113	0.118	0.115	0.114	0.117	0.115	0.113	0.13	0.107	0.125	0.124	0.115	0.118	0.135	0.119	0.133	0.113	0.191	0.12	0.108	0.147	0.124	0.107	0.136	0.141	0.111	0.145	0.145	0.085	0.109	0.137	0.111	0.119	0.12	0.103	0.115	0.122	0.081	0.122	0.155	0.121	0.104	0.146
+C5:1	0.019	0.024	0.021	0.021	0.042	0.029	0.026	0.023	0.018	0.022	0.025	0.023	0.029	0.036	0.04	0.021	0.021	0.043	0.022	0.022	0.026	0.033	0.023	0.02	0.021	0.025	0.024	0.018	0.022	0.024	0.019	0.021	0.036	0.018	0.021	0.02	0.026	0.022	0.023	0.02	0.022	0.016	0.059	0.022	0.024	0.024	0.018	0.023	0.02	0.042	0.02	0.032	0.021	0.03	0.019	0.031	0.022	0.02	0.021	0.019	0.019	0.026	0.029	0.022	0.053	0.019	0.013	0.026
+C5:1-DC	0.007	0.013	0.007	0.011	0.01	0.009	0.013	0.01	0.005	0.007	0.011	0.006	0.017	0.015	0.014	0.014	0.012	0.012	0.008	0.008	0.012	0.029	0.009	0.012	0.009	0.016	0.013	0.007	0.01	0.013	0.009	0.009	0.008	0.008	0.011	0.007	0.01	0.013	0.01	0.009	0.009	0.008	0.022	0.011	0.008	0.011	0.008	0.01	0.009	0.023	0.012	0.011	0.011	0.008	0.013	0.017	0.011	0.009	0.008	0.009	0.007	0.011	0.007	0.008	0.021	0.008	0.007	0.013
+C5-DC (C6-OH)	0.01	0.011	0.008	0.014	0.01	0.009	0.015	0.012	0.008	0.011	0.011	0.009	0.019	0.008	0.009	0.011	0.013	0.014	0.008	0.013	0.014	0.016	0.01	0.008	0.01	0.014	0.012	0.007	0.007	0.012	0.006	0.01	0.007	0.01	0.012	0.009	0.011	0.011	0.011	0.01	0.01	0.01	0.067	0.013	0.007	0.019	0.009	0.009	0.01	0.014	0.011	0.014	0.014	0.007	0.013	0.024	0.01	0.009	0.015	0.009	0.012	0.014	0.007	0.014	0.013	0.007	0.011	0.013
+C6:1	0.009	0.011	0.009	0.01	0.017	0.03	0.011	0.011	0.008	0.008	0.01	0.042	0.016	0.018	0.021	0.008	0.014	0.014	0.009	0.012	0.011	0.017	0.008	0.01	0.009	0.012	0.012	0.054	0.01	0.01	0.007	0.01	0.011	0.012	0.01	0.01	0.013	0.011	0.008	0.009	0.1	0.014	0.018	0.011	0.009	0.01	0.009	0.009	0.01	0.018	0.008	0.012	0.009	0.011	0.012	0.014	0.014	0.01	0.009	0.008	0.009	0.013	0.014	0.011	0.016	0.009	0.008	0.014
+C7-DC	0.007	0.007	0.005	0.006	0.006	0.013	0.011	0.007	0.006	0.008	0.008	0.011	0.008	0.006	0.008	0.008	0.01	0.014	0.007	0.006	0.006	0.01	0.006	0.006	0.007	0.008	0.009	0.009	0.007	0.007	0.006	0.007	0.012	0.006	0.008	0.007	0.009	0.007	0.009	0.009	0.009	0.007	0.02	0.006	0.004	0.008	0.006	0.006	0.008	0.018	0.007	0.006	0.008	0.011	0.008	0.01	0.01	0.01	0.008	0.007	0.006	0.01	0.011	0.007	0.016	0.007	0.006	0.01
+C8	0.031	0.045	0.033	0.035	0.034	0.042	0.038	0.038	0.031	0.029	0.034	0.041	0.046	0.037	0.047	0.041	0.037	0.327	0.028	0.033	0.033	0.038	0.028	0.031	0.032	0.039	0.04	0.036	0.027	0.031	0.032	0.038	0.054	0.032	0.035	0.036	0.043	0.038	0.037	0.033	0.038	0.035	0.086	0.033	0.031	0.044	0.031	0.027	0.033	5.1	0.029	0.04	0.037	0.049	0.03	0.048	0.028	0.032	0.033	0.03	0.031	0.041	0.046	0.033	2.66	0.028	0.034	0.039
+C9	0.013	0.018	0.013	0.015	0.011	0.02	0.017	0.02	0.01	0.016	0.014	0.018	0.017	0.011	0.017	0.018	0.015	0.022	0.014	0.015	0.017	0.018	0.011	0.015	0.018	0.014	0.017	0.015	0.017	0.017	0.013	0.013	0.025	0.015	0.016	0.016	0.015	0.016	0.017	0.019	0.016	0.014	0.103	0.016	0.015	0.024	0.013	0.011	0.015	0.031	0.012	0.02	0.015	0.019	0.017	0.034	0.018	0.016	0.013	0.012	0.014	0.029	0.018	0.014	0.027	0.019	0.012	0.018
+Ala	1115	730	487	975	0	385	1125	505	960	1220	515	748	498	0	0	302	287	315	1095	530	491	384	590	985	418	357	380	1150	625	469	575	460	21.5	920	472	510	391	361	660	466	1720	405	288	515	985	705	535	1050	520	1200	950	780	368	40.1	305	590	805	890	353	1050	1030	560	199	442	740	715	1030	655
+Arg	270	218	159	283	0	114	273	162	245	314	174	215	167	0	0	150	129	119	282	186	198	175	116	160	189	147	164	268	180	159	173	179	3.96	235	122	191	177	135	209	175	399	138	180	193	249	234	179	252	156	287	276	236	146	9.9	161	192	178	285	178	219	271	173	55.8	38	220	178	265	222
+Asn	147	110	79	124	0	96.2	155	73.5	154	180	65.5	196	79	0	0	51.5	43.5	15.9	148	74	52	57.5	69	110	77	59	70.5	306	73	68	65	61.5	4.99	150	50.5	62.5	59	53.5	88	68.5	400	64	13.8	67.5	147	97	70	142	60.5	286	133	108	57	10	60.5	86.5	99.5	122	58.5	155	129	74	51.8	78	154	84.5	145	87.5
+Asp	119	102	84	116	0	107	125	71.5	79.5	131	58.5	181	75.5	0	0	49.5	56.5	12.2	119	74	69	73.5	59	180	81.5	45.4	98	331	86.5	73	93	90	3.46	82.5	48.5	57.5	72.5	45.7	94.5	49.1	377	55	118	71.5	81	97.5	57.5	113	113	333	114	114	73.5	12.2	81.5	96.5	74	110	69	104	119	90.5	53.6	85	164	65.5	104	85.5
+Cit	110	149	141	90	0	100	80.5	156	112	120	118	208	140	0	0.066	97	69.5	31.3	85	119	93	111	142	352	142	147	125	266	124	143	149	102	4.18	83	76.5	92.5	88.5	104	149	129	420	130	122	117	71.5	145	82	88.5	95.5	319	99	150	98.5	10.5	112	176	147	80	87	89.5	88.5	150	56.9	108	170	210	93.5	137
+Gln	655	850	875	600	0	434	745	860	600	845	550	842	885	0	0	780	635	302	725	575	510	770	750	705	860	795	730	1060	530	820	600	615	19.2	575	520	540	600	690	655	525	1670	775	600	600	635	865	545	660	445	1060	755	970	800	39.8	700	920	655	635	765	485	590	850	196	770	658	840	625	745
+Glu	359	364	198	374	0	198	393	280	340	505	325	368	279	1.08	1.84	213	144	156	392	337	324	160	180	555	206	126	263	535	354	176	337	320	10.4	297	239	289	289	155	419	293	898	161	184	311	296	321	288	349	368	557	372	339	172	20.7	205	269	177	430	244	378	333	225	99.8	305	381	248	412	427
+Gly	485	595	480	575	0	534	590	488	491	675	515	1050	510	0	0	338	370	207	575	530	451	464	575	430	655	479	493	1320	560	481	505	515	24.7	489	413	520	374	372	635	473	2100	467	280	510	452	610	457	434	560	1450	625	595	416	48.3	520	590	359	535	367	520	550	555	250	525	931	570	525	675
+His	102	105	84.5	99	0.147	106	113	82	93.5	135	74	198	80.5	0.228	0.314	69.5	52.5	71	112	95	74.5	67.5	71.5	64.5	81	64	77	264	78.5	71.5	72.5	64	5.29	112	66	78.5	66.5	63	96.5	84	434	61.5	160	76	109	106	67.5	98	75	284	121	113	66	9.55	68	103	96	99	68	97	108	91	48.8	83	184	86.5	110	105
+Ile	174	195	170	194	0	106	189	172	156	236	173	210	173	0	0	146	129	72.7	186	152	140	158	144	113	194	143	199	258	151	144	168	153	5.21	188	136	141	156	145	189	156	429	150	112	138	188	203	138	171	153	278	159	209	147	9.69	167	205	157	172	124	177	200	182	47.5	171	185	161	181	210
+Leu	295	313	236	323	0	100	313	270	261	407	285	210	266	0	0	223	194	137	312	257	231	228	214	174	275	226	274	259	271	214	261	243	5.49	322	249	236	252	220	318	264	431	226	182	229	306	322	221	300	280	281	259	329	215	9.03	240	304	208	295	198	286	328	274	50.4	253	227	246	296	348
+Lys	545	505	367	620	0	216	710	414	497	725	387	424	405	0	0	370	209	189	605	462	410	374	303	274	293	326	356	556	409	359	303	446	8.33	530	314	382	358	306	482	340	800	263	307	468	460	525	436	520	370	561	710	545	396	21.2	251	415	431	565	341	510	655	371	104	451	397	398	600	550
+Met	77	62.5	49.9	80.5	0	125	79.5	39.6	69	107	43.8	222	45	0	0	38.2	27.1	20.6	95	55	42.1	40.7	40.1	33.8	40.4	38.2	37.6	254	38	45.5	43.7	35.9	3.71	85	49.1	43.1	38.7	33.4	61.5	46	395	37.2	59	43	78.5	64	45	78.5	47	287	66.5	64	34.9	9.4	39.5	57	71.5	103	28.9	89.5	78.5	56.5	56.2	33.7	160	59.5	106	59.5
+Orn	106	128	112	116	0	111	123	122	105	150	142	215	120	0	0	77.5	42.3	48.1	115	116	86.5	73	105	62	62.5	72.5	93	270	112	65	110	115	4.49	121	146	92	63	81	135	91.5	403	80	96.5	117	124	136	97.5	126	143	262	103	151	76	9.76	58	98.5	84	100	80.5	117	126	86.5	51.6	233	169	99.5	119	171
+Phe	111	130	102	135	0	108	126	103	100	164	110	210	104	0	0	86.5	67.5	61.9	125	106	102	89	76.5	84	97	85.5	99	267	111	81.5	105	109	4.79	128	103	105	88	81	141	103	416	81.5	117	98.5	113	136	93.5	131	115	286	118	135	85.5	9.96	91	116	79	130	84	117	133	108	49.1	102	187	97	136	147
+Pro	377	267	178	420	0	234	381	166	348	500	196	416	171	0	0	114	108	190	422	190	178	150	160	139	179	142	162	519	195	173	173	179	8.89	421	180	158	146	153	221	167	829	154	98.5	190	415	268	165	387	177	542	372	273	144	19.3	153	209	305	353	156	388	397	189	104	165	408	222	403	227
+Ser	469	431	403	535	0	99.9	565	362	407	630	412	212	369	0	0	261	272	76.5	525	428	376	330	319	303	415	295	302	277	408	332	359	391	4.54	505	360	379	289	308	451	361	410	311	197	393	525	510	396	480	389	264	535	575	307	10.5	315	402	401	480	314	483	550	381	51.8	399	184	391	500	494
+Thr	441	364	263	457	0	106	403	288	395	525	316	199	293	0	0	181	193	98.3	471	300	263	227	233	615	310	204	275	277	317	234	336	263	4.62	407	284	242	231	225	409	357	415	233	218	334	365	365	363	340	281	284	381	397	248	9.98	236	357	415	366	224	490	440	331	52.9	366	205	265	433	406
+Trp	138	143	113	185	0	112	140	115	145	247	99	201	117	0	0	64	46.8	55	176	93	92	78.5	109	96	64	60	85	279	86.5	103	98	81	4.69	158	98	82.5	95.5	85	137	112	408	125	30.9	96	143	152	104	152	81	302	152	152	71.5	9.73	83.5	117	125	171	64	123	141	101	50.7	88.5	181	140	190	137
+Tyr	171	109	91	163	0	108	172	74	137	230	64.5	198	71.5	0	0	50.5	52	73.7	201	58.5	64	61.5	57.5	56.5	66	63	65.5	277	69.5	61	64.5	68.5	5.15	169	54	70	60	76	84	54	417	65	39.7	76	141	114	59	175	65	292	192	118	54.5	9.37	61.5	78.5	53.5	157	58.5	149	179	71.5	49.7	73	193	56.5	186	90.5
+Val	246	255	215	277	0	209	276	212	224	328	201	402	207	0	0	190	143	208	255	199	179	196	191	142	238	195	243	560	186	192	212	180	10	288	163	183	196	182	224	179	832	196	140	166	287	263	160	265	177	512	226	268	194	20.1	204	244	202	252	157	241	284	220	96.9	211	385	225	265	246
+Ac-Orn	5.75	11.2	9.05	6.3	0	9.34	5.95	11	6.5	8.95	8.8	18.4	10.1	0	0.988	7.85	3.7	2.28	7.35	10.5	11.7	7.5	7.7	6.4	8.45	12.2	9.35	25.7	8.25	10.2	13.6	6.9	0.554	7.75	5.25	7.8	6.85	8	10.7	8.2	47	9	20.2	6.4	4.98	11.8	5.65	6.85	6.55	18.6	6.5	12.7	9.5	1.14	7.85	11.6	7.1	7.25	6.65	5.85	8.75	10.1	4.34	8.6	10.2	14.8	6.85	12.2
+ADMA	0.89	0.8	0.705	0.72	0	5.15	0.685	0.53	0.82	1.49	0.645	9.68	0.79	0	0	0.53	0.39	0.745	1.22	0.461	0.565	0.417	0.645	1.2	0.635	0.575	0.645	11.8	0.73	0.466	0.494	0.65	0.288	0.745	0.6	0.54	0.54	0.425	1.08	0.59	23.6	0.455	0.308	0.845	0.715	0.615	0.765	0.845	0.67	14.7	1.09	0.77	0.505	0.487	0.363	0.645	0.725	1.37	0.61	0.795	0.875	0.605	2.28	0.565	8.29	0.735	1.12	0.805
+alpha-AAA	1.76	1.54	1.16	1.74	0	17.4	1.77	1.32	1.53	2.05	1.09	39.5	1.51	0	0.796	0.94	0.965	2.45	1.71	1.29	0.87	0.975	0.935	1	1.05	0.91	1.29	52	1.33	1.19	0.91	1.17	1.29	1.45	0.88	1.26	0.975	1.03	1.31	1.1	92.6	1.09	1.35	0.935	1.49	1.62	0.815	2.17	1.17	42.2	1.6	1.69	0.925	2.01	1.09	1.47	1.3	1.48	1.01	1.82	1.66	1.21	8.22	1.15	21.9	1.78	2.06	1.28
+c4-OH-Pro	0	0	0	0	0	21.2	0	0	0	0	0	36.8	0	0	0	0	0	4.44	0	0	0	0	0	0	0	0	0	50.7	0	0	0	0	1.17	0	0	0	0	0	0	0	93.2	0	0	0	0	0	0	0	0	52.7	0	0	0	2.14	0	0	0	0	0	0	0	0	7.7	0	27.1	0	0	0
+Carnosine	0.073	0.032	0	0.079	0	11.1	0.081	0	0.05	0.086	0	20.3	0	0	0	0	0	0.935	0.075	0	0	0	0	0	0	0	0	26.2	0	0	0	0	0.459	0.13	0	0	0	0	0	0	42.5	0	0.255	0	0.072	0.051	0	0.058	0	27.8	0.122	0.037	0	1.05	0	0.041	0	0.063	0	0.06	0.052	0	4.85	0	14.2	0	0.096	0
+Creatinine	24.3	56.5	12.8	21.1	0	261	20.5	32.2	26.2	30.5	35.4	348	34.3	0	0	29.4	28.9	71.3	24.5	25	25.7	25.6	25.9	83	32.7	25.1	30.5	660	28.5	26.6	32.4	21.9	6.06	20.4	25.1	28.1	25.3	24.8	32.8	27.6	720	24.9	730	29.9	19.7	51.5	20	25.8	25.4	662	20.8	51.5	24.7	21.7	20.5	131	27.8	23.2	28.7	16.2	24.5	120	114	34.1	390	29.4	27.5	27.9
+DOPA	0.119	0.116	0	0.011	0.057	10.9	0.116	0	0.142	0.106	0.012	19.9	0.023	0.014	0	0.008	0.05	0.885	0.082	0.031	0.044	0.014	0.061	0.056	0.016	0.002	0.016	28.1	0	0.079	0.01	0.111	0.376	0.058	0	0.05	0.008	0.058	0.035	0	40.8	0	0.044	0	0.085	0.037	0.094	0.051	0.012	23.3	0.032	0.052	0	1.16	0.055	0.041	0	0.076	0.03	0	0.138	0.025	5.21	0.052	9.37	0	0.04	0.059
+Dopamine	0	0	0	0	0	20.5	0	0	0	0	0	38	0	0	0	0	0	1.15	0	0	0	0	0	0	0	0	0	57.4	0	0	0	0	0.99	0	0	0	0	0	0	0	83.4	0	0	0	0	0	0	0	0	39.7	0	0	0	1.88	0	0	0	0	0	0	0	0	11	0	14.3	0	0	0
+Histamine	0.329	0.12	0	0.255	0	21.3	0.66	0.07	0.174	0.358	0.086	39.6	0.067	0	0	0.028	0.012	2.19	0.244	0	0	0	0.021	0.002	0	0.001	0.03	53.3	0	0.007	0	0	0.976	0.159	0	0.041	0.03	0.072	0	0.019	85.8	0	0.164	0	0.165	0.107	0	0.259	0	32	0.131	0.125	0.209	2.01	0.011	0.05	0.027	0.161	0.041	0.243	0.242	0.043	10.1	0.219	18.9	0.061	0.266	0
+Kynurenine	2.75	2.63	0.78	1.97	0	22.3	2.71	2.39	3.78	4.22	0.805	38.9	2.39	0	0	3.55	1.37	1.81	3.05	1.29	0.61	0.575	1.35	1.33	0.895	1.16	1.7	54.9	2.05	1.06	0.715	1.97	0.966	2.19	0.62	0.5	0.815	0.8	1.55	0.63	83.9	0.89	3	1.77	1.62	2.51	0.47	2.44	0.81	67.1	4.23	2.66	1.8	1.93	0.725	1.69	0.79	3.15	3.09	2	1.94	1.74	10.2	1.76	37.6	1.75	3.56	1.53
+Met-SO	13.5	12.1	8.65	22.9	0	25.4	14.1	10.6	8.65	14.7	13.5	42.6	11.5	0	0	7.05	8.15	1.88	12.6	14.2	10.7	10.7	3.96	7.4	13.3	3.8	12	48.8	13.1	8.8	9.4	13.6	0.909	11.3	9.95	7.1	11.5	14.7	14.5	12.5	83.3	12.9	1.87	10.5	6.6	12.2	11.2	7.95	10.1	47.8	5.15	12.1	10.8	1.74	5.1	9	8.95	9.9	11.2	11.9	22	8.65	10.3	12.5	25.7	9.55	14.6	14.2
+Nitro-Tyr	0	0	0	0	0	20.3	0	0	0	0	0	40.7	0	0	0	0	0	2.02	0	0	0	0	0	0	0	0	0	55	0	0	0	0	1.15	0	0	0	0	0	0	0	84.6	0	0	0	0	0	0	0	0	37.3	0	0	0	1.81	0	0	0	0	0	0	0	0	9.39	0	21.8	0	0	0
+PEA	0	0	0	0	0	1.92	0	0	0	0	0	4.46	0	0	0	0	0	0.148	0	0	0	0	0	0	0	0	0	2.99	0	0	0	0	0.099	0	0	0	0	0	0	0	10.8	0	0	0	0	0	0	0	0	6.45	0	0	0	0.256	0	0	0	0	0	0	0	0	0.813	0	2.66	0	0	0
+Putrescine	1.34	0.337	0.071	0.84	0.043	1.96	0.72	0.073	1.27	1.19	0.038	3.79	0.079	0.039	0.042	0.104	0.131	0.207	0.52	0.009	0.008	0.015	0.037	0.093	0.028	0.036	0.171	5.9	0.012	0.021	0.008	0.007	0.09	0.865	0.009	0.048	0.031	0.094	0.024	0.072	8.36	0.016	0.985	0.016	0.665	0.318	0.017	1.15	0.009	6.23	1.33	0.328	0.139	0.236	0.077	0.229	0.086	0.875	0.163	0.795	0.705	0.174	0.971	0.08	2.98	0.019	1.01	0.026
+SDMA	0	0	0	0	0	21.5	0	0	0	0	0	39	0	0	0	0.006	0	0.032	0	0	0	0	0	0.356	0	0	0	56.6	0	0.059	0.046	0	0.798	0	0	0	0	0	0.169	0	82.8	0	1.01	0	0	0	0	0	0	6.82	0	0.282	0	2.37	0.031	0	0	0	0	0	0	0.081	9.87	0	2.74	0	0	0
+Serotonin	5.65	7.3	5.95	5.55	0.023	2.02	5.35	5.3	5.2	7.2	6.15	3.81	5.9	0.02	0.025	3.2	4.1	0.229	6.1	4.8	5.15	5.7	4.66	14.8	3.76	2.7	7.05	5.65	3.91	4.95	4.15	4.67	0.092	5.05	2.57	5.9	4.5	5.05	8.2	5.3	8.51	5.15	1.31	5.1	4.29	5.6	6.4	5.2	4.91	5.83	5.9	5.55	5.3	0.226	4.48	7.05	6.2	5.15	4.07	5	4.15	6.85	0.985	4.56	2.79	4.31	7.3	7.05
+Spermidine	2.18	2.65	1.33	3.21	0.131	4.88	2.1	2.43	2.23	3.34	1.79	9.88	2.53	0.131	0.134	2.03	1.15	0.753	3.13	1.99	2	1.52	1.62	4.18	1.59	1.25	1.35	14.3	2.66	1.14	2.39	1.63	0.311	2.12	1.42	2.34	2.43	1.49	3.03	1.73	20.9	1.32	2.71	2.03	1.74	2.47	2.9	2.26	1.85	14.3	2.34	2.53	1.38	0.379	1.11	2.12	1.26	2.69	1.77	2.59	2.99	1.95	2.59	3.03	7.06	1.13	2.95	2.88
+Spermine	0.171	0.161	0.112	0.164	0	4.77	0.186	0.141	0.148	0.215	0.102	10.5	0.147	0	0	0.127	0.109	0.775	0.194	0.09	0.088	0.118	0.114	0.221	0.108	0.121	0.125	14.4	0.109	0.108	0.116	0.099	0.287	0.157	0.091	0.131	0.126	0.122	0.133	0.119	20.4	0.129	0.392	0.107	0.154	0.156	0.154	0.17	0.09	14.6	0.152	0.154	0.115	0.433	0.112	0.176	0.1	0.206	0.116	0.17	0.229	0.164	2.52	0.151	7.25	0.097	0.21	0.123
+t4-OH-Pro	77.5	36.7	15.8	75.5	0	18.6	74	18.1	75.5	102	20.1	36.7	18.6	0	0	11.2	14.1	11.8	82.5	14.4	16.2	16.8	12.7	14.7	16	12.9	18.6	54.5	18.9	12.9	13.9	18.1	1.22	74	16.3	17.2	11.8	15.1	22.1	17.6	91.8	15.7	8.6	19.8	60.5	35.9	16.4	68.5	17.7	56.8	84.5	35.8	16.8	2.13	14	23.3	30	72.5	20.8	64.5	80	18.5	8.1	19	35.5	18.5	77	23.3
+Taurine	280	306	221	294	0	54.4	275	272	243	299	269	98.9	276	0	0	254	189	46	260	268	277	231	214	369	277	205	268	147	261	252	297	245	2.06	263	218	266	236	220	307	247	197	248	490	280	255	307	247	283	279	149	263	305	231	4.99	236	344	230	316	227	256	248	329	28.4	235	101	290	277	304
+total DMA	0.525	0.85	0.425	0.55	0	30.2	0.58	0.213	0.755	1.03	0.455	47.5	0.453	0	0	0.358	0.32	0.842	0.62	0.311	0.387	0.319	0.525	0.61	0.65	0.175	0.294	68.2	0.525	0.343	0.61	0.434	0.972	0.555	0.464	0.405	0.421	0.381	0.72	0.55	103	0.379	1.74	0.159	0.462	0.467	0.172	0.017	0.665	7.82	0.79	0.765	0.442	2.53	0.225	0.88	0.395	0.715	0.59	0.64	0.51	0.745	13.9	0.515	3.56	0.615	0.805	0.89
+lysoPC a C14:0	6.11	8.18	12.3	6.44	2.4	2.24	6.25	11.7	9.37	6.26	8.7	2.13	9.17	2.47	2.56	8.17	7.08	4.64	5.88	11.1	9.48	10.2	7.66	8.34	7.29	6.92	8.27	2.08	7.81	8.47	6.66	6.87	2.21	7.3	6.61	6.46	7.67	10.3	6.53	7.67	2.03	9.69	4	7.48	7.22	9.27	7.79	7.29	5.18	4.64	7.54	9.44	9.05	2.09	8.09	8.06	13.1	5.56	8.31	5.1	6.29	7.41	2.04	9.43	4.73	10.6	5.71	8.29
+lysoPC a C16:0	233	514	438	309	0.258	0.188	283	548	233	433	411	0.147	540	0.175	0.234	484	350	225	277	362	334	413	379	362	441	400	415	0.071	307	377	306	337	0.264	271	263	352	406	408	454	363	0.084	431	283	334	251	521	370	240	269	198	303	525	463	0.353	398	539	696	274	378	246	287	502	0.142	472	221	424	325	490
+lysoPC a C16:1	3.44	13.4	20.6	4	0.04	0.032	3.23	16.8	3.34	5.77	9.73	0.021	16.3	0.035	0.063	7.72	6.68	4.13	3.78	11.3	8.62	10.1	15.7	9.38	7.36	11.9	9.9	0.025	9.05	10.1	10.3	4.45	0.025	3.22	4.69	4.8	6.59	18	10.9	13.7	0.02	21.7	1.83	4.62	3.53	13.6	7.43	3.21	1.96	3.99	4.3	14	14.6	0.031	7.24	16.7	40.9	3.35	9.18	3.41	3.91	15.8	0.028	10	4.11	18.1	4.42	11.2
+lysoPC a C17:0	5.44	17.4	15.7	7.05	0.033	0.016	6.23	21.3	5.62	9.56	17.6	0.015	20.8	0.029	0.028	14	11	3.8	5.82	16.6	13.7	18.6	14.4	11.9	14.3	14.6	15.1	0.009	13.8	13	13.1	14	0.024	5.32	10.8	13.1	13.2	14.2	18.4	13.6	0.019	17.6	6.55	13	5.5	17.6	12.4	4.84	9.6	3.49	6.83	18.6	18.3	0.026	11.9	18	13.9	5.33	14.3	5.25	5.92	16.5	0.011	18.6	3.68	23.8	6.92	19.6
+lysoPC a C18:0	142	345	264	222	0.259	0.255	170	360	155	264	307	0.235	360	0.216	0.374	332	265	75.9	185	293	242	327	224	246	326	272	273	0.125	229	222	188	257	0.489	153	226	270	295	250	338	271	0.139	244	238	242	145	341	285	122	246	184	181	352	316	0.503	271	358	436	142	260	170	176	336	0.233	340	139	295	190	362
+lysoPC a C18:1	34.9	91.5	85.2	37.6	0.046	0.023	36.1	106	31	58.7	84.8	0.026	107	0.056	0.038	68.5	43.8	33.3	34	95.4	60	68.3	80.8	55.5	62.2	74.6	60.9	0.024	66.3	67.8	76.3	47.2	0.041	32.7	53.3	52	62.1	84.2	85.7	88.4	0.023	109	21.7	56.4	36.5	89.9	63.9	31.5	28.6	29.8	42.8	94.4	103	0.041	53.7	93.5	143	36.4	69	29.5	39.9	86.9	0.018	75.1	32.3	122	42.8	93.9
+lysoPC a C18:2	65.6	107	113	71.4	0.048	0.026	67.8	113	60.8	119	63.6	0.034	112	0.035	0.053	79.1	57.6	35.1	76.6	69.7	60.7	94.4	70.3	86.7	84.7	78.5	79.9	0.025	51.9	86.8	52.4	37.1	0.046	70.9	27.6	44.6	67	82.3	69.4	63.2	0.025	97.4	36	56.2	85.6	105	58	66	16.3	32.6	87.9	111	101	0.045	75.8	121	190	75.4	84.4	58.8	69.4	111	0.031	69.4	35.4	105	87.3	73.2
+lysoPC a C20:3	1.51	3.69	5.16	1.61	0.06	0.051	1.27	4.59	1.61	2.2	2.87	0.038	4.59	0.074	0.064	2.11	1.72	2.9	1.44	3.02	2.18	2.97	3.54	3	1.86	3.01	2.75	0.04	1.98	3.02	2.97	1.16	0.04	1.16	1.69	1.31	2.14	4.62	2.6	3.14	0.041	4.97	0.823	1.78	1.62	3.66	2.33	1.22	0.514	2.6	1.99	4.01	4.41	0.042	2.17	4.54	12.2	1.45	3.27	1.29	1.38	4.14	0.033	3.32	2.8	5.06	1.81	2.79
+lysoPC a C20:4	28.8	43.7	39.5	36.1	0.015	0.007	36.2	45.2	27.1	55.9	25.2	0.013	45.9	0.022	0.03	38.5	22.6	11.1	37.7	29.2	18.1	43.1	35.4	29.8	36.7	35.4	35	0.008	15.6	38.3	15.8	10.5	0.014	31.6	4.93	14	30.3	31.1	22.6	18.1	0.008	39.9	30.7	16.6	34.1	44.1	22.5	25.5	2.82	10.8	37.7	46.2	53.6	0.008	34.8	51.7	56.6	32.2	32.2	36.1	37	47.7	0.007	32.4	11.3	41.6	41.4	23.9
+lysoPC a C24:0	0.496	0.975	0.851	0.645	0.033	0.03	0.457	1.07	0.542	0.776	0.902	0.029	0.999	0.026	0.028	0.805	0.675	0.272	0.458	0.831	0.664	0.995	0.734	0.743	0.89	0.667	0.831	0.015	0.774	0.604	0.673	0.598	0.02	0.48	0.535	0.622	0.691	0.795	0.999	0.904	0.028	0.786	0.469	0.692	0.406	0.906	0.66	0.429	0.497	0.532	0.599	0.916	0.93	0.031	0.729	0.905	1.06	0.446	0.774	0.558	0.627	0.899	0.024	1.15	0.379	0.984	0.604	1.07
+lysoPC a C26:0	0.229	0.402	0.315	0.341	0.018	0.02	0.282	0.487	0.208	0.317	0.362	0.012	0.508	0.045	0.024	0.337	0.35	0.382	0.213	0.262	0.241	0.417	0.3	0.399	0.426	0.296	0.497	0.02	0.236	0.292	0.315	0.228	0.024	0.211	0.167	0.334	0.349	0.416	0.392	0.324	0.012	0.415	0.225	0.323	0.183	0.318	0.298	0.275	0.082	0.604	0.182	0.363	0.449	0.024	0.357	0.525	0.593	0.185	0.292	0.208	0.28	0.417	0.014	0.448	0.477	0.402	0.343	0.33
+lysoPC a C26:1	0.218	0.369	0.267	0.294	0.021	0.005	0.236	0.368	0.148	0.254	0.394	0.007	0.4	0.022	0.019	0.321	0.273	0.29	0.212	0.267	0.22	0.329	0.284	0.298	0.331	0.257	0.372	0.003	0.268	0.212	0.254	0.209	0.01	0.184	0.137	0.227	0.333	0.363	0.348	0.273	0.008	0.279	0.164	0.261	0.145	0.292	0.249	0.193	0.098	0.412	0.237	0.31	0.353	0.009	0.337	0.37	0.434	0.166	0.306	0.238	0.224	0.317	0.005	0.425	0.442	0.24	0.236	0.299
+lysoPC a C28:0	0.289	0.466	0.421	0.297	0.07	0.056	0.279	0.457	0.231	0.331	0.5	0.048	0.563	0.059	0.069	0.444	0.376	0.367	0.253	0.349	0.336	0.593	0.42	0.494	0.593	0.468	0.552	0.059	0.34	0.322	0.385	0.221	0.049	0.188	0.161	0.282	0.431	0.548	0.438	0.419	0.044	0.465	0.287	0.329	0.165	0.493	0.339	0.23	0.061	0.518	0.278	0.457	0.471	0.055	0.443	0.587	0.826	0.228	0.417	0.295	0.296	0.541	0.046	0.576	0.521	0.397	0.355	0.406
+lysoPC a C28:1	0.285	0.4	0.256	0.345	0.01	0.011	0.338	0.417	0.235	0.377	0.422	0.01	0.455	0.007	0.007	0.352	0.307	0.357	0.223	0.275	0.24	0.506	0.354	0.387	0.421	0.404	0.532	0.005	0.226	0.283	0.282	0.166	0.029	0.196	0.114	0.24	0.36	0.386	0.366	0.286	0.012	0.428	0.231	0.274	0.216	0.389	0.313	0.229	0.061	0.579	0.263	0.335	0.528	0.019	0.439	0.512	0.74	0.207	0.357	0.262	0.276	0.351	0.016	0.451	0.543	0.415	0.297	0.308
+PC aa C24:0	0.158	0.244	0.191	0.214	0.016	0.021	0.198	0.355	0.16	0.207	0.332	0.019	0.335	0.023	0.02	0.315	0.277	7.98	0.188	0.253	0.182	0.364	0.208	0.251	0.376	0.258	0.34	0.021	0.199	0.178	0.183	0.145	0.021	0.14	0.106	0.217	0.353	0.277	0.21	0.213	0.016	0.295	0.108	0.207	0.128	0.262	0.267	0.148	0.034	43.7	0.12	0.268	0.324	0.027	0.318	0.286	0.298	0.117	0.274	0.179	0.185	0.262	0.021	0.28	23.2	0.197	0.213	0.221
+PC aa C26:0	0.5	0.447	0.469	0.492	0.377	0.399	0.523	0.575	0.481	0.512	0.523	0.391	0.621	0.399	0.381	0.537	0.479	0.89	0.441	0.411	0.473	0.507	0.588	0.625	0.617	0.614	0.611	0.415	0.38	0.48	0.401	0.35	0.415	0.422	0.275	0.459	0.679	0.571	0.479	0.428	0.386	0.561	0.52	0.498	0.416	0.472	0.557	0.567	0.228	1.13	0.455	0.459	0.551	0.404	0.649	0.601	0.9	0.386	0.534	0.437	0.456	0.493	0.403	0.567	1.25	0.492	0.52	0.423
+PC aa C28:1	0.169	0.223	0.205	0.184	0.013	0.014	0.161	0.262	0.13	0.171	0.249	0.014	0.272	0.015	0.017	0.212	0.17	1.85	0.144	0.161	0.173	0.235	0.205	0.25	0.216	0.207	0.201	0.016	0.167	0.168	0.169	0.119	0.012	0.114	0.111	0.157	0.233	0.244	0.185	0.192	0.018	0.208	0.159	0.209	0.128	0.203	0.171	0.169	0.046	1.87	0.178	0.195	0.238	0.014	0.22	0.254	0.424	0.107	0.224	0.132	0.128	0.232	0.009	0.281	1.98	0.231	0.175	0.189
+PC aa C30:0	0.372	0.538	0.459	0.478	0.041	0.045	0.4	0.604	0.372	0.573	0.411	0.044	0.566	0.046	0.046	0.515	0.391	2.51	0.424	0.348	0.419	0.553	0.535	0.475	0.634	0.512	0.516	0.049	0.362	0.383	0.451	0.277	0.048	0.357	0.233	0.395	0.437	0.488	0.395	0.396	0.045	0.448	0.329	0.435	0.361	0.61	0.336	0.384	0.168	2.56	0.603	0.535	0.583	0.052	0.542	0.655	0.958	0.346	0.435	0.321	0.387	0.565	0.047	0.585	2.73	0.588	0.417	0.423
+PC aa C30:2	0.342	0.433	0.408	0.391	0	0	0.264	0.398	0.258	0.441	0.359	0.001	0.456	0.001	0.001	0.39	0.433	0.79	0.258	0.242	0.315	0.339	0.334	0.333	0.486	0.361	0.418	0.001	0.28	0.257	0.266	0.347	0.001	0.261	0.353	0.305	0.292	0.427	0.375	0.308	0.001	0.375	0.501	0.365	0.189	0.403	0.34	0.22	0.211	1.1	0.416	0.394	0.463	0.002	0.363	0.535	0.56	0.243	0.399	0.305	0.281	0.433	0.001	0.457	0.915	0.34	0.351	0.349
+PC aa C32:0	5.06	6.34	4.69	6.21	0.011	0.009	4.47	5.75	3.08	7.42	4.21	0.011	6.02	0.008	0.01	6.56	4.36	7.75	7.2	3.39	3.9	4.8	5.04	4.07	6.81	6	5.03	0.007	2.82	4.32	4.45	2.26	0.014	4.44	1.93	4.17	4.41	4.07	4.18	3.83	0.009	4.6	5.51	4.03	4.55	5.88	3.48	4.84	1.16	7.52	6.51	6.16	5.5	0.012	5.82	6.95	9.72	4.59	4.08	3.82	3.95	6.64	0.007	4.98	7.29	5.33	5.24	4.37
+PC aa C32:1	0.57	1.76	2.13	0.612	0.005	0.001	0.518	1.63	0.463	1.03	1.07	0.003	1.61	0.005	0.004	1.21	0.712	6.28	0.702	0.812	0.857	1.13	1.9	1.02	1.07	1.63	1.1	0.002	0.818	0.852	1.44	0.391	0.004	0.553	0.368	0.807	0.7	1.92	1.02	1.39	0.004	1.7	0.517	0.686	0.584	1.55	0.823	0.672	0.095	6.19	0.869	1.61	1.34	0.003	1.17	2.37	10.4	0.48	0.743	0.558	0.561	2.24	0.004	1.18	6.16	1.65	0.669	1.07
+PC aa C32:2	0.408	0.982	1.36	0.449	0.001	0.004	0.307	0.987	0.354	0.671	0.655	0.004	1.12	0.002	0.002	0.802	0.473	2.19	0.553	0.625	0.703	0.922	1.14	0.894	0.867	0.981	0.738	0.005	0.495	0.684	0.747	0.255	0.007	0.397	0.181	0.632	0.472	1.07	0.698	0.773	0.002	1.04	0.591	0.518	0.594	0.939	0.476	0.53	0.082	2.19	0.646	0.913	0.782	0.007	0.733	1.18	2.51	0.298	0.555	0.333	0.388	1.14	0.005	0.828	2.17	1.46	0.484	0.624
+PC aa C32:3	0.085	0.172	0.155	0.117	0.001	0.002	0.1	0.177	0.067	0.15	0.169	0.002	0.207	0.001	0.001	0.194	0.131	0.478	0.097	0.132	0.117	0.159	0.15	0.136	0.217	0.191	0.168	0.002	0.102	0.111	0.129	0.066	0.001	0.083	0.069	0.118	0.132	0.169	0.165	0.118	0.002	0.161	0.12	0.112	0.072	0.165	0.113	0.07	0.039	0.46	0.097	0.157	0.179	0.001	0.165	0.211	0.223	0.081	0.124	0.078	0.131	0.187	0.001	0.208	0.473	0.18	0.112	0.139
+PC aa C34:1	16.8	34.3	32.8	20.2	0.015	0.015	15.6	33.3	12.8	29.2	24.5	0.035	34.6	0.02	0.013	36.6	20	118	18.6	19.7	20.1	23.9	35.7	23.2	32	38.4	21.3	0.012	18.7	18.4	28.7	9.11	0.023	17	10.4	22.7	21.9	30.5	24.1	26.7	0.016	31.1	30.6	20	17.7	33.5	21.6	19.3	2.67	115	26.8	34	30.3	0.028	29.3	44.2	112	16.7	18.9	15	18.1	40.9	0.019	28.9	116	28.5	20.2	25.4
+PC aa C34:2	91.3	151	129	104	0.042	0.041	85.6	139	83.4	177	92.6	0.05	146	0.043	0.069	167	88.9	281	122	73.5	92.9	119	125	119	155	157	104	0.026	65.8	100	98.4	43.3	0.051	117	36.8	106	97	100	96.8	89.2	0.028	116	160	97.8	127	146	88.4	136	10.5	275	145	147	120	0.053	126	172	276	102	94	84.5	91	166	0.041	114	283	140	123	99.3
+PC aa C34:3	2.5	5.96	7.53	2.79	0.007	0.007	2.08	6.39	2.19	4.4	3.89	0.007	6.91	0.004	0.002	4.76	2.78	10.3	3.01	3.93	4.03	4.16	7	4.87	4.47	6.36	3.92	0.007	3.34	4.03	5.46	1.03	0.009	2.63	0.996	3.13	2.99	6.16	4.09	5.6	0.006	8	1.88	2.88	2.91	5.81	3.22	3.01	0.143	9.98	3.46	5.93	5.46	0.01	3.76	7.03	16.5	2.29	3.76	2.2	2.63	6.66	0.009	4.08	9.96	8.33	3.13	4.18
+PC aa C34:4	0.187	0.494	0.495	0.234	0.002	0.004	0.16	0.537	0.182	0.37	0.344	0.002	0.538	0.003	0.001	0.462	0.246	1.11	0.278	0.292	0.313	0.447	0.645	0.38	0.441	0.555	0.433	0.003	0.239	0.35	0.321	0.127	0.004	0.185	0.091	0.258	0.248	0.484	0.321	0.406	0.004	0.57	0.177	0.211	0.272	0.5	0.231	0.255	0.044	1.09	0.346	0.476	0.495	0.005	0.425	0.597	1.12	0.148	0.292	0.2	0.207	0.568	0.003	0.43	1.15	0.713	0.258	0.338
+PC aa C36:0	1.38	2.63	2.17	2.03	0.046	0.052	1.31	2.79	1.17	2.55	2.12	0.045	2.68	0.048	0.048	2.43	1.61	1.88	1.56	1.61	1.61	2.46	1.56	2.02	2.85	1.93	1.92	0.043	1.5	1.58	1.8	0.973	0.048	1.37	0.705	1.55	1.81	2.13	1.94	1.65	0.045	2.12	1.69	1.7	1.31	2.51	1.64	1.31	0.245	2.13	1.52	2.62	2.36	0.052	1.69	2.66	3.23	1.28	1.9	1.39	1.6	2.57	0.047	2.36	2.13	2.41	1.7	1.97
+PC aa C36:1	6.34	13.3	12.1	7.88	0.007	0.007	5.71	13.9	4.78	11.3	10.3	0.01	14.2	0.007	0.005	12.4	8.7	27.6	6.97	9.67	8.08	10.2	12.8	9.69	15.1	14.9	9.47	0.005	8.74	8.7	11.9	5.07	0.008	6.06	5.23	9.65	10.1	11.5	10.1	11.3	0.006	12.4	11.6	8.24	6.08	12.5	8.1	5.52	2.28	25.7	8.88	13.5	13	0.007	11.6	16.8	32.5	5.95	7.89	5.86	6.96	15.1	0.008	12.4	26.9	13.9	7.31	10.9
+PC aa C36:2	60.4	111	99.9	74.7	0.023	0.029	55.5	107	62.2	118	74.6	0.032	112	0.028	0.039	111	65.1	184	89.6	66.6	71.6	93	89.5	90.4	103	93.8	75.7	0.022	53.8	71.7	76.4	36.4	0.033	69.6	31.2	75.6	67.9	76.4	75.9	77.8	0.017	84.4	122	72.1	80.3	108	72.4	76.6	9.62	178	103	110	86.8	0.03	79.6	126	232	61.7	70.5	58.3	59	119	0.028	82.8	184	135	78.6	80.4
+PC aa C36:3	15.5	33.6	32.8	14.4	0.003	0.01	12.7	36.2	14.9	28.7	23.6	0.029	39	0.009	0.013	28.9	14.2	86.5	18.2	24.7	20.4	24.3	34.4	24.1	23.6	33.4	21.3	0.009	17.2	24.2	35.3	7.44	0.016	16.5	8.77	18.8	17.4	27.6	23.8	28.8	0.007	38.5	14.3	20.4	22.3	32.6	19.4	22.1	1.34	81.1	26.4	32.9	30.3	0.018	20.9	37.4	81.3	16	21.7	12.9	14.6	35.5	0.008	24.7	85.2	59.8	20	25.2
+PC aa C36:4	32.7	57.6	37.9	40.6	0.023	0.022	40.7	51.5	37.4	76.3	37.8	0.05	53	0.026	0.035	72	32.7	133	55.3	26.3	27.6	49.2	54.4	34.3	50.4	64.7	44	0.015	20.1	33.9	33.4	14.8	0.024	45.4	10.8	37.6	36.2	32.8	32.9	32.5	0.015	43.8	40.2	31.9	52	55.3	32.7	55	3.73	128	66.4	55.6	51.1	0.025	62	66.9	110	37.5	30.6	43.1	36.8	63.6	0.02	42.9	131	49.5	51.6	35.2
+PC aa C36:5	2.07	3.83	3.25	2.45	0.002	0.002	2.12	3.66	1.91	4.03	2.75	0.003	3.93	0.003	0.001	3.56	1.86	15.6	3	2.16	2.16	3	3.94	2.63	3.03	3.9	3.07	0.003	1.64	2.5	2.63	0.965	0.002	2.12	0.668	2.18	2.24	3.28	2.45	2.96	0.005	3.93	1.12	1.91	2.5	3.77	2.14	2.56	0.168	15	2.98	3.66	3.52	0.003	3.11	4.5	10.6	1.88	2.28	2.31	2.36	4.34	0.002	2.68	14.8	4.14	2.73	2.56
+PC aa C36:6	0.213	0.423	0.349	0.251	0.002	0.002	0.218	0.399	0.184	0.337	0.312	0.003	0.476	0	0	0.353	0.218	0.816	0.236	0.267	0.264	0.361	0.399	0.3	0.345	0.359	0.359	0.003	0.201	0.264	0.287	0.112	0.002	0.21	0.081	0.241	0.277	0.406	0.296	0.301	0.004	0.424	0.236	0.211	0.183	0.383	0.214	0.182	0.059	0.815	0.222	0.389	0.385	0.003	0.289	0.452	0.926	0.185	0.278	0.188	0.247	0.453	0.002	0.37	0.825	0.514	0.237	0.275
+PC aa C38:0	0.642	1.38	1.13	0.844	0.015	0.009	0.541	1.6	0.525	1.13	1.13	0.007	1.72	0.006	0.015	1.34	0.856	1.87	0.648	0.903	0.927	1.27	0.763	1.19	1.54	0.967	1.13	0.011	0.81	0.932	1.03	0.557	0.01	0.58	0.418	0.905	0.969	1.16	1.08	1.02	0.007	1.17	1.11	0.894	0.504	1.3	0.75	0.566	0.203	1.98	0.669	1.41	1.21	0.01	0.884	1.51	1.52	0.577	0.979	0.57	0.699	1.4	0.011	1.52	1.95	1.8	0.77	1.1
+PC aa C38:1	0.585	1.38	1.41	0.671	0.003	0.001	0.818	1.73	0.477	0.747	1.36	0.004	1.74	0.007	0.003	1.2	0.977	0.544	0.498	0.977	0.836	1.07	0.709	1.25	1.79	0.823	0.855	0.002	1.13	0.918	1.19	0.514	0.003	0.449	0.075	0.685	0.888	1.49	0.989	1.28	0.003	1.71	0.335	0.774	0.411	1.35	0.929	0.466	0	0.453	0.42	1.12	1.11	0.003	0.761	1.38	1.45	0.58	1.09	0.59	0.757	1.11	0.003	1.29	0.515	1.6	0.504	1.09
+PC aa C38:3	5.69	13.5	14	6.78	0.006	0.006	4.38	14	5.93	10.3	9.57	0.022	14.4	0.008	0.006	12	8.43	33.3	6.51	8.54	7.83	10.7	12.4	9.94	9.99	14	9.9	0.005	6.77	8.14	12	4.34	0.005	5.09	5.72	7.43	9.15	12.6	9.56	12.6	0.008	13.5	9.45	8.58	6.5	13	8	5.23	2.42	30.9	10.2	13.4	12.7	0.008	9.86	15.6	35	5.51	9.29	5.77	5.85	14.9	0.005	13	32	13.2	6.63	10.1
+PC aa C38:4	34	64.9	36.4	50.1	0.015	0.014	43	57.3	44.2	80.6	47.7	0.032	58.5	0.02	0.022	85.8	43.4	84.5	65.3	36.3	31	65.7	56.9	36.1	67.4	75.8	52	0.011	23.7	35.1	34.9	20.2	0.014	44.6	15.6	48.6	48.2	34.7	39.3	38.1	0.013	41.3	59.8	35.2	52.7	63.9	43.2	47	5.96	81.8	69.4	64	61.1	0.025	69.8	78.5	102	35.4	34.9	53.4	38.6	73.2	0.016	54	84.2	54.8	54.3	42.2
+PC aa C38:5	6.46	18.7	14	7.79	0.004	0.007	7.13	18.6	7.32	13.8	14.8	0.01	19.1	0.004	0.008	18.3	9.22	37.7	10.1	13.3	9.82	17.4	22.5	11.3	17.5	24.3	14.8	0.004	8.81	12.9	16.4	5.05	0.006	7.37	5.97	13.7	12.7	13.1	13.3	15.3	0.006	17.7	10.2	10.7	9.52	17.9	11.1	8.87	1.36	36.4	12.7	18.2	21	0.011	17.3	23.7	41	6.71	10.6	8.21	7.78	22.2	0.006	16.4	37	24.1	9.42	14
+PC aa C38:6	7.98	25.3	20.6	11.4	0.008	0.009	11.2	24.9	10.1	21.3	15.3	0.014	25.6	0.009	0.009	31.1	14.5	51.3	16.2	13.7	12.2	21.8	24	16.7	25.9	30.3	17.2	0.007	8.76	15.9	16.1	5.11	0.008	12.8	3.6	18.9	15.5	16.3	14.6	16.4	0.007	19.7	54.3	13	13	24.1	13	14	0.702	47.4	22.3	24.8	24.2	0.014	24.1	33.3	38.9	10.7	13.4	11.7	11.1	31.7	0.007	25.4	49.4	26.6	14.4	15.2
+PC aa C40:1	0.235	0.429	0.358	0.279	0.109	0.114	0.206	0.454	0.203	0.341	0.399	0.134	0.48	0.121	0.123	0.413	0.297	0.322	0.223	0.319	0.265	0.423	0.333	0.342	0.403	0.33	0.327	0.147	0.307	0.261	0.409	0.191	0.124	0.217	0.154	0.276	0.4	0.454	0.386	0.388	0.163	0.511	0.169	0.289	0.194	0.427	0.268	0.222	0.097	0.359	0.207	0.363	0.423	0.111	0.288	0.437	0.573	0.19	0.35	0.199	0.243	0.375	0.128	0.465	0.392	0.488	0.265	0.334
+PC aa C40:2	0.877	1.42	0.979	1.39	0.006	0.008	0.878	1.58	0.749	1.5	1.41	0.005	1.65	0.007	0.007	1.75	0.932	0.508	1.01	1.14	0.956	1.46	0.884	1.01	1.46	0.902	1.24	0.007	0.86	0.816	1.09	0.634	0.008	0.751	0.351	1.07	1.2	1.21	1.12	1.17	0.005	1.27	0.257	0.948	0.638	1.4	1.09	0.614	0.129	0.458	0.755	1.37	1.3	0.006	0.938	1.39	1.82	0.615	1.31	0.811	1.15	1.22	0.005	1.45	0.543	1.39	1.01	1.2
+PC aa C40:3	0.639	1.27	0.833	0.921	0	0.001	0.562	1.4	0.514	0.961	1.24	0.004	1.44	0.002	0.002	1.19	0.776	0.612	0.706	0.998	0.787	1.25	0.922	0.909	1.28	0.835	1.05	0	0.854	0.801	0.996	0.509	0.005	0.506	0.376	0.859	1.02	1.14	0.974	1.07	0.003	1.14	0.266	0.829	0.457	1.21	0.856	0.468	0.147	0.582	0.62	1.2	1.26	0.001	0.828	1.23	1.57	0.474	1.1	0.566	0.795	1.12	0.001	1.35	0.584	1.41	0.642	1.05
+PC aa C40:4	1.07	2.47	1.88	1.48	0.003	0.016	1.07	2.65	1.05	2.11	1.89	0.015	2.71	0.005	0.004	2.47	1.44	3.23	1.57	1.82	1.47	2.17	2.13	1.69	2.69	2.36	1.89	0.012	1.27	1.6	1.93	0.778	0.019	1.09	0.796	1.91	1.81	1.71	1.78	1.79	0.011	1.93	2.41	1.53	1.16	2.34	1.44	1.06	0.292	3.22	1.74	2.48	2.31	0.019	2.01	2.77	3.9	0.992	1.65	1.36	1.32	2.69	0.019	2.73	3.24	2.95	1.39	1.87
+PC aa C40:5	1.39	6.08	4.74	2.18	0	0	1.76	5.79	1.92	3.71	4.27	0	6.04	0	0	5.03	3.72	8.29	3.02	3.96	3.2	6.22	6.59	4.38	8.25	8.76	5.2	0	2.87	4.07	4.83	1.75	0	2.11	2.44	4.85	4.91	3.92	4.19	4.64	0	4.36	6.43	3.57	2.32	5.85	2.95	1.95	0.649	7.6	4.29	6.2	5.89	0	6.58	8.35	13	1.61	2.99	2.46	2.07	7.8	0	6.31	7.96	7.09	2.58	4.39
+PC aa C40:6	4.61	13.9	11.9	7.82	0.072	0.071	6.63	12.3	6.28	12.8	7.84	0.083	12.6	0.069	0.072	14.4	8.19	19.5	10.9	7.72	6.48	11.8	11.6	8.79	15.8	15	8.85	0.079	4.53	7.08	8.34	2.76	0.069	7.17	2.5	10.5	8.59	7.8	7.82	8.47	0.073	8.66	49	6.48	7.06	13.6	7.02	7.25	0.471	18.8	13.5	13.7	11.7	0.075	11.6	19.9	23.7	5.64	6.3	7.96	6.47	18.3	0.074	14	19.2	14	8.58	8.17
+PC aa C42:0	0.203	0.339	0.245	0.308	0.01	0.021	0.229	0.38	0.18	0.334	0.335	0.025	0.408	0.016	0.016	0.431	0.276	0.373	0.225	0.281	0.205	0.372	0.239	0.251	0.408	0.233	0.372	0.025	0.254	0.222	0.25	0.157	0.021	0.189	0.082	0.233	0.342	0.334	0.264	0.263	0.021	0.294	0.082	0.229	0.147	0.33	0.26	0.136	0.034	0.366	0.152	0.331	0.405	0.028	0.26	0.368	0.398	0.166	0.272	0.206	0.277	0.345	0.029	0.39	0.398	0.334	0.253	0.282
+PC aa C42:1	0.137	0.308	0.197	0.222	0.007	0.015	0.141	0.327	0.11	0.212	0.289	0.043	0.316	0.009	0.003	0.285	0.195	0.207	0.138	0.232	0.17	0.293	0.186	0.226	0.313	0.198	0.303	0.056	0.208	0.185	0.246	0.118	0.005	0.111	0.074	0.18	0.22	0.293	0.235	0.235	0.068	0.28	0.085	0.18	0.102	0.262	0.208	0.103	0.026	0.216	0.14	0.284	0.323	0.007	0.22	0.289	0.341	0.102	0.251	0.12	0.204	0.286	0.013	0.323	0.209	0.317	0.155	0.253
+PC aa C42:2	0.236	0.514	0.482	0.279	0.029	0.029	0.221	0.561	0.197	0.405	0.481	0.018	0.587	0.025	0.026	0.501	0.319	0.187	0.262	0.373	0.309	0.465	0.407	0.443	0.522	0.353	0.409	0.024	0.336	0.351	0.416	0.211	0.024	0.216	0.141	0.343	0.364	0.452	0.408	0.479	0.021	0.49	0.117	0.343	0.211	0.498	0.297	0.189	0.05	0.228	0.282	0.497	0.474	0.023	0.356	0.511	0.904	0.191	0.402	0.217	0.287	0.494	0.024	0.534	0.206	0.682	0.266	0.392
+PC aa C42:4	0.209	0.463	0.361	0.32	0.006	0.006	0.239	0.496	0.197	0.441	0.4	0.007	0.521	0.005	0.001	0.447	0.288	0.264	0.339	0.369	0.328	0.371	0.351	0.331	0.498	0.369	0.327	0.005	0.259	0.278	0.355	0.152	0.005	0.212	0.128	0.382	0.315	0.369	0.327	0.371	0.007	0.374	0.251	0.307	0.206	0.439	0.255	0.207	0.044	0.233	0.298	0.401	0.419	0.005	0.356	0.483	0.561	0.199	0.332	0.246	0.295	0.439	0.004	0.527	0.22	0.572	0.297	0.345
+PC aa C42:5	0.146	0.355	0.271	0.178	0.006	0.016	0.144	0.36	0.13	0.275	0.259	0.013	0.396	0.003	0.002	0.319	0.19	0.266	0.199	0.279	0.201	0.317	0.286	0.23	0.359	0.323	0.25	0.017	0.174	0.238	0.325	0.108	0.028	0.139	0.084	0.258	0.251	0.286	0.297	0.303	0.009	0.3	0.189	0.24	0.148	0.347	0.19	0.125	0.03	0.26	0.22	0.37	0.373	0.018	0.254	0.346	0.468	0.134	0.234	0.153	0.187	0.355	0.016	0.372	0.287	0.462	0.159	0.292
+PC aa C42:6	0.212	0.502	0.468	0.287	0.08	0.086	0.252	0.524	0.194	0.391	0.431	0.084	0.521	0.093	0.068	0.424	0.31	0.356	0.274	0.375	0.313	0.443	0.497	0.343	0.496	0.505	0.459	0.071	0.295	0.343	0.441	0.195	0.077	0.208	0.21	0.37	0.349	0.421	0.402	0.397	0.089	0.495	0.36	0.324	0.207	0.462	0.292	0.211	0.085	0.407	0.314	0.438	0.513	0.097	0.402	0.564	0.774	0.191	0.342	0.239	0.249	0.541	0.09	0.568	0.376	0.756	0.314	0.379
+PC ae C30:0	0.104	0.146	0.13	0.122	0.04	0.046	0.109	0.143	0.081	0.133	0.143	0.044	0.17	0.044	0.035	0.139	0.114	0.194	0.081	0.105	0.102	0.17	0.116	0.118	0.194	0.129	0.133	0.036	0.116	0.094	0.104	0.108	0.044	0.094	0.069	0.129	0.119	0.152	0.139	0.118	0.048	0.108	0.082	0.133	0.09	0.164	0.109	0.077	0.054	0.222	0.103	0.131	0.124	0.04	0.134	0.147	0.22	0.072	0.114	0.096	0.096	0.131	0.042	0.164	0.193	0.169	0.11	0.125
+PC ae C30:1	0.095	0.148	0.106	0.124	0	0.006	0.118	0.141	0.079	0.125	0.113	0.004	0.125	0.003	0	0.158	0.094	0.117	0.068	0.092	0.109	0.156	0.123	0.164	0.143	0.1	0.146	0.002	0.056	0.101	0.131	0.064	0.004	0.071	0.032	0.106	0.133	0.129	0.074	0.111	0.003	0.123	0.089	0.098	0.069	0.124	0.128	0.083	0.021	0.234	0.085	0.123	0.155	0.003	0.131	0.138	0.195	0.075	0.099	0.093	0.095	0.123	0.003	0.155	0.193	0.127	0.091	0.069
+PC ae C30:2	0.088	0.164	0.155	0.118	0.004	0.008	0.101	0.185	0.092	0.145	0.168	0.006	0.185	0.009	0.005	0.174	0.115	0.151	0.102	0.12	0.11	0.186	0.124	0.138	0.222	0.137	0.173	0.01	0.127	0.11	0.117	0.084	0.004	0.088	0.069	0.108	0.161	0.164	0.138	0.123	0.01	0.169	0.067	0.118	0.072	0.167	0.143	0.082	0.031	0.216	0.074	0.136	0.211	0.008	0.138	0.183	0.227	0.078	0.14	0.09	0.108	0.154	0.007	0.196	0.214	0.156	0.114	0.123
+PC ae C32:1	0.31	0.562	0.469	0.386	0.002	0.002	0.284	0.55	0.246	0.502	0.45	0.003	0.553	0.002	0.003	0.556	0.413	1.39	0.312	0.319	0.344	0.496	0.475	0.455	0.509	0.394	0.465	0.002	0.335	0.349	0.381	0.308	0.004	0.277	0.267	0.396	0.411	0.508	0.457	0.452	0.001	0.41	0.293	0.436	0.279	0.506	0.338	0.275	0.186	1.48	0.438	0.527	0.518	0.002	0.528	0.536	0.729	0.266	0.367	0.288	0.311	0.562	0.002	0.52	1.37	0.546	0.337	0.416
+PC ae C32:2	0.106	0.184	0.165	0.129	0.006	0.001	0.102	0.217	0.078	0.165	0.173	0.002	0.224	0.006	0.005	0.176	0.146	0.444	0.104	0.147	0.137	0.184	0.163	0.165	0.227	0.148	0.203	0.001	0.137	0.136	0.157	0.106	0.002	0.082	0.102	0.146	0.173	0.207	0.174	0.16	0.002	0.162	0.124	0.148	0.085	0.203	0.147	0.082	0.066	0.472	0.117	0.183	0.205	0.002	0.161	0.249	0.258	0.096	0.154	0.1	0.109	0.185	0.002	0.225	0.481	0.21	0.118	0.174
+PC ae C34:0	0.399	0.689	0.624	0.441	0.004	0.012	0.371	0.726	0.235	0.563	0.56	0.011	0.808	0.005	0.005	0.688	0.424	0.753	0.521	0.5	0.445	0.638	0.635	0.44	0.761	0.699	0.566	0.01	0.421	0.567	0.686	0.371	0.013	0.329	0.277	0.495	0.484	0.525	0.536	0.487	0.009	0.696	0.389	0.453	0.351	0.652	0.39	0.359	0.166	0.746	0.511	0.664	0.66	0.012	0.531	0.718	0.762	0.354	0.456	0.291	0.341	0.731	0.01	0.616	0.799	0.963	0.395	0.584
+PC ae C34:1	1.65	2.56	2.37	1.85	0.006	0.037	1.6	2.51	1.12	2.55	1.88	0.03	2.64	0.005	0.004	2.28	1.44	4.49	1.83	1.62	1.63	1.96	2.54	1.72	2.55	2.2	1.74	0.028	1.63	1.62	2.05	1.28	0.037	1.46	0.971	1.56	1.6	1.94	1.92	1.84	0.022	2.06	1.62	1.65	1.43	2.4	1.29	1.47	0.704	4.22	2.12	2.37	2.26	0.032	1.85	2.6	3.49	1.45	1.72	1.32	1.61	2.52	0.029	2.66	4.32	2.74	1.81	2.07
+PC ae C34:2	1.38	2.88	2.89	1.47	0	0.002	1.18	3.08	1.08	2.43	2.06	0.002	3.35	0.002	0.003	2.49	1.37	6.15	1.75	1.96	2.39	2.81	3.24	2.49	2.84	2.69	2.18	0.002	1.77	2.33	2.47	1.17	0.001	1.39	0.825	2.05	1.54	2.11	2.27	2	0.001	2.78	1.66	1.99	1.78	2.73	1.62	1.71	0.522	5.84	2.22	2.92	2.53	0.002	1.99	3.11	3.24	1.28	1.93	1.04	1.35	2.98	0.001	2.71	5.93	4.69	1.7	2.23
+PC ae C34:3	0.236	0.453	0.427	0.257	0	0.003	0.199	0.488	0.17	0.358	0.357	0.004	0.528	0.001	0.001	0.438	0.265	5.16	0.237	0.29	0.345	0.405	0.429	0.406	0.42	0.363	0.32	0.004	0.274	0.337	0.368	0.229	0.004	0.219	0.198	0.275	0.288	0.378	0.364	0.351	0.002	0.372	0.264	0.316	0.23	0.45	0.26	0.217	0.137	5.01	0.331	0.445	0.383	0.003	0.403	0.5	0.594	0.193	0.325	0.185	0.227	0.463	0.002	0.459	4.91	0.599	0.253	0.369
+PC ae C36:0	0.179	0.417	0.421	0.257	0.022	0.026	0.23	0.47	0.166	0.345	0.367	0.025	0.47	0.029	0.022	0.4	0.278	0.429	0.21	0.274	0.253	0.365	0.375	0.33	0.391	0.492	0.283	0.026	0.277	0.316	0.398	0.225	0.027	0.193	0.185	0.271	0.293	0.344	0.316	0.321	0.028	0.341	0.267	0.288	0.167	0.434	0.267	0.204	0.088	0.517	0.3	0.382	0.411	0.027	0.332	0.472	0.615	0.205	0.289	0.155	0.186	0.408	0.028	0.466	0.61	0.497	0.245	0.35
+PC ae C36:1	3.09	4.52	4.33	3.19	0.018	0.009	2.58	4.97	2.15	4.7	3.5	0.005	5.34	0.014	0.023	4.51	2.5	7.31	3.25	2.96	2.95	3.5	4.31	4.09	4.84	3.84	3.13	0.01	2.7	3.38	4.15	1.14	0.015	2.61	1.01	3.02	3.21	4.24	3.33	3.39	0.01	4.69	1.45	3.04	2.61	4.42	2.74	2.91	0.316	7.51	3.01	4.56	4.02	0.009	3.15	4.83	7.57	2.82	3.13	2.42	3.26	4.54	0.007	3.74	7.82	5.63	3.35	3.46
+PC ae C36:2	2.86	6.41	6.21	3.17	0.01	0.012	2.5	7.2	2.37	5.14	4.99	0.013	7.49	0.016	0.012	5.69	3.32	8.04	3.37	4.18	4.59	5.85	5.6	5.43	6.27	5.36	4.65	0.012	4.04	4.33	5.51	2.23	0.012	2.85	1.78	4.02	3.72	5.24	4.88	4.45	0.012	6.51	3.55	4.4	3.39	6.1	3.69	3.26	0.568	7.81	4.05	6.18	5.54	0.015	4.08	6.86	8.12	2.89	4.61	2.23	2.84	6.45	0.014	5.45	7.98	10	3.46	4.88
+PC ae C36:3	0.501	1.15	1.24	0.553	0.002	0.001	0.489	1.31	0.398	0.958	0.82	0.002	1.42	0.002	0	0.975	0.56	4.51	0.576	0.832	0.861	0.945	1.21	0.86	0.968	1.04	0.777	0.001	0.697	0.838	1.2	0.497	0.002	0.513	0.373	0.685	0.631	0.918	0.867	0.969	0.002	1.23	0.632	0.705	0.65	1.17	0.597	0.547	0.23	4.46	0.836	1.21	1.11	0.001	0.757	1.25	1.56	0.491	0.799	0.441	0.467	1.12	0	0.982	4.35	1.95	0.641	0.891
+PC ae C36:4	1.81	3.11	2.41	2.37	0.009	0.009	1.94	2.85	1.63	3.69	1.99	0.008	2.92	0.01	0.01	3.35	1.94	11.8	2.48	1.62	1.87	3.1	2.63	1.81	3.08	2.75	2.58	0.006	1.61	1.86	1.59	1.53	0.006	1.91	1.09	1.95	1.8	1.84	2.07	1.86	0.005	1.91	2.36	1.98	2.33	2.92	1.58	2.2	1.17	11	3.4	3.01	2.88	0.009	2.9	3.27	3.15	1.89	1.92	2.19	2.06	3.23	0.006	3.55	11.4	2.75	2.59	2.27
+PC ae C36:5	0.632	1.02	0.838	0.814	0.003	0.002	0.558	0.972	0.491	1.15	0.831	0.006	1.07	0.004	0.006	1.31	0.642	8.48	0.746	0.607	0.679	0.879	0.84	0.736	1.09	0.84	0.843	0.004	0.514	0.685	0.546	0.472	0.003	0.649	0.486	0.731	0.732	0.702	0.785	0.726	0.004	0.651	1.01	0.725	0.755	1.05	0.589	0.678	0.445	7.88	1.04	1.01	0.977	0.003	1.03	1.17	1.21	0.585	0.693	0.634	0.598	1.13	0.002	0.948	8.09	0.928	0.754	0.802
+PC ae C38:0	0.601	1.46	1.27	0.769	0.04	0.038	0.638	1.55	0.505	1.11	1.06	0.045	1.6	0.035	0.042	1.34	0.695	1.78	0.859	1.1	0.921	1.19	1.41	1.09	1.34	1.33	1.09	0.045	0.735	0.972	1.16	0.365	0.043	0.581	0.253	1.07	0.846	1.25	1.07	1.34	0.045	1.49	0.797	0.841	0.646	1.38	0.825	0.632	0.12	1.87	0.889	1.37	1.49	0.046	1.07	1.67	2.99	0.551	0.98	0.631	0.778	1.51	0.045	1.28	1.73	1.99	0.772	1.1
+PC ae C38:1	1.38	2	2.07	1.56	0.002	0.005	1.26	2.27	1.17	2.34	1.84	0.003	2.66	0.004	0.001	1.8	1.35	2.12	1.67	1.58	1.61	1.53	1.96	2.02	2.16	1.56	1.45	0.003	1.44	1.48	2.18	0.559	0.003	1.11	0.52	1.46	1.43	2.23	1.84	1.8	0.004	2.14	0.474	1.48	1.2	2.2	1.38	1.22	0.041	2.13	1.44	2.44	1.93	0.004	1.39	2.4	3.8	1.3	1.52	1.08	1.44	2.07	0.002	1.8	2.48	3.02	1.55	1.6
+PC ae C38:2	1.88	4.01	3.7	2.05	0.003	0.005	1.65	4.57	1.46	3.2	3.32	0.004	4.56	0.002	0.005	3.72	2.43	2.98	2.22	2.83	2.8	3.38	3.41	3.48	3.68	3.07	2.83	0.005	2.44	2.83	3.94	1.46	0.006	1.76	1.28	2.7	2.64	3.68	3.24	3.3	0.005	4.17	1.45	3.02	1.89	4.01	2.87	1.81	0.486	2.95	2.29	3.85	3.64	0.004	2.79	4.27	5.83	1.72	2.93	1.57	1.93	3.92	0.007	3.51	3.13	6.06	2.14	3.29
+PC ae C38:3	2.8	4.11	3.11	3.32	0.002	0.001	2.74	4.21	2.12	4.45	3.69	0.001	4.53	0.002	0.003	4.25	2.14	5.96	3.62	2.84	2.72	3.12	3.66	2.81	3.48	3.08	2.95	0.002	2.27	2.72	3.42	1.31	0.003	2.25	0.98	2.76	2.66	3.44	3.14	3.15	0.001	3.82	0.768	2.76	2.41	3.84	2.55	2.76	0.292	5.8	2.87	3.99	3.65	0.003	2.86	3.86	7.01	2.4	2.8	2.82	3.3	3.65	0.001	3.33	6.05	4.7	3.06	3.16
+PC ae C38:4	2.13	4.12	2.94	2.71	0.003	0.012	2.38	4.12	2.11	4.11	3.43	0.013	4.26	0.01	0.005	4.55	2.34	8.34	3.01	2.42	2.29	4.15	3.87	2.42	3.88	4.12	3.57	0.011	2.1	2.44	2.79	1.58	0.009	2.22	1.14	2.76	2.7	2.77	2.74	2.61	0.01	3.36	2.72	2.66	2.57	3.9	2.32	2.24	0.781	7.92	3.26	3.92	4.36	0.013	3.6	4.53	4.45	2.04	2.6	2.4	2.39	4.31	0.011	4.08	7.93	4.6	2.78	3.05
+PC ae C38:5	1.7	2.8	2.09	2.16	0.003	0.007	1.68	2.64	1.44	3.25	1.99	0.013	2.63	0.004	0.004	3.11	1.61	11.2	2.19	1.59	1.6	2.43	2.25	1.76	2.87	2.49	2.04	0.011	1.48	1.79	1.53	1.25	0.01	1.77	1.1	1.84	1.73	1.62	1.98	1.67	0.009	1.73	2.37	1.72	2.14	2.66	1.36	1.95	1.12	11.2	2.9	2.79	2.63	0.014	2.53	2.97	2.98	1.67	1.68	1.87	1.78	2.85	0.015	3.07	11.1	2.78	2.21	2.08
+PC ae C38:6	0.547	1.18	0.982	0.735	0.001	0.003	0.599	1.17	0.496	1.05	0.834	0.007	1.27	0.001	0	1.29	0.688	4.99	0.725	0.735	0.737	1.04	0.974	0.854	1.25	1.11	0.873	0.008	0.572	0.856	0.703	0.538	0.003	0.595	0.458	0.804	0.73	0.732	0.861	0.788	0.005	0.834	1.58	0.754	0.654	1.12	0.537	0.706	0.393	4.87	1.06	1.23	1.1	0.002	1.07	1.37	1.33	0.536	0.658	0.613	0.539	1.31	0	1.39	5.1	1.32	0.745	0.865
+PC ae C40:1	1.21	2.61	2.12	1.52	0.005	0.011	1.35	2.74	1.14	2.5	1.95	0.013	2.82	0.006	0.002	3.04	1.49	1.02	1.71	1.84	1.36	2.41	2.59	1.66	2.57	3.09	2.14	0.013	1.15	2.17	1.96	0.709	0.004	1.41	0.457	1.71	1.79	1.8	1.67	1.78	0.026	2.46	1.74	1.29	1.61	2.62	1.43	1.35	0.151	0.946	2.03	2.63	2.85	0.006	2.32	3.24	4.1	1.4	1.74	1.56	1.52	2.98	0.013	2.03	1.02	3.49	1.73	1.75
+PC ae C40:2	0.698	1.35	1.16	0.767	0.001	0.003	0.637	1.47	0.477	1.15	1.16	0.004	1.52	0.003	0.001	1.23	0.91	1.45	0.637	1.02	0.874	1.17	1.01	1.03	1.16	1.09	1.05	0.002	0.823	0.9	1.23	0.654	0.003	0.543	0.455	0.801	0.935	1.23	1.09	1.16	0.003	1.27	0.419	0.991	0.567	1.27	0.868	0.592	0.344	1.45	0.821	1.29	1.38	0.005	0.947	1.42	2.21	0.639	1.06	0.606	0.777	1.36	0.002	1.29	1.49	1.41	0.754	1.12
+PC ae C40:3	2.68	3.72	2.3	3.92	0.002	0.003	2.84	3.53	2.33	4.66	3.76	0.001	3.72	0.003	0.002	4.2	2.25	3.38	4.28	3.1	2.68	3.11	2.9	2.5	3.5	2.6	2.77	0.002	2.32	2.06	2.74	1.61	0.003	2.1	1.25	3.07	2.84	2.84	3.09	3.11	0.003	2.81	0.727	2.64	2.32	3.63	2.81	2.32	0.409	3.36	2.86	3.68	3.28	0.004	2.82	3.53	5.6	2.22	2.37	3.33	3.42	3.3	0.003	3.3	3.6	3.46	3.14	3.11
+PC ae C40:4	1.6	3.35	2.21	2.05	0.023	0.025	1.71	3.36	1.47	2.93	3.15	0.032	3.58	0.025	0.019	3.48	2.05	2.88	2.19	2.62	2.09	2.95	3.04	2.12	3.29	2.97	2.62	0.026	1.89	2.05	2.72	1.23	0.025	1.52	1.08	2.63	2.55	2.53	2.63	2.64	0.026	2.9	1.18	2.29	1.71	3.17	2.38	1.63	0.402	2.85	2.08	3.16	3.44	0.023	2.84	3.45	4.91	1.41	2.32	1.82	1.92	3.25	0.023	3.23	2.89	3.86	1.98	2.67
+PC ae C40:5	1.3	2.86	2.28	1.72	0.003	0.001	1.45	2.99	1.13	2.42	2.49	0.003	3.07	0.003	0.001	2.99	1.42	4.1	1.99	2.39	1.87	2.38	2.6	2.09	2.92	2.5	2.04	0.003	1.61	1.85	2.4	0.878	0.002	1.17	0.716	2.33	2	2.36	2.18	2.45	0.004	2.52	1.67	1.88	1.32	2.79	1.77	1.4	0.337	4	1.93	2.73	2.82	0.003	2.2	3.13	4.43	1.27	1.85	1.48	1.67	2.91	0.005	2.99	4.31	3.73	1.67	2.36
+PC ae C40:6	0.582	1.61	1.44	0.81	0.005	0.005	0.698	1.68	0.576	1.19	1.23	0.006	1.82	0.004	0.003	1.65	0.897	3.25	0.856	1.12	0.957	1.56	1.45	1.2	1.73	1.56	1.09	0.003	0.846	1.09	1.22	0.545	0.005	0.629	0.415	1.13	1.02	1.25	1.18	1.23	0.003	1.44	2.02	1.01	0.672	1.55	0.8	0.68	0.248	3.08	1.09	1.58	1.75	0.006	1.31	1.84	1.79	0.594	0.993	0.66	0.722	1.82	0.005	1.87	3.24	2.28	0.818	1.21
+PC ae C42:0	0.332	0.608	0.581	0.378	0.388	0.378	0.34	0.648	0.343	0.475	0.53	0.382	0.679	0.374	0.371	0.556	0.434	0.636	0.391	0.485	0.404	0.535	0.58	0.468	0.508	0.615	0.545	0.41	0.429	0.463	0.574	0.326	0.419	0.346	0.35	0.466	0.465	0.609	0.521	0.563	0.407	0.587	0.433	0.444	0.331	0.566	0.436	0.336	0.214	0.648	0.421	0.565	0.628	0.411	0.52	0.628	0.683	0.361	0.456	0.358	0.385	0.57	0.416	0.66	0.672	0.76	0.379	0.518
+PC ae C42:1	0.654	1.09	0.786	1.03	0.046	0.035	0.714	1.23	0.617	1.11	1.11	0.032	1.3	0.044	0.044	1.29	0.816	0.417	0.789	0.84	0.667	1.09	0.83	0.764	1.2	0.869	1.03	0.038	0.7	0.717	0.803	0.388	0.039	0.548	0.265	0.775	1.03	0.968	0.812	0.78	0.039	0.976	0.267	0.664	0.502	1.08	0.756	0.516	0.062	0.448	0.641	1.08	1.24	0.037	0.842	1.14	1.28	0.466	0.86	0.763	0.823	1.1	0.038	1.14	0.443	1.25	0.781	0.894
+PC ae C42:2	0.378	0.924	0.744	0.613	0.004	0.004	0.38	1.08	0.331	0.679	0.882	0.006	1.13	0.004	0.005	0.9	0.632	0.379	0.428	0.713	0.547	0.964	0.702	0.666	1.08	0.733	0.868	0.004	0.587	0.583	0.735	0.335	0.009	0.335	0.216	0.621	0.74	0.805	0.741	0.771	0.01	0.871	0.154	0.561	0.256	0.859	0.658	0.269	0.048	0.374	0.377	0.872	0.98	0.004	0.694	1.02	1.33	0.316	0.719	0.374	0.516	0.97	0.008	1.03	0.383	1.21	0.452	0.706
+PC ae C42:3	0.369	0.929	0.865	0.545	0.004	0.004	0.433	1.07	0.3	0.674	0.773	0.009	1.07	0.001	0.002	0.992	0.58	0.576	0.484	0.693	0.537	0.832	0.689	0.701	1.05	0.802	0.722	0.006	0.463	0.693	0.729	0.283	0.003	0.318	0.171	0.691	0.683	0.794	0.666	0.724	0.007	0.957	0.541	0.53	0.349	0.865	0.565	0.315	0.066	0.598	0.515	0.905	0.938	0.005	0.705	1.02	1.4	0.344	0.629	0.409	0.505	0.935	0.005	0.958	0.609	1.18	0.467	0.701
+PC ae C42:4	0.219	0.629	0.529	0.331	0	0	0.268	0.711	0.222	0.457	0.59	0	0.712	0	0	0.585	0.364	0.784	0.334	0.594	0.459	0.572	0.556	0.491	0.803	0.507	0.548	0	0.472	0.395	0.598	0.248	0	0.225	0.275	0.542	0.52	0.533	0.589	0.604	0	0.514	0.238	0.453	0.263	0.628	0.367	0.216	0.096	0.795	0.335	0.661	0.621	0	0.493	0.722	1.1	0.244	0.454	0.303	0.334	0.685	0	0.761	0.764	0.825	0.308	0.604
+PC ae C42:5	0.569	1.15	1.07	0.866	0.205	0.21	0.695	1.2	0.507	1.08	1.1	0.217	1.25	0.198	0.21	1.19	0.733	1.75	1.11	1.06	0.861	1.02	1.03	0.901	1.42	0.983	0.854	0.211	0.773	0.731	1.07	0.454	0.217	0.598	0.487	1.12	0.863	0.938	1.03	1.06	0.208	0.881	0.884	0.897	0.615	1.24	0.81	0.583	0.233	1.76	0.925	1.19	1.13	0.215	0.97	1.31	1.95	0.589	0.757	0.803	0.813	1.2	0.209	1.33	1.74	1.43	0.788	1.08
+PC ae C44:3	0.118	0.26	0.229	0.193	0.009	0.01	0.135	0.306	0.104	0.223	0.237	0.009	0.303	0.008	0.01	0.246	0.186	0.111	0.177	0.215	0.158	0.238	0.185	0.218	0.342	0.185	0.225	0.008	0.16	0.167	0.2	0.097	0.011	0.105	0.062	0.217	0.204	0.257	0.211	0.202	0.009	0.213	0.093	0.169	0.085	0.264	0.146	0.091	0.023	0.132	0.127	0.245	0.281	0.012	0.184	0.299	0.371	0.103	0.18	0.146	0.179	0.268	0.011	0.338	0.112	0.349	0.143	0.197
+PC ae C44:4	0.077	0.22	0.197	0.129	0.029	0.029	0.086	0.248	0.084	0.159	0.2	0.03	0.291	0.025	0.027	0.192	0.136	0.214	0.11	0.19	0.165	0.19	0.163	0.158	0.241	0.18	0.178	0.035	0.134	0.156	0.207	0.083	0.032	0.085	0.069	0.167	0.189	0.195	0.151	0.194	0.027	0.223	0.089	0.138	0.066	0.225	0.122	0.078	0.031	0.244	0.113	0.207	0.235	0.027	0.145	0.228	0.28	0.094	0.148	0.101	0.124	0.237	0.028	0.239	0.225	0.284	0.116	0.186
+PC ae C44:5	0.062	0.173	0.179	0.092	0.017	0.015	0.099	0.202	0.072	0.136	0.141	0.016	0.201	0.012	0.015	0.182	0.114	0.812	0.094	0.167	0.103	0.156	0.149	0.123	0.174	0.134	0.155	0.017	0.104	0.129	0.142	0.077	0.018	0.076	0.06	0.112	0.135	0.145	0.164	0.136	0.018	0.154	0.104	0.123	0.074	0.153	0.112	0.084	0.037	0.754	0.098	0.173	0.199	0.015	0.141	0.187	0.253	0.068	0.137	0.097	0.111	0.193	0.022	0.184	0.776	0.246	0.081	0.145
+PC ae C44:6	0.084	0.215	0.184	0.112	0.014	0.016	0.089	0.256	0.073	0.153	0.162	0.012	0.247	0.014	0.016	0.214	0.138	0.746	0.104	0.17	0.153	0.227	0.17	0.16	0.277	0.195	0.171	0.018	0.112	0.149	0.149	0.098	0.012	0.075	0.086	0.166	0.196	0.157	0.154	0.164	0.016	0.196	0.127	0.13	0.088	0.195	0.107	0.082	0.073	0.735	0.1	0.18	0.256	0.018	0.203	0.22	0.269	0.08	0.16	0.105	0.106	0.216	0.015	0.255	0.759	0.269	0.103	0.153
+SM (OH) C14:1	0.488	0.797	0.78	0.634	0.026	0.001	0.423	0.8	0.389	0.748	0.753	0.002	0.959	0.02	0.036	0.669	0.728	3.84	0.495	0.535	0.544	0.953	0.564	0.641	0.873	0.847	0.762	0.001	0.55	0.504	0.602	0.634	0.004	0.463	0.606	0.575	0.577	0.767	0.755	0.693	0	0.687	0.653	0.743	0.408	0.836	0.63	0.409	0.413	3.44	0.548	0.796	0.901	0.003	0.71	0.944	1.07	0.345	0.667	0.4	0.411	0.863	0.001	0.941	3.65	0.708	0.52	0.841
+SM (OH) C16:1	0.416	0.82	0.678	0.606	0	0.001	0.496	0.819	0.346	0.714	0.624	0.002	0.877	0	0.001	0.704	0.646	2.37	0.472	0.566	0.571	0.841	0.572	0.618	0.871	0.742	0.648	0.002	0.552	0.516	0.573	0.618	0	0.45	0.421	0.513	0.59	0.605	0.726	0.591	0	0.644	0.719	0.647	0.366	0.792	0.482	0.341	0.448	2.2	0.573	0.838	0.765	0.002	0.664	0.881	0.726	0.368	0.61	0.392	0.438	0.774	0.001	0.941	2.52	0.747	0.474	0.777
+SM (OH) C22:1	5.28	12.5	9.8	7.69	0.003	0.003	6.31	11.7	4.48	10.4	10.1	0.006	11.5	0.004	0.009	11.6	9.25	11.3	6.73	9.69	8.28	12	8.8	8.35	12.8	13.2	8.61	0.005	8.54	8.84	10.8	8.4	0.006	5.3	8.26	10.1	9.46	8.95	10.5	9.62	0.004	9.47	6.75	8.66	4.78	11.8	8.72	5.06	6.94	10.5	7	12.4	12.4	0.009	11	13.1	15.5	5.48	8.64	5.69	6.78	12	0.006	12.6	10.8	10.5	6.36	12.3
+SM (OH) C22:2	1.65	5.05	4.58	1.97	0.002	0.013	1.66	5.24	1.27	3.1	3.97	0.015	5.42	0	0.002	5.43	3.39	7.2	1.84	4.65	3.91	5.1	3.96	4.14	5.39	5.68	3.49	0.008	3.69	4.2	4.57	3.33	0.012	1.7	2.95	4.48	3.66	3.85	4.53	4.15	0.013	4.6	2.48	3.6	1.27	4.95	3.43	1.48	2.91	6.69	2.11	5.2	4.99	0.012	3.85	5.37	5.97	1.42	3.54	1.45	1.95	4.9	0.011	5.12	6.98	6.41	1.93	5.04
+SM (OH) C24:1	1.98	3.42	2.62	2.98	0	0.006	2.91	3.11	1.92	4.34	2.18	0.009	3.43	0	0.006	3.52	2.65	1.34	2.74	1.98	1.96	2.91	2.45	2.13	2.66	2.83	2.18	0.009	2	2.17	2.35	1.82	0.002	2.37	1.6	2.26	2.15	2.79	2.68	2.25	0.012	2.78	1.75	2.38	2.44	3.44	2.85	2.31	1.32	1.21	2.95	3.3	3.52	0.001	2.73	3.36	3.81	2.27	2.47	2.14	2.58	2.95	0.004	3.29	1.38	3	2.61	2.8
+SM C16:0	18	28.8	24.7	27.3	0.01	0.022	17.6	28	15.6	31.4	21.8	0.028	29	0.016	0.026	26.4	27.8	80.8	17.7	15.7	17.8	26.5	17.5	22.1	25.6	24.3	24.6	0.011	17	15.3	16.8	20.6	0.047	19.4	21.9	18	19.3	25.8	23.8	21.5	0.013	20.7	35.1	23.4	15.2	28.7	21.7	14.5	16	73	23.6	30.7	26.5	0.047	24	29.8	30.5	15.5	23.3	18.2	18.5	28.7	0.022	33	79.3	18.2	20.3	25.4
+SM C16:1	1.8	3.72	3.13	2.68	0.002	0.003	1.87	3.73	1.54	3.51	2.78	0.005	3.82	0.002	0.003	3.55	3.07	12.5	1.96	2.52	2.48	3.63	2.58	3.23	3.24	3.35	2.94	0.001	2.16	2.23	2.29	2.39	0.003	2.16	2.15	2.7	2.54	2.99	3.24	2.91	0.003	2.71	4.05	2.94	1.62	3.73	2.97	1.76	2.07	11.5	2.9	3.8	3.34	0.005	2.85	4.03	4.74	1.67	2.65	2.04	1.93	3.9	0.003	3.62	11.9	2.95	2.22	3.47
+SM C18:0	1.99	3.61	3.07	3.04	0.006	0.005	1.95	3.52	1.57	3.56	2.42	0.006	3.69	0.004	0.005	4.04	3.18	18.5	2.12	2.49	2.35	3.29	2.08	2.93	4.31	3.06	2.68	0.002	2.2	2.23	2.16	2.33	0.006	2.34	2.09	2.64	3.62	2.61	2.93	2.8	0.003	2.39	4.45	2.7	1.74	3.63	2.3	1.64	2.27	17.7	2.81	3.77	3.35	0.009	3.89	3.99	3.46	2	2.78	2.15	2.49	3.79	0.004	3.48	18.8	2.58	2.28	3.12
+SM C18:1	0.75	1.6	1.29	1.17	0.004	0.005	0.77	1.63	0.602	1.58	1.08	0.004	1.61	0.003	0.002	1.67	1.2	9.88	0.953	1.14	0.993	1.5	1.11	1.36	1.75	1.46	1.17	0	1.02	1.03	1.11	0.994	0.005	0.945	0.907	1.21	1.44	1.18	1.27	1.15	0.003	1.17	1.78	1.23	0.704	1.61	1.01	0.774	1	9.31	1.24	1.65	1.33	0.004	1.46	1.83	1.64	0.721	1.13	0.824	0.99	1.66	0.002	1.5	9.64	1.36	0.925	1.45
+SM C20:2	0.268	0.659	0.566	0.251	0.004	0.002	0.205	0.586	0.169	0.47	0.377	0.002	0.713	0.002	0	0.504	0.361	0.779	0.274	0.366	0.313	0.515	0.496	0.366	0.497	0.59	0.467	0.002	0.336	0.408	0.574	0.168	0.002	0.227	0.183	0.303	0.353	0.57	0.541	0.474	0	0.639	0.278	0.354	0.279	0.583	0.312	0.26	0.074	0.748	0.293	0.515	0.515	0.004	0.533	0.743	1.09	0.272	0.352	0.227	0.275	0.662	0.004	0.442	0.816	0.783	0.3	0.477
+SM C22:3	2.66	5.47	2.92	3.7	0.004	0.004	3.56	4.06	3.14	7.29	3.07	0.004	4.6	0.004	0.006	5.86	2.92	5.99	4.74	2.19	2.23	4.02	4.26	2.39	4.38	4.83	4.34	0.002	1.72	3.11	2.86	1.13	0.002	3.39	0.962	2.98	2.84	2.91	3.32	2.94	0.003	3.38	3.26	2.42	4	4.78	2.78	4.05	0.415	5.53	5.37	4.65	4.23	0.002	5.73	6.35	8.21	3.22	2.58	4.01	3.04	5.88	0.001	3.71	5.85	4.62	4.37	2.83
+SM C24:0	15.4	30	25.4	22.9	0.011	0.008	17.7	28.1	15.2	31.6	21.4	0.009	28.3	0.016	0.013	28.3	23.1	22.4	18	19.1	18.9	26.6	20.5	20.2	26.3	26.4	20.7	0.008	19.1	17.7	23.1	17.9	0.011	15.7	18.6	20.8	19.9	25.3	23.9	25.8	0.01	22.6	17.6	23.4	16	29.5	20.8	14.5	14	21.6	23.8	30.6	29.3	0.01	25.7	30.3	41.4	16.1	21.7	16	18.7	27.9	0.005	30.1	22.4	20.6	19	27.2
+SM C24:1	14.9	26.9	20.8	21.6	0.004	0.013	14.7	25.6	14.2	28.5	20.5	0.031	25.8	0.011	0.008	25.8	19.1	43.3	16.2	19.8	17	23.1	18.1	17.3	23.1	24.7	17.8	0.031	17.2	17.1	20.9	16.1	0.006	14.8	16.7	18.3	19.1	22.6	21.6	22.9	0.022	19.9	21.5	20.3	13.9	25.9	17.3	12	13.1	40.4	23.4	27.1	27.8	0.01	22.3	26.3	32.3	14.4	20.8	15.3	18.4	24.3	0.017	27.6	42	19.7	17.5	24.2
+SM C26:0	0.284	0.357	0.408	0.309	0.018	0.02	0.33	0.493	0.156	0.398	0.327	0.024	0.566	0.025	0.022	0.333	0.36	0.18	0.241	0.29	0.268	0.363	0.274	0.343	0.4	0.324	0.47	0.027	0.384	0.379	0.31	0.323	0.011	0.224	0.235	0.233	0.219	0.374	0.355	0.332	0.033	0.229	0.181	0.399	0.195	0.408	0.281	0.216	0.163	0.266	0.334	0.614	0.463	0.016	0.379	0.424	0.507	0.307	0.296	0.281	0.359	0.465	0.016	0.532	0.245	0.463	0.228	0.271
+SM C26:1	0.509	0.953	0.677	0.72	0.007	0.001	0.599	0.869	0.425	1	0.622	0.001	0.84	0	0.003	0.952	0.764	0.31	0.51	0.508	0.691	0.718	0.497	0.561	0.849	0.642	0.647	0.004	0.531	0.506	0.704	0.536	0.001	0.466	0.355	0.546	0.674	0.773	0.78	0.633	0.003	0.709	0.425	0.684	0.433	0.852	0.552	0.458	0.255	0.427	0.529	0.844	0.823	0.002	0.735	0.78	0.75	0.491	0.619	0.627	0.629	0.757	0.002	0.905	0.404	0.627	0.646	0.708
+H1	4190	4820	4781	4290	7.01	589	4301	4285	4323	5848	3232	610	4250	8.25	6.99	2417	3089	5169	4819	3807	3373	3563	3668	4402	2792	3614	2716	523	3278	3814	2770	3174	620	5027	3802	2830	2544	4352	4300	3719	605	3755	5771	3557	4393	4923	4656	4651	2284	16290	4508	5155	3721	577	3213	4926	6058	3481	3870	4172	4667	4495	554	3091	11299	4854	4655	4479
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	retention index	quantified m/z	PubChem ID	KEGG ID
+C0
+C10
+C10:1
+C10:2
+C12
+C12-DC
+C12:1
+C14
+C14:1
+C14:1-OH
+C14:2
+C14:2-OH
+C16
+C16-OH
+C16:1
+C16:1-OH
+C16:2
+C16:2-OH
+C18
+C18:1
+C18:1-OH
+C18:2
+C2
+C3
+C3-DC (C4-OH)
+C3-OH
+C3:1
+C4
+C4:1
+C6 (C4:1-DC)
+C5
+C5-M-DC
+C5-OH (C3-DC-M)
+C5:1
+C5:1-DC
+C5-DC (C6-OH)
+C6:1
+C7-DC
+C8
+C9
+Ala
+Arg
+Asn
+Asp
+Cit
+Gln
+Glu
+Gly
+His
+Ile
+Leu
+Lys
+Met
+Orn
+Phe
+Pro
+Ser
+Thr
+Trp
+Tyr
+Val
+Ac-Orn
+ADMA
+alpha-AAA
+c4-OH-Pro
+Carnosine
+Creatinine
+DOPA
+Dopamine
+Histamine
+Kynurenine
+Met-SO
+Nitro-Tyr
+PEA
+Putrescine
+SDMA
+Serotonin
+Spermidine
+Spermine
+t4-OH-Pro
+Taurine
+total DMA
+lysoPC a C14:0
+lysoPC a C16:0
+lysoPC a C16:1
+lysoPC a C17:0
+lysoPC a C18:0
+lysoPC a C18:1
+lysoPC a C18:2
+lysoPC a C20:3
+lysoPC a C20:4
+lysoPC a C24:0
+lysoPC a C26:0
+lysoPC a C26:1
+lysoPC a C28:0
+lysoPC a C28:1
+PC aa C24:0
+PC aa C26:0
+PC aa C28:1
+PC aa C30:0
+PC aa C30:2
+PC aa C32:0
+PC aa C32:1
+PC aa C32:2
+PC aa C32:3
+PC aa C34:1
+PC aa C34:2
+PC aa C34:3
+PC aa C34:4
+PC aa C36:0
+PC aa C36:1
+PC aa C36:2
+PC aa C36:3
+PC aa C36:4
+PC aa C36:5
+PC aa C36:6
+PC aa C38:0
+PC aa C38:1
+PC aa C38:3
+PC aa C38:4
+PC aa C38:5
+PC aa C38:6
+PC aa C40:1
+PC aa C40:2
+PC aa C40:3
+PC aa C40:4
+PC aa C40:5
+PC aa C40:6
+PC aa C42:0
+PC aa C42:1
+PC aa C42:2
+PC aa C42:4
+PC aa C42:5
+PC aa C42:6
+PC ae C30:0
+PC ae C30:1
+PC ae C30:2
+PC ae C32:1
+PC ae C32:2
+PC ae C34:0
+PC ae C34:1
+PC ae C34:2
+PC ae C34:3
+PC ae C36:0
+PC ae C36:1
+PC ae C36:2
+PC ae C36:3
+PC ae C36:4
+PC ae C36:5
+PC ae C38:0
+PC ae C38:1
+PC ae C38:2
+PC ae C38:3
+PC ae C38:4
+PC ae C38:5
+PC ae C38:6
+PC ae C40:1
+PC ae C40:2
+PC ae C40:3
+PC ae C40:4
+PC ae C40:5
+PC ae C40:6
+PC ae C42:0
+PC ae C42:1
+PC ae C42:2
+PC ae C42:3
+PC ae C42:4
+PC ae C42:5
+PC ae C44:3
+PC ae C44:4
+PC ae C44:5
+PC ae C44:6
+SM (OH) C14:1
+SM (OH) C16:1
+SM (OH) C22:1
+SM (OH) C22:2
+SM (OH) C24:1
+SM C16:0
+SM C16:1
+SM C18:0
+SM C18:1
+SM C20:2
+SM C22:3
+SM C24:0
+SM C24:1
+SM C26:0
+SM C26:1
+H1
+METABOLITES_END
+#END

@@ -1,0 +1,693 @@
+#METABOLOMICS WORKBENCH michaelsa93_20160713_102615_mwtab.txt DATATRACK_ID:678 STUDY_ID:ST000419 ANALYSIS_ID:AN000661
+VERSION             	1
+CREATED_ON             	July 14, 2016, 8:11 am
+#PROJECT
+PR:PROJECT_TITLE                 	Impact Of High Sugar Diet On L-Arginine Metabolism In The Lung
+PR:PROJECT_SUMMARY               	Asthma is a progressive inflammatory airways disease that leads to structural
+PR:PROJECT_SUMMARY               	airway changes and debilitating symptoms in many severely affected adults. We
+PR:PROJECT_SUMMARY               	need novel therapeutic agents that are affordable, can decrease the reliance on
+PR:PROJECT_SUMMARY               	steroids, and can improve quality of life. This clinical and mechanistic study
+PR:PROJECT_SUMMARY               	has the potential to impact treatment of a subset of adult severe asthmatics and
+PR:PROJECT_SUMMARY               	to further our understanding of the mechanisms of L-arginine metabolism and NO
+PR:PROJECT_SUMMARY               	biology in the airways of asthmatics. We will pursue a clinical trial in
+PR:PROJECT_SUMMARY               	subjects not well controlled on standard drug therapy; this strategy will
+PR:PROJECT_SUMMARY               	address whether L-arginine is efficacious in patients receiving standard of care
+PR:PROJECT_SUMMARY               	medications. In studies using animal models, we and others have shown that
+PR:PROJECT_SUMMARY               	interventions that augment NO levels, through either supplementation of
+PR:PROJECT_SUMMARY               	L-arginine or inhibition of arginase, decrease allergic airway inflammation and
+PR:PROJECT_SUMMARY               	hyperresponsiveness-the two hallmarks of asthma. Overall, we hypothesize that a
+PR:PROJECT_SUMMARY               	responder subset of adult severe asthma patients will derive clinical benefit
+PR:PROJECT_SUMMARY               	from supplemental L-arginine therapy and that these patients will have a lower
+PR:PROJECT_SUMMARY               	exhaled NO concentrations (<20 ppb) and a higher NOS2/Arg1 mRNA and protein
+PR:PROJECT_SUMMARY               	ratio in their airway epithelial cells than non-responders. We aim to: 1) test
+PR:PROJECT_SUMMARY               	the hypothesis that uncontrolled, adult severe asthma patients with exhaled
+PR:PROJECT_SUMMARY               	breath NO concentrations <20 ppb will have fewer asthma exacerbations over 3
+PR:PROJECT_SUMMARY               	months when treated with L-arginine compared to patients with FeNO > 25, 2)
+PR:PROJECT_SUMMARY               	determine the mechanisms by which L-arginine affects the regulation of NOS and
+PR:PROJECT_SUMMARY               	arginase enzymes in primary airway epithelial cell cultures from severe
+PR:PROJECT_SUMMARY               	asthmatic subjects, and 3) test the hypothesis that inhaled nanoparticle carrier
+PR:PROJECT_SUMMARY               	formulations of L-arginine will decrease airway inflammation, airway
+PR:PROJECT_SUMMARY               	hyperresponsiveness, and airway fibrosis at lower doses than systemically
+PR:PROJECT_SUMMARY               	administered L-arginine. The major impact of our study will be to identify the
+PR:PROJECT_SUMMARY               	adult severe asthma cohort that will benefit from supplemental L-arginine
+PR:PROJECT_SUMMARY               	therapy. Our ultimate goal is to develop novel therapeutic agents to treat adult
+PR:PROJECT_SUMMARY               	severe asthma patients better. PUBLIC HEALTH RELEVANCE: Asthma is a progressive
+PR:PROJECT_SUMMARY               	inflammatory airways disease that leads to structural airway changes and
+PR:PROJECT_SUMMARY               	debilitating symptoms in many severely affected adults. This clinical study has
+PR:PROJECT_SUMMARY               	the potential to improve the care of adult severe asthmatics and to further our
+PR:PROJECT_SUMMARY               	understanding of the mechanisms of L-arginine metabolism and nitric oxide
+PR:PROJECT_SUMMARY               	biology in the lung. If we demonstrate that L-arginine supplementation can
+PR:PROJECT_SUMMARY               	decrease asthma attacks in a subset of severe asthmatics, it will have great
+PR:PROJECT_SUMMARY               	implications for future research as well as for the daily lives of patients with
+PR:PROJECT_SUMMARY               	asthma.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+PR:LABORATORY                    	WCMC Metabolomics Core
+PR:LAST_NAME                     	Fiehn
+PR:FIRST_NAME                    	Oliver
+PR:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+PR:ADDRESS                       	CA 95616
+PR:EMAIL                         	ofiehn@ucdavis.edu
+PR:PHONE                         	(530) 754-8258
+PR:FUNDING_SOURCE                	NIH U24DK097154
+#STUDY
+ST:STUDY_TITLE                   	Impact Of High Sugar Diet On L-Arginine Metabolism In The Lung
+ST:STUDY_SUMMARY                 	Asthma is a progressive inflammatory airways disease that leads to structural
+ST:STUDY_SUMMARY                 	airway changes and debilitating symptoms in many severely affected adults. We
+ST:STUDY_SUMMARY                 	need novel therapeutic agents that are affordable, can decrease the reliance on
+ST:STUDY_SUMMARY                 	steroids, and can improve quality of life. This clinical and mechanistic study
+ST:STUDY_SUMMARY                 	has the potential to impact treatment of a subset of adult severe asthmatics and
+ST:STUDY_SUMMARY                 	to further our understanding of the mechanisms of L-arginine metabolism and NO
+ST:STUDY_SUMMARY                 	biology in the airways of asthmatics. We will pursue a clinical trial in
+ST:STUDY_SUMMARY                 	subjects not well controlled on standard drug therapy; this strategy will
+ST:STUDY_SUMMARY                 	address whether L-arginine is efficacious in patients receiving standard of care
+ST:STUDY_SUMMARY                 	medications. In studies using animal models, we and others have shown that
+ST:STUDY_SUMMARY                 	interventions that augment NO levels, through either supplementation of
+ST:STUDY_SUMMARY                 	L-arginine or inhibition of arginase, decrease allergic airway inflammation and
+ST:STUDY_SUMMARY                 	hyperresponsiveness-the two hallmarks of asthma. Overall, we hypothesize that a
+ST:STUDY_SUMMARY                 	responder subset of adult severe asthma patients will derive clinical benefit
+ST:STUDY_SUMMARY                 	from supplemental L-arginine therapy and that these patients will have a lower
+ST:STUDY_SUMMARY                 	exhaled NO concentrations (<20 ppb) and a higher NOS2/Arg1 mRNA and protein
+ST:STUDY_SUMMARY                 	ratio in their airway epithelial cells than non-responders. We aim to: 1) test
+ST:STUDY_SUMMARY                 	the hypothesis that uncontrolled, adult severe asthma patients with exhaled
+ST:STUDY_SUMMARY                 	breath NO concentrations <20 ppb will have fewer asthma exacerbations over 3
+ST:STUDY_SUMMARY                 	months when treated with L-arginine compared to patients with FeNO > 25, 2)
+ST:STUDY_SUMMARY                 	determine the mechanisms by which L-arginine affects the regulation of NOS and
+ST:STUDY_SUMMARY                 	arginase enzymes in primary airway epithelial cell cultures from severe
+ST:STUDY_SUMMARY                 	asthmatic subjects, and 3) test the hypothesis that inhaled nanoparticle carrier
+ST:STUDY_SUMMARY                 	formulations of L-arginine will decrease airway inflammation, airway
+ST:STUDY_SUMMARY                 	hyperresponsiveness, and airway fibrosis at lower doses than systemically
+ST:STUDY_SUMMARY                 	administered L-arginine. The major impact of our study will be to identify the
+ST:STUDY_SUMMARY                 	adult severe asthma cohort that will benefit from supplemental L-arginine
+ST:STUDY_SUMMARY                 	therapy. Our ultimate goal is to develop novel therapeutic agents to treat adult
+ST:STUDY_SUMMARY                 	severe asthma patients better. PUBLIC HEALTH RELEVANCE: Asthma is a progressive
+ST:STUDY_SUMMARY                 	inflammatory airways disease that leads to structural airway changes and
+ST:STUDY_SUMMARY                 	debilitating symptoms in many severely affected adults. This clinical study has
+ST:STUDY_SUMMARY                 	the potential to improve the care of adult severe asthmatics and to further our
+ST:STUDY_SUMMARY                 	understanding of the mechanisms of L-arginine metabolism and nitric oxide
+ST:STUDY_SUMMARY                 	biology in the lung. If we demonstrate that L-arginine supplementation can
+ST:STUDY_SUMMARY                 	decrease asthma attacks in a subset of severe asthmatics, it will have great
+ST:STUDY_SUMMARY                 	implications for future research as well as for the daily lives of patients with
+ST:STUDY_SUMMARY                 	asthma.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+ST:LABORATORY                    	WCMC Metabolomics Core
+ST:LAST_NAME                     	Fiehn
+ST:FIRST_NAME                    	Oliver
+ST:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+ST:ADDRESS                       	CA 95616
+ST:EMAIL                         	ofiehn@ucdavis.edu
+ST:PHONE                         	(530) 754-8258
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Male
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 59 Liver	150128cctsa03_3	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 87 Liver	150128cctsa34_1	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 69 Liver	150128cctsa36_1	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 55 Liver	150128cctsa41_1	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 82 Liver	150127cctsa30_1	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 70 Liver	150127cctsa42_1	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 78 Liver	150127cctsa46_1	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 57 Liver	150127cctsa47_1	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 54 Liver	150128cctsa01_3	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 49 Liver	150128cctsa04_3	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 11 Liver	150128cctsa14_2	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 90 Liver	150128cctsa47_1	Organ:Liver | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Biorec 1 liver	150129cctsa06_1	Organ:Liver | Diet Assignment:Biorecs - 2	
+SUBJECT_SAMPLE_FACTORS           	Biorec 2 liver	150129cctsa07_1	Organ:Liver | Diet Assignment:Biorecs - 2	
+SUBJECT_SAMPLE_FACTORS           	Biorec 1 lung	150129cctsa08_2	Organ:Lung | Diet Assignment:Biorecs - 2	
+SUBJECT_SAMPLE_FACTORS           	Biorec 2 lung	150129cctsa09_2	Organ:Lung | Diet Assignment:Biorecs - 2	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 45 Liver	150128cctsa35_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 92 Liver	150128cctsa30_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 2 Liver	150128cctsa45_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 64 Liver	150128cctsa37_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 57 Kidney	150127cctsa45_1	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 11 Kidney	150127cctsa38_1	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 78 Kidney	150128cctsa13_2	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 90 Kidney	150128cctsa08_2	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 49 Kidney	150128cctsa23_1	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 82 Kidney	150128cctsa18_2	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 26 Kidney	150128cctsa27_1	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 70 Kidney	150128cctsa25_1	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 82 Liver	150127cctsa33_1	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 54 Kidney	150128cctsa29_1	Organ:Kidney | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 1 Liver	150127cctsa50_3	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 92 Liver	150127cctsa49_3	Organ:Liver | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 1 Lung	150129cctsa01_1	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 70 Lung	150128cctsa26_1	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 82 Lung	150128cctsa50_1	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 82 Lung	150127cctsa34_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 90 Lung	150127cctsa29_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Biorec 2 kidney	150129cctsa11_1	Organ:Kidney | Diet Assignment:Biorecs - 2	
+SUBJECT_SAMPLE_FACTORS           	Biorec 1 kidney	150129cctsa10_2	Organ:Kidney | Diet Assignment:Biorecs - 2	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 54 Lung	150128cctsa20_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 78 Lung	150128cctsa09_2	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 26 Lung	150127cctsa48_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 49 Lung	150127cctsa41_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 69 Lung	150127cctsa36_1	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 57 Lung	150128cctsa49_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 70 Lung	150128cctsa44_2	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	Control Mouse 11 Lung	150128cctsa32_1	Organ:Lung | Diet Assignment:Control Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 92 Lung	150128cctsa16_2	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 55 Lung	150128cctsa07_2	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 59 Lung	150127cctsa40_1	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 87 Lung	150127cctsa37_1	Organ:Lung | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 2 Lung	150128cctsa46_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 70 Lung	150129cctsa02_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 80 Lung	150128cctsa40_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 31 Lung	150128cctsa42_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 64 Lung	150128cctsa21_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 45 Lung	150128cctsa31_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 86 Lung	150127cctsa39_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 92 Lung	150127cctsa44_1	Organ:Lung | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 86 Liver	150128cctsa17_2	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 31 Liver	150128cctsa22_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 45 Liver	150127cctsa43_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 80 Liver	150128cctsa10_2	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 97 Liver	150127cctsa32_1	Organ:Liver | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 92 Kidney	150127cctsa35_1	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 87 Kidney	150128cctsa43_1	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 69 Kidney	150128cctsa38_1	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 1 Kidney	150128cctsa33_1	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 59 Kidney	150128cctsa19_2	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 55 Kidney	150128cctsa15_2	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 70 Kidney	150128cctsa11_2	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	High Fat Mouse 82 Kidney	150127cctsa31_1	Organ:Kidney | Diet Assignment:High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 64 Kidney	150128cctsa48_1	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 45 Kidney	150128cctsa39_1	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 80 Kidney	150128cctsa28_1	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 86 Kidney	150128cctsa24_1	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 97 Kidney	150128cctsa12_2	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 70 Kidney	150128cctsa06_2	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 31 Kidney	150128cctsa05_3	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+SUBJECT_SAMPLE_FACTORS           	Very High Fat Mouse 2 Kidney	150128cctsa02_3	Organ:Kidney | Diet Assignment:Very High Fat Chow	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	C57BL/6 mice, 6-7 weeks of age upon diet assignment were fed for 150 days and
+CO:COLLECTION_SUMMARY            	weighed daily. Mice were euthanized with an overdose of pentobarbital IP and
+CO:COLLECTION_SUMMARY            	lungs were flash frozen. 6 mg of lung tissue was extracted for GC-TOFMS and
+CO:COLLECTION_SUMMARY            	HILIC-QTOFMS analysis.
+CO:SAMPLE_TYPE                   	Tissue
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Male C57BL/6N mice (6-7 weeks of age) were provided ad libitum access to one of
+TR:TREATMENT_SUMMARY             	three diets for 150 days: low fat (10% kcals) control (CTRL) chow, high fat (45%
+TR:TREATMENT_SUMMARY             	kcals) with sugar (HFS) chow or very high (60% kcals) fat (VHF) chow. Body
+TR:TREATMENT_SUMMARY             	weight and food intake were measured daily.
+TR:TREATMENT_DOSEDURATION        	150 Days
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	1. Weigh 50 mg tissue sample in to a 25 ml conical polypropylene centrifuge
+SP:SAMPLEPREP_SUMMARY            	tube. 2. Add 2.5mL extraction solvent to the tissue sample and homogenize for 45
+SP:SAMPLEPREP_SUMMARY            	seconds ensuring that sample resembles a powder. In between samples, clean the
+SP:SAMPLEPREP_SUMMARY            	homogenizer in solutions of methanol, acetone, water, and the extraction
+SP:SAMPLEPREP_SUMMARY            	solvent. 3. Centrifuge the samples at 2500 rpm. for 5 minutes. Aliquot 2 X
+SP:SAMPLEPREP_SUMMARY            	500μl supernatant, one for analysis and one for a backup sample. Store backup
+SP:SAMPLEPREP_SUMMARY            	aliquot in the -20°C freezer. 4. Evaporate one 500μl aliquot of the sample in
+SP:SAMPLEPREP_SUMMARY            	the Labconco Centrivap cold trap concentrator to complete dryness 5. The dried
+SP:SAMPLEPREP_SUMMARY            	aliquot is then re-suspended with 500l 50% acetonitrile (degassed as given) 6.
+SP:SAMPLEPREP_SUMMARY            	Centrifuge for 2 min at 14000 rcf using the centrifuge Eppendorf 5415. 7. Remove
+SP:SAMPLEPREP_SUMMARY            	supernatant to a new Eppendorff tube. 8. Evaporate the supernatant to dryness in
+SP:SAMPLEPREP_SUMMARY            	the the Labconco Centrivap cold trap concentrator. 9. Submit to derivatization.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	SOP Extraction of Mammalian Tissue Samples.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Pegasus 4D GCxGC-TOFMS
+CH:COLUMN_NAME                	Restek Corporation Rtx-5Sil MS
+CH:FLOW_RATE                  	1 ml/min
+CH:COLUMN_TEMPERATURE         	50-330C
+CH:METHODS_FILENAME           	Data_Dictionary_Fiehn_laboratory_GCTOF_MS_primary_metabolism_10-15-2013_general.pdf
+CH:COLUMN_PRESSURE            	7.7 PSI
+CH:INJECTION_TEMPERATURE      	50 C ramped to 250 C by 12 C/s
+CH:SAMPLE_INJECTION           	0.5 uL
+CH:OVEN_TEMPERATURE           	50°C for 1 min, then ramped at 20°C/min to 330°C, held constant for 5 min
+CH:TRANSFERLINE_TEMPERATURE   	230C
+CH:WASHING_BUFFER             	Ethyl Acetate
+CH:SAMPLE_LOOP_SIZE           	30 m length x 0.25 mm internal diameter
+CH:RANDOMIZATION_ORDER        	Excel generated
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	WCMC Metabolomics Core
+AN:DETECTOR_TYPE            	TOF
+AN:SOFTWARE_VERSION         	ChromaTOF
+AN:DATA_FORMAT              	.peg, .txt, .cdf
+#MS
+MS:INSTRUMENT_NAME          	Pegasus 4D GCxGC-TOFMS
+MS:INSTRUMENT_TYPE          	GC-TOF
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+MS:ION_SOURCE_TEMPERATURE   	250 C
+MS:IONIZATION_ENERGY        	70 eV
+MS:MASS_ACCURACY            	Nominal
+MS:SOURCE_TEMPERATURE       	250 C
+MS:SCAN_RANGE_MOVERZ        	85-500 Da
+MS:SCANNING_CYCLE           	17 Hz
+MS:SCANNING_RANGE           	85-500 Da
+MS:SKIMMER_VOLTAGE          	1850 V
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	counts
+MS_METABOLITE_DATA_START
+Samples	150128cctsa03_3	150128cctsa34_1	150128cctsa36_1	150128cctsa41_1	150127cctsa30_1	150127cctsa42_1	150127cctsa46_1	150127cctsa47_1	150128cctsa01_3	150128cctsa04_3	150128cctsa14_2	150128cctsa47_1	150129cctsa06_1	150129cctsa07_1	150129cctsa08_2	150129cctsa09_2	150128cctsa35_1	150128cctsa30_1	150128cctsa45_1	150128cctsa37_1	150127cctsa45_1	150127cctsa38_1	150128cctsa13_2	150128cctsa08_2	150128cctsa23_1	150128cctsa18_2	150128cctsa27_1	150128cctsa25_1	150127cctsa33_1	150128cctsa29_1	150127cctsa50_3	150127cctsa49_3	150129cctsa01_1	150128cctsa26_1	150128cctsa50_1	150127cctsa34_1	150127cctsa29_1	150129cctsa11_1	150129cctsa10_2	150128cctsa20_1	150128cctsa09_2	150127cctsa48_1	150127cctsa41_1	150127cctsa36_1	150128cctsa49_1	150128cctsa44_2	150128cctsa32_1	150128cctsa16_2	150128cctsa07_2	150127cctsa40_1	150127cctsa37_1	150128cctsa46_1	150129cctsa02_1	150128cctsa40_1	150128cctsa42_1	150128cctsa21_1	150128cctsa31_1	150127cctsa39_1	150127cctsa44_1	150128cctsa17_2	150128cctsa22_1	150127cctsa43_1	150128cctsa10_2	150127cctsa32_1	150127cctsa35_1	150128cctsa43_1	150128cctsa38_1	150128cctsa33_1	150128cctsa19_2	150128cctsa15_2	150128cctsa11_2	150127cctsa31_1	150128cctsa48_1	150128cctsa39_1	150128cctsa28_1	150128cctsa24_1	150128cctsa12_2	150128cctsa06_2	150128cctsa05_3	150128cctsa02_3
+Factors	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:Biorecs - 2	Organ:Liver | Diet Assignment:Biorecs - 2	Organ:Lung | Diet Assignment:Biorecs - 2	Organ:Lung | Diet Assignment:Biorecs - 2	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:Control Chow	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Liver | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Kidney | Diet Assignment:Biorecs - 2	Organ:Kidney | Diet Assignment:Biorecs - 2	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:Control Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Lung | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Liver | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow	Organ:Kidney | Diet Assignment:Very High Fat Chow
+xylulose	955	2173	1574	1120	1950	3653	2299	3352	2286	2088	1859	1267	1088	639	409	222	1105	1678	640	1835	1569	2026	529	834	2133	1556	3124	692	2042	2101	1387	1641	184	269	129	310	289	518	61	249	169	418	242	121	184	580	245	216	184	282	246	146	229	192	125	312	208	257	300	2316	2027	2067	857	2004	1747	490	1387	1288	1181	1452	2087	2186	1077	955	835	1148	1376	1388	1949	1819
+xylose	1080	1950	921	2127	2539	3383	2490	3124	1070	1501	1708	822	1123	844	605	1476	1471	771	1507	1884	1345	1486	776	419	1176	1843	2281	1590	1695	1161	978	756	542	956	741	882	915	815	261	411	896	799	814	788	580	469	449	738	446	828	607	472	690	1202	522	413	756	883	503	2251	1483	1862	1457	1275	2963	475	1410	1318	358	4486	855	3449	2143	1393	1041	938	2527	2774	1242	457
+xylonolactone	573	528	725	352	544	815	753	821	464	381	647	305	63	258	68	85	475	768	512	504	383	335	92	241	544	819	366	199	762	521	315	465	102	80	57	116	127	67	199	41	135	161	129	179	102	270	109	99	134	125	205	93	157	86	119	131	111	91	129	358	909	467	441	695	1393	378	247	467	1635	2027	546	5194	852	302	698	286	674	2620	208	760
+xylonic acid isomer	685	1543	1060	1225	702	1706	737	856	541	1241	761	317	174	141	127	186	1020	1422	641	955	408	464	388	196	266	244	1952	444	597	205	581	445	23	209	1010	514	554	181	83	1327	332	834	670	614	417	404	434	239	681	896	841	696	1271	451	853	748	101	702	1134	1224	1745	810	823	1356	1172	252	316	243	160	381	259	669	201	215	217	250	240	162	338	439
+xylitol	6145	17534	10665	11491	11317	15217	12837	18540	15793	8560	16090	3545	603	552	420	590	14682	10672	8124	15164	5090	6221	1727	2514	5483	5933	15840	2868	12771	7923	7751	10060	336	1377	1206	541	377	496	87	656	745	489	570	361	350	2337	305	946	448	541	733	465	904	1181	359	470	687	567	784	19286	13503	9946	9764	9995	8646	1106	3142	2846	2967	5994	5017	5687	4499	4441	4886	6651	5470	6566	6498	4557
+xanthosine	1352	4918	1686	3392	1850	1595	2119	2494	2526	1782	2163	189	99	40	54	91	2173	2561	1856	6046	468	413	141	206	393	387	3723	232	2291	700	1667	1491	87	176	160	118	94	79	88	141	141	155	152	102	76	142	138	184	125	159	126	94	170	148	56	142	149	110	171	2222	3157	1196	2482	1534	383	199	231	308	132	431	527	408	189	349	239	84	423	397	454	439
+xanthine	12702	25444	18419	18031	17426	13395	11370	15947	15086	14926	12912	11698	94	102	126	111	15977	24900	12744	24026	15670	15487	5926	8078	22832	17714	25896	8692	15810	26473	16369	17638	4603	18967	7434	5541	10662	79	64	7874	10749	8693	6099	3477	5680	4912	4623	13341	5510	4797	9035	3430	8253	9187	2482	7684	5528	5866	6617	23833	24276	16421	16201	16804	13274	4432	12236	12438	11615	15001	23723	14468	14104	12503	12502	11471	17738	13475	20890	16878
+valine	61472	132100	117490	139402	117579	102278	71072	103737	79208	69647	93354	187118	144809	110962	69818	163830	125962	203268	122246	120258	109277	153657	46361	47557	243801	185005	148026	54726	119301	222926	119196	89286	49930	76700	70599	43123	44516	143309	730	54470	75443	63740	46368	53524	40254	38647	40080	56274	26946	55622	59290	37747	67285	78908	35026	37268	51476	43562	53786	155190	153684	128929	88428	130293	156829	44240	115724	127085	105559	130843	216694	136075	155961	96841	79670	113251	161376	71786	114870	91294
+uridine	15250	26969	15273	16341	13990	19029	10905	16673	15488	21386	18496	12347	267	260	373	382	17591	19812	12181	19450	16320	19678	9112	10455	23526	22359	18259	11853	16211	28971	16148	11959	856	2585	1231	825	1354	285	220	1257	2412	2559	975	269	1357	8847	1082	2068	689	588	1252	545	1359	1542	567	1046	690	683	676	18054	23125	12292	23041	12054	22192	6924	16738	19568	21178	20674	21406	18462	17264	13593	14438	15861	25184	17882	21937	28487
+uric acid	357	598	717	644	377	230	311	325	454	178	374	1353	16649	11954	11848	18213	551	783	1303	883	2858	1992	886	865	2361	2229	313	1771	503	4358	421	515	1599	6684	4954	1133	1814	17386	85	5521	10805	4858	1693	1564	1779	520	1224	5829	1489	2118	2591	1698	5152	16021	1116	1974	5281	2109	4915	555	704	557	640	569	3237	600	1860	2012	2059	6215	2830	6545	1823	3998	3257	2151	3124	6560	3457	3466
+urea	188914	245219	284244	204081	186368	180197	170802	145417	160719	184196	294427	372830	243291	167743	164729	86778	185869	369131	218211	251515	246552	487272	261328	171994	439716	46236	243213	366837	261724	518370	195862	156834	182936	313505	213607	139530	227672	271140	2053	290033	249397	150411	142987	208891	156154	117393	187532	187275	119304	214388	255447	199286	205153	327821	179265	233841	225213	162756	147338	282031	267400	197471	242438	204282	355262	106815	228987	370475	337372	375914	380842	432957	326709	305671	378713	353735	411022	646070	360903	292295
+uracil	1802	6892	3762	5198	5772	4298	2472	4124	1763	4095	1397	34055	101	97	95	135	3675	4831	4011	5060	28333	31571	15012	15453	38073	34466	6924	23695	3158	39321	2625	4530	5855	22177	12257	7189	8843	91	83	10191	14704	8794	6186	4327	7852	15198	6304	17428	2382	7223	12095	4422	13786	18223	4063	8452	7425	5732	9833	6192	6855	4113	1696	8129	26466	7510	20720	21908	17981	27488	37766	26393	29408	18955	17763	20159	26218	18334	27758	21896
+UDP-N-acetylglucosamine	1057	744	1386	1664	751	769	946	782	654	1115	1100	62	60	47	57	125	1299	1710	1323	1184	138	112	159	37	96	141	1201	195	1174	190	930	1046	161	429	387	268	155	51	124	418	588	165	140	184	138	104	183	441	229	280	283	184	481	707	162	240	326	159	319	1317	1020	1332	769	656	157	73	118	127	199	150	99	147	106	218	206	150	92	194	70	106
+UDP-glucuronic acid	2563	3101	3999	3649	1314	2230	1352	1996	1274	3825	3009	2015	278	252	205	322	2920	3490	2383	2979	5878	3238	1560	2353	7734	5160	2766	2553	1153	2498	1174	1333	346	1182	676	347	441	262	66	457	941	656	547	267	317	1953	145	618	387	497	475	293	506	882	266	396	389	260	810	3604	4270	1558	2781	1656	5517	1010	4169	1807	3982	5348	4854	4351	2157	4987	3974	4298	3625	5403	6430	8411
+UDP GlcNAc	605	559	894	868	526	594	538	482	446	442	788	35	66	64	24	48	517	1016	699	724	396	251	117	178	420	367	891	205	322	553	497	560	127	369	174	122	136	32	124	264	392	166	87	107	107	105	50	23	101	153	114	107	324	431	112	181	161	117	259	778	705	805	699	565	503	116	321	373	100	459	496	458	291	254	269	331	384	450	317	484
+tyrosine	17285	23847	23074	39000	27621	19537	19035	22929	22636	16814	18728	54720	35999	30116	21809	41853	21560	57271	22156	31324	44587	46819	17297	23730	79146	62278	35338	29871	27044	90451	28991	16490	8718	24297	17044	7263	7215	35404	179	11079	14754	10358	8467	8494	7642	13426	5756	10470	7403	10025	9786	7928	10830	18570	5571	8331	11439	7772	16543	35539	39179	26327	20079	29672	66472	12225	34390	48782	38264	86163	78736	80203	44145	38589	48044	43757	56045	77049	62317	43285
+tryptophan	8996	13124	13609	16132	12676	10226	7899	11615	12166	10544	11227	17035	43783	38074	31574	48689	11811	18940	9728	16335	15639	15931	4893	7248	30036	22405	22432	9440	11700	32751	12649	10093	7135	12066	13068	5632	5869	41666	142	7567	7614	8655	5536	9116	6128	3886	4964	6504	6075	8303	5236	6154	5636	11858	5160	5613	8043	5777	9962	15812	18590	10900	11404	12999	24299	3842	12544	14195	12457	21551	31211	20864	15107	12343	16348	16649	21618	14604	20651	15773
+trans-4-hydroxyproline	136	198	256	152	126	151	158	172	137	205	156	373	1248	726	433	808	129	259	135	131	453	666	170	131	517	296	221	196	219	603	121	153	133	323	189	166	338	876	170	194	235	227	154	178	138	131	137	243	131	183	234	169	185	281	153	202	190	215	215	220	162	156	139	149	279	149	261	268	347	289	441	291	348	224	255	169	179	300	327	251
+tocopherol gamma	157	177	269	121	152	92	131	165	141	115	81	103	799	652	746	910	337	205	193	192	188	85	149	93	1083	104	206	137	113	261	130	255	107	167	108	107	91	848	117	124	90	107	85	102	90	157	110	147	99	94	135	142	131	139	130	174	98	124	163	285	162	179	146	143	300	103	265	147	197	178	421	262	163	248	259	410	189	225	550	184
+tocopherol alpha	9203	4810	11805	5689	14319	18376	18118	26369	20437	18181	20281	318	3208	2706	3131	3627	12724	4879	5680	5824	1726	1046	734	335	2475	1851	28330	861	3749	1018	7224	14864	572	3171	1500	1560	1157	2682	70	1846	1488	544	957	972	389	670	424	2688	966	1251	1348	698	735	3090	407	926	1248	745	1589	14126	7071	10039	4459	6346	1574	1258	2343	1465	1947	1601	1602	999	1280	1995	2775	4011	2089	1588	1580	920
+thymidine	202	255	256	279	237	258	248	264	184	181	254	271	200	167	124	200	222	288	226	280	298	269	264	175	298	234	319	258	232	286	186	179	241	43	654	473	739	166	166	300	246	229	502	501	199	211	272	541	220	585	433	275	437	485	346	364	341	515	417	266	409	269	307	275	141	221	218	250	242	333	222	413	226	252	250	291	298	366	253	247
+threonine	17634	35741	31667	27975	27078	24886	19066	21688	20910	18920	22794	69911	29287	17436	18082	31125	27963	53881	24936	32874	38890	58779	15850	19378	90067	62172	35421	23408	25369	79215	22493	17739	16112	38762	25220	13551	16367	30188	13070	18319	27332	15215	18908	15712	12162	16092	12063	25427	10598	19392	21410	13787	24757	29602	10865	15238	15955	15646	20301	38635	40331	30537	23987	26200	47857	17250	38095	44383	43076	49779	71251	49285	53999	33624	34545	39141	52179	29007	44359	35752
+threonic acid	755	773	1002	833	603	584	659	1216	542	581	811	743	1941	1597	1187	1695	845	1029	1207	588	911	1189	348	381	1171	845	836	539	496	1188	463	509	8283	4608	9975	6028	6724	2236	153	5788	2390	4126	5267	4210	4480	472	3231	4980	4970	6363	7066	7863	7401	3826	5499	4587	8736	4798	7025	737	835	891	864	490	1401	367	812	652	674	1195	945	669	707	809	852	1048	1221	1033	1497	930
+threitol	107	7658	160	122	3657	106	266	193	80	75	148	154	517	397	376	365	141	125	96	7053	106	114	119	91	149	173	113	193	4679	184	96	92	149	178	127	361	76	492	78	91	127	80	69	86	104	115	99	106	72	96	67	167	130	139	107	115	165	112	114	226	84	121	101	104	244	99	133	112	158	390	203	398	977	177	277	183	159	479	199	108
+taurine	288364	402366	140495	413922	606675	597015	562262	546029	475911	349934	445882	136709	3327	2404	506	2072	146961	301103	512544	133590	248715	59552	76544	145285	150933	239866	306971	109699	421526	79452	427595	369405	73407	183198	182915	101605	32724	761	149	117191	260015	155556	110757	68489	64811	74641	78972	216565	90712	106694	185058	72437	343524	140277	25361	107297	81436	33310	189810	207472	266384	277198	258354	353239	263513	51155	62718	78139	166088	205184	157705	158955	163161	114598	118015	93276	328042	279020	252086	525511
+tartaric acid	224	200	68	71	76	110	55	51	53	60	74	202	66	686	56	71	154	58	65	31	174	157	66	259	2132	115	85	355	316	177	130	57	115	100	58	131	173	212	62	43	54	161	265	512	53	207	187	79	187	303	380	123	113	75	36	62	145	218	143	79	96	158	78	167	3421	499	260	601	4639	7147	61	16388	95	474	2901	89	1339	10049	100	124
+sulfuric acid	2056	3189	378	653	2856	5373	2227	3316	5554	1537	1106	387	119	87	87	71	306	769	2872	305	410	378	110	622	144	144	953	379	6311	113	21240	23256	1188	394	894	416	840	92	85	3220	6175	12117	1016	771	5239	428	2074	594	618	4158	1942	370	2203	304	989	771	2018	1499	952	1517	828	1389	205	24755	702	1251	127	380	160	952	118	1250	1650	333	220	387	503	2899	483	3118
+sucrose	4556	5831	1470	2382	61	82	136	264	233	121	80	57	389	124	20	153	257	427	121	130	36	71	79	150	173	279	5008	87	135	114	353	305	218	153	190	27	229	175	171	228	96	54	129	40	63	72	195	144	161	1268	22752	229	157	68	168	64	250	138	80	135	214	152	94	160	332	105	540	1759	14117	1355	342	1836	234	67	477	436	215	786	261	215
+succinic acid	214	635	648	426	350	841	669	398	369	298	688	382	1873	1436	1399	2179	369	384	264	315	32	288	193	258	660	852	305	18	479	358	369	883	526	352	873	390	111	1825	526	163	255	282	247	1227	323	590	341	689	242	788	197	823	300	593	1583	422	555	551	527	745	273	499	608	231	454	150	248	371	693	435	1187	703	409	154	449	240	516	455	372	377
+succinate semialdehyde	135	666	612	679	645	1545	517	639	1130	767	689	573	405	204	506	539	342	642	230	376	444	615	432	242	602	674	1106	303	420	879	744	350	574	1065	531	510	362	350	392	689	512	349	479	463	343	325	369	567	596	461	688	279	294	1167	334	368	417	394	416	563	416	437	312	454	385	362	331	495	436	407	420	402	628	458	494	397	371	301	357	400
+stearic acid	215503	353762	227040	288245	182384	209860	153482	163328	151656	187149	210560	147232	211733	134873	162885	325315	218044	298392	233398	241806	130634	131047	163636	111173	222975	216943	251391	143653	164875	227673	136597	142282	239933	316478	229923	129550	151437	223375	221840	240125	324542	141733	135992	113888	233390	154536	166019	253921	238814	133612	206313	231012	209387	276124	236634	245388	205800	137641	133990	260740	371271	185651	253740	155455	154087	170226	157634	181278	227264	232644	244973	173041	208764	185051	253664	267411	199847	164730	152703	122500
+squalene	1196	941	2726	916	563	238	401	562	829	588	617	508	152	489	523	811	1237	833	2379	1012	685	184	154	153	395	229	1281	165	1433	45	1472	567	1293	311	266	270	304	319	602	317	242	179	287	235	127	353	334	218	258	211	261	120	140	436	195	590	266	148	276	2341	1372	1039	726	418	316	170	383	322	230	290	808	254	204	698	138	290	354	284	441	257
+spermidine	217	296	368	385	231	245	500	461	368	176	348	408	85	131	93	121	233	459	249	478	179	248	116	103	306	214	549	134	529	192	532	318	749	110	362	321	242	110	72	159	205	376	286	1030	249	124	111	196	15	353	155	635	87	236	573	131	479	470	273	488	2303	763	428	605	176	69	175	147	151	303	367	198	232	206	184	140	243	341	369	189
+sorbitol	19145	43221	23968	28612	21785	10807	12867	16737	22606	22389	22279	9631	1930	1268	816	3330	20664	23709	11075	38157	7782	12761	3778	5150	11284	9501	24032	5434	23737	19138	13894	27217	1113	1211	1322	479	838	1697	296	372	729	982	836	1338	816	2084	608	357	931	383	961	426	1287	966	625	592	1491	1426	1191	28755	20732	13451	20957	9587	17979	6282	3986	11444	21185	60931	20597	18382	14895	13288	16011	26443	7570	31099	16007	6199
+shikimic acid	2379	2255	15194	1548	1493	1555	501	433	427	3481	4703	674	308	1986	703	506	6902	2536	2321	3654	436	413	296	561	617	2569	6050	451	2482	1512	805	424	143	301	192	286	207	332	110	199	342	170	154	192	169	292	181	242	221	136	125	274	265	344	405	242	318	157	187	2113	9413	1006	1623	1281	1253	287	897	649	1333	1319	2311	4673	1608	876	701	909	920	769	1158	542
+serine	28360	44094	52992	40491	35062	39921	33439	34873	32102	28576	39697	164608	27151	16114	12774	29308	35733	86040	29286	45415	90852	139355	39280	45475	235857	141635	51302	58201	37000	192813	32629	27104	28483	78903	57566	29311	32968	27292	592	38270	55532	28418	36107	28012	26068	38372	25365	48779	20737	35330	32936	25978	44493	64787	21802	33866	32604	29592	32867	64665	57528	42381	33895	44714	97198	37944	99389	107096	99138	122431	181442	109556	129116	82340	78023	89887	124535	80445	101484	80659
+sebacic acid, di(2-octyl) ester	1310	1261	1273	1195	1082	1061	1124	987	1320	1333	1121	924	1019	952	1150	1090	1103	1143	1013	1174	1129	1051	1096	1022	1232	1099	1299	1252	1169	1256	1125	1137	895	1211	907	1108	1055	975	1030	1221	1084	1054	1039	1065	963	946	1065	1015	1102	951	1008	963	943	1112	818	1238	1128	969	1124	1367	1556	1328	1281	1180	1014	972	1000	1050	1145	1149	1099	1115	879	1248	1336	1247	1152	1137	1006	1274
+ribulose-5-phosphate	380	291	408	687	198	161	433	330	553	404	491	71	81	128	60	41	383	360	182	432	124	89	150	180	614	158	530	215	444	183	291	394	1309	1076	1223	822	1067	68	60	957	371	817	1047	834	949	122	1405	1135	1477	1340	809	1120	1221	707	528	1121	855	1149	979	347	269	269	387	193	127	130	171	216	257	257	166	140	121	404	265	277	251	333	226	171
+ribose-5-phosphate	756	563	189	1257	234	170	423	270	637	437	594	693	104	91	111	100	596	1524	797	263	501	580	311	296	1189	657	787	392	610	761	650	596	613	497	487	694	461	85	63	855	706	944	558	941	503	317	466	412	646	717	263	857	467	578	413	406	511	435	501	801	382	465	779	453	912	180	387	555	725	657	864	486	592	608	616	429	701	739	847	846
+ribose	19300	44134	31707	33486	31537	49166	36341	42559	29733	28348	22215	35335	212	153	155	231	23532	45512	17449	48014	39528	53721	9942	20201	61702	37008	48883	16011	45550	61834	31002	34062	790	2061	1132	2258	1773	173	83	1082	1475	2359	1001	538	983	12534	742	1217	695	848	1476	565	1038	878	424	1191	678	1070	1436	47052	38182	45013	23263	46230	33096	11720	27712	29749	30465	31055	58453	42540	49845	22443	20806	30525	37001	30708	47036	39695
+ribonic acid	3116	7382	4516	5928	2812	5882	2748	4603	1935	5380	3897	503	142	265	89	342	4331	7671	3511	5103	250	173	250	499	632	563	8868	304	3326	650	2121	1677	92	307	178	154	75	128	90	269	885	180	147	144	156	252	150	199	112	188	152	130	357	764	133	159	130	79	186	4664	7698	2118	3932	4462	298	132	239	746	762	673	818	202	440	505	405	488	472	589	637	223
+ribitol	4469	12137	4905	5762	9223	5362	5617	6988	4645	6185	3983	19159	267	340	250	265	4694	9086	2601	8972	36518	33022	7187	12671	31589	32760	10241	9707	5452	43602	5946	6657	679	608	370	786	940	291	65	384	381	1513	1280	808	262	9016	631	474	669	1578	1508	902	465	420	565	911	1094	281	1823	8448	7164	7221	5348	7365	20323	6587	18666	19415	18769	17057	41101	23375	26694	13432	12851	16205	35395	15528	34704	23420
+raffinose	4219	25255	16578	19643	18093	23286	21665	13574	4536	3511	11867	58	62	71	57	77	11372	29065	1825	16135	75	56	52	73	74	96	36671	85	26721	69	3173	2440	86	73	69	446	89	59	64	130	85	95	215	82	80	90	95	47	94	68	95	72	44	190	76	86	100	102	113	14585	28764	13999	14271	14052	60	54	57	65	74	90	62	61	48	71	68	72	76	63	45	45
+pyruvic acid	2741	2359	2969	2397	2956	2568	5450	5468	4940	1876	3163	6684	674	451	649	618	1997	6216	2354	3267	12936	8814	5984	3300	19095	8916	1447	8332	3470	21035	5494	2669	1634	172	1415	1526	1046	576	628	1906	1560	1095	2060	218	800	5047	89	1086	864	1659	1342	1055	845	706	1089	908	943	1019	1455	2068	1364	5932	3428	2181	5211	1723	4838	7456	8166	2610	10626	5479	3595	6678	8629	4610	7523	7457	12490	10055
+pyrophosphate	31910	24633	58419	54629	26441	29292	38294	29435	28490	29559	58105	5094	2596	1127	1329	2631	40820	56634	54248	46790	11732	19539	13238	3891	16075	12360	40138	17268	47214	19602	28262	23098	7184	14482	15701	6004	2728	2042	928	7478	17738	5194	4382	6088	3979	12261	4644	17072	4339	5331	8200	6911	17011	32288	5689	3475	8531	3866	10130	40183	24749	46652	43009	14440	15648	3832	13795	10569	17524	13581	10047	16982	7005	25246	21996	10520	14767	16568	15524	15852
+putrescine	466	571	724	485	601	2517	1204	1756	608	495	1273	689	178	146	99	215	868	823	979	724	1703	999	275	502	941	1255	578	354	327	1112	767	1191	224	439	601	298	151	186	70	316	807	778	350	449	159	315	309	506	447	302	306	497	311	435	180	226	139	102	629	1605	570	2064	632	1946	1558	390	1564	553	591	2133	2232	992	2201	812	1010	897	639	1631	1517	1209
+p-tolyl glucuronide	97	139	107	161	114	179	131	107	71	131	119	247	1766	80	1163	1469	130	189	95	202	214	276	144	119	252	302	156	616	200	157	146	115	59	64	149	90	96	90	53	77	112	110	109	75	79	144	77	94	80	58	99	74	94	108	90	107	119	80	94	99	121	105	139	160	3392	77	161	338	101	1560	274	3382	445	397	1115	240	310	63	176	238
+pseudo uridine	349	391	598	425	446	482	299	529	418	474	374	929	1117	775	1064	1402	418	922	389	500	877	1030	313	471	964	744	623	1983	457	1529	493	511	436	776	429	381	445	1295	77	502	627	436	355	314	418	314	313	596	433	502	352	409	450	625	399	447	620	458	607	492	587	412	526	310	4853	228	593	659	634	7645	1220	4130	1225	1339	2532	1713	1348	7403	1059	1019
+propane-1,3-diol NIST	1222	1966	1353	1436	1339	1613	1482	1908	1436	1138	1724	959	1055	970	1208	1201	1328	2290	1141	1239	1268	1203	992	988	1463	1066	1868	1619	1107	1392	1226	1255	1025	1459	1021	1008	971	1162	772	1273	1087	926	1163	1047	910	930	986	944	863	961	989	997	1031	1130	947	1160	983	1159	1033	1066	1294	1206	1572	1035	1177	430	1058	1048	1185	982	1134	1091	1011	1191	1498	1205	1071	1079	1233	1050
+proline	26025	67914	47941	69532	54754	40226	32573	38436	32381	24484	32459	230034	154046	90369	57526	132522	50592	129199	46394	60562	87733	144472	44058	64567	297861	206889	89609	35876	38255	254513	26776	21218	18456	55843	53017	27983	25640	100220	2853	29691	45233	28358	24278	22744	17474	29991	21395	49555	14910	30521	38786	15924	38240	62209	9226	23108	25249	20066	35487	47998	81628	46254	48130	49367	137807	36165	106251	104449	85303	132492	214881	121902	148024	85856	59081	100491	135321	40928	88584	59131
+pipecolinic acid	143	283	272	552	456	438	425	309	233	150	279	402	974	587	299	714	361	478	398	248	265	260	266	128	387	520	652	276	225	372	161	153	177	258	196	267	261	685	129	189	351	312	143	169	252	153	217	273	107	223	130	202	226	341	143	152	234	138	313	502	464	240	340	238	345	134	270	282	234	893	377	640	302	318	257	247	471	501	291	253
+phthalic acid	8402	22868	13877	15729	29066	20452	18215	24874	20499	12099	21126	5468	14042	13288	7810	11766	18836	13742	11624	18886	7589	9347	2747	3965	7847	8409	19595	4591	23729	10274	12025	14398	1363	2355	2791	180564	1313	11887	1707	1513	2097	895	1327	125292	1103	4306	1311	1635	985	1230	9263	887	2816	2464	848	969	2345	1402	1547	24953	16582	14392	13002	21180	15229	1776	5002	4627	4869	7991	6748	16828	6945	6489	6395	8785	7768	8881	9141	7045
+phosphogluconic acid	133	607	912	930	687	380	281	287	435	1092	496	790	2687	2264	1839	2616	693	1073	809	1016	1305	1615	497	709	2451	1411	1427	660	825	2087	453	671	397	588	815	442	738	2543	88	851	1092	752	244	326	414	407	376	99	582	473	433	434	632	1186	349	488	451	219	770	492	844	470	742	1328	305	402	921	731	152	1324	1849	1632	1002	989	1039	1059	385	1338	226	1541
+phosphoethanolamine	1376	445	1381	2025	446	1162	1158	1470	1014	1449	2475	5649	85	97	112	253	887	1712	1288	1165	5638	5767	4306	3610	4416	13006	1258	2085	1029	6407	1314	833	4620	4533	6858	2460	1767	154	676	1311	8351	5648	2516	1806	4061	1226	978	15807	5088	1846	3716	3668	15013	14036	2364	826	2548	2179	2004	2896	355	1926	1249	1227	6230	790	3869	3808	13391	15260	13915	5240	7278	4635	4665	2612	9855	13139	12925	9984
+phosphoenolpyruvate	1319	970	1640	2130	1713	3860	3854	4225	2044	1907	2906	4510	402	288	116	124	1173	1962	217	1658	7845	11590	1303	6383	12186	8034	2124	1563	1067	3365	1467	2688	6372	2241	10874	15423	11485	222	80	5812	1826	5088	10969	31281	2640	1574	2562	2556	12300	16817	3037	10778	1329	2293	7984	5088	4618	10889	7663	1549	1567	462	439	1322	8668	1744	10945	10512	8194	10840	15427	17265	5106	4736	4379	6525	9436	10593	11180	13086
+phosphate	148632	119715	125638	114021	102739	101153	94415	113833	171303	170556	117453	130841	28161	23344	27629	33415	112824	171072	109954	106398	176921	178617	66080	118990	266119	185887	149207	116367	100130	255390	173127	168104	42769	40819	75436	49581	51861	32170	862	50603	55848	36911	45315	46675	35234	63632	41895	81279	73996	45820	61081	49305	56483	99065	37469	50790	53579	42113	63624	130357	134507	110769	101933	108280	167668	40138	142056	124049	153528	184453	245632	187915	137537	143055	144879	133256	192428	301464	344413	269451
+phenylethylamine	2180	1665	3834	1470	4558	946	1789	1933	2419	1345	1267	5010	256	117	215	266	4461	5560	3716	3238	6294	3170	2392	2266	8681	6678	3834	2554	2028	5688	3935	4023	274	6266	4612	2402	2664	195	156	3585	407	299	1877	1042	389	3056	344	2910	1683	2525	2406	801	819	5492	566	1439	1289	1399	3120	3415	5984	5277	2647	2446	9277	385	2641	2032	4945	4692	5678	6826	5096	3265	3501	3641	5172	5418	9388	4856
+phenylalanine	10835	22359	21686	20094	23402	22235	18559	23734	16600	14114	15502	40521	21556	17057	10720	16125	16179	34210	19890	20777	30360	40912	8619	13636	60273	33552	28905	11052	24698	48048	18209	17800	9082	18230	15091	9847	10586	17010	147	10425	13769	13627	9453	10118	7869	11163	6095	10752	6496	10700	11692	7721	12904	16540	5506	7400	8531	10494	14707	26735	23903	23516	14623	33443	38409	8905	23475	26567	21230	21308	46505	32821	34902	20631	15046	22525	29938	14727	28084	25124
+phenaceturic acid	38024	32959	32475	33564	35083	35546	35789	35491	37555	38428	34951	4027	2494	27993	1510	1585	32751	34464	34365	32729	4178	5338	984	1894	6229	4720	32987	1665	34993	6444	37842	37593	1517	1930	2315	1396	1258	28551	121	1301	1868	2727	2003	2183	964	1033	758	1603	1378	3504	1288	1591	1835	2038	1158	1262	1585	3216	4691	33835	33225	35766	33837	34977	14778	1317	4157	3266	3555	8026	6782	9458	4629	3215	3316	3688	5419	10163	5995	5387
+pentono-1,4-lactone	2911	2957	3782	3481	1295	3157	1666	2685	1412	4114	3303	250	1517	1699	156	156	2912	3256	2588	3120	256	172	162	206	361	357	2783	279	1488	336	1085	1186	163	254	1517	152	180	1585	158	227	384	329	1925	1715	179	241	229	136	1451	303	1570	1564	349	630	1678	1703	232	1737	2140	2776	4127	2117	2914	1847	373	101	157	390	280	382	351	153	217	271	255	349	258	447	355	320
+pelargonic acid	11261	13573	14345	14940	12394	12201	12863	14783	10797	9847	14691	14112	26959	15073	13658	24194	12929	23374	16076	17865	13591	16231	14300	9380	17134	16475	15783	17339	19244	14438	9209	8241	18553	18709	15914	14759	13281	21039	13275	23804	18038	15073	14047	15638	14065	13221	13961	19703	10891	10153	10251	20628	17683	14417	16695	20912	12427	20813	13224	17951	16975	12950	15750	13295	14968	13194	14190	18262	16351	14647	10570	12773	19199	15753	23903	16450	15351	12360	8726	10395
+parabanic acid	276	252	315	586	443	373	484	680	403	285	367	1035	690	784	785	835	225	533	565	318	593	536	243	422	353	588	326	243	544	519	711	434	417	280	741	324	330	1867	305	233	567	575	408	339	352	655	164	449	406	374	319	565	659	358	522	177	291	355	578	363	329	714	247	578	838	409	282	440	516	733	621	813	1115	327	439	280	663	1052	873	627
+pantothenic acid	163	225	262	416	347	395	215	282	80	89	369	506	55	79	81	67	238	393	113	416	528	572	180	153	934	512	513	240	176	994	284	362	131	256	109	106	105	73	55	168	256	141	61	128	108	232	112	181	70	116	116	189	175	215	125	156	185	123	133	84	512	61	256	319	231	266	151	474	336	469	711	536	548	349	407	335	531	418	533	416
+palmitoleic acid	22432	21088	19832	22366	60747	62176	40961	37298	51833	49611	66740	10101	1264	812	1391	1603	16692	15623	11913	9551	13030	11548	7744	4921	10164	15666	50774	6684	19940	11030	15390	10754	667	3809	1739	3677	4943	1836	93	3514	8602	1781	2620	583	3965	6116	1612	2177	864	1012	941	1310	1775	2077	897	1584	306	713	1219	18631	23833	13133	14575	15807	6758	4638	5278	5675	4415	3086	2826	1310	10000	3704	3772	5099	5419	362	3795	2898
+palmitic acid	104224	127234	93821	101954	127880	197134	93655	101013	120151	92290	114098	35729	32378	25607	27137	49082	107293	129309	79032	103357	36193	38831	32415	23346	48890	45836	123958	35093	81577	57064	83336	85652	35492	60914	37685	24982	30501	35969	27212	41147	54683	26772	25030	19794	34828	29187	29020	45507	33435	22748	34153	34269	35367	46782	34915	40461	33942	23118	24730	126396	180683	98276	95432	83370	39844	35689	39647	37983	41034	43985	45630	32724	54131	38191	45922	51806	43729	33279	42274	31894
+oxoproline	330032	302785	394281	302683	371914	548600	547587	508944	381609	309696	380223	216839	72517	60100	42367	55533	311491	355425	347436	361299	209855	252615	53990	97271	302775	179524	376026	77642	416842	215413	387600	483372	129406	221768	244817	160246	197983	77261	1218	167670	193733	140357	152325	128948	126604	87543	84401	194772	99633	147914	188007	142694	220594	211033	106973	114030	150991	142752	182495	379880	331522	587324	315236	370489	185493	83596	118627	134948	120954	152281	188814	220175	217805	125874	107943	100232	132376	122106	183748	168968
+oxalic acid	230	270	256	524	262	331	239	293	35	389	123	194	3741	3092	5761	3331	193	324	333	306	407	223	156	301	467	743	227	369	238	658	176	147	992	3250	1856	1201	1873	8262	771	1183	1207	394	961	638	253	928	530	2376	1208	1204	777	895	1736	2110	634	656	34	1274	653	378	356	283	270	574	320	382	680	311	480	638	770	53	492	254	791	360	1173	755	924	467
+orotic acid	378	171	124	165	293	778	483	816	466	460	527	111	92	72	83	94	612	2082	209	278	162	110	70	129	152	119	325	173	126	123	309	403	208	266	286	221	273	79	83	307	437	339	259	202	205	89	316	237	164	355	252	209	319	247	203	200	277	260	451	434	520	597	318	207	3956	111	87	140	82	620	159	1125	118	187	283	139	99	943	122	134
+ornithine	7526	7074	14415	10429	11161	15913	10941	16201	11409	8377	9696	3713	3707	2890	2395	3369	8988	11645	10747	11195	3860	3778	1154	1590	6761	3694	13806	1543	10824	3913	11022	11202	755	1805	2320	1245	1072	3619	225	1041	1430	1951	1275	2183	571	1262	625	1361	895	1328	1434	1205	1339	2085	614	800	970	993	1827	13868	11065	15427	6695	16454	4425	1066	2681	2205	2177	3220	4743	4360	2857	2255	2176	2190	3361	1983	4103	3052
+oleic acid	37667	35866	37436	27157	52083	86988	41893	41245	56985	34640	52636	5075	2825	2699	2931	3481	31632	35241	29881	24751	6047	6648	3733	2532	5796	7382	42856	3757	33724	7659	31813	28414	1111	8495	2948	2866	3618	3270	246	2962	5858	2573	2209	1570	1933	3137	2008	4564	1759	1592	2450	1666	2287	4079	1461	3139	2117	1693	1902	47683	56952	32735	31865	38134	9785	8723	8860	5544	5211	6239	3782	2391	13031	5529	6679	10274	7323	3145	6631	4635
+octanol	906	856	938	924	888	855	788	902	800	839	981	650	756	800	675	774	764	1084	711	885	858	907	615	827	1048	736	877	916	834	1016	950	892	693	846	678	647	681	711	556	730	745	698	709	775	693	609	540	567	647	706	827	651	713	762	588	758	766	697	644	636	676	923	808	814	834	622	295	756	676	632	850	748	660	557	829	847	793	899	900	861
+octadecanol	179	342	435	366	199	209	277	248	197	181	199	265	221	206	132	270	452	303	280	482	269	214	172	136	422	264	144	248	204	288	166	237	221	313	312	162	230	256	384	126	193	204	266	205	260	268	352	179	197	237	224	266	195	408	232	98	436	171	222	258	411	232	203	266	259	352	354	400	185	271	235	278	258	371	313	325	266	203	166	211
+nonadecanoic acid	1053	2427	1106	2020	1193	1827	913	1329	1171	1721	1532	511	1682	1644	1416	1400	1155	2395	925	1315	478	452	556	376	891	952	2368	495	945	951	826	703	1119	1434	1067	414	515	1622	1297	1313	1440	527	468	406	996	613	863	1486	1175	339	503	1090	953	1454	1080	1273	1110	415	517	2123	2172	737	1596	990	389	601	1196	1267	1534	1377	649	421	1038	592	1541	788	843	873	617	455
+N-methylalanine	9206	4628	4116	5297	6167	16892	14931	12969	18403	8844	10278	7287	11491	13402	11200	9053	8644	5597	10399	3773	3617	3429	4849	5192	2107	2631	9972	2315	8240	3094	5142	11830	4911	2969	2498	8639	5884	10964	6289	2468	4462	7467	2607	6303	4081	3036	3770	1732	4174	2708	1125	3563	2103	2532	3469	727	2274	4122	2896	7285	9695	13213	9495	9185	9562	963	1980	1053	3116	3315	9740	5076	5344	2724	1426	1349	2096	6312	9399	8117
+nicotinic acid	404	583	426	412	372	300	230	367	232	465	451	521	3878	4569	7358	6688	564	865	549	248978	299	319	354	608	510	612	610	373	341	793	339	395	267	508	329	245	311	12315	226	394	414	187	224	173	311	466	248	356	275	191	251	266	418	656	2912	365	382	224	211	609	525	376	539	342	395	389	820	582	493	629	637	431	486	598	483	479	71578	583	11603	334
+nicotinamide	27412	57793	43642	48207	36784	45070	39790	39087	27458	29077	34578	40489	126	300	180	177	40202	79652	48026	52102	34552	36581	21259	16844	41820	31162	49545	30916	44755	43824	34428	27653	7642	14195	12247	9860	7833	190	43	8465	9595	7763	8606	7396	7596	24493	5474	9989	4465	8463	9250	7358	11791	15215	7013	5953	7267	6832	9557	51282	53393	42611	41643	35929	40044	12574	21034	28821	21815	22127	34611	22452	43506	22577	21548	23201	36747	18547	42463	24515
+N-acetylmannosamine	754	1331	693	856	808	1126	751	973	1222	1069	691	743	180	149	155	108	1129	1369	429	1484	712	771	323	427	1154	875	1514	366	914	1386	711	976	180	303	259	259	245	175	95	290	427	249	166	216	217	356	232	277	166	195	198	269	210	268	170	174	216	192	214	1415	1319	659	796	1049	552	319	628	515	629	790	1142	556	830	475	515	674	708	875	770	747
+N-acetylglutamate	810	927	1076	218	624	891	842	838	489	527	666	85	67	51	39	76	678	1558	940	730	121	105	58	86	88	59	1116	62	582	102	867	853	66	66	79	93	69	91	241	67	59	88	67	193	72	143	84	83	79	92	57	64	88	69	85	102	53	60	82	2326	1394	558	675	612	103	69	91	86	99	189	122	291	81	105	136	86	107	222	103	124
+n-acetyl-d-hexosamine	4082	6479	4497	7514	3553	4098	3065	2927	2662	6154	3807	1784	79	154	106	140	2736	6051	3998	4546	1646	1740	491	1098	3788	2374	5882	976	4704	3173	6439	3369	124	206	183	182	215	127	101	225	221	246	115	146	131	538	94	129	145	142	160	163	139	156	139	161	165	191	160	3716	5311	3360	4818	2706	1979	560	1853	1776	1845	2302	3614	1492	2173	1472	1593	2170	3438	2145	3535	2877
+myristic acid	14754	16967	15331	15125	18305	23039	16633	13854	18134	14609	17834	12420	13952	6992	10251	17399	13789	14497	13861	14922	12240	12075	10613	6872	12742	16149	14549	10735	11345	15835	11404	8713	11358	26192	10920	6340	6581	11032	9397	12099	14944	5979	6639	5745	9730	10341	18468	13214	8718	6351	8937	21960	11513	15477	13194	12278	19303	6108	6195	17129	20374	10972	15452	10109	10338	8775	10677	13626	11921	16798	11474	7686	13752	11682	12093	11865	10855	8682	11141	9160
+methyltetrahydrophenanthrenone	572	1298	676	680	527	912	860	903	307	339	618	811	480	591	309	643	540	430	1075	646	1372	411	735	426	1644	580	532	1133	522	460	381	598	476	503	587	411	916	291	367	705	613	880	1013	489	584	768	573	438	426	1127	1024	720	321	714	651	846	816	826	877	789	1160	1307	730	304	1249	707	481	567	589	527	523	632	749	703	462	1028	802	605	273	927
+methionine sulfoxide	461	544	643	624	683	1591	1007	703	631	467	370	802	1715	1370	1253	2289	473	564	660	533	1495	795	443	539	1212	764	459	484	601	887	658	838	507	1175	825	540	838	1719	235	835	1153	967	1234	860	508	436	439	881	489	1749	876	601	978	1309	568	378	696	1111	1786	521	635	1660	497	616	2463	346	626	451	657	706	976	697	759	578	601	716	642	666	805	1017
+methionine	6226	11427	9812	11399	14888	12690	10398	12581	8105	7514	7343	47135	3311	2778	720	973	8525	19616	11812	11426	29292	36444	7648	12135	48819	34270	16797	9541	13511	41021	9961	7949	5188	10871	10223	5355	5681	2590	98	5296	9929	7967	6248	5139	4221	9178	2991	6841	3197	5890	7266	3547	9630	10618	2712	3466	4140	4289	7995	13730	14584	12570	7482	16651	37477	9481	21131	22504	18037	24231	41581	35382	39208	18343	14866	18923	28009	16521	28258	22105
+methanolphosphate	3700	1381	2689	2681	1854	832	2380	2434	3211	3994	3612	1230	1969	1102	1690	3552	3070	4556	1821	3393	2933	1422	4242	2418	4038	6768	2960	2636	1359	2536	3349	3152	1403	3138	2478	2009	974	1076	762	1811	2087	2189	1702	1876	1210	2168	920	5577	4413	2160	1591	1812	1228	2897	560	1464	912	1993	3212	7357	1877	2126	3542	2519	2298	524	2982	810	5611	5925	5017	2165	2047	2982	4283	2527	5444	7220	6338	4689
+melibiose	879	896	1182	927	1154	1345	1120	1137	1362	868	1220	184	54	78	72	38	854	561	783	586	78	87	38	45	58	44	1607	55	1359	89	525	958	30	48	95	62	60	69	54	71	73	53	73	63	62	69	57	58	76	48	46	49	72	61	62	66	67	68	56	219	913	1000	724	538	97	82	96	70	68	105	76	91	52	55	85	78	92	112	67	113
+melezitose	723	227	299	624	214	881	588	669	955	1023	307	58	80	69	73	73	273	449	130	309	62	67	46	46	72	75	352	80	325	52	400	254	55	60	54	61	94	65	67	51	73	71	71	73	70	54	46	62	47	56	48	43	91	197	63	85	54	118	72	438	128	341	482	65	67	62	64	56	69	68	75	63	60	57	57	58	39	62	72	64
+mannose	104897	121303	163964	167536	91192	132771	97918	114697	84299	156021	114900	13912	12224	9535	9342	14390	78585	149096	59193	86066	12838	17507	3927	6427	28178	19979	158753	5271	127963	22885	99729	105523	3352	4518	3608	4499	2760	13603	68	3285	2000	2990	1618	3613	2218	3707	1549	3149	4257	4156	1188	2894	2713	3326	3602	3150	3962	3116	4071	99804	141766	105671	80933	40387	14172	3918	10910	11776	10103	15563	22743	10186	13101	9721	9766	12256	17641	10988	20268	16368
+maltotriose	47322	40068	23548	50409	15525	55926	51254	35519	65849	54807	27254	120	145	116	104	160	15949	27179	4762	27499	149	117	139	154	93	155	23954	123	19024	139	36528	39001	159	193	132	471	119	170	96	180	165	212	238	159	143	133	134	141	123	177	169	186	146	125	140	122	209	147	193	31198	18013	22017	26584	18133	106	146	150	111	148	166	128	160	111	138	144	109	106	173	157	161
+maltose	627314	913951	498321	763234	718226	1066409	866599	669848	1038664	685100	691027	562	355	574	282	1196	360305	631875	261574	645640	677	560	319	363	841	785	835080	448	677923	647	645886	649982	9745	7952	9173	11842	7048	622	371	8241	8851	12474	10183	7712	2285	348	5439	8121	7440	12855	14729	5380	10526	14066	3684	2938	13679	4342	15060	742507	637231	608801	509354	610153	849	1136	1276	538	1094	874	734	751	492	1322	981	788	681	1019	935	1687
+malic acid	5470	27728	18120	24307	12896	9942	5580	5803	6280	9921	6609	6038	463	727	281	457	11199	11907	10620	25421	5799	5845	1897	3388	13853	6995	17844	3155	16382	3635	5032	15629	5831	15189	11048	4859	7055	549	75	6076	8406	6443	7177	3001	4961	2336	4660	9064	4228	5552	10993	4353	10087	10289	3342	6322	5565	5519	8864	17189	12237	10422	10733	17813	9694	4702	4029	6401	4391	9094	11071	19341	12499	6283	5606	9708	10479	8528	7284	4242
+maleimide	669	734	1137	1016	747	711	710	837	950	727	702	2168	496	948	552	620	831	2223	660	1190	1862	2729	854	1659	6636	2913	1672	1999	916	6618	1035	1085	489	1483	757	518	491	1063	78	761	1076	237	1328	557	182	748	242	513	568	502	372	472	550	1136	547	621	675	358	479	1033	1235	1191	861	1383	3329	543	2445	2994	2455	3188	6618	5078	2612	3186	3324	3329	3937	3808	3946	4150
+maleic acid	102	90	114	108	76	91	68	81	100	87	63	196	145	116	110	112	86	188	85	113	109	173	71	125	260	158	117	38	81	259	73	123	130	94	164	81	61	99	203	115	84	66	73	63	41	77	75	70	81	114	91	145	61	75	115	63	73	89	47	37	249	127	116	86	93	64	104	109	130	121	192	122	179	62	53	81	121	54	93	83
+lyxitol	882	1598	1139	910	9234	944	5617	7026	779	934	665	1004	1167	1071	775	1189	1017	1230	662	747	36586	33350	435	12712	759	32794	940	818	1611	1490	1173	763	679	823	396	786	940	1086	65	1276	476	1513	1280	808	471	9020	631	1675	630	1578	1508	902	1809	386	565	911	1094	890	280	898	1195	7250	89	7443	20353	6731	734	870	944	2132	845	22613	26860	917	1279	1099	248	2035	34728	23411
+lysine	15617	18679	15197	33860	19884	10734	10506	11439	20274	17076	16294	21561	42733	37672	26904	58066	19228	36681	22539	18465	13569	12905	6132	10616	20563	22527	29602	7319	15800	26327	20778	13676	8179	8371	8719	5429	4814	49796	1552	5817	6564	12983	8291	8478	5396	4069	5023	6681	8431	9440	6145	7404	6167	6831	5684	4909	7329	6922	10019	33795	24677	17799	14791	20562	18707	5369	11093	14751	17465	33829	23635	22410	13525	15063	16048	13967	18071	31523	24192	15445
+linolenic acid	822	1488	8041	466	10842	17474	877	8645	11801	7650	10878	2668	2254	2128	2215	2588	9654	2124	6561	1117	2275	1674	2049	1127	2653	2362	9443	1670	7191	2924	6834	6230	792	2991	1356	696	874	2345	159	784	1302	673	708	615	691	1684	509	1723	900	852	1161	704	1281	1742	723	1512	1058	451	1098	1438	2740	7349	1764	8216	2338	3307	3430	2790	2907	3367	2780	1698	593	2861	3609	4014	4062	2602	5389	3252
+linoleic acid	8036	14849	9241	9598	5875	7687	5032	4358	5687	5234	7680	2851	2395	2261	2417	2770	9817	19205	8632	12915	2316	2895	2065	1027	2856	2544	7431	1584	7769	3061	7377	5835	740	3127	1372	471	1062	2452	132	671	767	743	386	589	610	1701	662	1932	780	799	1199	606	1259	1849	756	1397	1034	771	1130	13369	23607	9635	12307	9693	5227	3291	3700	2934	3106	3561	2748	1769	6836	2867	3747	4286	4389	2560	5667	3475
+levoglucosan	289	293	647	402	421	1051	755	643	325	365	459	104	626	578	430	631	274	577	271	233	82	118	142	66	313	102	645	147	729	158	227	429	169	520	229	224	290	609	115	1638	445	254	211	276	189	192	222	227	205	302	283	187	287	291	202	412	270	191	263	252	136	520	243	288	146	126	90	121	123	318	129	385	5325	117	250	199	133	246	112	116
+leucine	82378	172548	143551	192157	157678	144058	96216	116006	115236	95736	134782	244212	86755	54928	44801	92768	162679	269906	145677	174898	134431	213335	78824	86119	310288	241290	234241	75783	132751	292214	118585	94651	48021	88163	82258	51963	48895	85308	493	63332	97323	52799	51430	45640	47091	64412	44120	75062	32571	56951	56040	40048	85709	103105	34508	43975	61201	47787	54780	183928	199496	126252	122498	179728	199387	69050	173087	202091	136044	180078	271727	185844	216690	153248	109702	183042	216873	180949	258481	179847
+lauric acid	4517	4338	5523	4133	7724	12901	8745	7341	6879	4650	5690	5289	48374	6821	20926	23293	4590	7891	10408	7947	6046	10536	5484	2915	6332	20829	7090	6004	7160	4148	4114	3099	20122	33983	9020	9999	5071	7989	10356	19230	10015	6334	7239	9591	8659	8335	22319	21217	9006	7447	6505	34571	21465	27714	22833	21520	34384	8222	12148	9024	8532	6995	8125	15250	9255	6336	13606	17528	13218	26607	3815	11427	13644	5127	15837	8302	5269	5019	6136	5532
+lactose	17290	40964	33383	34115	9557	10549	1861	603	591	18937	29817	184	142	159	158	208	25782	11357	6979	38541	433	142	159	127	160	219	58201	172	11270	112	110	744	331	508	374	482	248	168	171	375	441	283	259	292	180	176	309	532	327	277	296	264	649	871	216	239	505	207	285	19324	29775	1807	11514	2454	236	168	207	154	195	188	133	248	175	225	216	184	156	165	147	139
+lactitol	2404	6757	2829	2616	3969	4452	2915	3545	3857	3206	2493	58	67	60	64	98	2092	3311	653	4255	96	154	80	98	104	84	6351	80	2390	144	3836	3879	96	129	70	162	195	70	102	142	123	169	79	169	94	83	111	137	173	311	210	46	171	163	104	136	265	124	255	4996	4832	3099	3021	4041	68	94	161	94	201	104	115	129	114	167	132	130	89	174	170	90
+lactic acid	230359	387512	406248	321080	275822	336659	320753	394942	326917	273142	323061	134829	163164	123861	136131	190974	295139	520152	268196	336125	296880	201607	84322	75687	204308	172652	421623	168420	311871	365521	306705	200846	70281	197799	123056	39729	37482	192038	1482	112862	83503	58206	95473	62063	49901	73635	60086	92761	57420	70726	112918	65541	66793	171457	59268	92338	82587	49536	106487	273319	303484	328830	331175	210841	244253	43207	119469	142529	151073	150254	219445	164061	135110	140922	218914	99562	134795	146117	282588	183079
+isothreonic acid	370	526	421	363	440	594	443	554	438	585	494	1766	973	811	650	865	433	397	581	479	2330	2435	431	1081	2466	2000	541	1054	454	2734	406	334	275	315	332	221	247	1135	91	223	279	264	219	282	295	1163	157	315	144	328	243	299	383	371	226	226	309	367	384	576	420	503	182	284	3386	481	1482	1753	1432	2661	2437	3150	2392	1690	1794	2069	2124	2943	2153	2112
+isomaltose	371	449	471	437	390	379	377	408	453	421	422	117	83	58	44	76	319	467	320	439	143	122	88	66	144	112	435	125	349	189	512	404	84	110	146	95	73	95	69	89	79	91	72	85	62	94	67	77	62	59	99	64	92	83	77	50	51	64	58	453	667	294	304	409	204	74	149	116	126	156	213	138	124	137	126	135	130	239	172	153
+isoleucine	41228	70758	68178	83170	59950	60563	42800	54497	55278	44850	59084	111913	48275	31902	39149	49839	77074	121240	74269	83391	66828	91922	28613	29567	125023	106045	86439	37416	51710	136391	56726	46612	24962	42034	35650	21575	21869	46360	1122	31293	37422	22262	25073	25777	19846	25731	19964	32675	16965	27545	31241	21391	36015	46021	19501	22056	28489	21369	31165	87814	98572	79800	52458	72620	90539	27846	67294	76772	62959	86366	122320	80743	94091	62521	53340	66419	97832	52016	77324	62226
+isocitric acid	157	74	156	107	89	196	65	88	95	148	77	115	735	645	538	858	88	108	136	91	322	180	123	52	71	125	127	228	132	313	130	203	357	284	440	291	381	763	85	689	1951	1683	285	235	425	130	295	332	219	376	321	240	409	614	238	182	425	273	667	79	142	126	127	288	356	110	192	150	265	262	91	1472	103	208	280	78	82	254	337	348
+inositol-4-monophosphate	379	209	168	451	445	267	258	343	132	437	374	494	2430	1944	1712	2309	181	705	294	465	815	770	238	323	1297	859	671	287	108	1105	267	485	222	675	408	178	452	2300	94	539	595	314	192	193	250	203	194	362	239	217	260	98	144	370	181	222	149	193	507	510	294	277	539	214	491	226	392	197	694	798	992	981	650	507	403	553	1002	784	906	626
+inosine-5'-monophosphate	7422	8579	9866	11588	9327	9444	6418	6027	9177	8186	6676	111	61	93	106	86	4105	5499	4599	6566	421	369	314	100	548	157	13559	433	8650	216	9127	10185	4154	8312	6242	4579	1810	81	91	10656	22247	2587	6316	3797	1685	274	3203	7380	6375	6234	4184	2838	7984	21082	2113	1919	7319	1255	4757	2965	10316	3572	4566	6654	320	663	364	141	444	208	347	318	251	1223	1428	236	231	504	495	376
+inosine	40597	69429	38983	49500	45855	47727	36432	49956	49963	38535	49754	66746	77	152	98	240	44146	61286	28969	61699	119644	112755	49848	51731	167883	119720	59255	67575	44023	172408	34569	46647	6712	23225	9379	6073	11481	67	111	11326	20244	22111	10826	2332	10317	45916	7469	15140	7330	5067	9357	4851	11573	7087	4133	9683	4530	7268	6685	84903	69313	40385	58063	59253	123126	24537	83149	95503	109778	114204	152149	131447	102171	87962	88132	89454	149227	115172	161651	152023
+indole-3-lactate	188	252	195	215	152	175	132	168	130	161	130	114	905	753	751	1002	213	258	118	147	168	230	118	96	223	97	175	99	257	142	117	146	214	203	236	175	185	903	48	228	176	173	127	150	159	89	146	226	188	292	173	165	227	313	187	133	169	249	292	204	225	122	192	152	201	87	180	199	160	169	91	695	148	153	91	103	130	219	160	186
+indole-3-acetate	80	106	81	121	56	58	73	74	57	46	84	53	1335	1263	1221	1595	89	148	81	2353	64	60	70	183	72	48	2822	69	71	51	121	100	51	58	47	89	47	1506	129	87	75	55	56	241	93	59	55	185	50	83	96	62	43	65	41	62	87	98	64	98	135	70	79	80	59	88	63	49	56	52	82	86	43	313	73	115	70	99	56	68
+hypoxanthine	16169	34551	25510	27140	28573	28258	18628	28936	22162	26367	22005	100288	247	229	291	573	20249	33061	13841	31827	98419	101352	36126	48991	143773	118284	49670	57278	19794	163696	16252	23176	24653	71226	33636	26697	38649	330	162	29324	28782	25671	29317	12208	26377	33386	29157	47973	23853	22840	36199	19445	36063	29870	13067	38807	18163	27111	26546	39469	37446	25354	20907	23308	82762	28170	76561	76697	70373	86769	139172	80338	85495	61158	65881	67596	114659	69237	128728	99586
+hydroxylamine	40328	23285	20628	26793	13178	25784	20665	25800	38720	45527	27837	33551	13635	20654	37172	26368	17929	21790	29073	25451	22092	20965	23455	39766	11968	23278	14000	15297	17437	19006	32818	43513	40187	15753	29229	17427	14802	31177	100893	12338	21819	29600	23864	18334	37208	33469	21344	23469	40566	19332	23325	33944	40686	19675	34120	13902	22584	23709	23001	19620	14456	23168	22508	18680	16182	37242	18014	21613	26377	25596	25034	14138	30796	18890	15386	13135	21469	42981	31321	40560
+hydroxycarbamate	11265	9225	7514	11167	5291	6801	6404	7063	9559	11663	11778	10281	7691	8615	13212	12998	8146	7072	10370	11097	5608	7747	10619	11314	2812	7492	5686	4428	5722	6826	10508	11674	11760	4708	10322	6336	5577	15249	6246	3898	7007	6515	6837	5671	11831	13074	6964	9384	10101	6586	9141	11943	13791	8231	16228	5257	7584	7447	6056	9413	5455	9760	8594	6011	5518	13856	6096	7575	8171	8702	8529	5817	10928	6203	4104	4631	8564	11628	12696	10228
+histidine	8710	9143	14495	13055	9690	7766	6083	7162	10881	10416	10588	7762	8859	5205	1752	9668	11878	21253	9322	10067	4331	5207	1186	1731	16744	8606	16137	2917	10310	15857	14075	9638	589	1689	849	477	378	4135	336	938	979	1221	570	849	354	890	345	500	648	657	489	482	496	1461	417	666	1020	584	701	15883	13818	9865	7945	8586	8857	575	3910	3830	3748	8548	11663	6773	4858	4122	5091	6596	7361	7678	8440	4839
+hexuronic acid	24051	6092	22228	16745	14156	8960	9221	7258	13272	7043	7741	30766	1171	782	900	1784	11609	8660	16199	7169	42820	43672	11371	32142	109016	71344	13215	18487	13619	67266	6591	8285	910	922	1191	1130	961	1530	192	1203	1022	1104	777	2208	734	9815	552	1012	1063	1900	586	2230	1569	1578	1628	982	2344	2846	1253	16546	20064	19243	11711	16168	33753	13783	48536	43452	55854	58301	75511	31601	34096	45064	34035	38591	69156	56395	62326	72354
+hexose-6-phosphate	838	561	1164	1366	504	507	585	480	626	1181	689	130	67	53	84	60	424	805	422	497	114	163	38	103	669	127	845	111	773	147	929	663	1054	5817	1739	1849	4348	167	95	1448	1666	1365	1924	511	1558	78	1315	4779	2048	1107	2592	525	2624	2069	360	2320	924	1586	1613	580	570	639	505	487	163	114	131	126	116	167	108	136	120	107	114	184	161	175	200	189
+hexonic acid	3327	3888	3538	7652	1489	795	1812	5427	2465	3469	6233	381	2267	1407	1223	2650	3277	1992	5064	7475	704	1007	284	428	925	629	3854	278	3412	750	6471	2226	228	1208	792	156	674	1410	103	877	984	875	337	361	493	186	175	1089	819	404	362	353	1174	1152	943	729	675	420	537	2185	3552	2791	6895	2924	2929	312	156	679	606	2668	977	1210	997	662	1253	825	1079	2485	745	453
+hexitol	553	11441	8105	12389	5496	616	411	473	473	10391	9474	7084	335	360	429	505	6683	715	491	10636	6271	7426	3547	3513	12693	8529	8955	4496	7436	11177	511	575	142	2291	1479	32	729	428	63	720	1373	377	561	420	444	3002	376	485	1332	520	686	1420	589	952	1086	953	1424	153	745	7979	7511	518	600	1033	8348	1712	5540	7565	7301	6728	17281	3679	6131	6453	5087	5454	9407	5754	9647	7836
+hexadecylglycerol	124	279	138	140	111	132	123	127	130	159	206	514	100	58	96	112	118	265	231	268	837	966	470	424	1370	708	214	688	121	1533	130	83	136	427	240	223	278	73	59	201	255	210	246	203	197	465	174	365	248	154	179	165	126	183	92	202	137	174	209	165	170	122	179	122	911	347	599	421	580	952	981	667	751	434	438	690	799	759	1189	641
+heptadecanoic acid	4921	7494	5406	6113	3540	3562	1880	3236	3316	4396	4446	2020	2979	1992	2245	4245	5476	8988	4976	6427	2347	2462	2425	1458	3678	3336	5656	2664	4280	4185	4337	3651	3023	4622	3213	1512	1871	2968	2750	3241	3720	1682	1789	1649	2888	2280	2443	3501	2780	1720	2346	3122	2856	4170	3220	3536	3427	1851	2044	5547	9728	4601	6629	1597	1359	2359	3316	3768	3826	3946	3178	2804	3575	4078	4883	3492	3632	1060	2408	3162
+guanosine	361	514	318	430	411	656	444	494	514	358	404	743	87	97	72	54	298	497	154	520	2249	1498	1172	701	2422	1460	439	2166	468	3286	425	468	343	1030	354	153	702	66	46	369	1209	1516	229	112	789	1004	175	921	447	174	455	196	687	323	140	442	286	253	181	834	510	400	388	819	2621	331	1326	1941	2277	2215	1624	3140	1599	2305	2164	1373	2676	2369	2733	2836
+glycolic acid	437	307	577	858	481	505	336	510	437	597	503	700	610	823	771	781	327	727	424	761	715	715	399	594	1116	619	412	941	450	1438	514	410	840	1375	1228	1055	41	1059	481	975	835	510	564	958	814	765	747	1218	755	55	1048	1260	1012	992	1098	1179	910	707	898	421	423	881	400	332	686	528	652	611	627	837	1267	719	687	671	1166	740	749	1061	1138	889
+glycocyamine	71	74	91	106	88	90	146	112	67	81	60	1013	181	132	111	151	68	83	62	106	758	249	243	206	839	978	108	268	105	315	73	66	53	261	106	91	85	186	70	89	168	90	401	90	94	215	63	113	55	118	132	57	53	131	85	70	99	55	123	68	101	190	129	140	2034	83	743	184	396	1114	1971	1984	522	501	415	334	1032	346	1000	312
+glycine	53400	128627	138776	123802	124231	93558	75872	84818	73118	72243	90305	230134	75133	35909	24613	51905	111630	261439	72082	128055	388590	460545	170492	116829	1028041	367247	222712	345113	128033	777615	108710	100485	106468	762786	224767	233220	333481	41880	10703	490280	380887	152982	171889	177909	136521	92986	129329	352126	93782	174773	315468	90959	236359	583111	95287	244117	257091	163301	212296	95540	164323	93001	101964	97539	386967	56255	339250	314840	243043	284528	462265	399550	257790	288439	369558	393619	333877	182578	266895	209148
+glycerol-alpha-phosphate	10274	12954	19639	9142	3402	5850	5398	6321	8239	3681	6033	7953	3126	2555	2067	3085	11324	11307	13663	10571	8490	10920	9090	3613	28157	4474	8089	10180	14678	18671	8567	8815	8972	45917	22625	11014	12416	3342	94	33793	44913	18103	13792	12905	10481	8889	9833	29707	15987	19739	18584	18332	30762	62946	19837	18197	23606	14326	23655	9139	10351	8804	10988	5594	25089	4741	7788	10741	17793	13360	8926	14664	12363	15215	22744	16343	7189	31746	12769	10036
+glycerol-3-galactoside	1569	3646	2044	1677	2713	5533	1688	2601	1955	1479	1857	197	118	493	165	60	2084	2598	773	1776	198	245	127	143	409	305	2286	136	1918	408	2242	1965	127	461	225	125	132	73	76	147	267	118	104	116	119	81	76	305	118	111	265	94	225	320	95	138	94	111	178	4079	4358	2237	1516	3200	400	264	214	191	310	365	279	340	317	265	282	266	303	328	345	312
+glycerol	190097	270273	212477	175125	213368	376588	171445	199113	270135	193665	256840	36235	32088	26410	22359	36004	254107	232548	131931	213824	8815	16787	9508	30408	87992	26104	220504	21092	166563	30953	185029	243319	35563	120595	66868	43317	51599	34296	1375	53657	76540	32128	43564	32088	54317	12554	39946	75573	32631	37952	58718	31192	62644	72678	35807	52792	42126	36042	44388	361840	248963	191231	199383	223042	31643	62873	42151	31677	15056	31513	63161	14991	91561	27349	32611	59435	66079	15464	66999	55377
+glyceric acid	305	693	463	728	277	514	396	577	425	351	441	11679	5040	3735	2827	5137	466	879	616	1086	3193	5396	2260	3812	21759	9384	542	3824	383	15855	240	263	1859	1233	1402	1116	1488	5698	118	474	787	531	946	992	750	2372	940	1052	651	1107	783	1791	2137	733	1787	2995	3449	844	968	527	549	531	800	355	2989	1762	8823	11173	7700	7426	20756	10914	8558	7822	6831	7893	16622	8149	10780	5725
+glutathione	20402	15474	6962	15063	10718	13093	11547	8961	17768	19146	19786	80	63	88	109	149	6909	16179	12246	7121	113	114	53	111	130	92	13626	123	19472	173	15805	18031	917	644	567	412	403	62	92	626	381	46	352	499	397	88	659	476	324	498	511	598	377	590	858	531	367	391	312	9657	9806	9436	17419	8452	138	98	102	123	112	103	141	168	159	99	160	133	114	187	119	147
+glutaric acid	153	340	238	174	116	130	126	165	135	58	152	101	96	78	75	117	121	408	211	150	105	107	67	115	131	108	139	71	374	177	163	101	77	85	145	96	102	135	86	90	72	81	112	65	95	81	108	91	80	99	97	58	114	100	124	101	139	59	143	202	202	81	229	135	122	77	85	120	100	63	183	204	143	124	118	129	116	113	123	124
+glutamine dehydrated	17503	11996	27297	20127	16080	33902	33451	34352	24939	20362	28941	10626	6826	3102	2142	2971	18228	22556	22610	26516	5996	13938	1426	2586	20668	10218	27046	3410	11568	18010	18558	36986	3303	15283	11597	5569	7648	4438	509	10121	10262	4185	5570	10407	3988	1205	2693	8926	3140	4002	6005	5522	7020	13793	3270	5002	5641	6721	5826	20241	23830	28982	17033	16398	11442	1826	6032	6288	6124	10262	14398	14602	9760	6763	6871	7002	5434	7018	6286	6125
+glutamine	1769	1320	3200	2648	1141	2466	2687	2791	1365	1658	2730	535	32283	32766	13436	41397	2985	2897	1157	3710	2495	3513	1715	1499	3915	2240	3464	2135	1142	5918	1556	1392	2816	3355	2110	3590	3609	27507	233	3438	1428	5531	3831	4414	3009	858	2844	2594	2478	3529	2681	3767	1989	2642	3265	3497	2943	4181	3429	2218	2637	3015	2676	1127	2358	836	2115	2019	1862	2066	2425	1996	1610	2606	3299	2206	1453	2509	1063	786
+glutamic acid	28016	44825	32884	20978	19856	53931	37194	34595	25105	19789	41632	139612	31126	21206	11931	24910	31108	42867	21852	27017	249879	211376	63402	87932	381300	232620	25596	86726	59890	301079	54014	44249	29036	130637	69162	39274	44594	24754	160	46458	67642	51702	40538	33431	24115	66448	18887	76277	23709	44675	66219	21494	72947	114746	17600	35706	30696	26014	50840	56192	37362	57507	23970	44806	184603	43830	135032	131364	148362	157979	297030	211489	188260	134922	134645	126524	185369	139290	225255	171855
+glutamate	13744	23857	14682	9659	8968	16973	14083	14744	15945	11230	13604	59947	6788	4729	2381	4880	18416	16802	13356	9174	67736	78821	25219	31656	76538	47283	10493	35496	25186	74010	23247	22010	18674	34825	32379	17061	22482	6690	103	18869	12184	20225	17593	8126	18156	34709	13275	25384	14202	22610	24869	19018	30616	31054	14521	16516	18172	16319	25628	23724	15963	21895	12596	21046	50027	23580	45039	56255	49494	63089	59326	88100	59675	43660	43099	42239	22574	56246	56854	46857
+glucose-6-phosphate	10091	9358	14284	16012	2799	7579	7894	9868	9900	14093	16733	387	70	51	76	198	7547	11115	3406	6942	470	654	338	575	3927	570	10481	51	10132	924	8802	6696	2698	15421	4700	5147	11277	81	752	3790	4259	4427	5579	1545	4559	250	3844	11992	5982	3103	6939	1432	7432	5294	863	6543	2614	4361	4359	5864	6243	7573	9196	1996	816	368	499	573	617	767	549	310	655	634	837	1020	918	1067	929	985
+glucose-1-phosphate	2420	2249	2849	3672	1586	6921	4584	5109	2102	3612	4151	586	192	130	152	245	849	2331	1891	927	97	69	339	55	7840	668	1627	2578	3833	678	1837	3414	414	1560	662	757	611	191	75	1228	1426	1480	516	691	524	348	511	1023	476	908	961	403	1343	930	372	650	524	280	1235	1197	904	2620	1309	1813	879	71	475	589	596	1040	911	592	125	608	4058	683	678	1003	920	186
+glucose	1402917	1770944	1839082	1802189	1154465	1145235	1251692	1252164	1474249	1703801	1771623	86146	255484	402817	312059	324991	1648355	1419999	1255906	2018443	87612	125572	35111	69460	140760	183076	2130863	75984	1417101	209181	1422215	1279040	170994	138764	133092	166719	135384	295466	753	154414	76838	159017	131710	209971	99004	30212	89275	145986	166935	225204	87661	231988	176619	175390	204436	157585	241391	247644	225883	1443028	1729011	1123911	1462799	742263	183861	33293	143623	111176	162480	163324	167848	337094	167400	227504	146700	204841	155593	234735	261182	161957
+gluconic acid	243	1666	445	602	547	610	339	458	441	689	450	425	182	206	144	179	287	498	236	900	149	258	110	174	547	471	837	154	577	741	553	628	108	125	64	67	77	231	77	142	252	120	64	68	111	63	158	132	111	109	129	64	179	144	93	97	106	109	84	904	768	321	261	1121	360	145	267	265	210	372	605	194	450	193	139	413	529	375	433	345
+glucoheptulose	3998	3074	4455	3525	2979	3996	2651	2987	3374	3540	4868	214	232	876	433	125	5710	5230	3102	2526	260	212	95	146	447	429	5068	331	1836	440	3441	3182	80	545	156	200	211	368	86	162	198	130	104	129	172	87	128	334	135	169	121	135	401	433	121	273	233	117	102	4165	4626	3172	3776	1722	1402	123	327	309	323	927	386	836	353	338	574	690	388	1657	406	174
+gamma-aminobutyric acid	444	2484	856	1389	1742	2567	1304	1363	965	1022	1605	2106	973	521	284	864	750	1812	617	923	1195	2283	599	1339	8373	1638	3923	1165	2053	4274	1460	1152	384	1565	606	354	598	732	244	449	839	386	340	337	381	420	276	642	251	11087	498	12162	828	1269	268	507	526	256	332	1196	3377	730	957	7538	2544	602	853	1741	698	1481	1809	3440	2242	1104	1530	1947	1642	529	551	520
+galactose-6-phosphate	232	110	978	416	74	135	56	60	55	419	629	92	71	68	57	50	106	165	78	397	71	55	50	56	59	80	619	81	109	67	67	59	60	177	82	52	95	62	80	71	71	52	66	102	70	64	78	158	89	78	59	117	144	208	65	117	38	59	85	139	340	62	179	51	85	88	63	75	92	100	49	58	115	105	95	33	64	109	113	66
+galactonic acid	172	1424	344	484	469	419	274	320	327	543	314	405	188	198	177	179	256	168	185	327	117	267	145	177	476	259	756	142	458	701	412	101	110	153	70	81	93	245	58	107	225	113	57	69	103	83	147	128	84	91	81	76	155	148	114	79	134	80	90	690	661	260	201	995	314	162	309	123	185	355	547	129	434	197	188	337	487	346	230	177
+galactinol	1357	1669	1453	1440	1129	1316	1279	1239	1273	1267	1105	826	281	259	285	230	1192	1498	1117	1266	1796	1239	899	829	1916	1768	1620	1180	1099	1871	1128	1268	234	290	332	295	244	236	312	388	419	270	249	299	282	916	285	344	250	267	269	262	271	443	264	298	338	308	267	1348	1801	1205	1366	1065	2050	543	1735	1381	1850	1797	2605	1544	1297	1985	2260	1602	2579	2123	2746	2885
+fumaric acid	2849	15504	10267	16050	9332	6960	4550	4877	4617	3895	4886	3213	132	111	123	166	7657	8021	6027	17070	4978	5809	1494	1918	15160	5383	10367	2272	11831	3456	4339	11046	5523	10256	11463	5882	6478	112	192	4612	5354	4859	7487	4349	3681	1602	3662	7346	3695	7421	9259	4466	5331	4689	4028	4599	6731	4892	9763	8211	10039	8902	7671	13255	7882	2017	2977	4031	2869	6674	8356	17903	5114	4394	3872	6276	7154	4361	4864	4060
+fucose	7810	9481	10656	9614	5166	9884	7658	10317	5533	10727	8829	1239	1025	1165	782	1174	7710	9698	6710	8462	1578	1543	590	864	1721	1256	8078	1584	5458	2188	5067	5990	819	837	765	814	713	969	385	901	1019	1929	1453	1029	640	848	662	738	862	1618	746	1019	1095	1521	1016	933	1234	1846	1760	7684	11185	6159	7761	4168	4502	464	1139	1376	1436	4293	2105	3606	1372	1467	2058	1451	1431	5110	1335	1315
+fructose-6-phosphate	7722	6188	9993	10109	7237	5179	6007	9165	10773	7798	9646	481	63	57	78	67	5844	7104	3778	5980	493	790	216	275	2013	521	6299	201	9929	597	7334	11473	1615	9168	2851	2547	6156	54	82	2572	3166	2579	2996	941	2529	150	2110	6422	3046	1749	4192	854	4253	2892	500	3672	1060	2374	2457	8271	10400	6741	5892	6283	1430	346	484	530	681	849	279	447	646	456	592	1191	750	780	530	770
+fructose-1-phosphate	889	1078	2253	1524	297	1101	360	624	1734	1276	1837	305	85	68	104	74	677	1990	1058	1057	693	1037	339	438	1276	650	183	230	1252	919	2048	509	188	884	437	220	377	144	82	272	616	230	239	109	181	242	182	672	251	205	397	149	467	556	83	224	244	246	444	1152	2037	1645	304	944	905	249	593	598	876	1549	925	886	311	934	792	266	633	1264	1003	1022
+fructose	4135	7517	8117	8607	2490	17469	4957	6901	5249	10327	9304	459	7947	10435	5939	8329	3436	8066	1558	3230	1773	634	170	2090	1976	1186	9844	282	6526	889	5377	3823	937	1059	714	1344	7708	9351	850	437	2916	884	3751	6524	866	120	1940	1708	3315	1549	1200	1027	539	886	666	1933	415	2007	739	6064	9643	3349	3809	2138	1496	1080	722	598	694	3197	2368	1177	1133	799	1001	1771	1843	1490	1356	839
+ethanolamine	212	307	309	260	162	254	7846	226	205	196	304	164420	8598	270	268	6455	277	343	7171	288	137843	139825	59123	97630	528	149973	11750	57108	338	171220	3239	248	19996	343	33284	13409	14494	379	252	20426	40013	20311	308	301	21699	62813	17145	314	17903	13471	26925	311	31863	364	17905	15940	18958	311	375	314	287	6648	274	264	83583	259	319	105712	127534	154853	197565	145128	182248	96058	78502	354	163247	194023	325023	200635
+ethanol phosphate	4755	1911	6555	1587	1717	14502	5560	6948	3893	2739	10788	1588	156	112	73	184	12144	10004	1643	1633	612	240	142	783	415	405	2655	284	4834	250	2988	10777	242	367	330	248	1996	114	112	251	577	646	177	117	189	110	162	441	134	198	190	217	474	253	113	127	208	179	265	25313	4792	10171	2117	4818	555	850	1058	1031	1543	1489	2083	222	5115	451	868	635	683	784	500	510
+erythronic acid lactone	200	185	247	225	258	165	242	247	193	189	248	240	85	98	90	169	200	342	288	191	280	314	239	148	264	315	218	277	159	471	207	170	119	710	427	376	238	180	48	493	501	348	335	291	296	259	252	733	131	325	490	37	496	616	118	193	245	340	459	231	300	249	223	193	385	151	261	306	298	346	393	306	253	282	340	354	510	271	361	298
+erythritol	800	1654	1108	1067	1116	1582	1309	1643	1171	945	1406	1398	1499	1336	882	1271	1440	1676	1441	982	1235	1342	433	408	1054	825	1258	1502	1282	1416	1046	1044	300	375	483	361	363	1635	76	287	334	342	311	429	433	495	191	397	203	303	339	395	344	438	301	264	357	429	651	1823	1492	1361	1279	965	3578	391	619	718	703	3423	1045	4650	1285	964	1567	1248	1011	4353	1328	934
+enolpyruvate	82	83	97	82	112	115	97	82	73	87	98	160	107	71	118	95	102	112	97	101	286	247	128	209	2527	167	130	139	89	296	95	97	104	144	150	134	164	93	87	100	102	90	134	123	78	141	106	99	149	169	123	121	123	133	100	163	118	85	126	113	113	100	73	70	229	117	461	154	244	250	1530	434	239	284	263	368	223	356	752	193
+dodecanol	165	215	195	180	166	178	255	175	167	195	200	259	253	204	197	224	198	244	279	209	178	193	215	209	292	184	232	221	218	238	162	223	270	211	253	172	169	261	381	177	222	166	194	206	289	233	222	208	187	154	203	233	288	195	324	270	219	196	186	204	237	233	204	213	187	275	169	205	188	214	230	200	267	199	207	176	183	224	170	177
+dodecanoic acid, isopropanol ester	136	247	154	123	125	226	201	209	183	147	116	245	134	145	140	126	238	152	171	160	213	170	149	152	255	140	165	167	170	247	128	65	113	176	109	126	326	188	103	129	146	183	241	52	110	189	110	126	92	193	196	94	190	174	141	147	121	50	87	283	263	226	174	223	230	186	137	128	142	108	158	252	195	169	119	280	150	144	194	230
+doconexent	1328	2416	83	1838	1396	1443	622	1226	999	1384	1125	1426	199	158	229	196	1844	1903	1628	2420	1550	2102	522	880	808	823	1139	1501	1309	1478	714	1542	289	1907	447	526	530	289	273	541	947	465	409	255	353	1285	439	1036	717	433	606	394	635	934	270	616	539	413	532	2808	4271	1822	2433	2399	1035	644	851	1164	1047	1461	1548	960	938	638	1406	1223	872	1058	2127	1539
+digalacturonic acid	1010	423	367	910	981	1134	942	667	1383	422	752	88	69	70	52	35	690	215	695	236	264	71	265	50	715	179	580	233	534	382	918	675	1702	988	2456	90	335	51	57	589	622	1234	1157	1162	939	165	84	362	196	1574	176	1412	3404	1355	1112	233	237	75	2561	962	843	572	740	553	490	71	239	157	170	308	453	525	221	539	493	431	333	323	409	286
+dehydroascorbic acid	33386	21598	42187	31845	31859	45782	45273	37070	40713	29509	48546	2175	667	600	627	847	31497	32962	31476	32608	17592	14512	3352	2292	5181	3962	29413	7355	39390	6644	39524	47908	179	25587	1826	604	325	848	148	8103	30831	5876	464	414	916	3001	442	14067	377	581	4710	256	7997	44217	118	208	277	463	3024	44273	37465	48501	38078	17302	16928	393	1892	5614	6173	4222	5449	10300	4015	10871	6841	6322	12974	7283	11585	26832
+cytidine-5-monophosphate	10340	6954	24293	9318	8471	6364	8683	8250	9792	9115	8194	250	93	218	221	392	15793	9128	9123	11252	895	674	487	98	709	374	20354	895	8845	1106	10041	13917	691	10132	5509	3183	2882	179	115	6377	5080	645	2402	2607	538	501	917	4515	3494	3266	2465	1784	1968	14935	1169	2190	3021	1140	4774	12707	16808	12220	7953	6289	1329	242	630	280	633	673	592	980	468	2631	2377	863	477	1173	1448	452
+cystine	1382	1344	1801	2379	1393	980	1193	1768	1918	1889	1910	7752	5703	5693	1850	5554	1568	1534	783	1225	18969	20167	3780	6064	31898	24531	1324	9832	1852	31532	1370	2106	390	1973	595	716	1264	3377	169	704	1121	1293	650	430	528	835	440	1344	690	459	992	298	902	652	200	821	529	653	641	1568	2052	1365	1172	1431	22867	619	10668	10783	9768	22619	24865	35221	16385	14834	14849	16633	17114	17603	16858	19796
+cysteine-glycine	3840	9613	6000	7017	5802	4190	4638	2762	4006	4015	4749	610	3595	2759	277	245	5120	7905	3400	4853	605	766	589	432	868	860	7958	553	10584	1011	13851	6601	253	931	292	381	365	4137	198	4067	651	8252	393	439	356	549	205	601	472	377	347	473	579	682	354	1289	414	347	560	3750	5536	6713	5990	2731	3473	360	957	529	880	1031	740	11255	1000	645	654	980	1075	793	1171	1083
+cysteine	3997	4650	6144	5771	7761	8669	7047	7672	6353	3796	4522	49821	1263	1336	383	782	5560	9209	7370	5572	76337	79182	19923	24480	116215	64296	7801	23322	7804	82851	5433	4657	5672	14102	13901	8210	7069	636	88	7340	13015	8069	7145	5876	3016	17825	2849	13350	5536	6440	10349	3775	11640	12754	1400	3545	4423	3632	9501	8991	5430	9815	4283	5173	67064	7475	33395	43968	46804	40887	68268	66750	53092	46835	37699	33646	44504	36516	63786	54868
+creatinine	3532	2066	5446	3009	3249	5415	8646	4606	2772	2369	3112	19182	12426	8270	3156	4871	2113	4140	1924	1188	38413	31546	17212	7179	27292	14721	2010	19571	6575	18912	2283	2018	4965	25638	18696	7719	9999	6799	130	8639	11854	6027	42717	7673	5180	23621	4214	9596	5084	10174	15818	4638	15043	17976	3308	5147	4526	8140	16227	4455	2545	9747	2323	3050	42675	4177	21844	12327	11087	37987	42418	38851	19324	14058	15836	17005	21566	16090	23970	14466
+conduritol-beta-expoxide	168	145	190	169	100	132	146	175	165	161	189	4626	285	253	226	287	150	223	150	112	4099	4866	2404	2358	8823	5819	154	3150	143	7886	160	180	290	1464	369	325	422	269	43	536	910	326	301	273	377	2070	295	714	342	309	464	324	514	782	324	367	489	256	487	171	182	183	142	150	5451	1120	3805	5283	5125	4674	11849	2976	3925	4335	3797	3623	6516	4021	6546	5249
+citrulline	551	578	979	819	434	464	565	488	525	953	799	1356	620	633	411	837	783	815	651	746	893	876	296	494	1983	1107	741	533	605	1405	489	583	283	447	453	251	182	787	42	249	288	582	320	262	399	300	247	448	355	318	251	352	345	361	234	366	324	195	537	679	572	739	647	413	876	350	649	601	549	1068	1438	966	788	547	617	643	859	774	1068	769
+citric acid	6749	2951	12085	6438	2823	10160	4245	4937	4237	7909	5517	7538	25566	19717	19163	29541	4849	7380	5734	3164	18290	14226	5705	1841	5019	10560	9079	10831	6020	27998	8946	5350	11989	21080	26792	9193	15085	28719	191	29128	95225	57709	10316	9021	15716	5769	10699	22828	9123	14367	13078	10638	19447	49966	7675	7764	22162	10517	24807	4311	7253	9836	5843	17739	24349	3730	13028	9760	15257	19269	3028	76983	5648	14122	21361	5686	5012	18231	27494	25204
+citramalic acid	64	59	78	81	69	69	103	56	70	90	105	1234	206	158	120	228	93	101	75	61	539	1057	368	274	550	538	76	474	103	759	76	121	82	87	115	98	88	206	57	73	65	81	82	88	74	439	75	87	54	101	85	105	97	105	64	69	113	130	105	81	76	115	84	81	2960	116	677	926	1056	1041	1645	795	1302	932	1203	868	1226	1537	1390	932
+cis-gondoic acid	549	398	578	435	792	1365	579	688	942	511	849	68	77	68	92	68	513	446	217	333	143	190	94	100	55	154	417	93	470	161	353	379	83	41	112	52	114	41	54	85	156	68	102	96	59	72	131	122	85	102	113	91	110	78	66	97	81	91	40	811	660	597	335	510	144	167	172	123	156	54	29	92	148	107	118	148	121	100	111	130
+cholesterol	253165	219631	345935	203385	203327	119743	170036	185268	163409	184322	176746	144005	133867	151506	145482	155953	279818	249351	270111	255360	348602	266893	169273	160625	588853	365930	344443	272064	203581	382718	229766	210779	141536	623355	453670	372509	276228	147698	1125	401800	269670	125656	263335	343069	142138	175133	121773	613657	560444	296080	322071	259363	186979	732962	166639	260198	307075	234850	340147	368597	322033	241552	222278	182017	285174	85173	362187	186489	262542	395353	504715	283026	272087	345305	333689	364069	470189	466173	738135	299417
+cholestan-3-ol	1107	850	1934	745	1028	626	755	881	658	811	813	1756	151	215	168	159	1085	982	1261	869	5982	4052	2475	2598	11466	6564	1806	5359	603	6998	1118	807	743	2616	1370	1892	1371	145	90	1895	1313	358	1153	1856	675	2466	497	2447	1554	1170	1273	1151	673	2714	608	827	1255	1032	1233	1881	1228	900	860	780	3752	914	5216	2691	3800	5853	8585	4097	3638	4696	4141	5059	7929	6139	9609	4449
+cellobiose	5300	6843	68718	70962	8688	13718	7988	5757	12284	5810	5026	149	97	80	103	211	53679	8621	5134	79880	117	56	122	65	102	213	4708	114	8336	293	5853	6653	391	209	186	259	215	89	72	182	153	176	216	137	99	65	176	254	221	229	244	162	829	1540	486	131	682	91	252	40548	3241	4636	8744	5438	88	75	218	205	115	106	109	323	103	191	273	198	172	102	109	152
+capric acid	382	390	511	357	400	593	435	464	365	349	406	406	1342	620	916	1157	456	554	724	519	481	471	535	288	389	682	478	429	463	270	377	258	784	677	594	597	464	775	565	789	366	354	87	553	655	511	478	799	695	532	480	1040	742	800	659	766	792	611	637	499	510	464	505	559	449	580	559	599	587	724	243	532	740	367	811	581	385	362	436	378
+bisphosphoglycerol	472	3041	238	2198	1661	3069	1144	2056	1086	448	279	126	256	89	219	106	5383	520	116	224	531	477	258	226	274	284	3028	99	7172	383	713	7623	458	323	1356	1082	798	67	58	965	1156	2449	486	2121	2107	290	2369	1311	621	394	910	2331	1137	300	3487	1274	2533	1433	991	242	169	3843	2721	1193	732	109	181	182	361	256	262	656	363	251	300	222	286	407	462	425
+beta-glycerolphosphate	423	878	459	532	641	451	518	585	392	472	415	1984	161	165	141	347	481	771	296	188	3332	3242	1144	1119	3597	2638	685	1307	479	1713	470	462	193	438	271	149	226	233	47	231	367	372	182	146	147	1299	196	414	254	282	200	189	174	631	196	167	213	257	369	623	569	185	541	497	3246	631	1966	1928	2421	2590	2314	3738	2594	1792	2193	1979	1173	2828	3605	2546
+beta-glutamic acid	192	187	342	454	480	1232	401	591	330	381	506	3257	59	543	64	638	434	694	237	243	5662	4819	78	2218	132	91	408	58	444	93	564	358	318	859	425	279	284	57	66	453	732	203	374	156	189	96	229	474	44	348	325	110	794	1055	108	132	378	222	449	504	532	879	334	398	126	56	47	93	3476	3744	6692	137	4270	95	3003	72	82	3273	5220	3959
+beta-alanine	4616	6909	5761	9989	7119	5599	8714	8582	9113	7318	9291	4092	601	609	477	777	10171	13622	10018	8485	3264	2706	1148	1654	2975	3475	6983	1398	4261	3665	5035	5458	644	1492	1284	958	746	783	226	1089	1422	1154	912	661	711	1632	824	1380	633	744	898	636	1067	1676	623	576	644	604	1075	10640	8567	9673	7097	4500	3585	708	2549	1936	2597	4431	4493	3439	3498	1961	1816	2282	3505	3308	4901	2709
+benzoic acid	2955	4167	4970	5135	3868	3926	3805	3097	2667	2968	4942	5000	17529	11849	10866	19221	4487	6580	4388	4913	4162	4932	4706	2777	6428	4978	5560	6494	4620	8342	2910	2755	5009	6462	7158	4976	4489	18482	4298	5465	4658	3121	4734	4700	4415	4607	4885	6319	3207	4016	4380	5556	5397	5953	5682	5526	5123	4827	4193	5304	5683	3592	4823	4104	4904	4563	4493	4908	5002	5952	6165	4989	4749	5225	6459	5193	4548	4473	3554	3127
+behenic acid	823	5491	4586	3292	1690	1286	758	731	792	911	2701	642	795	700	662	979	3684	2533	693	5116	589	600	811	720	789	597	13064	831	2116	1108	556	736	752	798	694	655	514	794	780	811	3791	488	582	523	779	491	767	837	868	551	703	786	674	1088	763	940	814	565	618	2079	6700	637	1675	750	563	690	722	704	693	901	804	570	692	814	977	852	706	642	749	581
+aspartic acid	8906	15025	12813	17806	10386	10184	10179	8414	6882	7232	7621	107626	1984	1347	936	1900	9809	20721	18090	15293	133594	137142	36990	48723	175093	148303	12978	48404	16481	138084	14065	12131	31881	103056	82989	37048	52674	2085	168	35414	40011	27142	38687	30775	20302	39100	15684	78768	21578	41428	66681	25492	79561	75462	17135	27211	25895	25218	42153	12703	18651	13018	11582	12457	115855	37401	100564	90455	103411	108383	174992	176269	113518	76978	65262	77373	124756	112343	211667	109244
+aspartate	2793	5904	4906	4510	2257	2437	2582	2705	2234	2440	2367	29173	448	583	438	828	3560	5830	5038	7055	28720	40332	11074	11574	50408	36491	3286	18864	5135	38824	4389	4413	12133	26224	21244	12058	20765	667	143	12446	9719	7696	12812	10680	8619	17273	7673	21506	8252	15470	18011	12192	16907	16452	12049	11308	11793	12847	12333	4767	5531	4376	4547	4550	20405	14089	24328	27961	36251	27405	38740	35881	28339	19838	19821	23270	26757	32241	49726	24003
+asparagine	6034	8111	10015	8918	10182	8386	9269	10996	7568	7800	20856	17775	1595	12924	12860	13491	9137	11481	7503	10372	19934	14584	7498	8147	35688	17233	11760	9004	4999	26077	8101	8107	12362	6589	7719	6564	6510	4606	3150	5972	6011	14474	6252	6671	9517	8835	7680	5953	3928	6937	7281	4695	13723	8533	11488	1349	5070	2368	7018	9943	8992	8353	7346	7055	30397	6750	10904	15963	15225	14614	30415	23898	21154	11719	13049	16616	16082	14045	22364	14094
+ascorbic acid	794	3765	2891	835	428	2302	2705	2748	3343	1047	1928	250	571	442	426	654	2410	3371	864	1623	365	398	142	216	561	465	1830	357	812	519	3224	2740	413	268	346	355	327	651	37	386	288	426	349	543	263	126	260	64	445	517	277	436	370	1292	396	380	540	541	635	1140	1719	2444	3360	881	614	124	322	397	330	465	479	5234	332	628	272	536	494	580	612	639
+arachidonic acid	17180	34278	24736	21079	21416	37070	12451	18597	18701	15355	14424	13089	2285	2173	2422	2705	26210	34246	15303	21142	16288	18187	11727	9585	16905	15388	28065	15722	20997	24309	20511	16009	4106	15764	9208	4726	7705	2438	301	6693	8025	2092	3878	5306	3259	10073	2073	11335	4756	4098	5614	5376	8071	10554	4258	6164	6050	5638	5598	33538	41441	21087	21822	19912	13161	6476	13244	12253	11423	14743	17501	12176	13513	10687	12452	12625	18340	10651	19784	14602
+arachidic acid	3201	5246	3723	4316	3570	2262	2465	2098	1822	3425	3450	2199	4429	2963	2746	5645	3269	5161	2901	4476	2543	2399	2345	1290	3004	3831	4370	1963	2887	4620	2345	2189	2786	3392	2741	1467	1634	267	2732	2690	8974	1333	1610	1353	2585	2077	1981	2874	3121	1529	2109	2580	2247	3155	3064	2905	2701	1574	1357	4300	3751	2599	4059	1910	2616	1958	2301	2748	3383	3655	3433	2248	2698	2878	3801	3660	3387	3055	2600	2448
+aminomalonate	4881	5926	5035	7232	4258	5018	4917	5846	5880	6250	5224	19292	3305	4750	3593	3767	5563	5535	5961	7151	18549	17665	8763	11695	8477	15567	4738	4323	4390	17096	5754	4930	7215	10676	16979	7783	8440	5373	206	5233	13203	7129	7888	4563	7739	13858	4607	18008	8941	7771	14227	9065	20117	20747	9168	4335	7200	7591	12042	4968	3485	6493	4564	3156	12723	5648	8352	9836	11489	12950	20474	13630	18746	7940	4840	5452	13615	17505	27497	19077
+allantoic acid dehydrated	1742	4305	5598	8014	3452	4610	4876	4781	2965	1777	4165	950	240	162	154	441	3605	10492	3351	5364	579	437	177	157	871	467	6700	2044	7368	590	3690	2426	374	425	250	290	221	234	130	458	273	613	316	260	210	139	184	209	199	290	153	274	445	497	217	349	800	433	797	3931	6261	4941	4268	4956	10055	170	521	693	363	7258	563	2855	744	1298	2209	2793	957	3273	354	736
+alanine-alanine	1970	4149	3712	4248	4990	4171	5202	5545	2916	2823	3674	4683	608	277	197	253	4102	6592	4072	5982	3995	4832	691	826	4538	4191	6665	830	6572	4312	3343	3846	379	1175	987	684	803	315	455	508	911	1123	628	474	356	1110	310	794	323	678	763	403	1035	1157	356	287	503	594	1000	6968	4103	6842	3427	9626	4413	795	1884	2074	2071	4238	5049	7696	2965	1571	1623	1409	2295	2129	2396	2371
+alanine	508895	651588	547066	568270	523183	712476	557647	604921	670178	637623	686218	496769	237795	156007	136355	237941	488043	1107262	482595	608630	333665	416802	127979	174018	547928	408424	807700	186638	567568	630391	748364	490621	130810	317155	219935	116530	155445	235358	1871	180346	229919	119805	134823	127697	90229	100097	100598	207550	99421	143167	203169	95817	204296	294074	86470	131563	139936	104124	168075	370002	493139	608986	670641	439342	408584	106550	257038	304500	275104	302683	516226	333223	414865	252125	257416	291300	371436	264782	434821	325795
+adipic acid	213	367	412	468	390	566	549	454	333	259	283	604	463	289	183	372	363	493	452	407	356	487	240	220	479	334	322	280	579	635	242	300	209	351	748	336	282	371	189	277	354	348	215	322	264	301	250	436	208	306	265	359	331	282	525	249	454	268	289	361	406	638	388	397	475	385	372	484	359	507	504	798	616	368	520	255	314	464	389	258
+adenosine-5-monophosphate	13576	12229	31580	29957	8571	10545	12537	7584	15507	12778	19068	553	88	71	70	97	13794	18768	14405	16541	1219	1237	429	310	1992	939	24189	1347	11519	2115	14374	12272	1605	2309	2191	2069	306	49	52	2935	1345	422	786	5508	551	443	1394	2134	1430	2209	1263	2570	1515	7855	2765	1081	3137	754	3117	20082	11975	11830	12751	3976	1416	242	952	943	1318	1080	1234	2149	668	2835	3128	1461	1131	1569	2030	1169
+adenosine	1513	1798	2390	2664	1134	2266	2151	2438	1643	1302	2196	771	83	67	49	128	1920	3112	1182	141	550	627	606	219	1517	432	1863	1078	2567	2804	2628	1203	937	2504	1949	774	290	67	78	1061	646	179	358	518	216	474	608	1279	1223	738	536	1397	1522	1553	1008	551	2370	265	626	2058	3349	2089	2125	1585	1053	281	597	685	841	955	634	1274	478	1698	1685	871	892	1141	1535	796
+adenine	1541	972	2781	2399	1013	2785	1972	2324	1587	1066	2699	771	5175	4178	4885	5260	2303	3105	2181	2152	984	1389	838	528	1509	1218	2009	1037	1527	2165	2037	2071	686	2395	899	756	758	5339	38	1228	1710	1012	734	698	448	740	582	1423	640	882	1051	615	1233	1880	787	825	921	585	996	2485	2666	3096	1457	2134	1301	326	912	954	1060	1287	1272	1493	827	1330	1204	949	1094	1517	1494	1319
+aconitic acid	67	62	107	76	50	128	67	120	105	116	69	344	251	217	123	182	67	125	112	93	532	297	260	120	460	262	84	323	66	628	106	75	87	139	129	55	142	143	94	330	500	170	93	61	83	324	65	88	73	116	91	63	52	246	120	84	152	87	112	82	86	89	115	178	493	121	268	311	429	417	483	412	286	395	445	362	643	549	703	490
+97455 maybe EPA	1953	3217	2971	2110	2080	2854	1324	956	754	1709	1553	733	16071	12554	9321	12240	2881	3238	2140	1880	911	660	154	455	875	1074	2172	780	1518	863	2403	1733	368	957	417	337	443	14657	1128	584	712	299	324	306	231	825	216	909	339	411	143	342	513	662	277	191	444	306	297	3905	5178	2579	2120	1573	704	560	428	825	647	762	765	469	939	491	750	729	839	625	1129	818
+5-methoxytryptamine	469	446	422	504	258	343	433	496	612	345	763	198	96	75	112	75	450	551	327	488	256	275	169	218	269	426	537	173	272	426	332	600	548	224	483	319	395	83	48	1242	1846	382	257	543	155	625	927	249	546	426	209	580	237	1929	2259	259	929	206	355	623	308	568	569	401	257	166	215	244	260	492	419	347	307	242	251	207	307	446	568	310
+5-hydroxy-3-indoleacetic acid	113	141	129	114	139	205	130	111	127	93	130	90	73	113	64	84	112	123	113	83	86	67	87	62	89	51	108	113	105	61	112	116	526	861	618	607	448	50	59	615	631	947	496	193	399	76	464	794	315	467	511	353	625	1125	205	556	612	376	621	117	120	125	102	128	178	66	75	92	70	341	96	303	105	149	254	88	68	274	100	61
+5'-deoxy-5'-methylthioadenosine	529	312	870	771	295	569	503	547	455	268	685	342	65	60	72	76	762	818	532	733	521	396	198	203	572	431	630	275	465	584	549	476	364	662	407	303	462	65	69	74	438	174	313	269	149	180	226	587	314	378	393	272	387	721	303	66	460	246	369	1037	81	940	455	487	365	181	353	354	380	501	513	378	261	472	408	320	405	427	503	432
+4-hydroxyhippuric acid	182	124	149	37	99	115	125	128	124	274	129	179	41	84	71	89	125	238	134	103	213	288	151	155	212	215	133	239	114	428	159	138	62	67	73	106	101	68	52	52	99	46	92	77	51	110	78	112	49	64	52	101	90	102	55	49	60	45	68	215	92	154	119	75	832	53	131	171	161	835	143	763	276	380	667	340	402	671	258	319
+4-hydroxybutyric acid	107	350	396	263	468	995	494	591	525	406	907	339	119	78	90	181	344	222	139	245	254	218	190	149	551	253	542	217	313	224	356	243	171	322	220	144	155	148	125	195	183	117	138	174	135	201	137	242	137	120	209	146	195	290	146	184	161	102	145	497	460	345	200	216	230	144	121	194	194	203	333	358	393	186	232	191	158	151	211	152
+4-aminobutyric acid	243	389	465	355	327	385	372	445	313	520	399	1297	65	61	84	74	250	380	232	474	1264	937	340	387	960	842	156	306	306	761	81	118	96	337	321	164	102	70	82	83	125	73	126	103	73	418	61	308	105	98	165	101	214	434	77	7	77	70	154	679	184	340	298	95	865	199	337	405	386	615	1198	1240	1175	429	418	307	548	403	843	360
+41682 acc mass = ketodeoxyhexonate	387	306	322	391	198	377	393	525	523	476	294	152	106	102	241	250	256	314	321	332	174	175	76	147	147	207	242	133	206	174	489	399	134	120	143	119	96	321	214	103	161	150	121	161	136	148	60	193	101	139	115	110	239	196	116	105	87	72	129	438	256	380	263	293	133	89	104	136	170	219	248	158	162	130	112	69	190	256	198	189
+3-phosphoglycerate	378	750	183	737	376	204	299	288	108	331	329	10252	73	63	75	162	378	1304	1045	1136	14857	18398	3700	15497	30622	20282	519	3541	302	6522	217	350	1213	1179	2188	865	1032	99	71	1342	1720	2362	1431	1178	1508	3382	746	1203	1230	1454	1207	1585	682	842	1753	1380	1538	1515	2362	432	135	435	1508	419	14730	3356	24519	27317	21488	28367	42909	31465	14048	11805	10676	16880	23791	30213	24080	27500
+3-hydroxybutyric acid	9941	5643	10542	7457	4499	19454	18723	14331	15550	3645	12477	2387	2544	2531	1691	2672	11007	26327	10057	9066	2021	1067	178	806	1438	1098	7268	2414	7213	1773	7780	15531	4940	9145	1009	1701	419	2723	3996	2531	2330	3511	2131	3674	3610	7495	1492	4913	3778	4535	85	5623	6265	5198	13004	4806	8497	14438	6296	35811	36300	22346	9540	12382	977	1210	1266	1039	3377	4442	2898	487	1976	1592	451	1844	3155	2268	1673	2574
+3,6-anhydro-D-galactose	617	1520	871	1243	515	1018	504	869	564	992	1208	652	131	176	129	171	1030	1449	1079	972	725	1031	392	579	3815	1152	1469	529	485	1943	389	415	162	178	150	150	142	215	386	249	252	227	210	242	175	410	108	209	155	149	146	159	242	251	201	153	183	132	162	1076	1462	420	1137	560	414	212	381	468	530	524	849	295	397	387	278	346	481	394	328	294
+2-monopalmitin	1700	1270	7218	6913	1295	1861	1297	1216	2581	661	2885	2328	4999	4625	5190	5978	5916	1640	6377	1068	2642	4604	1323	999	2282	2577	7693	2110	6306	5993	6599	5965	5283	1702	5122	5590	6034	5670	5586	620	7423	5976	5491	5385	5683	1638	6005	6598	5571	5224	5471	5353	5851	1205	5342	6837	6225	5575	5436	6996	1895	6280	1401	5664	2985	767	2106	1320	1305	2772	2181	1744	3033	778	1734	1494	2627	2508	4507	3112
+2-monoolein	21527	20574	10319	16274	21494	24616	21952	9715	43856	20004	34081	2431	203	270	294	390	7314	15748	3872	19436	3330	4014	2962	1151	3184	2633	10653	2755	9547	7078	13025	9240	306	1662	494	432	607	247	658	1097	2510	771	484	300	515	2873	539	1242	298	340	505	379	502	1279	286	702	346	489	391	11343	29821	7684	13680	4850	4526	3043	3741	2724	2238	2757	1735	1038	8863	2983	3403	4054	5450	2410	6257	3921
+2-hydroxyvaleric acid	5193	1081	3774	3890	1176	1484	1255	866	674	8305	1255	1100	1862	2265	1261	3370	2691	1152	687	846	1571	862	3339	790	1722	1385	1176	1413	1181	1321	4728	5924	868	1550	1072	3330	862	3159	3967	1331	3672	3739	1749	1128	980	818	2916	1856	566	1384	1235	515	1136	1164	787	1250	1697	1543	2274	878	1283	1107	3635	1029	1343	820	711	1012	1206	1770	1589	1556	1069	1199	1509	1106	3167	8196	6816	580
+2-hydroxyglutaric acid	613	800	806	677	706	933	875	870	773	713	814	788	242	191	132	173	606	767	776	667	1165	1364	360	384	1935	605	695	494	1070	1147	775	579	376	887	935	405	447	160	65	538	758	504	416	341	351	362	323	583	364	402	552	332	812	1027	314	408	503	417	755	819	750	1016	658	633	1180	415	574	911	611	1154	1245	4435	1227	848	898	709	640	844	852	548
+2-hydroxybutanoic acid	5604	10010	7640	8972	7660	5624	4775	7295	8551	4559	9135	9305	14623	11947	11734	16721	6762	6793	5932	6979	12258	14638	6768	10471	34263	10417	11362	11589	6176	25280	6740	5152	2476	25050	8342	7460	11386	15456	24299	16378	11125	7962	7049	3276	3168	8623	2492	9245	1658	6035	917	3752	10680	17532	3527	2278	9599	6711	7202	6009	8763	6953	5509	4042	12183	9320	3007	9806	7258	8731	14130	12581	9127	9431	12040	13831	10267	11431	11624	2346
+2-deoxytetronic acid	3260	756	621	917	560	778	920	738	334	294	686	4940	1513	1329	838	1841	478	573	604	863	8970	5480	4927	1744	2805	5589	711	7832	540	7894	332	426	491	977	612	695	648	1758	436	667	1343	817	435	675	1139	4799	613	792	425	517	587	1022	525	793	1452	828	981	1050	855	853	886	710	583	733	1643	770	2076	2071	1890	4178	5152	2550	2684	2774	2411	2430	5402	2705	4899	3060
+21683 glycerol-1-phosphate byproduct	1090	1135	2197	1774	567	1046	1392	1558	935	1404	1479	797	1067	456	433	1430	1427	2175	648	2210	4384	4332	3567	1160	2716	3593	1809	3513	1039	3003	579	482	775	2116	1357	1074	883	1143	248	1004	1650	1694	866	1014	907	3362	422	2055	773	959	1519	944	1824	2969	486	620	826	865	1799	1852	1281	1051	1681	794	9183	706	2388	2495	5381	5728	3990	9115	3630	3838	5804	3406	2628	7100	4859	2637
+2,3-dihydroxybutanoic acid	66	67	98	53	92	52	80	83	61	70	71	295	166	142	153	162	87	57	73	83	520	333	289	165	371	191	86	363	99	451	37	55	79	79	46	60	72	106	51	58	92	98	57	79	82	88	100	94	68	80	110	134	137	116	98	105	89	122	117	82	72	96	45	81	123	89	184	269	259	321	353	253	267	259	203	113	396	277	442	289
+1-monostearin	1158	1397	2275	1614	2249	1792	1399	1338	1594	380	857	767	660	470	715	820	1957	1768	1225	753	1376	1476	1207	948	1901	1163	2449	1290	1342	1774	1177	1208	513	1208	893	823	1007	685	610	1274	1191	482	765	835	314	1083	673	1354	876	1125	631	750	432	1206	498	1001	1024	785	821	2816	2376	1365	1278	763	1377	1181	1244	1273	1261	929	1476	1546	2111	1263	1199	3303	1529	1108	1651	767
+1-monopalmitin	1892	2116	1356	1858	1264	2721	1363	1632	2966	2009	2212	890	712	713	612	789	512	1535	390	1068	939	1728	666	257	1013	781	2054	736	1324	1396	1266	1505	635	1354	933	573	723	681	392	905	162	204	645	70	645	383	1090	450	555	361	475	692	355	106	546	1094	897	698	638	2566	1597	2143	901	986	1141	859	781	1727	232	679	588	718	1054	754	919	1288	928	403	1028	786
+1-kestose	4197	25235	16592	19597	18084	23265	21690	13558	4513	3462	11907	58	62	71	35	77	11354	29088	1611	15996	75	56	52	73	74	96	36632	85	26688	69	3049	2414	86	73	69	415	89	59	64	130	85	95	215	82	80	90	95	47	53	68	95	72	44	89	76	86	100	102	73	14528	28795	14016	14329	14039	60	54	57	65	74	90	62	61	48	71	68	72	76	77	67	45
+1,5-anhydroglucitol	1989	2107	2463	2323	3442	4348	4321	4481	4245	4466	5463	3322	32684	28766	27643	38096	1992	2719	1770	2290	5482	5673	2099	2552	7352	5112	5879	3212	1844	7762	2104	2321	2298	3442	2343	4761	5674	36552	61	6977	6025	6893	5485	2251	4851	1925	4330	2883	1968	2580	1915	2159	2151	3472	2266	2252	2665	2043	2758	2521	2347	2396	2256	1487	2207	691	1490	1957	1791	2073	2291	1207	1988	2044	1672	1745	2259	2498	2716	2292
+2,5-dihydroxypyrazine	27107	38485	70429	42365	29242	37850	36863	35920	27125	26727	32623	174	119	144	86	113	52380	48358	33198	56176	184	139	90	90	355	246	69655	146	34483	307	30817	32507	5608	24184	15586	7644	2954	113	70	13494	10803	4697	5386	9192	2326	103	4885	9579	7126	7572	6434	6754	9016	24900	6127	7500	5814	2444	12291	52917	43008	36619	36256	28760	402	79	228	169	182	327	316	320	210	218	250	222	196	288	182	255
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	Quantified m/z	Retention Index	KEGG ID	PubChem ID
+xylulose	173	553450
+xylose	307	546699
+xylonolactone	217	535176
+xylonic acid isomer	189	590775
+xylitol	217	567437
+xanthosine	325	926133
+xanthine	353	701688
+valine	144	313502
+uridine	217	861508
+uric acid	441	731038
+urea	189	336356
+uracil	241	385735
+UDP-N-acetylglucosamine	226	625003
+UDP-glucuronic acid	217	585473
+UDP GlcNAc	226	627437
+tyrosine	218	671252
+tryptophan	202	780482
+trans-4-hydroxyproline	158	460662
+tocopherol gamma	223	1026121
+tocopherol alpha	237	1067809
+thymidine	170	349402
+threonine	218	409568
+threonic acid	292	497572
+threitol	217	467595
+taurine	326	556690
+tartaric acid	292	532135
+sulfuric acid	227	285430
+sucrose	271	912704
+succinic acid	247	370737
+succinate semialdehyde	113	297024
+stearic acid	117	787622
+squalene	95	976237
+spermidine	174	774747
+sorbitol	217	667922
+shikimic acid	204	611100
+serine	218	395020
+sebacic acid, di(2-octyl) ester	185	968699
+ribulose-5-phosphate	357	735908
+ribose-5-phosphate	315	731096
+ribose	217	553135
+ribonic acid	292	597646
+ribitol	217	575497
+raffinose	361	1120886
+pyruvic acid	174	213805
+pyrophosphate	110	327517
+putrescine	174	588872
+p-tolyl glucuronide	180	847531
+pseudo uridine	217	813899
+propane-1,3-diol NIST	177	214380
+proline	142	364716
+pipecolinic acid	156	404121
+phthalic acid	147	567345
+phosphogluconic acid	299	847013
+phosphoethanolamine	299	603912
+phosphoenolpyruvate	211	518184
+phosphate	314	345365
+phenylethylamine	174	510327
+phenylalanine	218	537804
+phenaceturic acid	91	654351
+pentono-1,4-lactone	102	587644
+pelargonic acid	117	399229
+parabanic acid	100	464991
+pantothenic acid	291	690887
+palmitoleic acid	311	704511
+palmitic acid	313	713809
+oxoproline	156	485935
+oxalic acid	190	260513
+orotic acid	254	586317
+ornithine	142	529384
+oleic acid	339	779120
+octanol	187	247010
+octadecanol	327	755409
+nonadecanoic acid	117	822782
+N-methylalanine	130	286855
+nicotinic acid	180	353934
+nicotinamide	179	471602
+N-acetylmannosamine	319	722897
+N-acetylglutamate	216	604748
+n-acetyl-d-hexosamine	319	746341
+myristic acid	117	634414
+methyltetrahydrophenanthrenone	197	594337
+methionine sulfoxide	128	605401
+methionine	176	483560
+methanolphosphate	241	289520
+melibiose	361	988497
+melezitose	361	1146704
+mannose	205	645856
+maltotriose	361	1176044
+maltose	204	946601
+malic acid	233	463180
+maleimide	154	245118
+maleic acid	245	363611
+lyxitol	217	573587
+lysine	156	663483
+linolenic acid	108	780376
+linoleic acid	150	777414
+levoglucosan	204	569637
+leucine	158	346101
+lauric acid	117	547906
+lactose	191	935640
+lactitol	361	959541
+lactic acid	191	215238
+isothreonic acid	292	489385
+isomaltose	204	993307
+isoleucine	158	359251
+isocitric acid	245	616323
+inositol-4-monophosphate	315	846510
+inosine-5'-monophosphate	169	1018687
+inosine	230	897184
+indole-3-lactate	202	764586
+indole-3-acetate	202	684929
+hypoxanthine	265	619128
+hydroxylamine	146	253158
+hydroxycarbamate	278	325948
+histidine	154	664395
+hexuronic acid	160	667373
+hexose-6-phosphate	387	806282
+hexonic acid	217	698302
+hexitol	217	704741
+hexadecylglycerol	205	867593
+heptadecanoic acid	117	751309
+guanosine	324	954962
+glycolic acid	177	227215
+glycocyamine	171	511016
+glycine	248	368707
+glycerol-alpha-phosphate	357	590747
+glycerol-3-galactoside	204	800205
+glycerol	205	344466
+glyceric acid	189	377495
+glutathione	213	761296
+glutaric acid	261	421596
+glutamine dehydrated	227	519033
+glutamine	156	600315
+glutamic acid	246	529100
+glutamate	174	489240
+glucose-6-phosphate	387	818275
+glucose-1-phosphate	217	594647
+glucose	319	659798
+gluconic acid	333	693148
+glucoheptulose	217	828606
+gamma-aminobutyric acid	102	364801
+galactose-6-phosphate	387	828102
+galactonic acid	292	690882
+galactinol	204	1017580
+fumaric acid	245	392338
+fucose	160	578299
+fructose-6-phosphate	315	804279
+fructose-1-phosphate	387	803180
+fructose	307	641863
+ethanolamine	174	340131
+ethanol phosphate	211	317291
+erythronic acid lactone	247	407495
+erythritol	217	471922
+enolpyruvate	217	234394
+dodecanol	243	507619
+dodecanoic acid, isopropanol ester	200	536494
+doconexent	91	902819
+digalacturonic acid	169	988150
+dehydroascorbic acid	303	641371
+cytidine-5-monophosphate	169	974825
+cystine	218	804619
+cysteine-glycine	220	715335
+cysteine	220	500158
+creatinine	115	502599
+conduritol-beta-expoxide	318	701723
+citrulline	157	623406
+citric acid	273	617342
+citramalic acid	247	456203
+cis-gondoic acid	367	847372
+cholesterol	129	1078536
+cholestan-3-ol	215	1082070
+cellobiose	204	932179
+capric acid	229	452386
+bisphosphoglycerol	299	764660
+beta-glycerolphosphate	243	574470
+beta-glutamic acid	232	525547
+beta-alanine	248	435564
+benzoic acid	179	339067
+behenic acid	117	920648
+aspartic acid	232	480387
+aspartate	160	433075
+asparagine	188	553078
+ascorbic acid	332	672898
+arachidonic acid	91	837115
+arachidic acid	117	856421
+aminomalonate	218	455754
+allantoic acid dehydrated	259	723539
+alanine-alanine	116	523110
+alanine	116	244189
+adipic acid	111	474435
+adenosine-5-monophosphate	169	1038688
+adenosine	236	918039
+adenine	264	646534
+aconitic acid	229	586815
+97455 maybe EPA	93	840764
+5-methoxytryptamine	174	864466
+5-hydroxy-3-indoleacetic acid	290	777606
+5'-deoxy-5'-methylthioadenosine	236	967036
+4-hydroxyhippuric acid	294	784581
+4-hydroxybutyric acid	233	325027
+4-aminobutyric acid	304	488730
+41682 acc mass = ketodeoxyhexonate	144	605091
+3-phosphoglycerate	227	610734
+3-hydroxybutyric acid	191	278829
+3,6-anhydro-D-galactose	231	588886
+2-monopalmitin	129	890356
+2-monoolein	129	941794
+2-hydroxyvaleric acid	131	309587
+2-hydroxyglutaric acid	247	506306
+2-hydroxybutanoic acid	131	258161
+2-deoxytetronic acid	189	433456
+21683 glycerol-1-phosphate byproduct	211	524126
+2,3-dihydroxybutanoic acid	292	384796
+1-monostearin	129	959214
+1-monopalmitin	129	901749
+1-kestose	361	1123027
+1,5-anhydroglucitol	217	633969
+2,5-dihydroxypyrazine	241	397526
+METABOLITES_END
+#END

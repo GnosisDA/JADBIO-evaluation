@@ -1,0 +1,175 @@
+#METABOLOMICS WORKBENCH cordeirofb_20170406_154513_mwtab.txt DATATRACK_ID:882 STUDY_ID:ST000585 ANALYSIS_ID:AN000900
+VERSION             	1
+CREATED_ON             	April 11, 2017, 12:58 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Follicular fluid Metabolomics
+PR:PROJECT_TYPE                  	MS qualitative analysis
+PR:PROJECT_SUMMARY               	Metabolomics profiling of follicular fluid samples from patients undergoing in
+PR:PROJECT_SUMMARY               	vitro fertilization treatment
+PR:INSTITUTE                     	SAO PAULO FEDERAL UNIVERSITY
+PR:DEPARTMENT                    	DEPARTMENT OF SURGERY, DIVISIONOF UROLOGY, HUMAN REPRODUCTION SECTION
+PR:LABORATORY                    	CENTER OF RESEARCH IN UROLOGY
+PR:LAST_NAME                     	CORDEIRO
+PR:FIRST_NAME                    	FERNANDA
+PR:ADDRESS                       	Rua Embau, 231, Vila Clementino
+PR:EMAIL                         	fernandabertuccez85@gmail.com
+PR:PHONE                         	11996667402
+#STUDY
+ST:STUDY_TITLE                   	METABOLOMIC PROFILING OF FOLLICULAR FLUID FROM PATIENTS WITH INFERTILITY-RELATED
+ST:STUDY_TITLE                   	DEEP ENDOMETRIOSIS.
+ST:STUDY_SUMMARY                 	the metaboloc qualitative profiling was performed by LC-MS in follicular fluid
+ST:STUDY_SUMMARY                 	samples of controls and endometriosis patients undergoing in vitro fertilization
+ST:STUDY_SUMMARY                 	treatment
+ST:INSTITUTE                     	Sao Paulo Federal University
+ST:LAST_NAME                     	Cordeiro
+ST:FIRST_NAME                    	Fernanda
+ST:ADDRESS                       	Rua Embau, 231, Vila Clementino
+ST:EMAIL                         	fernandabertuccez85@gmail.com
+ST:PHONE                         	11996667402
+ST:NUM_GROUPS                    	2
+ST:TOTAL_SUBJECTS                	40
+ST:NUM_FEMALES                   	40
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human Follicular Fluid
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:AGE_OR_AGE_RANGE              	18-40
+SU:GENDER                        	female
+SU:HUMAN_MEDICATIONS             	Controled ovarian Stimulation
+SU:HUMAN_EXCLUSION_CRITERIA      	Polycystic ovary syndrome, cancer, premature ovarian failure.
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	QC_Control_1	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_Control_2	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_Control_3	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C01_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C01_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C02_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C02_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C03_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C03_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C04_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C04_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C05_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C05_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_Control_4	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C06_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C06_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C07_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C07_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C08_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C08_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C09_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C09_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C10_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C10_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_Control_5	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C11_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C11_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C12_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C12_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C13_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C13_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C14_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C14_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C15_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C15_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_Control_6	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C16_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C16_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C17_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C17_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C18_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C18_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C19_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C19_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C20_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C20_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C21_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C21_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C22_1	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	C22_2	Sample Type:Control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_END_1	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_END_2	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_END_3	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END01_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END01_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END02_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END02_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END03_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END03_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END04_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END04_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END05_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END05_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_END_4	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END06_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END06_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END07_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END07_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END08_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END08_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END09_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END09_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END10_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END10_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_END_5	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END11_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END11_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END12_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END12_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END13_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END13_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END14_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END14_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END15_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END15_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	QC_END_6	Sample Type:Quality control	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END16_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END16_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END17_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END17_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END18_1	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+SUBJECT_SAMPLE_FACTORS           	-	END18_2	Sample Type:Endometriosis patient	Sample Preparation=Bligh & Dyer (1959); Amount of sample=50 µL; Type of extract collected=polar and apolar phases; Amount for LC-MS=5 µL of ressuspended sample in 100 µL of ACN:H20 (1:1 - v:v); Time of run=17 minutes
+#COLLECTION
+CO:COLLECTION_SUMMARY            	The FF samples were collected based on follicular aspiration after ovarian
+CO:COLLECTION_SUMMARY            	controlled stimulation protocol, defined by the doctor prior to the begining of
+CO:COLLECTION_SUMMARY            	the treatment. Follicular fluid samples were collectd and centrifuged at 800 ×
+CO:COLLECTION_SUMMARY            	g for 10 minutes to separate the fluid from follicular cells and the samples
+CO:COLLECTION_SUMMARY            	were maintained frozen in -20 °C until the metabolites extraction.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Does not apply. Patients were treated for infertility according to their medical
+TR:TREATMENT_SUMMARY             	needs. The present study has no interference on patients management and it is
+TR:TREATMENT_SUMMARY             	defined as a prospective case-control study.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	The FF samples were centrifuged at 800 × g for 10 minutes to separate the fluid
+SP:SAMPLEPREP_SUMMARY            	from follicular cells and the samples were maintained frozen in -20 °C until
+SP:SAMPLEPREP_SUMMARY            	the metabolites extraction. The Bligh & Dyer protocol (1959) was applied for
+SP:SAMPLEPREP_SUMMARY            	proteins removal and was performed as herein: 50 µL of sample was placed in a
+SP:SAMPLEPREP_SUMMARY            	microtube, followed by addition of 50 µL of milli-Q water, 125 µL of
+SP:SAMPLEPREP_SUMMARY            	chloroform (CHCl3 - Merck Millipore, MA, EUA) and 250 µL of methanol (MeOH -
+SP:SAMPLEPREP_SUMMARY            	Merck Millipore - Massachusetts, EUA). The mixture was vortexed for 30 seconds.
+SP:SAMPLEPREP_SUMMARY            	Next, polar and apolar phases were separated by the addition of 100 µL of
+SP:SAMPLEPREP_SUMMARY            	milli-Q water and 125 µL of CHCl3 (Merck Millipore, MA EUA). Both polar and
+SP:SAMPLEPREP_SUMMARY            	apolar phases were collected and transferred to a new microtube. The final
+SP:SAMPLEPREP_SUMMARY            	content was dried by using a speedvac (CentriVap Cold Trap, Labconco, MO, USA).
+SP:SAMPLEPREP_SUMMARY            	Prior to the LC-MS analysis, the metabolites were recovered by using 100 µL of
+SP:SAMPLEPREP_SUMMARY            	acetonitrile and water (ACN:H2O 1:1, v:v - Merk Millipore, MA, USA) and filtered
+SP:SAMPLEPREP_SUMMARY            	in 0.22 μm PVDF filters (Merck Millipore, MA, EUA).
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Ultima Q-TOF
+CH:COLUMN_NAME                	Acquity UPCL HSS 1,8 µm, 2.1x100 mm
+CH:COLUMN_TEMPERATURE         	35 °C
+CH:SOLVENT_A                  	H2O with formic acid 0.1%
+CH:SOLVENT_B                  	Acetonitrile with formic acid 0.1%
+CH:ANALYTICAL_TIME            	17 minutes
+CH:CAPILLARY_VOLTAGE          	3 kV
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Ultima Q-TOF
+MS:INSTRUMENT_TYPE          	QTOF
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_RESULTS_FILE          	ST000585_AN000900.txt
+#END

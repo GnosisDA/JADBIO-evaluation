@@ -1,0 +1,243 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170720_090923_mwtab.txt DATATRACK_ID:1163 STUDY_ID:ST000808 ANALYSIS_ID:AN001281
+VERSION             	1
+CREATED_ON             	July 24, 2017, 12:00 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Establishing the Validity of a Mid-Pregnancy Serum Archive for Novel Studies of
+PR:PROJECT_TITLE                 	Perinatal Outcomes
+PR:PROJECT_SUMMARY               	This study aims to establish a set of test samples that will be used to validate
+PR:PROJECT_SUMMARY               	the utility of the banked biospecimens, which will serve as critical preliminary
+PR:PROJECT_SUMMARY               	data for future NIH grant proposals. Specifically, for the current proposal we
+PR:PROJECT_SUMMARY               	aim to: 1) Collect test samples. We will design a sample collection protocol
+PR:PROJECT_SUMMARY               	that mimics “ideal” and “worst-case” sample handling conditions and
+PR:PROJECT_SUMMARY               	collect and store the samples for future testing. 2) Establish the validity of
+PR:PROJECT_SUMMARY               	the samples for measuring lipid mediators and global metabolomics. We will use
+PR:PROJECT_SUMMARY               	the test samples to accomplish this Aim. The test samples were stored in small
+PR:PROJECT_SUMMARY               	aliquots for this proposal as well as future validation studies. Targeted
+PR:PROJECT_SUMMARY               	metabolomic analyses of oxylipins, endocannabinoids, ceramides, and bile acids
+PR:PROJECT_SUMMARY               	on human serum samples were performed by the Newman lab. Analysis of primary
+PR:PROJECT_SUMMARY               	metabolism and complex lipids was performed by the Fiehn lab.
+PR:INSTITUTE                     	Stanford University
+PR:DEPARTMENT                    	Pediatrics - Neonatology
+PR:LAST_NAME                     	Carmichael
+PR:FIRST_NAME                    	Suzan
+PR:ADDRESS                       	450 Serra Mall, Stanford, CA 94305
+PR:EMAIL                         	scarmichael@stanford.edu
+PR:PHONE                         	(650) 736-0735
+#STUDY
+ST:STUDY_TITLE                   	Establishing the Validity of a Mid-Pregnancy Serum Archive for Novel Studies of
+ST:STUDY_TITLE                   	Perinatal Outcomes (part VI)
+ST:STUDY_TYPE                    	Retrospective cohort study
+ST:STUDY_SUMMARY                 	This study aims to establish a set of test samples that will be used to validate
+ST:STUDY_SUMMARY                 	the utility of the banked biospecimens, which will serve as critical preliminary
+ST:STUDY_SUMMARY                 	data for future NIH grant proposals. Specifically, for the current proposal we
+ST:STUDY_SUMMARY                 	aim to: 1) Collect test samples. We will design a sample collection protocol
+ST:STUDY_SUMMARY                 	that mimics “ideal” and “worst-case” sample handling conditions and
+ST:STUDY_SUMMARY                 	collect and store the samples for future testing. 2) Establish the validity of
+ST:STUDY_SUMMARY                 	the samples for measuring lipid mediators and global metabolomics. We will use
+ST:STUDY_SUMMARY                 	the test samples to accomplish this Aim. The test samples were stored in small
+ST:STUDY_SUMMARY                 	aliquots for this proposal as well as future validation studies. Targeted
+ST:STUDY_SUMMARY                 	metabolomic analyses of oxylipins, endocannabinoids, ceramides, and bile acids
+ST:STUDY_SUMMARY                 	on human serum samples were performed by the Newman lab. Analysis of primary
+ST:STUDY_SUMMARY                 	metabolism and complex lipids was performed by the Fiehn lab.
+ST:INSTITUTE                     	U.S.D.A. Western Human Nutrition Research Center, University of California,
+ST:INSTITUTE                     	Davis
+ST:DEPARTMENT                    	Nutrition
+ST:LABORATORY                    	Newman Lab
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 W. Health Sciences Dr., Davis, CA 95616
+ST:EMAIL                         	john.newman@ars.usda.gov
+ST:PHONE                         	+1-530-752-1009
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Females
+SU:SUBJECT_COMMENTS              	Obese pregnant femals
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	PT18_biob_UCD4	CRS_01	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT08_biob_UCD4	CRS_02	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT20_biob_UCD4	CRS_03	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT09_biob_UCD2	CRS_04	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT11_biob_UCD4	CRS_05	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT16_ideal_UCD2	CRS_06	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT08_biob_UCD2	CRS_07	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT12_biob_UCD2	CRS_08	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT12_biob_UCD4	CRS_09	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT02_ideal_UCD2	CRS_10	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT10_biob_UCD2	CRS_11	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT15_biob_UCD4	CRS_12	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT19_biob_UCD2	CRS_13	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT03_biob_UCD4	CRS_14	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT18_ideal_UCD2	CRS_15	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT07_ideal_UCD2	CRS_16	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT11_biob_UCD2	CRS_17	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT13_ideal_UCD2	CRS_18	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT20_biob_UCD2	CRS_19	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT17_biob_UCD4	CRS_20	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT04_biob_UCD2	CRS_21	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT20_ideal_UCD2	CRS_22	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT01_biob_UCD4	CRS_23	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT17_biob_UCD2	CRS_24	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT06_ideal_UCD2	CRS_25	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT14_biob_UCD2	CRS_26	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT15_biob_UCD2	CRS_27	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT02_biob_UCD4	CRS_28	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT01_ideal_UCD2	CRS_29	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT01_biob_UCD2	CRS_30	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT19_ideal_UCD2	CRS_31	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT19_biob_UCD4	CRS_32	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT06_biob_UCD2	CRS_33	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT04_ideal_UCD2	CRS_34	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT06_biob_UCD4	CRS_35	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT16_biob_UCD2	CRS_36	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT11_ideal_UCD2	CRS_37	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT16_biob_UCD4	CRS_38	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT05_biob_UCD2	CRS_39	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT10_biob_UCD4	CRS_40	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT09_ideal_UCD2	CRS_41	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT03_biob_UCD2	CRS_42	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT15_ideal_UCD2	CRS_43	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT08_ideal_UCD2	CRS_44	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT04_biob_UCD4	CRS_45	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT09_biob_UCD4	CRS_46	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT13_biob_UCD4	CRS_47	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT05_biob_UCD4	CRS_48	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT12_ideal_UCD2	CRS_49	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT03_ideal_UCD2	CRS_50	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT17_ideal_UCD2	CRS_51	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT05_ideal_UCD2	CRS_52	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT07_biob_UCD2	CRS_53	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT18_biob_UCD2	CRS_54	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT02_biob_UCD2	CRS_55	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT14_ideal_UCD2	CRS_56	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT14_biob_UCD4	CRS_57	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT10_ideal_UCD2	CRS_58	Treatment:Ideal	
+SUBJECT_SAMPLE_FACTORS           	PT07_biob_UCD4	CRS_59	Treatment:Biob	
+SUBJECT_SAMPLE_FACTORS           	PT13_biob_UCD2	CRS_60	Treatment:Biob	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Ideal: serum was collected and centrifuged within 30 min before being was
+CO:COLLECTION_SUMMARY            	aliquoted into tubes and immediately frozen at -70 °C Biobank: serum was
+CO:COLLECTION_SUMMARY            	collected and centrifuged within 30 min before sitting at room temperature 3
+CO:COLLECTION_SUMMARY            	days, then placed in refrigerator 3 days, before being frozen at -70 °C
+CO:COLLECTION_SUMMARY            	Biobank-FT: serum was collected and centrifuged within 30 min before sitting at
+CO:COLLECTION_SUMMARY            	room temperature 3 days, then placed in refrigerator 3 days, before being frozen
+CO:COLLECTION_SUMMARY            	at -70 °C, then thawed at room temperature for 30 minutes, then re-frozen at
+CO:COLLECTION_SUMMARY            	-70 °C
+CO:COLLECTION_PROTOCOL_FILENAME  	CHRI_Study_-_Prelim_Report_All_Data.docx
+CO:SAMPLE_TYPE                   	Blood
+CO:BLOOD_SERUM_OR_PLASMA         	Serum
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Ideal: serum was collected and centrifuged within 30 min before being was
+TR:TREATMENT_SUMMARY             	aliquoted into tubes and immediately frozen at -70 °C Biobank: serum was
+TR:TREATMENT_SUMMARY             	collected and centrifuged within 30 min before sitting at room temperature 3
+TR:TREATMENT_SUMMARY             	days, then placed in refrigerator 3 days, before being frozen at -70 °C
+TR:TREATMENT_SUMMARY             	Biobank-FT: serum was collected and centrifuged within 30 min before sitting at
+TR:TREATMENT_SUMMARY             	room temperature 3 days, then placed in refrigerator 3 days, before being frozen
+TR:TREATMENT_SUMMARY             	at -70 °C, then thawed at room temperature for 30 minutes, then re-frozen at
+TR:TREATMENT_SUMMARY             	-70 °C
+TR:TREATMENT_PROTOCOL_FILENAME   	CHRI_Study_-_Prelim_Report_All_Data.docx
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Non-esterified oxylipins, endocannabinoids, polyunsaturated fatty acids and bile
+SP:SAMPLEPREP_SUMMARY            	acids extraction: Oxylipins, endocannabinoids, fatty acids and bile acids were
+SP:SAMPLEPREP_SUMMARY            	isolated by liquid extraction protocol using methanol/acetonitrile mixture (1:1
+SP:SAMPLEPREP_SUMMARY            	v/v] from 40 µL of serum and quantified by UPLC-MS/MS using internal standard
+SP:SAMPLEPREP_SUMMARY            	methods. Procedure shortly: 40 µL of serum was mixed with 5 µL BHT/EDTA (1:1
+SP:SAMPLEPREP_SUMMARY            	MeOH:water), 10 µL of 0.5 µM deuterated oxylipins and endocannabinoids
+SP:SAMPLEPREP_SUMMARY            	surrogates and 20 µL of 1 µM deuterated bile acids surrogates in methanol.
+SP:SAMPLEPREP_SUMMARY            	Next, serum was homogenized by addition of 200 µL of 1-cyclohexyl ureido,
+SP:SAMPLEPREP_SUMMARY            	3-dodecanoic acid (CUDA) and 1-phenyl ureido 3-hexanoic acid (PUHA) at 100 nM in
+SP:SAMPLEPREP_SUMMARY            	1:1 methanol:acetonitrile. Next, homogenate was centrifuge at 15000 rcf for 10
+SP:SAMPLEPREP_SUMMARY            	min and the methanol/acetonitrile supernatant was collected for mass
+SP:SAMPLEPREP_SUMMARY            	spectrometry analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity UPLC
+CH:COLUMN_NAME                	Waters 2.1 x 150mm, 1.7µm BEH C18 column
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	QTRAP
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration pmol/g
+MS_METABOLITE_DATA_START
+Samples	CRS_29	CRS_10	CRS_50	CRS_34	CRS_52	CRS_25	CRS_16	CRS_44	CRS_41	CRS_58	CRS_37	CRS_49	CRS_18	CRS_56	CRS_43	CRS_06	CRS_51	CRS_15	CRS_31	CRS_22	CRS_30	CRS_55	CRS_42	CRS_21	CRS_39	CRS_33	CRS_53	CRS_07	CRS_04	CRS_11	CRS_17	CRS_08	CRS_60	CRS_26	CRS_27	CRS_36	CRS_24	CRS_54	CRS_13	CRS_19	CRS_23	CRS_28	CRS_14	CRS_45	CRS_48	CRS_35	CRS_59	CRS_02	CRS_46	CRS_40	CRS_05	CRS_09	CRS_47	CRS_57	CRS_12	CRS_38	CRS_20	CRS_01	CRS_32	CRS_03
+Factors	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Ideal	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob	Treatment:Biob
+PGE2	0.184	0.224	0.137	0.171	0.0497	0.22	0.375	0.153	0.119	0.156	0.153	0.196	0.365	0.0644	0.149	0.303	0.124	0.678	0.284	0.452	0.172	0.125	0.114	0.285	0.161	0.318	0.0529	0.224	0.374	0.476	0.3	0.223	0.126	0.304	0.235	0.113	0.532	0.0871	0.159	0.29	0.204	0.188	0.189	0.135	0.0585	0.315	0.053	0.109	0.105	0.145	0.229	0.222	0.195	0.0895	0.125	0.0593	0.445	0.0728	0.258	0.203
+PGD2	0.0997	0.108	0.00479	0.00674	0.0696	0.0201	0.011	0.0749	< LOD	0.111	0.0318	0.0427	0.0714	0.00136	0.0337	0.0518	0.0021	0.0544	0.0207	0.0431	0.133	0.106	0.0137	0.0833	0.197	0.137	0.0472	0.108	0.217	0.04	0.0475	0.04	0.0128	0.0238	0.00456	0.025	0.281	0.00396	0.047	0.066	0.0562	0.216	0.123	< LOD	0.0611	0.171	0.00242	0.203	0.0258	0.126	0.14	0.0034	0.0544	0.00357	0.0837	< LOD	0.327	0.114	0.0243	0.171
+PGF2a Isoprostanes	0.34	0.404	< LOD	0.633	0.127	0.0476	< LOD	0.301	0.489	< LOD	0.144	0.0375	0.209	< LOD	0.0801	0.154	< LOD	0.271	0.144	0.00429	0.385	0.611	< LOD	0.521	0.293	0.175	< LOD	0.169	0.479	0.00324	0.0594	0.115	0.175	0.0429	0.0438	0.33	< LOD	0.304	0.133	0.0587	0.371	0.654	< LOD	0.313	0.117	0.115	< LOD	0.295	0.351	0.0902	0.0556	0.0318	0.203	0.0128	0.0958	0.391	< LOD	0.376	0.33	0.0336
+TXB2	10.4	8.91	24	10.4	10.8	13.1	14.8	16.6	9.16	19.7	11.6	22.6	23.9	11	17.4	18.9	13.9	37.2	19	26	5.19	3.4	22.3	8.23	11.9	12.4	11.4	12.7	4.99	19.8	9.25	13.2	21.6	9.71	10.5	13.4	6.87	31.1	15.5	22.9	4.71	3.25	20	7.89	10.8	13.4	11.5	14.5	6.72	20.3	11	14.5	24.4	12	12.1	14.9	6.91	36.6	17.9	21.8
+LTB4	0.142	0.147	0.989	0.0488	0.285	0.49	0.033	0.215	0.127	0.00861	0.00697	0.628	0.906	< LOD	0.117	0.0586	0.0836	0.382	0.193	0.088	0.186	0.0869	0.983	0.0638	0.302	0.515	0.0808	0.164	0.154	0.0285	0.0257	0.58	0.58	0.0145	0.101	0.0464	0.134	0.547	0.245	0.0459	0.136	0.106	1.02	0.0659	0.34	0.681	0.0306	0.205	0.12	0.0259	< LOD	0.519	1.03	0.0303	0.153	0.0791	0.141	0.566	0.319	0.0889
+9,12,13-TriHOME	0.626	1.3	1.11	1.86	1.12	1.35	4.02	3.16	1.98	2.8	1.44	6.11	2.44	1.19	0.687	1.36	0.555	1.25	1.3	2.27	0.635	0.847	1.25	1.76	1.18	1.61	3.71	3.46	2.2	3.46	1.27	5.88	2.27	1.64	0.752	1.08	0.601	0.936	1.43	2.32	0.591	1.03	1.15	1.67	1.17	1.53	3.84	3.76	2.05	3.09	1.42	6.21	2.53	1.39	1.03	1.54	0.564	1.36	1.61	2.31
+9,10-e-DiHO	1.19	1.13	1.14	1.95	0.526	3.56	2.42	1.8	1.59	1.95	1.44	0.964	13.8	1.48	1.28	1.26	1.45	1.73	2.08	2.76	1.1	1.29	1.37	2.52	1.07	4.42	2.81	1.56	1.37	2.85	1.45	1.22	16.3	2.37	1.09	1.49	1.14	1.83	1.69	2.32	1.07	1.72	1.18	1.99	1.18	5.27	2.15	1.52	1.79	3.13	1.57	1.73	20.9	1.92	1.28	1.79	2.24	0.127	2.08	3.03
+9,10-DiHOME	1.82	2.28	1.01	5.88	2.17	3.74	3.74	5.83	1.92	13.6	1.4	9.41	10.3	2.51	1.06	2.62	1.17	2.77	2.35	2.16	2.2	2.26	1.26	6.21	2.76	5.18	4.28	4.69	2.23	18.4	1.54	9.12	12.1	4.85	1.12	2.95	1.16	2.89	2.18	2.55	1.9	2.7	1.17	5.55	2.61	5.59	4.33	5.24	2.34	19.1	1.66	8.33	13.9	4.4	1.39	3.49	1.22	3.7	2.84	2.28
+15,16-DiHODE	2.35	5.38	1.5	7.66	13.2	19.8	13	19	6.58	14.4	3.37	7.65	6.93	14.9	3.38	15.2	2.19	7.66	7.71	5.49	2.76	5.25	1.58	8.12	14.8	24.2	14.3	19.1	6.67	20	2.63	7.45	5.71	20.4	2.61	13.8	2.29	8.2	6.96	5.87	2.1	4.86	1.65	6.8	14.2	26.7	14.8	21.9	5.97	20.3	3.58	6.85	7.61	19.5	4.05	16.4	2.42	10.6	8.67	5.76
+9,10-DiHODE	0.0349	0.288	0.0777	0.792	0.13	0.504	0.281	0.611	0.156	0.549	0.0803	0.417	0.462	0.349	0.0572	0.311	0.037	0.166	0.141	0.127	0.0588	0.26	0.0785	0.882	0.127	0.717	0.33	0.562	0.248	0.832	0.0924	0.368	0.515	0.632	0.0865	0.305	0.0492	0.173	0.187	0.106	0.0609	0.253	0.0697	0.78	0.108	0.746	0.312	0.663	0.218	0.927	0.103	0.378	0.583	0.636	0.117	0.399	0.0411	0.263	0.219	0.116
+14,15-DiHETrE	0.151	0.166	0.327	0.195	0.232	0.114	0.143	0.222	0.194	0.194	0.137	0.265	0.261	0.212	0.197	0.246	0.151	0.438	0.224	0.164	0.17	0.166	0.424	0.254	0.278	0.188	0.143	0.246	0.226	0.304	0.156	0.245	0.291	0.258	0.153	0.293	0.154	0.437	0.208	0.16	0.175	0.227	0.413	0.206	0.261	0.185	0.175	0.269	0.217	0.311	0.184	0.26	0.421	0.255	0.219	0.324	0.179	0.552	0.257	0.192
+11,12-DiHETrE	0.151	0.138	0.243	0.188	0.148	0.098	0.0946	0.188	0.067	0.142	0.0953	0.226	0.255	0.161	0.148	0.252	0.122	0.393	0.134	0.0953	0.218	0.117	0.355	0.361	0.421	0.264	0.136	0.327	0.25	0.422	0.253	0.273	0.51	0.411	0.19	0.279	0.211	0.402	0.222	0.181	0.176	0.152	0.367	0.263	0.397	0.278	0.15	0.358	0.244	0.396	0.287	0.297	0.586	0.382	0.211	0.347	0.171	0.556	0.295	0.194
+8,9-DiHETrE	0.028	0.0253	0.0762	0.0588	0.0759	0.0574	< LOD	0.0668	0.0336	< LOD	0.0205	0.131	0.059	0.00478	< LOD	0.0793	0.0299	0.15	0.0538	0.0806	0.252	0.258	0.471	1.26	1.15	0.913	0.195	0.936	1.14	0.861	0.742	0.587	1.42	0.915	0.278	0.238	0.247	0.536	0.759	0.388	0.206	0.206	0.422	1.16	1.11	1.09	0.198	1.19	1.09	0.862	1.04	0.527	2.02	0.758	0.301	0.37	0.345	0.893	0.932	0.361
+5,6-DiHETrE	0.0476	0.0836	0.0853	0.0968	0.0242	0.139	0.0527	0.057	0.0437	0.0468	0.0275	0.153	0.106	0.0219	0.0803	0.137	0.153	0.138	0.0677	0.0494	2.17	1.56	2.46	1.42	1.13	2.42	1.38	1.02	1.2	0.993	0.993	3.15	1.44	1.1	1.77	2.83	4.51	2.77	0.858	1.89	1.91	1.7	2.44	1.21	1.02	2.65	1.57	1.22	1.1	1	1.17	3.22	1.83	1	2.28	3.27	4.48	3.85	1.07	1.91
+17,18-DiHETE	1.04	4.78	1.11	1.84	1.01	0.576	0.901	1.75	1.2	1.02	0.707	1.45	2.27	0.164	0.466	3.78	0.635	2.41	1.57	0.731	1.78	3.88	1.26	1.68	1.71	0.988	0.789	1.78	1.2	0.968	0.517	1.11	1.29	1.29	0.482	3.31	0.925	1.62	0.819	1.08	1.15	5.37	0.918	1.8	1.31	1.29	0.754	2.47	1.16	1.2	1.96	1.49	1.48	0.55	1.09	3.4	1.04	3.12	1.11	0.992
+19,20-DiHDoPE	0.503	1.35	0.621	1.18	0.925	0.363	0.272	0.544	0.577	0.351	0.429	0.708	0.969	0.162	0.229	1.74	0.404	1.04	0.514	0.498	0.535	1.2	0.835	1.11	1.21	0.571	0.213	0.577	0.606	0.573	0.412	0.769	1.01	0.351	0.204	1.75	0.339	0.971	0.502	0.546	0.463	1.45	0.874	0.986	1.01	0.562	0.254	0.576	0.552	0.605	0.527	0.73	1.24	0.307	0.29	2.29	0.36	1.26	0.582	0.535
+13-HODE	3.51	5.32	5.59	3.94	3.35	11.1	7.59	9.39	10.2	26.3	4.6	11.4	4.88	5.99	5.55	5.86	2.67	18.4	5.25	2.11	5.45	8.77	8.39	7.09	7.31	22.1	17.4	8.79	11.3	32.2	7.1	17.2	12.4	13.9	6.57	8.23	8.95	16.4	7.71	5.4	4.91	12.9	8.35	7.51	6.1	22.7	16.6	9.65	11.4	30.1	8.69	16.9	13.6	9.61	6.51	9.49	8.44	21	9.13	6.07
+9-HODE	2.3	3.29	3.68	2.51	2.03	4.99	8.05	7.05	6	22.5	2.91	8.3	8.8	3.93	4.58	5.56	2.99	14.2	4.18	1.32	3.05	6.79	5.17	4.7	4.51	11.3	20.8	5.66	10.2	24.5	4.5	15.5	16.8	9.13	5.22	5.32	8.22	10.9	5.3	3.26	2.94	7.68	5.16	4.7	4.06	10.9	21.5	6.29	10.4	23.9	5.79	15.9	17.6	7.6	4.48	6.09	7.77	15.8	6.57	4.11
+13-HOTE	< LOD	0.0294	0.0257	1.04	1.11	4.67	0.552	1.18	1.17	7.04	0.0404	0.746	0.232	3.76	0.231	0.377	< LOD	1.22	0.498	< LOD	0.0437	0.218	0.0854	0.87	0.994	6.07	1.42	0.301	0.929	2.36	0.0125	1.03	0.889	6.15	0.0775	0.413	0.244	1.14	0.223	0.00643	< LOD	0.443	0.132	0.968	0.991	7.33	1.92	0.388	0.705	1.85	0.394	1.07	1.1	4.87	0.149	0.788	0.349	1.16	0.799	0.342
+9-HOTE	0.171	0.197	0.23	0.244	0.177	0.645	0.66	0.628	0.419	0.745	0.161	0.626	0.935	0.85	0.239	0.237	0.272	0.739	0.25	0.0792	0.186	0.293	0.363	0.364	0.247	1.13	1.37	0.448	0.612	0.917	0.156	0.936	1.2	1.63	0.207	0.282	0.503	0.684	0.259	0.158	0.142	0.372	0.307	0.369	0.254	1.16	1.51	0.55	0.675	0.884	0.107	0.859	1.39	1.44	0.222	0.331	0.458	0.904	0.366	0.175
+15-HETE	0.333	0.0479	1	0.234	0.416	0.354	0.558	0.722	0.45	1.46	0.345	0.736	0.746	0.423	0.909	0.742	0.371	2.01	0.909	1.03	0.683	1.16	2.03	1.25	1.19	2.69	1.35	0.978	1.4	1.3	1.31	1.76	3.23	1.03	1.58	1.44	2.34	2.45	1.58	1.86	0.831	1.32	2.06	1.17	0.954	2.59	1.61	1.39	1.07	1.29	1.47	1.87	2.52	1.18	1.61	1.95	2.27	3.48	1.69	2.03
+12-HETE	10.6	2.22	54.3	8.96	14.9	11.3	29.3	12.7	40.3	13.2	7.59	33.9	42.9	6.85	33.2	32.1	14.1	69.8	34.2	48.6	14.7	3.99	75.6	12.5	19.9	17.6	32.2	15.3	55	28.1	13.1	37.9	38.5	12.9	31.6	32.8	19.1	73.7	37.1	56.3	11.9	4.9	77.5	10.5	17.8	20.4	32	17.2	52.2	26.5	15.8	38.9	51.1	11.1	44.1	40	18.3	107	43.7	59.7
+11-HETE	0.112	0.0707	0.804	0.0792	0.0751	0.162	0.245	0.224	0.0738	0.828	0.289	0.456	0.743	0.161	0.469	0.595	0.457	1.48	0.563	0.867	0.21	0.9	1.79	0.907	0.968	3.15	0.462	0.873	1.02	1.62	1.79	0.939	2.43	0.587	0.834	0.858	2.39	1.75	1.5	1.64	0.327	1.04	1.83	0.956	0.718	2.95	0.582	0.945	1.03	1.46	2.35	0.886	2.52	1	1.05	1.05	1.85	2.68	1.64	1.96
+5-HETE	0.663	0.541	2.99	0.266	0.718	1.75	0.249	0.946	0.539	0.336	0.284	2.27	1.98	0.187	0.637	0.802	0.578	2.52	0.72	0.558	4.84	33.6	32.4	6.65	5.03	14	8.12	4.75	5.48	3.59	6.91	19.4	6.94	3.11	12.8	16.4	91.7	19.1	3.66	17.8	4.95	46.2	42.6	5.8	4.08	13.8	6.88	6.31	5.05	3.13	10.5	21.4	7.98	2.85	17.6	18.8	89.2	36.9	4.9	29.3
+12-HEPE	0.248	0.154	0.315	0.212	0.0982	0.078	0.221	0.126	0.319	0.13	0.103	0.281	0.367	0.039	0.242	0.654	0.142	0.859	0.354	0.373	0.478	0.96	0.567	0.411	0.232	0.282	0.38	0.283	0.768	0.286	0.41	0.397	0.438	0.132	0.328	1.23	0.383	1.23	0.541	0.538	0.472	1.16	0.526	0.352	0.15	0.279	0.364	0.24	0.532	0.31	0.494	0.307	0.658	0.159	0.484	1.38	0.362	1.67	0.593	0.527
+9-HEPE	0.0776	0.126	0.0599	0.0738	0.0552	0.0626	0.0747	0.083	0.0701	0.0879	0.0578	0.0685	0.0891	0.0639	0.0666	0.0836	0.065	0.0908	0.087	0.0775	0.1	0.62	0.11	0.242	0.0952	0.18	0.129	0.125	0.172	0.133	0.133	0.0697	0.158	0.112	0.0911	0.152	0.22	0.11	0.257	0.106	0.0948	0.726	0.0812	0.123	0.0794	0.19	0.137	0.2	0.191	0.0733	0.183	0.0781	0.183	0.13	0.0925	0.263	0.171	0.146	0.251	0.132
+5-HEPE	0.0667	0.204	0.0364	0.0525	< LOD	0.0231	< LOD	0.0434	0.00677	< LOD	0.00317	0.0426	0.0378	< LOD	< LOD	0.121	0.0242	0.0904	< LOD	0.0187	0.388	10.3	0.811	0.622	0.263	0.387	0.358	0.412	0.297	0.174	0.331	0.695	0.262	0.265	0.399	1.96	4.26	0.732	0.343	0.705	0.323	14.7	1.06	0.478	0.165	0.434	0.345	0.412	0.228	0.162	0.416	0.845	0.338	0.2	0.641	2.09	4.03	1.17	0.51	1.04
+17-HDoHE	0.519	0.521	0.528	0.0504	< LOD	0.12	0.114	0.589	< LOD	0.864	0.265	0.0469	1.96	< LOD	0.296	< LOD	0.516	0.156	< LOD	0.783	0.521	1.69	6.55	1.08	0.682	1.31	0.0854	0.0986	0.0753	< LOD	0.0778	0.734	0.806	0.118	5.35	0.675	2.49	< LOD	4.26	0.335	0.156	2.13	0.744	4.5	3.33	1.94	0.0711	< LOD	0.231	0.502	1.45	0.756	0.819	0.283	< LOD	1.38	2.48	0.696	< LOD	0.471
+12(13)-EpOME	0.523	1.3	0.84	1.02	0.324	3.69	2.75	1.08	4.04	3.86	0.959	1.97	4.66	0.853	0.0966	0.0706	0.0914	1.18	0.972	< LOD	0.968	1.03	2.1	1.15	0.772	6.29	5.46	1.54	5.03	6.61	1.79	3.35	4.38	2.25	0.189	0.287	0.221	1.3	1.09	0.241	1.04	1.56	1.81	1.26	0.934	6.36	4.02	1.44	4.01	6.3	2.37	3.48	8.66	1.88	0.417	0.406	0.407	2.01	1.48	0.292
+15(16)-EpODE	< LOD	0.0274	< LOD	0.129	0.119	0.645	< LOD	0.284	0.0607	0.247	< LOD	< LOD	0.171	0.313	0.16	0.0857	< LOD	0.243	0.141	< LOD	< LOD	0.0387	0.0166	0.186	0.133	0.792	0.0398	0.235	0.0839	0.228	0.00323	0.105	0.295	0.958	0.0326	0.0884	0.0717	0.216	0.0827	< LOD	< LOD	0.0731	0.132	0.209	0.0645	0.792	0.13	0.104	0.0967	0.208	< LOD	0.159	0.304	0.484	0.0598	0.091	0.0296	0.219	0.0488	0.0334
+9(10)-EpODE	< LOD	0.0274	< LOD	0.129	0.119	0.645	< LOD	0.284	0.0607	0.247	< LOD	< LOD	0.171	0.313	0.16	0.0857	< LOD	0.243	0.141	< LOD	< LOD	0.0387	0.0166	0.186	0.133	0.792	0.0398	0.235	0.0839	0.228	0.00323	0.105	0.295	0.958	0.0326	0.0884	0.0717	0.216	0.0827	< LOD	< LOD	0.0731	0.132	0.209	0.0645	0.792	0.13	0.104	0.0967	0.208	< LOD	0.159	0.304	0.484	0.0598	0.091	0.0296	0.219	0.0488	0.0334
+13-KODE	7.61	6.76	18.1	9.6	12.1	13.6	9.89	27.1	24	75.2	15.5	5.68	7.66	18.6	28.2	19.9	9.93	37.6	8.21	0.807	2.27	13.2	9.08	5.55	8.51	8.89	15.4	3.71	6.8	9.59	4.54	6.37	18.6	5.97	13.4	10.1	9.24	10	4.92	5.32	2.77	14.1	7.18	9.84	5.93	11	19.5	7.82	3.99	9.56	4.89	7.57	10.4	8.07	5.63	6.85	6.06	12.5	5.18	6.14
+9-KODE	0.598	0.923	0.104	0.833	0.167	0.629	0.806	0.548	1.41	4.98	0.609	0.766	1.18	1.04	0.222	1.16	0.466	0.551	0.451	0.359	0.441	1.46	0.753	1.45	0.556	2.27	3.38	0.835	1.8	5.04	0.779	1.68	3.01	4.01	0.81	0.268	0.948	0.768	1.06	0.709	0.505	2.52	0.33	1.59	0.462	1.49	2.74	1.41	1.43	4.64	0.817	1.84	2.85	3.37	0.767	0.818	0.399	1.52	1.34	1.29
+5-KETE	0.0457	0.0134	0.223	0.0332	0.0814	0.0889	< LOD	0.236	0.305	0.354	0.0395	0.0976	0.136	< LOD	0.0991	0.0541	< LOD	0.249	0.0702	< LOD	0.00678	0.769	0.938	0.191	0.345	0.658	0.141	0.0612	0.167	0.155	0.479	0.371	0.254	< LOD	0.267	0.321	2.83	0.62	0.0537	0.245	0.123	2.05	1.17	0.0898	0.0167	0.745	0.175	0.105	0.0118	0.109	0.932	0.347	0.147	0.0419	0.408	0.675	2.2	1.06	0.096	0.687
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	HMDB ID	InChIKey	PubChem CID	KEGG
+PGE2	HMDB01220	XEYBRNLFEZDVAW-ARSRFYASSA-N	5280360	C00584
+PGD2	HMDB01403	BHMBVRSPMRCCGG-OUTUXVNYSA-N	448457	C00696
+PGF2a Isoprostanes
+TXB2	HMDB03252	XNRNNGPBEPRNAR-JQBLCGNGSA-N	5283137
+LTB4	HMDB02886	KFGOFTHODYBSGM-ZUNNJUQCSA-N	5280888	C05961
+9,12,13-TriHOME	HMDB04708	MDIUMSLCYIJBQC-MVFSOIOZSA-N	9858729	C14833
+9,10-e-DiHO		VACHUYIREGFMSP-SJORKVTESA-N	441460
+9,10-DiHOME	HMDB04704	XEBKSQSGNGRGDW-YFHOEESVSA-N	9966640	C14828
+15,16-DiHODE	HMDB10208	LKLLJYJTYPVCID-OHPMOLHNSA-N	16061068
+9,10-DiHODE	HMDB10221	QRHSEDZBZMZPOA-ZJSQCTGTSA-N	16061066
+14,15-DiHETrE	HMDB02265	SYAWGTIVOGUZMM-ILYOTBPNSA-N	5283147	C14775
+11,12-DiHETrE	HMDB02314	LRPPQRCHCPFBPE-KROJNAHFSA-N	5283146	C14774
+8,9-DiHETrE	HMDB02311	DCJBINATHQHPKO-TYAUOURKSA-N	5283144	C14773
+5,6-DiHETrE	HMDB02343	GFNYAPAJUNPMGH-QNEBEIHSSA-N	5283142	C14772
+17,18-DiHETE	HMDB10211	XYDVGNAQQFWZEF-JPURVOHMSA-N	16061120
+19,20-DiHDoPE	HMDB10214	FFXKPSNQCPNORO-MBYQGORISA-N	16061148
+13-HODE	HMDB04667	HNICUWMFWZBIFP-IRQZEAMPSA-N	6443013	C14762
+9-HODE	HMDB10223	NPDSHTNEKLQQIJ-SIGMCMEVSA-N	5282945
+13-HOTE	HMDB10203	KLLGGGQNRTVBSU-JDTPQGGVSA-N	10469728
+9-HOTE	HMDB10224	YUPHIKSLGBATJK-OBKPXJAFSA-N	53480359
+15-HETE	HMDB03876	JSFATNQSLKRBCI-VAEKSGALSA-N	5280724	C04742
+12-HETE	HMDB06111	ZNHVWPKMFKADKW-FYMOKONMSA-N	5312983
+11-HETE	HMDB04682	GCZRCCHPLVMMJE-RSPKXIRXSA-N	5312981
+5-HETE	HMDB11134	KGIJOOYOSFUGPC-JGKLHWIESA-N	5280733	C04805
+12-HEPE	HMDB10202	MCRJLMXYVFDXLS-QGQBRVLBSA-N	10041593
+9-HEPE		OXOPDAZWPWFJEW-FPRWAWDYSA-N	5283187
+5-HEPE	HMDB05081	FTAGQROYQYQRHF-FCWZHQICSA-N	6439678
+17-HDoHE	HMDB10213	SWTYBBUBEPPYCX-VIIQGJSXSA-N	6439179
+12(13)-EpOME	HMDB04702	CCPPLLJZDQAOHD-FLIBITNWSA-N	5356421
+15(16)-EpODE	HMDB10206	HKSDVVJONLXYKL-OHPMOLHNSA-N	16061062
+9(10)-EpODE	HMDB10220	JTEGNNHWOIJBJZ-ZJSQCTGTSA-N	16061060
+13-KODE	HMDB04668	JHXAZBBVQSRKJR-BSZOFBHHSA-N	6446027	C14765
+9-KODE	HMDB04669	LUZSWWYKKLTDHU-ZJHFMPGASA-N	9839084	C14766
+5-KETE	HMDB10217	MEASLHGILYBXFO-XTDASVJISA-N	5283159	C14732
+METABOLITES_END
+#FACTORS
+#END

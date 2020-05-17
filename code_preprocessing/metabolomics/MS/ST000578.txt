@@ -1,0 +1,418 @@
+#METABOLOMICS WORKBENCH mahpic_infodepo_20170220_114434 DATATRACK_ID:851 STUDY_ID:ST000578 ANALYSIS_ID:AN000888
+VERSION             	1
+CREATED_ON             	April 5, 2017, 12:51 pm
+#PROJECT
+PR:PROJECT_TITLE                 	The Malaria Host-Pathogen Interaction Center (MaHPIC)
+PR:PROJECT_TYPE                  	Systems Biology
+PR:PROJECT_SUMMARY               	The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary
+PR:PROJECT_SUMMARY               	malaria systems biology research program supported by an NIH/NIAID contract (#
+PR:PROJECT_SUMMARY               	HHSN272201200031C; see http://www.systemsbiology.emory.edu). The MaHPIC
+PR:PROJECT_SUMMARY               	generates many data types (e.g., clinical, parasitological, metabolomics,
+PR:PROJECT_SUMMARY               	functional genomics, lipidomics, proteomics, immune response) and mathematical
+PR:PROJECT_SUMMARY               	models, to iteratively test and develop hypotheses related to the complex
+PR:PROJECT_SUMMARY               	host-parasite dynamics in the course of malaria in non-human primates, and
+PR:PROJECT_SUMMARY               	metabolomics data via collaborations with investigators conducting clinical
+PR:PROJECT_SUMMARY               	studies in malaria endemic countries, with the overarching goal of better
+PR:PROJECT_SUMMARY               	understanding human disease, pathogenesis, and immunity. Curation and
+PR:PROJECT_SUMMARY               	maintenance of all data and metadata are the responsibility of the MaHPIC.
+PR:INSTITUTE                     	Emory University
+PR:DEPARTMENT                    	School of Medicine, Vaccine Center at Yerkes
+PR:LAST_NAME                     	Galinski
+PR:FIRST_NAME                    	Mary
+PR:ADDRESS                       	Emory University, 954 Gatewood Rd, Room 208, Atlanta, GA 30329
+PR:EMAIL                         	mgalins@emory.edu
+PR:PHONE                         	None
+PR:FUNDING_SOURCE                	NIAID Contract: # HHSN272201200031C
+#STUDY
+ST:STUDY_TITLE                   	Experiment HuA: Metabolomics of plasma samples from humans infected
+ST:STUDY_TITLE                   	with Plasmodium vivax strain.
+ST:STUDY_TYPE                    	Longitudinal study and treatment of multiple individuals with Chloroquine
+ST:STUDY_SUMMARY                 	Patients with vivax malaria were enrolled in this study from June 2011 to
+ST:STUDY_SUMMARY                 	December 2012 at the Fundacão de Medicina Tropical Doutor Heitor Vieira Dourado
+ST:STUDY_SUMMARY                 	(FMT-HVD), an infectious disease referral center located in Manaus, Western
+ST:STUDY_SUMMARY                 	Brazilian Amazon. This study, which required a 42-day follow-up period, was
+ST:STUDY_SUMMARY                 	approved by the FMT-HVD Institutional Review Board and the Brazilian National
+ST:STUDY_SUMMARY                 	Ethics Committee (CONEP) (IRB approval #: CAAE: 12516713.8.0000.0005). All
+ST:STUDY_SUMMARY                 	protocols and documentation were reviewed and sample shipments approved by the
+ST:STUDY_SUMMARY                 	Emory IRB. Male and female patients were eligible for inclusion if aged 6 months
+ST:STUDY_SUMMARY                 	to 60 years, bodyweight ?5 kg, presenting a blood parasite density from 250 to
+ST:STUDY_SUMMARY                 	100,000 parasites/microliter and axillary temperature ?37.5°C or history of
+ST:STUDY_SUMMARY                 	fever in the last 48 hours. Exclusion criteria were: use of antimalarials in the
+ST:STUDY_SUMMARY                 	previous 30 days, refusal to be followed up for 42 days and any clinical
+ST:STUDY_SUMMARY                 	complication. Patients received supervised treatment with 25 mg/kg of
+ST:STUDY_SUMMARY                 	chloroquine (CQ) phosphate over a 3-day period (10 mg/kg on day 0 and 7.5 mg/kg
+ST:STUDY_SUMMARY                 	on days 1 and 2). Primaquine (0.5 mg/kg per day for 7 days) was prescribed at
+ST:STUDY_SUMMARY                 	the end of the 42-day follow-up period. Patients who vomited the first dose
+ST:STUDY_SUMMARY                 	within 30 minutes after drug ingestion were re-treated with the same dose.
+ST:STUDY_SUMMARY                 	Patients were evaluated on days 0, 1, 2, 3, 7, 14, 28 and 42 and, if they felt
+ST:STUDY_SUMMARY                 	ill, at any time during the study period. Blood smear readings, complete blood
+ST:STUDY_SUMMARY                 	counts, and diagnostic polymerase chain reaction (PCR) amplifications were
+ST:STUDY_SUMMARY                 	performed at all time points. Three aliquots of 100 µL of whole blood from the
+ST:STUDY_SUMMARY                 	day of a recurrence were spotted onto filter paper for later analysis by high
+ST:STUDY_SUMMARY                 	performance liquid chromatography (HPLC) to estimate the levels of CQ and
+ST:STUDY_SUMMARY                 	desethylchloroquine (DCQ) as previously described. In this study, CQ-resistance
+ST:STUDY_SUMMARY                 	with parasitological failure was defined as parasite recurrence in the presence
+ST:STUDY_SUMMARY                 	of plasma concentrations of CQ and DSQ higher than 100 ng/mL and microsatellite
+ST:STUDY_SUMMARY                 	analysis revealing the presence of the same clonal nature at diagnosis and
+ST:STUDY_SUMMARY                 	recurrence. The CQ-sensitive control group consisted of patients with no
+ST:STUDY_SUMMARY                 	parasitemia recurring during follow-up period. A group of 20 healthy individuals
+ST:STUDY_SUMMARY                 	from Brazil was used as non-malarial control group. Within the MaHPIC, this
+ST:STUDY_SUMMARY                 	project is known as ‘Experiment HuA’. This dataset was produced by Dean
+ST:STUDY_SUMMARY                 	Jones at Emory University.
+ST:INSTITUTE                     	Emory University
+ST:DEPARTMENT                    	School of Medicine, Vaccine Center at Yerkes
+ST:LAST_NAME                     	Galinksi
+ST:FIRST_NAME                    	Mary
+ST:ADDRESS                       	Emory University, Yerkes National Primate Research Center, 954 Gatewood Rd, Room
+ST:ADDRESS                       	003, Atlanta, GA 30329
+ST:EMAIL                         	mahpic@emory.edu
+ST:PHONE                         	None
+ST:NUM_GROUPS                    	273
+ST:TOTAL_SUBJECTS                	220
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:SUBJECT_COMMENTS              	220 subjects
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	92187	2008235	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=<10; Gender=Male; wbc(cells/uL)=12200; hgb(g/dL)=11.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92187	2007260	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:Resistant	Age=<10; Gender=Male; wbc(cells/uL)=7600; hgb(g/dL)=10.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92196	2007278	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=46; Gender=Female; wbc(cells/uL)=6200; hgb(g/dL)=11.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92261	2008603	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=39; Gender=Male; wbc(cells/uL)=7500; hgb(g/dL)=14; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92262	2008614	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=35; Gender=Male; wbc(cells/uL)=5800; hgb(g/dL)=14.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92262	2008613	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=35; Gender=Male; wbc(cells/uL)=5600; hgb(g/dL)=14.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92263	2008618	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=<10; Gender=Male; wbc(cells/uL)=6600; hgb(g/dL)=11.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92264	2008621	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=36; Gender=Male; wbc(cells/uL)=6230; hgb(g/dL)=15.47; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92265	2008622	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=21; Gender=Male; wbc(cells/uL)=4070; hgb(g/dL)=13.42; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92266	2008623	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=59; Gender=Female; wbc(cells/uL)=6800; hgb(g/dL)=11.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92267	2008624	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=10; Gender=Female; wbc(cells/uL)=5100; hgb(g/dL)=11.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92268	2008625	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=46; Gender=Male; wbc(cells/uL)=5100; hgb(g/dL)=12.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92268	2008626	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=46; Gender=Male; wbc(cells/uL)=8000; hgb(g/dL)=12; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92269	2008627	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=38; Gender=Female; wbc(cells/uL)=9100; hgb(g/dL)=14.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92270	2008628	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=43; Gender=Female; wbc(cells/uL)=7600; hgb(g/dL)=14.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92271	2008629	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=21; Gender=Female; wbc(cells/uL)=5800; hgb(g/dL)=13.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92271	2008630	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=21; Gender=Female; wbc(cells/uL)=8300; hgb(g/dL)=12.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92275	2008631	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=28; Gender=Male; wbc(cells/uL)=7000; hgb(g/dL)=13.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92278	2008651	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=35; Gender=Female; wbc(cells/uL)=6000; hgb(g/dL)=12.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92280	2008652	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=22; Gender=Female; wbc(cells/uL)=6200; hgb(g/dL)=12.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92280	2008653	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=22; Gender=Female; wbc(cells/uL)=6000; hgb(g/dL)=12.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92281	2008654	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=64; Gender=Male; wbc(cells/uL)=8400; hgb(g/dL)=14.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92282	2008660	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=38; Gender=Male; wbc(cells/uL)=2600; hgb(g/dL)=13.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92284	2008674	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=41; Gender=Female; wbc(cells/uL)=4700; hgb(g/dL)=13.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92284	2008675	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=41; Gender=Female; wbc(cells/uL)=9400; hgb(g/dL)=13.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92285	2008676	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=50; Gender=Male; wbc(cells/uL)=2400; hgb(g/dL)=14.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92285	2008677	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=11; Gender=Female; wbc(cells/uL)=4700; hgb(g/dL)=14.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92286	2008678	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=15; Gender=Male; wbc(cells/uL)=1900; hgb(g/dL)=13.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92287	2008679	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=15; Gender=Male; wbc(cells/uL)=4700; hgb(g/dL)=12.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92288	2008680	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=36; Gender=Male; wbc(cells/uL)=6800; hgb(g/dL)=14.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92290	2008700	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=48; Gender=Male; wbc(cells/uL)=7740; hgb(g/dL)=14.67; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92290	2008699	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=45; Gender=Male; wbc(cells/uL)=4900; hgb(g/dL)=14.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92291	2008702	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=48; Gender=Male; wbc(cells/uL)=4400; hgb(g/dL)=14.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92293	2008709	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=33; Gender=Male; wbc(cells/uL)=5700; hgb(g/dL)=16.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92294	2008710	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=22; Gender=Male; wbc(cells/uL)=2500; hgb(g/dL)=15.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92296	2008712	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=54; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=14; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92296	2008715	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=54; Gender=Male; wbc(cells/uL)=6700; hgb(g/dL)=15.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92297	2008721	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=12; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=12.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92298	2008722	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=23; Gender=Male; wbc(cells/uL)=6400; hgb(g/dL)=13.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92299	2008791	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=42; Gender=Male; wbc(cells/uL)=7800; hgb(g/dL)=13.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92299	2008727	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=42; Gender=Male; wbc(cells/uL)=7000; hgb(g/dL)=14.2; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92300	2009109	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=32; Gender=Male; wbc(cells/uL)=2300; hgb(g/dL)=9.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92301	2009110	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=41; Gender=Male; wbc(cells/uL)=6700; hgb(g/dL)=14; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92302	2009204	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=13; Gender=Male; wbc(cells/uL)=4700; hgb(g/dL)=12; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92302	2009203	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=13; Gender=Male; wbc(cells/uL)=4530; hgb(g/dL)=12.42; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92303	2009212	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=42; Gender=Male; wbc(cells/uL)=6400; hgb(g/dL)=13.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92305	2009225	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=59; Gender=Male; wbc(cells/uL)=6700; hgb(g/dL)=14.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92306	2009227	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=16; Gender=Male; wbc(cells/uL)=8300; hgb(g/dL)=12.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92306	2009226	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=16; Gender=Male; wbc(cells/uL)=2600; hgb(g/dL)=13.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92307	2009228	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=63; Gender=Male; wbc(cells/uL)=7400; hgb(g/dL)=13.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92309	2009233	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=22; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=12.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92310	2009249	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=43; Gender=Male; wbc(cells/uL)=4700; hgb(g/dL)=12.2; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92310	2009250	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=43; Gender=Male; wbc(cells/uL)=6200; hgb(g/dL)=14; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92311	2009253	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=32; Gender=Male; wbc(cells/uL)=7480; hgb(g/dL)=13.89; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92312	2009254	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=27; Gender=Male; wbc(cells/uL)=6400; hgb(g/dL)=13.9; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92313	2009256	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=25; Gender=Male; wbc(cells/uL)=7200; hgb(g/dL)=15.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92313	2009255	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=25; Gender=Male; wbc(cells/uL)=7480; hgb(g/dL)=15.13; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92314	2009261	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=62; Gender=Male; wbc(cells/uL)=7800; hgb(g/dL)=14.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92315	2009262	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=<10; Gender=Male; wbc(cells/uL)=9400; hgb(g/dL)=10.2; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92316	2009264	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:Resistant	Age=37; Gender=Male; wbc(cells/uL)=5000; hgb(g/dL)=14.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92316	2009263	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=37; Gender=Male; wbc(cells/uL)=4900; hgb(g/dL)=14; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92317	2009265	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=57; Gender=Male; wbc(cells/uL)=43220; hgb(g/dL)=12.78; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92318	2009266	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Susceptible	Age=25; Gender=Female; wbc(cells/uL)=5400; hgb(g/dL)=11.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92319	2009267	Current Malaria Infection:P.Vivax | Prior Malaria Infection:N/A | Chloroquine Resistance:Resistant	Age=10; Gender=Male; wbc(cells/uL)=4900; hgb(g/dL)=9.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92430	2015542	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=75.1; Gender=Male; wbc(cells/uL)=6500; hgb(g/dL)=10.7; rbc(cells/uL)=3740000
+SUBJECT_SAMPLE_FACTORS           	92431	2015543	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=59.8; Gender=Male; wbc(cells/uL)=13700; hgb(g/dL)=16.9; rbc(cells/uL)=4920000
+SUBJECT_SAMPLE_FACTORS           	92432	2015544	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=22.4; Gender=Female; wbc(cells/uL)=6900; hgb(g/dL)=10; rbc(cells/uL)=3510000
+SUBJECT_SAMPLE_FACTORS           	92433	2015545	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=15.9; Gender=Female; wbc(cells/uL)=8500; hgb(g/dL)=10; rbc(cells/uL)=3930000
+SUBJECT_SAMPLE_FACTORS           	92434	2015546	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=37.2; Gender=Female; wbc(cells/uL)=3600; hgb(g/dL)=8.9; rbc(cells/uL)=3960000
+SUBJECT_SAMPLE_FACTORS           	92435	2015547	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=19.8; Gender=Male; wbc(cells/uL)=4700; hgb(g/dL)=13.5; rbc(cells/uL)=4340000
+SUBJECT_SAMPLE_FACTORS           	92436	2015548	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=45.6; Gender=Male; wbc(cells/uL)=7600; hgb(g/dL)=6.5; rbc(cells/uL)=2120000
+SUBJECT_SAMPLE_FACTORS           	92437	2015549	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=33.2; Gender=Female; wbc(cells/uL)=5900; hgb(g/dL)=9; rbc(cells/uL)=3300000
+SUBJECT_SAMPLE_FACTORS           	92438	2015550	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=13.3; Gender=Male; wbc(cells/uL)=2600; hgb(g/dL)=9.8; rbc(cells/uL)=3740000
+SUBJECT_SAMPLE_FACTORS           	92439	2015551	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=30.3; Gender=Male; wbc(cells/uL)=5800; hgb(g/dL)=8.6; rbc(cells/uL)=2910000
+SUBJECT_SAMPLE_FACTORS           	92440	2015552	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=53; Gender=Male; wbc(cells/uL)=4900; hgb(g/dL)=13; rbc(cells/uL)=4200000
+SUBJECT_SAMPLE_FACTORS           	92441	2015553	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=50.3; Gender=Female; wbc(cells/uL)=3300; hgb(g/dL)=10.7; rbc(cells/uL)=4190000
+SUBJECT_SAMPLE_FACTORS           	92442	2015554	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Male; wbc(cells/uL)=3600; hgb(g/dL)=7.9; rbc(cells/uL)=2750000
+SUBJECT_SAMPLE_FACTORS           	92443	2015639	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=40.7; Gender=Female; wbc(cells/uL)=5100; hgb(g/dL)=7; rbc(cells/uL)=2490000
+SUBJECT_SAMPLE_FACTORS           	92444	2015640	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=66; Gender=Female; wbc(cells/uL)=2900; hgb(g/dL)=13; rbc(cells/uL)=4890000
+SUBJECT_SAMPLE_FACTORS           	92445	2015641	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=32.3; Gender=Female; wbc(cells/uL)=6100; hgb(g/dL)=9; rbc(cells/uL)=3060000
+SUBJECT_SAMPLE_FACTORS           	92446	2016027	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=23.4; Gender=Male; wbc(cells/uL)=3200; hgb(g/dL)=15.1; rbc(cells/uL)=5420000
+SUBJECT_SAMPLE_FACTORS           	92447	2015643	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=22.7; Gender=Female; wbc(cells/uL)=6900; hgb(g/dL)=8.9; rbc(cells/uL)=3120000
+SUBJECT_SAMPLE_FACTORS           	92448	2015644	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Male; wbc(cells/uL)=6; hgb(g/dL)=8; rbc(cells/uL)=3220000
+SUBJECT_SAMPLE_FACTORS           	92449	2015645	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=35.2; Gender=Male; wbc(cells/uL)=1800; hgb(g/dL)=14; rbc(cells/uL)=4370000
+SUBJECT_SAMPLE_FACTORS           	92450	2015646	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=23.4; Gender=Female; wbc(cells/uL)=4500; hgb(g/dL)=13.6; rbc(cells/uL)=4660000
+SUBJECT_SAMPLE_FACTORS           	92451	2015647	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=22.6; Gender=Female; wbc(cells/uL)=6600; hgb(g/dL)=10.5; rbc(cells/uL)=3900000
+SUBJECT_SAMPLE_FACTORS           	92452	2015648	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=31.3; Gender=Male; wbc(cells/uL)=5700; hgb(g/dL)=13.5; rbc(cells/uL)=4670000
+SUBJECT_SAMPLE_FACTORS           	92453	2015649	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=34.3; Gender=Male; wbc(cells/uL)=4200; hgb(g/dL)=15.6; rbc(cells/uL)=5000000
+SUBJECT_SAMPLE_FACTORS           	92454	2015650	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=26.1; Gender=Male; wbc(cells/uL)=6100; hgb(g/dL)=13.9; rbc(cells/uL)=4850000
+SUBJECT_SAMPLE_FACTORS           	92455	2015651	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Male; wbc(cells/uL)=5000; hgb(g/dL)=5.2; rbc(cells/uL)=1900000
+SUBJECT_SAMPLE_FACTORS           	92456	2015652	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=26.3; Gender=Male; wbc(cells/uL)=10700; hgb(g/dL)=10.6; rbc(cells/uL)=2330000
+SUBJECT_SAMPLE_FACTORS           	92457	2015653	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=34; Gender=Male; wbc(cells/uL)=6000; hgb(g/dL)=15.8; rbc(cells/uL)=5520000
+SUBJECT_SAMPLE_FACTORS           	92458	2015654	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Female; wbc(cells/uL)=2400; hgb(g/dL)=10.2; rbc(cells/uL)=3700000
+SUBJECT_SAMPLE_FACTORS           	92459	2015655	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=50.4; Gender=Male; wbc(cells/uL)=5800; hgb(g/dL)=10.1; rbc(cells/uL)=3610000
+SUBJECT_SAMPLE_FACTORS           	92460	2015656	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=47.3; Gender=Male; wbc(cells/uL)=4500; hgb(g/dL)=10.7; rbc(cells/uL)=3920000
+SUBJECT_SAMPLE_FACTORS           	92461	2015657	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=28.5; Gender=Male; wbc(cells/uL)=2500; hgb(g/dL)=15.6; rbc(cells/uL)=5400000
+SUBJECT_SAMPLE_FACTORS           	92462	2015658	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=19.7; Gender=Female; wbc(cells/uL)=19400; hgb(g/dL)=7.9; rbc(cells/uL)=2630000
+SUBJECT_SAMPLE_FACTORS           	92463	2015659	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=48.8; Gender=Female; wbc(cells/uL)=5600; hgb(g/dL)=9.8; rbc(cells/uL)=3480000
+SUBJECT_SAMPLE_FACTORS           	92464	2015660	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Female; wbc(cells/uL)=2100; hgb(g/dL)=6.8; rbc(cells/uL)=2690000
+SUBJECT_SAMPLE_FACTORS           	92465	2015661	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=45.9; Gender=Male; wbc(cells/uL)=4900; hgb(g/dL)=12.9; rbc(cells/uL)=4630000
+SUBJECT_SAMPLE_FACTORS           	92466	2015662	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=39; Gender=Female; wbc(cells/uL)=8700; hgb(g/dL)=10.5; rbc(cells/uL)=4030000
+SUBJECT_SAMPLE_FACTORS           	92467	2015663	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=31.6; Gender=Male; wbc(cells/uL)=6000; hgb(g/dL)=13.1; rbc(cells/uL)=4910000
+SUBJECT_SAMPLE_FACTORS           	92468	2015664	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=48.4; Gender=Male; wbc(cells/uL)=7200; hgb(g/dL)=14.8; rbc(cells/uL)=5870000
+SUBJECT_SAMPLE_FACTORS           	92469	2015665	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=23.1; Gender=Male; wbc(cells/uL)=4500; hgb(g/dL)=13; rbc(cells/uL)=4630000
+SUBJECT_SAMPLE_FACTORS           	92470	2015666	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=47.6; Gender=Male; wbc(cells/uL)=3600; hgb(g/dL)=14.9; rbc(cells/uL)=5100000
+SUBJECT_SAMPLE_FACTORS           	92471	2015667	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=31.6; Gender=Female; wbc(cells/uL)=5500; hgb(g/dL)=13.1; rbc(cells/uL)=5100000
+SUBJECT_SAMPLE_FACTORS           	92472	2015668	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=33.3; Gender=Male; wbc(cells/uL)=4800; hgb(g/dL)=14.1; rbc(cells/uL)=5470000
+SUBJECT_SAMPLE_FACTORS           	92473	2015669	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=25.3; Gender=Male; wbc(cells/uL)=3800; hgb(g/dL)=14.9; rbc(cells/uL)=5420000
+SUBJECT_SAMPLE_FACTORS           	92474	2015670	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=28.8; Gender=Male; wbc(cells/uL)=6100; hgb(g/dL)=13.4; rbc(cells/uL)=4660000
+SUBJECT_SAMPLE_FACTORS           	92475	2015671	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=35.8; Gender=Male; wbc(cells/uL)=4800; hgb(g/dL)=13.1; rbc(cells/uL)=4840000
+SUBJECT_SAMPLE_FACTORS           	92476	2015672	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=21.8; Gender=Male; wbc(cells/uL)=7500; hgb(g/dL)=14.8; rbc(cells/uL)=5120000
+SUBJECT_SAMPLE_FACTORS           	92477	2015673	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=47.9; Gender=Female; wbc(cells/uL)=5900; hgb(g/dL)=10.6; rbc(cells/uL)=4260000
+SUBJECT_SAMPLE_FACTORS           	92478	2015674	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=36.2; Gender=Male; wbc(cells/uL)=5000; hgb(g/dL)=13; rbc(cells/uL)=4960000
+SUBJECT_SAMPLE_FACTORS           	92479	2015675	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=41.7; Gender=Male; wbc(cells/uL)=6300; hgb(g/dL)=14; rbc(cells/uL)=5230000
+SUBJECT_SAMPLE_FACTORS           	92480	2015784	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=25; Gender=Male; wbc(cells/uL)=4100; hgb(g/dL)=12.9; rbc(cells/uL)=4670000
+SUBJECT_SAMPLE_FACTORS           	92481	2015785	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=68.4; Gender=Male; wbc(cells/uL)=6100; hgb(g/dL)=10.9; rbc(cells/uL)=3950000
+SUBJECT_SAMPLE_FACTORS           	92482	2015786	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=46.3; Gender=Male; wbc(cells/uL)=8000; hgb(g/dL)=14.9; rbc(cells/uL)=5190000
+SUBJECT_SAMPLE_FACTORS           	92483	2015787	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=27.1; Gender=Male; wbc(cells/uL)=4100; hgb(g/dL)=9.4; rbc(cells/uL)=3500000
+SUBJECT_SAMPLE_FACTORS           	92484	2015788	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=30.6; Gender=Male; wbc(cells/uL)=7800; hgb(g/dL)=15.3; rbc(cells/uL)=5090000
+SUBJECT_SAMPLE_FACTORS           	92485	2015789	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=47; Gender=Male; wbc(cells/uL)=7800; hgb(g/dL)=15; rbc(cells/uL)=5280000
+SUBJECT_SAMPLE_FACTORS           	92486	2015790	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=23.4; Gender=Male; wbc(cells/uL)=6700; hgb(g/dL)=13.4; rbc(cells/uL)=4940000
+SUBJECT_SAMPLE_FACTORS           	92491	2015791	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=22.9; Gender=Male; wbc(cells/uL)=5600; hgb(g/dL)=13; rbc(cells/uL)=4320000
+SUBJECT_SAMPLE_FACTORS           	92492	2015792	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=37.5; Gender=Male; wbc(cells/uL)=7300; hgb(g/dL)=14.7; rbc(cells/uL)=5590000
+SUBJECT_SAMPLE_FACTORS           	92493	2015793	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=26.6; Gender=Male; wbc(cells/uL)=3900; hgb(g/dL)=15; rbc(cells/uL)=5500000
+SUBJECT_SAMPLE_FACTORS           	92494	2015794	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=38.8; Gender=Female; wbc(cells/uL)=3700; hgb(g/dL)=14; rbc(cells/uL)=4820000
+SUBJECT_SAMPLE_FACTORS           	92495	2015795	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=40.8; Gender=Male; wbc(cells/uL)=6500; hgb(g/dL)=14; rbc(cells/uL)=5320000
+SUBJECT_SAMPLE_FACTORS           	92496	2015796	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=28.8; Gender=Male; wbc(cells/uL)=6800; hgb(g/dL)=13.9; rbc(cells/uL)=5120000
+SUBJECT_SAMPLE_FACTORS           	92497	2015797	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=42.9; Gender=Male; wbc(cells/uL)=5300; hgb(g/dL)=13.1; rbc(cells/uL)=4340000
+SUBJECT_SAMPLE_FACTORS           	92498	2015798	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=37.5; Gender=Male; wbc(cells/uL)=4300; hgb(g/dL)=15; rbc(cells/uL)=5070000
+SUBJECT_SAMPLE_FACTORS           	92499	2015799	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=32.6; Gender=Female; wbc(cells/uL)=6000; hgb(g/dL)=14; rbc(cells/uL)=5440000
+SUBJECT_SAMPLE_FACTORS           	92500	2015800	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=62; Gender=Male; wbc(cells/uL)=5300; hgb(g/dL)=15.7; rbc(cells/uL)=5450000
+SUBJECT_SAMPLE_FACTORS           	92501	2015801	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=29.5; Gender=Male; wbc(cells/uL)=5800; hgb(g/dL)=14; rbc(cells/uL)=5390000
+SUBJECT_SAMPLE_FACTORS           	92502	2015802	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=36.5; Gender=Male; wbc(cells/uL)=3300; hgb(g/dL)=15.5; rbc(cells/uL)=5750000
+SUBJECT_SAMPLE_FACTORS           	92503	2015803	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=39.8; Gender=Male; wbc(cells/uL)=4300; hgb(g/dL)=14.6; rbc(cells/uL)=5580000
+SUBJECT_SAMPLE_FACTORS           	92504	2015804	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=27.8; Gender=Female; wbc(cells/uL)=7200; hgb(g/dL)=9.1; rbc(cells/uL)=3460000
+SUBJECT_SAMPLE_FACTORS           	92505	2015805	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=37.6; Gender=Male; wbc(cells/uL)=4500; hgb(g/dL)=13.9; rbc(cells/uL)=5130000
+SUBJECT_SAMPLE_FACTORS           	92506	2015806	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=65; Gender=Male; wbc(cells/uL)=5200; hgb(g/dL)=13.5; rbc(cells/uL)=4840000
+SUBJECT_SAMPLE_FACTORS           	92507	2015807	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=43.1; Gender=Male; wbc(cells/uL)=12000; hgb(g/dL)=6.4; rbc(cells/uL)=2160000
+SUBJECT_SAMPLE_FACTORS           	92508	2015808	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=34.8; Gender=Female; wbc(cells/uL)=5170; hgb(g/dL)=4.8; rbc(cells/uL)=1730000
+SUBJECT_SAMPLE_FACTORS           	92509	2015809	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=51.8; Gender=Female; wbc(cells/uL)=3900; hgb(g/dL)=13.4; rbc(cells/uL)=4310000
+SUBJECT_SAMPLE_FACTORS           	92510	2015810	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=20.4; Gender=Female; wbc(cells/uL)=3400; hgb(g/dL)=8.9; rbc(cells/uL)=3350000
+SUBJECT_SAMPLE_FACTORS           	92511	2015811	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Female; wbc(cells/uL)=4300; hgb(g/dL)=10.3; rbc(cells/uL)=3680000
+SUBJECT_SAMPLE_FACTORS           	92512	2015812	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=18.7; Gender=Male; wbc(cells/uL)=6300; hgb(g/dL)=15.5; rbc(cells/uL)=4980000
+SUBJECT_SAMPLE_FACTORS           	92513	2015813	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=<10; Gender=Male; wbc(cells/uL)=1300; hgb(g/dL)=10.1; rbc(cells/uL)=3460000
+SUBJECT_SAMPLE_FACTORS           	92514	2015814	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=49.3; Gender=Male; wbc(cells/uL)=6500; hgb(g/dL)=13.5; rbc(cells/uL)=5100000
+SUBJECT_SAMPLE_FACTORS           	92515	2015835	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=45.2; Gender=Female; wbc(cells/uL)=4600; hgb(g/dL)=13; rbc(cells/uL)=5310000
+SUBJECT_SAMPLE_FACTORS           	92516	2015836	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=48.5; Gender=Female; wbc(cells/uL)=3700; hgb(g/dL)=14.1; rbc(cells/uL)=4960000
+SUBJECT_SAMPLE_FACTORS           	92517	2015837	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=58.4; Gender=Male; wbc(cells/uL)=5700; hgb(g/dL)=15.3; rbc(cells/uL)=5040000
+SUBJECT_SAMPLE_FACTORS           	92518	2015838	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=53.7; Gender=Female; wbc(cells/uL)=3600; hgb(g/dL)=14.1; rbc(cells/uL)=5080000
+SUBJECT_SAMPLE_FACTORS           	92519	2015839	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=14.3; Gender=Female; wbc(cells/uL)=4100; hgb(g/dL)=13.4; rbc(cells/uL)=5190000
+SUBJECT_SAMPLE_FACTORS           	92520	2015840	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=37.6; Gender=Female; wbc(cells/uL)=5300; hgb(g/dL)=14.1; rbc(cells/uL)=4570000
+SUBJECT_SAMPLE_FACTORS           	92521	2015841	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=31; Gender=Male; wbc(cells/uL)=2800; hgb(g/dL)=14.9; rbc(cells/uL)=5000000
+SUBJECT_SAMPLE_FACTORS           	92522	2015842	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=28.9; Gender=Male; wbc(cells/uL)=2700; hgb(g/dL)=13; rbc(cells/uL)=4580000
+SUBJECT_SAMPLE_FACTORS           	92523	2015843	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=18.7; Gender=Male; wbc(cells/uL)=3600; hgb(g/dL)=13.4; rbc(cells/uL)=4610000
+SUBJECT_SAMPLE_FACTORS           	92524	2015844	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=27.4; Gender=Female; wbc(cells/uL)=5800; hgb(g/dL)=13.1; rbc(cells/uL)=5010000
+SUBJECT_SAMPLE_FACTORS           	92525	2015845	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=22.4; Gender=Male; wbc(cells/uL)=4500; hgb(g/dL)=13.4; rbc(cells/uL)=4950000
+SUBJECT_SAMPLE_FACTORS           	92526	2015846	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=13.7; Gender=Male; wbc(cells/uL)=2300; hgb(g/dL)=13.1; rbc(cells/uL)=5110000
+SUBJECT_SAMPLE_FACTORS           	92527	2015847	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=32.9; Gender=Male; wbc(cells/uL)=6400; hgb(g/dL)=12.9; rbc(cells/uL)=4610000
+SUBJECT_SAMPLE_FACTORS           	92528	2015848	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=54.3; Gender=Male; wbc(cells/uL)=5800; hgb(g/dL)=15.1; rbc(cells/uL)=5230000
+SUBJECT_SAMPLE_FACTORS           	92529	2015849	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=41.3; Gender=Male; wbc(cells/uL)=9500; hgb(g/dL)=14.8; rbc(cells/uL)=4790000
+SUBJECT_SAMPLE_FACTORS           	92530	2015850	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=18.1; Gender=Male; wbc(cells/uL)=7100; hgb(g/dL)=8.9; rbc(cells/uL)=3220000
+SUBJECT_SAMPLE_FACTORS           	92531	2015851	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=40.3; Gender=Male; wbc(cells/uL)=5500; hgb(g/dL)=13.4; rbc(cells/uL)=5260000
+SUBJECT_SAMPLE_FACTORS           	92532	2015852	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=54.3; Gender=Male; wbc(cells/uL)=4400; hgb(g/dL)=13.4; rbc(cells/uL)=4810000
+SUBJECT_SAMPLE_FACTORS           	92533	2015853	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=64.1; Gender=Male; wbc(cells/uL)=5400; hgb(g/dL)=14.9; rbc(cells/uL)=5910000
+SUBJECT_SAMPLE_FACTORS           	92534	2015854	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=41; Gender=Female; wbc(cells/uL)=2900; hgb(g/dL)=10.7; rbc(cells/uL)=4640000
+SUBJECT_SAMPLE_FACTORS           	92535	2015855	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=57.4; Gender=Female; wbc(cells/uL)=4500; hgb(g/dL)=13.6; rbc(cells/uL)=4840000
+SUBJECT_SAMPLE_FACTORS           	92536	2015856	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=52.4; Gender=Female; wbc(cells/uL)=4200; hgb(g/dL)=13; rbc(cells/uL)=4620000
+SUBJECT_SAMPLE_FACTORS           	92537	2015857	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=41.1; Gender=Male; wbc(cells/uL)=3000; hgb(g/dL)=13.1; rbc(cells/uL)=5100000
+SUBJECT_SAMPLE_FACTORS           	92538	2015858	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=25.4; Gender=Male; wbc(cells/uL)=5200; hgb(g/dL)=14.8; rbc(cells/uL)=5370000
+SUBJECT_SAMPLE_FACTORS           	92539	2015859	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=68.4; Gender=Female; wbc(cells/uL)=4200; hgb(g/dL)=12.9; rbc(cells/uL)=4570000
+SUBJECT_SAMPLE_FACTORS           	92540	2015860	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=36.3; Gender=Male; wbc(cells/uL)=2900; hgb(g/dL)=10.6; rbc(cells/uL)=3580000
+SUBJECT_SAMPLE_FACTORS           	92541	2015861	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=40.9; Gender=Male; wbc(cells/uL)=2600; hgb(g/dL)=14.7; rbc(cells/uL)=5030000
+SUBJECT_SAMPLE_FACTORS           	92542	2015862	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=27.3; Gender=Female; wbc(cells/uL)=3400; hgb(g/dL)=9.8; rbc(cells/uL)=3420000
+SUBJECT_SAMPLE_FACTORS           	92543	2015863	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=30.6; Gender=Female; wbc(cells/uL)=6100; hgb(g/dL)=8.6; rbc(cells/uL)=2920000
+SUBJECT_SAMPLE_FACTORS           	92544	2015864	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=18.7; Gender=Male; wbc(cells/uL)=7900; hgb(g/dL)=10.4; rbc(cells/uL)=3920000
+SUBJECT_SAMPLE_FACTORS           	92545	2015865	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=27.7; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=13.6; rbc(cells/uL)=4830000
+SUBJECT_SAMPLE_FACTORS           	92546	2015866	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=22.5; Gender=Female; wbc(cells/uL)=8200; hgb(g/dL)=6.4; rbc(cells/uL)=2250000
+SUBJECT_SAMPLE_FACTORS           	92547	2015867	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=44; Gender=Male; wbc(cells/uL)=5300; hgb(g/dL)=7.3; rbc(cells/uL)=2670000
+SUBJECT_SAMPLE_FACTORS           	92548	2015878	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=85.6; Gender=Male; wbc(cells/uL)=5900; hgb(g/dL)=14.9; rbc(cells/uL)=5520000
+SUBJECT_SAMPLE_FACTORS           	92549	2015885	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=47.5; Gender=Male; wbc(cells/uL)=3100; hgb(g/dL)=14.8; rbc(cells/uL)=5150000
+SUBJECT_SAMPLE_FACTORS           	92551	2015886	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=61.1; Gender=Male; wbc(cells/uL)=12600; hgb(g/dL)=14.1; rbc(cells/uL)=4700000
+SUBJECT_SAMPLE_FACTORS           	92552	2015892	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=47.6; Gender=Male; wbc(cells/uL)=3700; hgb(g/dL)=13.1; rbc(cells/uL)=4290000
+SUBJECT_SAMPLE_FACTORS           	92553	2015893	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=14.4; Gender=Male; wbc(cells/uL)=1700; hgb(g/dL)=8.89; rbc(cells/uL)=3100000
+SUBJECT_SAMPLE_FACTORS           	92554	2015894	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=31; Gender=Male; wbc(cells/uL)=3900; hgb(g/dL)=14.6; rbc(cells/uL)=4940000
+SUBJECT_SAMPLE_FACTORS           	92555	2015895	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=39.6; Gender=Male; wbc(cells/uL)=6100; hgb(g/dL)=13.9; rbc(cells/uL)=5030000
+SUBJECT_SAMPLE_FACTORS           	92556	2015896	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=71.9; Gender=Male; wbc(cells/uL)=4900; hgb(g/dL)=15.1; rbc(cells/uL)=5440000
+SUBJECT_SAMPLE_FACTORS           	92557	2015897	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=55; Gender=Male; wbc(cells/uL)=6000; hgb(g/dL)=14.7; rbc(cells/uL)=5530000
+SUBJECT_SAMPLE_FACTORS           	92560	2015899	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=43; Gender=Female; wbc(cells/uL)=4000; hgb(g/dL)=10.4; rbc(cells/uL)=3580000
+SUBJECT_SAMPLE_FACTORS           	92561	2015900	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=30.9; Gender=Male; wbc(cells/uL)=6400; hgb(g/dL)=15.5; rbc(cells/uL)=5190000
+SUBJECT_SAMPLE_FACTORS           	92562	2015901	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=32.8; Gender=Female; wbc(cells/uL)=4000; hgb(g/dL)=9.8; rbc(cells/uL)=3580000
+SUBJECT_SAMPLE_FACTORS           	92563	2015904	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=38.2; Gender=Female; wbc(cells/uL)=4000; hgb(g/dL)=13.1; rbc(cells/uL)=4340000
+SUBJECT_SAMPLE_FACTORS           	92564	2015921	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=24.4; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=15; rbc(cells/uL)=5860000
+SUBJECT_SAMPLE_FACTORS           	92565	2015922	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=14; Gender=Female; wbc(cells/uL)=3700; hgb(g/dL)=13.9; rbc(cells/uL)=5510000
+SUBJECT_SAMPLE_FACTORS           	92566	2015923	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=52.5; Gender=Male; wbc(cells/uL)=6700; hgb(g/dL)=14.6; rbc(cells/uL)=5390000
+SUBJECT_SAMPLE_FACTORS           	92567	2015924	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=38.5; Gender=Male; wbc(cells/uL)=5600; hgb(g/dL)=14.9; rbc(cells/uL)=4780000
+SUBJECT_SAMPLE_FACTORS           	92568	2015925	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=19.3; Gender=Female; wbc(cells/uL)=7400; hgb(g/dL)=14.7; rbc(cells/uL)=5000000
+SUBJECT_SAMPLE_FACTORS           	92569	2016028	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=<10; Gender=Female; wbc(cells/uL)=7000; hgb(g/dL)=7.3; rbc(cells/uL)=3270000
+SUBJECT_SAMPLE_FACTORS           	92570	2015926	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=14.8; Gender=Female; wbc(cells/uL)=7400; hgb(g/dL)=10.3; rbc(cells/uL)=3750000
+SUBJECT_SAMPLE_FACTORS           	92571	2015927	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=24; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=15.4; rbc(cells/uL)=5480000
+SUBJECT_SAMPLE_FACTORS           	92572	2015928	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=47.9; Gender=Male; wbc(cells/uL)=3700; hgb(g/dL)=15.1; rbc(cells/uL)=5500000
+SUBJECT_SAMPLE_FACTORS           	92573	2015930	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=45.7; Gender=Female; wbc(cells/uL)=5500; hgb(g/dL)=10.6; rbc(cells/uL)=4080000
+SUBJECT_SAMPLE_FACTORS           	92574	2015931	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=46.6; Gender=Male; wbc(cells/uL)=5300; hgb(g/dL)=15.4; rbc(cells/uL)=5620000
+SUBJECT_SAMPLE_FACTORS           	92575	2015932	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=25.8; Gender=Female; wbc(cells/uL)=5900; hgb(g/dL)=9; rbc(cells/uL)=3060000
+SUBJECT_SAMPLE_FACTORS           	92576	2015977	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=44.1; Gender=Male; wbc(cells/uL)=7800; hgb(g/dL)=13.4; rbc(cells/uL)=4140000
+SUBJECT_SAMPLE_FACTORS           	92577	2015978	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=63.3; Gender=Female; wbc(cells/uL)=3700; hgb(g/dL)=14.1; rbc(cells/uL)=5540000
+SUBJECT_SAMPLE_FACTORS           	92578	2015980	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=29; Gender=Male; wbc(cells/uL)=5500; hgb(g/dL)=15.2; rbc(cells/uL)=5500000
+SUBJECT_SAMPLE_FACTORS           	92579	2015981	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=33.8; Gender=Male; wbc(cells/uL)=4100; hgb(g/dL)=13.4; rbc(cells/uL)=5210000
+SUBJECT_SAMPLE_FACTORS           	92580	2015984	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=39.3; Gender=Male; wbc(cells/uL)=8700; hgb(g/dL)=15.5; rbc(cells/uL)=5480000
+SUBJECT_SAMPLE_FACTORS           	92581	2015985	Current Malaria Infection:P.Vivax | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=49.2; Gender=Male; wbc(cells/uL)=6400; hgb(g/dL)=13.4; rbc(cells/uL)=4680000
+SUBJECT_SAMPLE_FACTORS           	92582	2015986	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=20.8; Gender=Female; wbc(cells/uL)=8100; hgb(g/dL)=13; rbc(cells/uL)=5410000
+SUBJECT_SAMPLE_FACTORS           	92583	2015987	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=23.5; Gender=Female; wbc(cells/uL)=10100; hgb(g/dL)=10.9; rbc(cells/uL)=3990000
+SUBJECT_SAMPLE_FACTORS           	92584	2015988	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=39.3; Gender=Male; wbc(cells/uL)=5100; hgb(g/dL)=14; rbc(cells/uL)=5750000
+SUBJECT_SAMPLE_FACTORS           	92585	2016005	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=43.7; Gender=Male; wbc(cells/uL)=1900; hgb(g/dL)=15.5; rbc(cells/uL)=5290000
+SUBJECT_SAMPLE_FACTORS           	92586	2016006	Current Malaria Infection:P.Vivax | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=36.9; Gender=Male; wbc(cells/uL)=4600; hgb(g/dL)=15.5; rbc(cells/uL)=5770000
+SUBJECT_SAMPLE_FACTORS           	92587	2016007	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=28; Gender=Male; wbc(cells/uL)=5600; hgb(g/dL)=14.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92588	2016008	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=29; Gender=Male; wbc(cells/uL)=6200; hgb(g/dL)=14.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92589	2016009	Current Malaria Infection:None | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=26; Gender=Male; wbc(cells/uL)=8500; hgb(g/dL)=13.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92590	2016010	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=-; Gender=Female; wbc(cells/uL)=7600; hgb(g/dL)=12.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92591	2016011	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=-; Gender=Female; wbc(cells/uL)=6300; hgb(g/dL)=12.1; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92592	2016012	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=-; Gender=Female; wbc(cells/uL)=7700; hgb(g/dL)=12.7; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92593	2016013	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=-; Gender=Male; wbc(cells/uL)=9300; hgb(g/dL)=13.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92594	2016014	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=-; Gender=Female; wbc(cells/uL)=5500; hgb(g/dL)=11.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92595	2016015	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=-; Gender=Female; wbc(cells/uL)=8500; hgb(g/dL)=13.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92596	2016016	Current Malaria Infection:None | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=40; Gender=Male; wbc(cells/uL)=5300; hgb(g/dL)=12.8; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92597	2016017	Current Malaria Infection:None | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=20; Gender=Male; wbc(cells/uL)=9600; hgb(g/dL)=14.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92598	2016018	Current Malaria Infection:None | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=35; Gender=Male; wbc(cells/uL)=6000; hgb(g/dL)=15.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92599	2016019	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=36; Gender=Female; wbc(cells/uL)=5800; hgb(g/dL)=14.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92600	2016020	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=31; Gender=Male; wbc(cells/uL)=6300; hgb(g/dL)=15.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92601	2016021	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=40; Gender=Male; wbc(cells/uL)=5100; hgb(g/dL)=14.4; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92602	2016022	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=19; Gender=Female; wbc(cells/uL)=10200; hgb(g/dL)=11; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92603	2016023	Current Malaria Infection:None | Prior Malaria Infection:YES | Chloroquine Resistance:N/A	Age=45; Gender=Male; wbc(cells/uL)=12000; hgb(g/dL)=14.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92604	2016024	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=32; Gender=Male; wbc(cells/uL)=7700; hgb(g/dL)=15.6; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92605	2016025	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=29; Gender=Female; wbc(cells/uL)=6700; hgb(g/dL)=12.3; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	92606	2016026	Current Malaria Infection:None | Prior Malaria Infection:NO | Chloroquine Resistance:N/A	Age=38; Gender=Female; wbc(cells/uL)=7500; hgb(g/dL)=12.5; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129337	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129341	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129339	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129343	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129340	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	853678	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129336	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2127215	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129344	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129342	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129346	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129335	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129345	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129338	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	REe6	2129347	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100021	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100022	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200042	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200043	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200044	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200045	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200046	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200047	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200048	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200049	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200050	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200051	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200052	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200053	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200054	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200055	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200056	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200057	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200058	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200059	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200060	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200061	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200062	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200041	Current Malaria Infection:None | Prior Malaria Infection:N/A | Chloroquine Resistance:N/A	Age=N/A; Gender=N/A; wbc(cells/uL)=-; hgb(g/dL)=-; rbc(cells/uL)=-
+#COLLECTION
+CO:COLLECTION_SUMMARY            	none
+CO:SAMPLE_TYPE                   	Blood
+CO:COLLECTION_FREQUENCY          	Once or Twice
+#TREATMENT
+TR:TREATMENT_SUMMARY             	None
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	aliquots of 30ul sample were mixed with 100ul acetonitrile and 2.5ul internal
+SP:SAMPLEPREP_SUMMARY            	standard. Keep on ice for 30 minutes and vortex every 15 minutes. Centrifuge for
+SP:SAMPLEPREP_SUMMARY            	10 minutes at 13.2rpm and 4C. Using a pipette, 100ul of supernatant was removed
+SP:SAMPLEPREP_SUMMARY            	and placed into autosampler vials for the mass spectrometer.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Metab_Sample_Preparation_Plasma_serum_v1_May_17_2013.docx
+SP:PROCESSING_METHOD             	Precipitation of protein, centrifuge, and remove supernatant
+SP:PROCESSING_STORAGE_CONDITIONS 	on ice
+SP:EXTRACTION_METHOD             	1:2 sample:acetonitrile
+SP:EXTRACT_STORAGE               	Pipette supernatant into autosampler vials for mass spectrometer
+SP:SAMPLE_SPIKING                	C18 standards: Caffeine and Diethyl-toluamide. Stable isotopes:
+SP:SAMPLE_SPIKING                	[13C6]-D-glucose, [15N]-indole, [1,2-13C2]-palmitic acid,
+SP:SAMPLE_SPIKING                	[15N,13C5]-L-methionine, [2-15N]-L-lysine dihydrochloride, [15N]-choline
+SP:SAMPLE_SPIKING                	chloride, [13C5]-L-glutamic acid, [13C7]-benzoic acid, [15N]-L-tyrosine,
+SP:SAMPLE_SPIKING                	[15N2]-uracil, [3,4-13C2]-cholesterol, [3,3-13C2]-cystine,
+SP:SAMPLE_SPIKING                	[trimethyl-13C3]-caffeine, [U-13C5, U-15N2]-L-glutamine.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	Positive untargeted chromatography (C18 column)
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Acela CTC LC coupled with Thermo LTQ Velos Orbitrap
+CH:COLUMN_NAME                	Higgins C18 HPLC Columns, 100x2.1, 2.6µm, Thermo Fisher
+CH:FLOW_GRADIENT              	A: 0-2mins = 90%, 2-7mins = gradient to 0%, 7-10mins = 0%. B: 0-2mins = 5%,
+CH:FLOW_GRADIENT              	2-7mins = gradient to 95%, 7-10mins = 95%. C: 0-10mins = 5%
+CH:FLOW_RATE                  	350?L/min
+CH:COLUMN_TEMPERATURE         	30
+CH:METHODS_FILENAME           	Metab_Orbitrap_Setup_v2_26Jun2013.docx
+CH:SOLVENT_A                  	LCMS H20
+CH:SOLVENT_B                  	LCMS Acetonitrile
+CH:INTERNAL_STANDARD          	Caffeine, Diethyl-toluamide
+CH:INTERNAL_STANDARD_MT       	1.5 min, 6-6.6 min
+CH:SAMPLE_INJECTION           	10?L
+CH:SAMPLING_CONE              	HESI probe with S-lens combination for ESI
+CH:ANALYTICAL_TIME            	10 minutes
+CH:CAPILLARY_VOLTAGE          	4.6 kV
+CH:OVEN_TEMPERATURE           	45 C
+CH:RUNNING_VOLTAGE            	45
+CH:WEAK_WASH_SOLVENT_NAME     	H20 with 10% methanol
+CH:SAMPLE_SYRINGE_SIZE        	20?L
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:SOFTWARE_VERSION         	Thermo Excalibur 2.2 SP1
+AN:ANALYSIS_PROTOCOL_FILE   	Metab_Orbitrap_Setup_v2_26Jun2013.docx
+#MS
+MS:INSTRUMENT_NAME          	Thermo LTQ-FT
+MS:INSTRUMENT_TYPE          	Orbitrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_COMMENTS              	C18 Pos: technical triplicates for each sample
+MS:CAPILLARY_VOLTAGE        	4.45
+MS:COLLISION_GAS            	N2
+MS:GAS_PRESSURE             	50
+MS:IONIZATION               	electrospray ionization
+MS:MASS_ACCURACY            	5 ppm
+MS:SOURCE_TEMPERATURE       	48
+MS:SPRAY_VOLTAGE            	3.5
+MS:ATOM_GUN_CURRENT         	1000000
+MS:DATAFORMAT               	.raw, .cdf
+MS:PROBE_TIP                	HESI
+MS:RESOLUTION_SETTING       	60000
+MS:SCAN_RANGE_MOVERZ        	85-2000
+MS:MS_RESULTS_FILE          	ST000578_AN000888_Results.zip
+#END

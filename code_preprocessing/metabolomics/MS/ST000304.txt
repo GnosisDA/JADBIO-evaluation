@@ -1,0 +1,135 @@
+#METABOLOMICS WORKBENCH efahy_20151229_094644 STUDY_ID:ST000304 ANALYSIS_ID:AN000483
+VERSION             	1
+CREATED_ON             	December 29, 2015, 9:46 am
+#PROJECT
+PR:PROJECT_TITLE                 	Early in life exposure studies
+PR:PROJECT_SUMMARY               	Early in life exposures affect innate immune cells activation
+PR:INSTITUTE                     	University of Michigan
+PR:DEPARTMENT                    	Pediatrics
+PR:LABORATORY                    	Hershenson Lab
+PR:LAST_NAME                     	Popova
+PR:FIRST_NAME                    	Antonia
+PR:ADDRESS                       	Ann Arbor, MI
+PR:EMAIL                         	antoniap@med.umich.edu
+PR:PHONE                         	734-764-6736
+#STUDY
+ST:STUDY_TITLE                   	Early in life exposure studies on human and mouse samples
+ST:STUDY_SUMMARY                 	Experiment1: 2 day old baby mice were exposed to hyperoxia (75% O2) continuously
+ST:STUDY_SUMMARY                 	for 7 days. Control baby mice were housed in room air (normoxia). Plasma and
+ST:STUDY_SUMMARY                 	bronchoalveolar lavage fluid (BALF) were harvested after 7 days of exposure (on
+ST:STUDY_SUMMARY                 	Day of life 9). Experiment2: 2 day old baby mice were exposed to room air or
+ST:STUDY_SUMMARY                 	hyperoxia for 14 days and subsequently treated with RV1 or sham.Plasma was
+ST:STUDY_SUMMARY                 	collected 5 days after treatment. Human tracheal aspirates were collected from
+ST:STUDY_SUMMARY                 	prematurely born infants undergoing mechanical ventilation for respiratory
+ST:STUDY_SUMMARY                 	distress syndrome in the first week of life.Tracheal aspirate supernatants are
+ST:STUDY_SUMMARY                 	submitted for the assay. We would like to measure adenosine, AMP, ADP and ATP
+ST:STUDY_SUMMARY                 	levels.
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@med.umich.edu
+ST:PHONE                         	(734) 232-8175
+ST:NUM_GROUPS                    	7
+ST:TOTAL_SUBJECTS                	52
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human/animal
+SU:SUBJECT_SPECIES               	Mus musculus/Homo sapiens
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0011995	S00017890	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0011996	S00017891	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0011997	S00017892	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0011998	S00017893	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0011999	S00017894	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012000	S00017895	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012001	S00017896	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012002	S00017897	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0011995	S00017898	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0011996	S00017899	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0011997	S00017900	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0011998	S00017901	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0011999	S00017902	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012000	S00017903	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012001	S00017904	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012002	S00017905	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012003	S00017906	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012004	S00017907	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012005	S00017908	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012006	S00017909	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012007	S00017910	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	
+SUBJECT_SAMPLE_FACTORS           	SU0012003	S00017911	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012004	S00017912	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012005	S00017913	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012006	S00017914	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012007	S00017915	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012008	S00017916	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012009	S00017917	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012010	S00017918	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012011	S00017919	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012012	S00017920	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012013	S00017921	Hyperoxia exposure:y | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012014	S00017922	Hyperoxia exposure:y | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012015	S00017923	Hyperoxia exposure:y | RV infection:n | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012016	S00017924	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012017	S00017925	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012018	S00017926	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012019	S00017927	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012020	S00017928	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012021	S00017929	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012022	S00017930	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012023	S00017931	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	
+SUBJECT_SAMPLE_FACTORS           	SU0012024	S00017932	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012025	S00017933	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012026	S00017934	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012027	S00017935	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012028	S00017936	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012029	S00017937	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012030	S00017938	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012031	S00017939	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012032	S00017940	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+SUBJECT_SAMPLE_FACTORS           	SU0012033	S00017941	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Bronchoalveolar Lavage Fluid
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Glycolysis-TCA-nucleotides-20150324.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	HILIC
+CH:INSTRUMENT_NAME            	Agilent 1260 LC
+CH:COLUMN_NAME                	Phenomenex Luna NH2 column, 1mm x 150mm
+CH:METHODS_FILENAME           	QQQ-ATP,ADP,AMP,A-update.m
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:ANALYSIS_PROTOCOL_FILE   	Glycolysis-TCA-nucleotides-20150324.docx
+AN:ACQUISITION_PARAMETERS_FILE	QQQ-ATP,ADP,AMP,A-update.m
+AN:PROCESSING_PARAMETERS_FILE	EX0000423-GlyTCA-DataAnalysis-Method.m
+#MS
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+MS:INSTRUMENT_NAME               	-
+MS:INSTRUMENT_NAME          	Agilent QQQ 6410
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	nM
+MS_METABOLITE_DATA_START
+Samples	S00017890	S00017891	S00017892	S00017893	S00017894	S00017895	S00017896	S00017897	S00017898	S00017899	S00017900	S00017901	S00017902	S00017903	S00017904	S00017905	S00017906	S00017907	S00017908	S00017909	S00017910	S00017911	S00017912	S00017913	S00017914	S00017915	S00017916	S00017917	S00017918	S00017919	S00017920	S00017921	S00017922	S00017923	S00017924	S00017925	S00017926	S00017927	S00017928	S00017929	S00017930	S00017931	S00017932	S00017933	S00017934	S00017935	S00017936	S00017937	S00017938	S00017939	S00017940	S00017941
+Factors	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:y | RV infection:n/a | Sample type:Bronchoalveolar Lavage Fluid	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n/a | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	Hyperoxia exposure:n | RV infection:n | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n | Sample type:Plasma	Hyperoxia exposure:y | RV infection:n | Sample type:Plasma	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	Hyperoxia exposure:n | RV infection:y | Sample type:Plasma	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	Hyperoxia exposure:y | RV infection:y | Sample type:Plasma	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea	Hyperoxia exposure:n/a | RV infection:n/a | Sample type:Trachea
+Adenosine	451.21	384.48	145.60	343.71	410.64	321.17	186.06	3352.85	5587.76	4677.85	4444.76	2096.14	918.16	15609.60	4949.85	6778.91	3552.23	13413.11	5757.74	7643.50	4396.09	6657.44	6168.17	4545.65	10053.27	5467.71	5282.80	9597.40	182.04	92.67	112.08	210.36	235.64	60.15	93.10	203.92	194.00	79.69	1983.26	30936.99	11307.88	6061.51	26859.58	10789.11	16484.98	18779.74	359.24	1028.88	2906.41	2192.16	563.64	646.32
+ADP	3667.65	1053.68	237.02	839.01	865.35	360.01	403.88	568.39	2564.21	937.09	1114.42	1588.48	720.34	640.46	415.69	178.73	319.00	175.97	249.84	195.50	715.78	123.47	86.93	59.43	322.01	746.51	143.26	106.24	102.85	99.25	67.46	73.84	76.37	68.86	90.89	77.31	88.77	65.28	2975.89	320.18	4393.75	3345.07	158.13	773.87	1917.18	383.45	2926.50	1848.17	3984.50	1491.40	1304.47	1610.76
+AMP	4228.15	847.56	343.16	827.85	902.30	471.51	291.48	1517.69	5950.74	2386.09	2216.87	3228.80	868.85	4288.03	1466.39	1125.61	425.99	781.23	157.11	231.44	1843.49	214.76	165.44	94.30	1131.80	1325.26	109.08	143.13	69.79	206.26	69.68	60.13	63.08	89.38	365.93	90.79	78.92	64.68	4124.62	4864.90	10040.03	5640.95	2586.09	4839.49	11120.87	3644.17	4133.14	1742.97	12921.74	8149.03	1248.10	1094.87
+ATP	4462.56	1617.21	416.06	2326.73	1076.46	442.57	629.87	1595.01	6917.69	2229.26	2811.10	4746.44	2463.69	353.09	0.00	174.14	355.67	199.79	404.81	230.96	626.81	238.20	99.81	73.11	254.52	484.64	227.81	0.00	145.63	143.58	0.00	139.97	121.98	93.74	143.57	0.00	182.33	0.00	11066.04	0.00	4408.58	5132.99	201.16	260.72	590.63	107.92	5141.16	2533.61	1577.94	467.35	1282.26	2703.69
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	PubChem CID
+Adenosine	60961
+AMP	6083
+ADP	6022
+ATP	5957
+METABOLITES_END
+#END

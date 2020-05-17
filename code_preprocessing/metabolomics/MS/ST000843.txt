@@ -1,0 +1,351 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170809_103526 DATATRACK_ID:1194 STUDY_ID:ST000843 ANALYSIS_ID:AN001364
+VERSION             	1
+CREATED_ON             	August 10, 2017, 2:42 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Statin Immuno-Metabolomics in Asthma
+PR:PROJECT_TYPE                  	Placebo-controled trial
+PR:PROJECT_SUMMARY               	Innovative and novel therapies are urgently needed for the treatment of patients
+PR:PROJECT_SUMMARY               	with severe asthma, especially those who are refractory to standard-of-care
+PR:PROJECT_SUMMARY               	bronchodilators and inhaled corticosteroids. The Zeki lab is investigating the
+PR:PROJECT_SUMMARY               	role of the mevalonate (MA) pathway, in the pathogenesis of airway inflammation
+PR:PROJECT_SUMMARY               	and remodeling. Although statins all inhibit HMGCR in the same manner in terms
+PR:PROJECT_SUMMARY               	of enzyme binding site, the statins’ varied physiochemical properties with
+PR:PROJECT_SUMMARY               	respect to their polarity (i.e. lipophilicity) result in very different immune
+PR:PROJECT_SUMMARY               	and lipid effects. The major significance of this work is to advance a new class
+PR:PROJECT_SUMMARY               	of inhaler therapies for asthma; the statins which work by an entirely different
+PR:PROJECT_SUMMARY               	mechanism than current ICS/LABA mainstays. Evidence suggests that statins may
+PR:PROJECT_SUMMARY               	have an additive benefit to corticosteroids in asthma, thereby confirming a
+PR:PROJECT_SUMMARY               	unique mechanism, namely via MVA pathway inhibition. This becomes particularly
+PR:PROJECT_SUMMARY               	important in the severe asthma population which is highly
+PR:PROJECT_SUMMARY               	corticosteroid-resistant, is poorly controlled with high exacerbation rates and
+PR:PROJECT_SUMMARY               	hospitalizations, and has the highest healthcare costs of all asthma phenotypes.
+PR:PROJECT_SUMMARY               	In essence, the potential public health impact of even an incremental
+PR:PROJECT_SUMMARY               	improvement in asthma symptom control cannot be underestimated. Even the
+PR:PROJECT_SUMMARY               	prevention of 1 asthma attack preserves lung function and reduces the adverse
+PR:PROJECT_SUMMARY               	personal and financial impact. This study aimed to determine if statin polarity
+PR:PROJECT_SUMMARY               	affects airway drug concentration and systemic drug absorption and to determine
+PR:PROJECT_SUMMARY               	the effect of inhaled statins on naïve airway immune cell populations and
+PR:PROJECT_SUMMARY               	alveolar-capillary membrane and epithelial barrier integrity in healthy rhesus
+PR:PROJECT_SUMMARY               	monkeys. In this particular component of the study, we investigated the
+PR:PROJECT_SUMMARY               	metabolic effects resulting from the use of statins in these healthy rhesus
+PR:PROJECT_SUMMARY               	monkeys. Specifically, the Newman lab analyzed for lipid mediator (oxylipin,
+PR:PROJECT_SUMMARY               	endocannabinoid, fatty acid, and nitro lipid) in lung and trachea tissue,
+PR:PROJECT_SUMMARY               	plasma, and BAL and bile acid changes in the lung and trachea tissue and plasma.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Internal Medicine
+PR:LAST_NAME                     	Zeki
+PR:FIRST_NAME                    	Amir
+PR:ADDRESS                       	2825 J St. Suite 400 Sacramento, CA 95816
+PR:EMAIL                         	aazeki@ucdavis.edu
+PR:PHONE                         	(916) 734-8230
+#STUDY
+ST:STUDY_TITLE                   	Statin Immuno-Metabolomics in Asthma (part I)
+ST:STUDY_TYPE                    	Placebo-controled trial
+ST:STUDY_SUMMARY                 	Innovative and novel therapies are urgently needed for the treatment of patients
+ST:STUDY_SUMMARY                 	with severe asthma, especially those who are refractory to standard-of-care
+ST:STUDY_SUMMARY                 	bronchodilators and inhaled corticosteroids. The Zeki lab is investigating the
+ST:STUDY_SUMMARY                 	role of the mevalonate (MA) pathway, in the pathogenesis of airway inflammation
+ST:STUDY_SUMMARY                 	and remodeling. Although statins all inhibit HMGCR in the same manner in terms
+ST:STUDY_SUMMARY                 	of enzyme binding site, the statins’ varied physiochemical properties with
+ST:STUDY_SUMMARY                 	respect to their polarity (i.e. lipophilicity) result in very different immune
+ST:STUDY_SUMMARY                 	and lipid effects. The major significance of this work is to advance a new class
+ST:STUDY_SUMMARY                 	of inhaler therapies for asthma; the statins which work by an entirely different
+ST:STUDY_SUMMARY                 	mechanism than current ICS/LABA mainstays. Evidence suggests that statins may
+ST:STUDY_SUMMARY                 	have an additive benefit to corticosteroids in asthma, thereby confirming a
+ST:STUDY_SUMMARY                 	unique mechanism, namely via MVA pathway inhibition. This becomes particularly
+ST:STUDY_SUMMARY                 	important in the severe asthma population which is highly
+ST:STUDY_SUMMARY                 	corticosteroid-resistant, is poorly controlled with high exacerbation rates and
+ST:STUDY_SUMMARY                 	hospitalizations, and has the highest healthcare costs of all asthma phenotypes.
+ST:STUDY_SUMMARY                 	In essence, the potential public health impact of even an incremental
+ST:STUDY_SUMMARY                 	improvement in asthma symptom control cannot be underestimated. Even the
+ST:STUDY_SUMMARY                 	prevention of 1 asthma attack preserves lung function and reduces the adverse
+ST:STUDY_SUMMARY                 	personal and financial impact. This study aimed to determine if statin polarity
+ST:STUDY_SUMMARY                 	affects airway drug concentration and systemic drug absorption and to determine
+ST:STUDY_SUMMARY                 	the effect of inhaled statins on naïve airway immune cell populations and
+ST:STUDY_SUMMARY                 	alveolar-capillary membrane and epithelial barrier integrity in healthy rhesus
+ST:STUDY_SUMMARY                 	monkeys. In this particular component of the study, we investigated the
+ST:STUDY_SUMMARY                 	metabolic effects resulting from the use of statins in these healthy rhesus
+ST:STUDY_SUMMARY                 	monkeys. Specifically, the Newman lab analyzed for lipid mediator (oxylipin,
+ST:STUDY_SUMMARY                 	endocannabinoid, fatty acid, and nitro lipid) in lung and trachea tissue,
+ST:STUDY_SUMMARY                 	plasma, and BAL and bile acid changes in the lung and trachea tissue and plasma.
+ST:INSTITUTE                     	USDA
+ST:DEPARTMENT                    	Obesity and metabolism research unit
+ST:LABORATORY                    	Newman's Lab
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 West Health Sciences Dr. Davis, Ca, 95616
+ST:EMAIL                         	John.Newman@ars.usda.gov
+ST:PHONE                         	(530) 752-1009
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Rhesus Macaque
+SU:TAXONOMY_ID                   	9544
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-01	Treatment:Control | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-33	Treatment:Control | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-06	Treatment:Simvastatin | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-24	Treatment:Simvastatin | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-11	Treatment:Simvastatin | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-10	Treatment:Control | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-09	Treatment:Control | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-04	Treatment:Control | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-28	Treatment:Simvastatin | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-08	Treatment:Simvastatin | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-23	Treatment:Simvastatin | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-19	Treatment:Control | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-34	Treatment:Control | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-02	Treatment:Control | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-05	Treatment:Simvastatin | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-35	Treatment:Simvastatin | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-25	Treatment:Simvastatin | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-18	Treatment:Control | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-07	Treatment:Control | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-30	Treatment:Simvastatin | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-27	Treatment:Simvastatin | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-03	Treatment:Simvastatin | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-14	Treatment:Control | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-17	Treatment:Control | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-13	Treatment:Control | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-32	Treatment:Simvastatin | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-15	Treatment:Simvastatin | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-29	Treatment:Simvastatin | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-26	Treatment:Control | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-12	Treatment:Control | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-22	Treatment:Control | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-20	Treatment:Simvastatin | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-31	Treatment:Simvastatin | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	BAL-AZ-21	Treatment:Simvastatin | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 01	Treatment:Control | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 02	Treatment:Pravastatin | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 03	Treatment:Control | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 06	Treatment:Control | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 07	Treatment:Control | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 08	Treatment:Pravastatin | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 09	Treatment:Pravastatin | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 10	Treatment:Control | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 13	Treatment:Control | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 14	Treatment:Pravastatin | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 15	Treatment:Pravastatin | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 16	Treatment:Control | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 17	Treatment:Pravastatin | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 18	Treatment:Pravastatin | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 21	Treatment:Pravastatin | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 22	Treatment:Control | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 23	Treatment:Pravastatin | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 24	Treatment:Control | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 25	Treatment:Pravastatin | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 26	Treatment:Pravastatin | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 29	Treatment:Control | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 30	Treatment:Control | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 31	Treatment:Pravastatin | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 32	Treatment:Control | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 33	Treatment:Control | Lung:Left Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 36	Treatment:Control | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 37	Treatment:Pravastatin | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 38	Treatment:Control | Lung:Right Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 39	Treatment:Control | Lung:Right Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 40	Treatment:Pravastatin | Lung:Right Lung | Time point (day):-	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 43	Treatment:Pravastatin | Lung:Left Lung | Time point (day):12	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 44	Treatment:Pravastatin | Lung:Left Lung | Time point (day):8	
+SUBJECT_SAMPLE_FACTORS           	-	AZ 45	Treatment:Control | Lung:Left Lung | Time point (day):12	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Monkeys were treated with placebo or Provastatin for 12 days. Further, after the
+CO:COLLECTION_SUMMARY            	wash out period animals were treated with Simvastatin for 12 days. Lung wash
+CO:COLLECTION_SUMMARY            	fluid was collected at day 0, 8 and 12 of each treatment.
+CO:SAMPLE_TYPE                   	Bronchoalveolar lavage
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Monkeys were treated (by inhalation) with placebo or Provastatin for 12 days.
+TR:TREATMENT_SUMMARY             	Further, after the wash out period animals were treated with Simvastatin for 12
+TR:TREATMENT_SUMMARY             	days. Lung wash fluid was collected at day 0, 8 and 12 of each treatment.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Oxylipins, endocannabinoids, and fatty acids were isolated by solid phase
+SP:SAMPLEPREP_SUMMARY            	extraction on 60 mg Waters Oasis-HLB cartridges (Milford, MA), as previously
+SP:SAMPLEPREP_SUMMARY            	described by Luria et al (1). Prior to extraction, cartridges were washed with 1
+SP:SAMPLEPREP_SUMMARY            	column volume ethyl acetate followed by 2 column volumes methanol and
+SP:SAMPLEPREP_SUMMARY            	conditioned with 2 mL of 95:5 v/v water/methanol (MeOH) with 0.1% acetic acid.
+SP:SAMPLEPREP_SUMMARY            	The column reservoir was spiked with 5 µL anti-oxidant solution, (0.2 mg/ml
+SP:SAMPLEPREP_SUMMARY            	solution BHT/EDTA in 1:1 MeOH:water), and 10 μL 1000nM analytical surrogates
+SP:SAMPLEPREP_SUMMARY            	(See Table 2 below for specific compounds). Sample aliquots (500 µL media) were
+SP:SAMPLEPREP_SUMMARY            	then introduced to the column reservoir and diluted with 1 column volume wash
+SP:SAMPLEPREP_SUMMARY            	solution (5% MeOH, 0.1% acetic acid) and allowed to gravity extract into tubes
+SP:SAMPLEPREP_SUMMARY            	containing 10% bleach solution to decontaminate sample waste. SPE cartridges
+SP:SAMPLEPREP_SUMMARY            	were dried by vacuum @ -7.5in Hg for 20 min. Analytes were then eluted by
+SP:SAMPLEPREP_SUMMARY            	gravity with 0.5 mL MeOH, followed by 1.25 mL Ethyl Acetate, into 2 mL
+SP:SAMPLEPREP_SUMMARY            	autosampler vials containing 10 µL 20% glycerol solution in MeOH. Eluent was
+SP:SAMPLEPREP_SUMMARY            	dried by vacuum evaporation for 35 min, and residues were re-constituted with
+SP:SAMPLEPREP_SUMMARY            	100uL of 100 nM internal standard solution containing 1-cyclohexyl
+SP:SAMPLEPREP_SUMMARY            	ureido,3-dodecanoic acid (CUDA) and 1-Phenyl 3-Hexadecanoic Acid Urea (PHAU), in
+SP:SAMPLEPREP_SUMMARY            	50:50 MeOH:ACN and let sit for 10 min at ambient temperature. Vials were then
+SP:SAMPLEPREP_SUMMARY            	chilled 15 min on wet ice, and extracts were transferred to a centrifugal filter
+SP:SAMPLEPREP_SUMMARY            	(0.1 µm Durapore, Millipore, Billerica, MA), centrifuged for 3 min at 6ºC at
+SP:SAMPLEPREP_SUMMARY            	<4500g (rcf) and transferred to 150 uL glass inserts within 2 mL amber vials,
+SP:SAMPLEPREP_SUMMARY            	and capped. Extracts were stored at -20ºC until analysis by UPLC-MS/MS. The
+SP:SAMPLEPREP_SUMMARY            	internal standard was used to quantify the recovery of the deuterated extraction
+SP:SAMPLEPREP_SUMMARY            	surrogates by ratio response.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity UPLC
+CH:COLUMN_NAME                	Acquity UPLC BEH C18 1.7μm 2.1 × 100 mm column
+CH:FLOW_GRADIENT              	See protocol/methods file
+CH:FLOW_RATE                  	0.25 mL/min
+CH:COLUMN_TEMPERATURE         	60 °C
+CH:SOLVENT_A                  	0.1% acetic acid
+CH:SOLVENT_B                  	90% ACN / 10% IPA
+CH:INTERNAL_STANDARD          	See protocol/methods file
+CH:RETENTION_TIME             	See protocol/methods file
+CH:SAMPLE_INJECTION           	5 µL
+CH:ANALYTICAL_TIME            	20 min
+CH:WEAK_WASH_SOLVENT_NAME     	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME           	600 µL
+CH:STRONG_WASH_SOLVENT_NAME   	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME         	600 µL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	API 6500 QTrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration (nM)
+MS_METABOLITE_DATA_START
+Samples	BAL-AZ-01	BAL-AZ-33	BAL-AZ-06	BAL-AZ-24	BAL-AZ-11	BAL-AZ-10	BAL-AZ-09	BAL-AZ-04	BAL-AZ-28	BAL-AZ-08	BAL-AZ-23	BAL-AZ-19	BAL-AZ-34	BAL-AZ-02	BAL-AZ-05	BAL-AZ-35	BAL-AZ-25	BAL-AZ-18	BAL-AZ-07	BAL-AZ-30	BAL-AZ-27	BAL-AZ-03	BAL-AZ-14	BAL-AZ-17	BAL-AZ-13	BAL-AZ-32	BAL-AZ-15	BAL-AZ-29	BAL-AZ-26	BAL-AZ-12	BAL-AZ-22	BAL-AZ-20	BAL-AZ-31	BAL-AZ-21	AZ 01	AZ 02	AZ 03	AZ 06	AZ 07	AZ 08	AZ 09	AZ 10	AZ 13	AZ 14	AZ 15	AZ 16	AZ 17	AZ 18	AZ 21	AZ 22	AZ 23	AZ 24	AZ 25	AZ 26	AZ 29	AZ 30	AZ 31	AZ 32	AZ 33	AZ 36	AZ 37	AZ 38	AZ 39	AZ 40	AZ 43	AZ 44	AZ 45
+Factors	Treatment:Control | Lung:Left Lung | Time point (day):-	Treatment:Control | Lung:Left Lung | Time point (day):-	Treatment:Simvastatin | Lung:Left Lung | Time point (day):-	Treatment:Simvastatin | Lung:Left Lung | Time point (day):-	Treatment:Simvastatin | Lung:Left Lung | Time point (day):-	Treatment:Control | Lung:Left Lung | Time point (day):8	Treatment:Control | Lung:Left Lung | Time point (day):8	Treatment:Control | Lung:Left Lung | Time point (day):8	Treatment:Simvastatin | Lung:Left Lung | Time point (day):8	Treatment:Simvastatin | Lung:Left Lung | Time point (day):8	Treatment:Simvastatin | Lung:Left Lung | Time point (day):8	Treatment:Control | Lung:Left Lung | Time point (day):12	Treatment:Control | Lung:Left Lung | Time point (day):12	Treatment:Control | Lung:Left Lung | Time point (day):12	Treatment:Simvastatin | Lung:Left Lung | Time point (day):12	Treatment:Simvastatin | Lung:Left Lung | Time point (day):12	Treatment:Simvastatin | Lung:Left Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):-	Treatment:Control | Lung:Right Lung | Time point (day):-	Treatment:Simvastatin | Lung:Right Lung | Time point (day):-	Treatment:Simvastatin | Lung:Right Lung | Time point (day):-	Treatment:Simvastatin | Lung:Right Lung | Time point (day):-	Treatment:Control | Lung:Right Lung | Time point (day):8	Treatment:Control | Lung:Right Lung | Time point (day):8	Treatment:Control | Lung:Right Lung | Time point (day):8	Treatment:Simvastatin | Lung:Right Lung | Time point (day):8	Treatment:Simvastatin | Lung:Right Lung | Time point (day):8	Treatment:Simvastatin | Lung:Right Lung | Time point (day):8	Treatment:Control | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):12	Treatment:Simvastatin | Lung:Right Lung | Time point (day):12	Treatment:Simvastatin | Lung:Right Lung | Time point (day):12	Treatment:Simvastatin | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):8	Treatment:Pravastatin | Lung:Left Lung | Time point (day):8	Treatment:Control | Lung:Right Lung | Time point (day):-	Treatment:Control | Lung:Right Lung | Time point (day):-	Treatment:Control | Lung:Left Lung | Time point (day):8	Treatment:Pravastatin | Lung:Right Lung | Time point (day):-	Treatment:Pravastatin | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Left Lung | Time point (day):12	Treatment:Control | Lung:Left Lung | Time point (day):12	Treatment:Pravastatin | Lung:Right Lung | Time point (day):8	Treatment:Pravastatin | Lung:Left Lung | Time point (day):12	Treatment:Control | Lung:Left Lung | Time point (day):-	Treatment:Pravastatin | Lung:Right Lung | Time point (day):-	Treatment:Pravastatin | Lung:Right Lung | Time point (day):8	Treatment:Pravastatin | Lung:Left Lung | Time point (day):-	Treatment:Control | Lung:Right Lung | Time point (day):12	Treatment:Pravastatin | Lung:Left Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):8	Treatment:Pravastatin | Lung:Right Lung | Time point (day):12	Treatment:Pravastatin | Lung:Left Lung | Time point (day):-	Treatment:Control | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Left Lung | Time point (day):8	Treatment:Pravastatin | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):-	Treatment:Control | Lung:Left Lung | Time point (day):-	Treatment:Control | Lung:Left Lung | Time point (day):8	Treatment:Pravastatin | Lung:Left Lung | Time point (day):8	Treatment:Control | Lung:Right Lung | Time point (day):12	Treatment:Control | Lung:Right Lung | Time point (day):8	Treatment:Pravastatin | Lung:Right Lung | Time point (day):-	Treatment:Pravastatin | Lung:Left Lung | Time point (day):12	Treatment:Pravastatin | Lung:Left Lung | Time point (day):8	Treatment:Control | Lung:Left Lung | Time point (day):12
+6-keto PGF1a	0.0464	0.0105	0.0093	0.0149	0.0157	0.02	0.0064	0.0156	0.0411	0.0075	0.0152	0.0883	0.018	0.0179	0.005	0.0086	0.0228	0.0035	0.0068	0.0098	0.0044	0.0054	0.0113	0.007	0.0087	0.0106	0.0385	0.0241	0.0217	0.0126	0.0083	0.0155	0.006	0.0445	0.0105	0.0222	0.0284	1.24	0.0279	0.0707	0.0244	0.0498	0.0215	0.0183	0.0132	0.0656	0.0258	0.0291	0.0205	0.0288	0.0083	0.0147	0.107	0.0185	0.547	0.0469	0.0196	0.0254	0.037	0.0572	0.0111	0.331	0.132	0.165	0.0111	0.111	0.0414
+TXB2	0.0793	0.0058	0.0042	0.0974	0.0186	0.076	0.0167	0.0247	0.0464	0.0884	0.0224	0.0797	0.0317	0.0454	0.0104	0.025	0.0256	0.0088	0.0013	0.0143	0.0257	0.0245	0.03	0.0134	0.0017	0.0171	0.0389	0.0174	0.028	0.0287	0.0075	0.0659	0.0598	0.0462	0.0049	0.0354	0.0973	0.267	0.247	0.0632	0.0293	0.0474	0.0251	0.0232	0.0555	0.116	0.0859	0.0482	0.116	0.015	0.0241	0.0645	0.111	0.0655	0.881	0.035	0.0242	0.0721	0.107	0.0641	0.0325	0.113	0.167	0.119	0.0144	0.231	0.105
+PGE1	0.0095	0	0.0019	0.0058	0.0017	0.0274	0.0017	0.0009	0.0046	0.009	0.0056	0.0169	0.0059	0.003	0.0014	0.0102	0.0072	0.001	0.0013	0.0046	0.0017	0.0019	0.0052	0.0014	0.0005	0.0015	0.0036	0.0019	0.0064	0.0155	0.0002	0.0027	0.0032	0.0041	0.0006	0.04	0.0074	0.0146	0.015	0.0044	0.011	0.0401	0.0249	0.0142	0.0169	0.0107	0.0027	0.111	0.0094	0.0173	0.0095	0.0027	0.0126	0.0058	0.0544	0.0116	0.036	0.0037	0.0054	0.0251	0.0091	0.0165	0.0315	0.0124	0.0232	0.0191	0.0157
+PGE2	0.274	0.0073	0.0428	0.122	0.0981	0.334	0.028	0.0375	0.125	0.137	0.0898	0.245	0.0993	0.0827	0.105	0.16	0.12	0.0143	0.0099	0.0874	0.041	0.0597	0.0773	0.0246	0.0217	0.0397	0.0575	0.0391	0.0531	0.206	0.0112	0.0885	0.0385	0.0953	0.0255	0.366	0.17	0.355	0.612	0.141	0.105	0.444	0.286	0.288	0.144	0.22	0.0813	0.853	0.214	0.36	0.0833	0.118	0.255	0.269	0.928	0.235	0.36	0.142	0.197	0.327	0.16	0.322	0.375	0.645	0.214	0.31	0.302
+PGD2	0.207	0.0252	0.135	0.271	0.61	0.483	0.0215	0.0302	0.371	0.31	1.22	0.455	0.34	0.0646	0.385	0.318	0.789	0.177	0.0204	0.0909	0.135	0.395	0.187	0.0469	0.0229	0.165	0.365	0.429	0.172	0.114	0.0573	0.269	0.424	0.982	0.0807	1.04	0.124	0.867	0.235	0.671	1.51	0.17	0.376	0.328	0.677	0.177	0.345	1.11	0.367	0.129	1.06	0.0766	1.82	0.526	0.207	1.16	0.661	0.0788	0.287	0.16	0.514	0.264	0.187	0.662	0.64	0.573	0.147
+PGF2a	0.0753	0.027	0.0148	0.0701	0.0241	0.161	0.0183	0.0346	0.0611	0.0375	0.0289	0.0846	0.033	0.05	0.0216	0.0398	0.0301	0.015	0.0082	0.0427	0.0129	0.0445	0.0425	0.0101	0.0159	0.0408	0.016	0.0163	0.0194	0.0344	0.016	0.0328	0.0209	0.0257	0.0094	0.0927	0.13	0.244	0.453	0.0868	0.0188	0.108	0.039	0.0299	0.0069	0.0903	0.117	0.121	0.0931	0.0445	0.0214	0.168	0.0413	0.116	0.166	0.117	0.0436	0.099	0.0731	0.0841	0.0237	0.0592	0.156	0.281	0.0218	0.0554	0.0992
+11-HETE	0.012	0.0012	0.003	0.0116	0.0034	0.0146	0.0042	0.0027	0.005	0.0066	0.0025	0.0249	0.0035	0.0061	0.0016	0.0083	0.0054	0.0013	0.0015	0.0062	0.0029	0.0035	0.0033	0.0016	0.0011	0.0051	0.0055	0.0032	0.0053	0.0069	0.0015	0.0054	0.0055	0.0041	0.0018	0.0232	0.0197	0.356	0.0539	0.0137	0.01	0.0113	0.0171	0.0172	0.0114	0.0289	0.0181	0.0321	0.0389	0.0092	0.0202	0.0094	0.0223	0.018	0.11	0.0222	0.0087	0.0104	0.028	0.0267	0.0111	0.0295	0.0444	0.227	0.0067	0.0801	0.0213
+Lipoxin A4	0.0138	0.0026	0.012	0.0125	0.011	0.0154	0.0027	0.0165	0.0068	0.0115	0.0114	0.0182	0.0086	0.0127	0.0173	0.0121	0.0115	0.0161	0.0014	0.0152	0.0134	0.0175	0.0109	0.0156	0.0104	0.0141	0.0209	0.012	0.0105	0.0156	0.0089	0.0109	0.0126	0.0127	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+6-trans-LTB4	0.0075	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0073	\N	\N	0.0037	0.0217	0.0065	0.0719	0.145	0.0062	0.0047	0.0093	0.0055	0.0024	0.0016	0.0118	0.0096	0.0072	0.0186	0.0017	0.005	0.0136	0.0118	0.057	0.016	0.0372	0.0089	0.0096	0.023	0.0577	0.0046	0.0036	0.0513	0.0583	0.004	0.0428	0.0071
+LTB4	0.0503	0.0013	0.0025	0.0304	0.0026	0.0239	0.0042	0.002	0.01	0.0054	0.0029	0.0109	0.0089	0.0087	0.0068	0.0047	0.0048	0.0078	0.0022	0.0056	0.0023	0.0058	0.0044	0.0006	0.0005	0.02	0.001	0.0099	0.0077	0.007	0.0011	0.0597	0.0054	0.0084	0.0035	0.0302	0.0344	0.167	0.228	0.0159	0.0018	0.0084	0.0104	0.0163	0.0154	0.0317	0.0159	0.0222	0.085	0.001	0.0072	0.0117	0.0392	0.293	0.0184	0.0123	0.0306	0.0091	0.0658	0.199	0.0128	0.0059	0.237	0.166	0.0176	0.0451	0.0133
+SUM-TriHOME	0.119	0.0343	0.0267	0.0792	0.0267	0.068	0.0609	0.0516	0.0359	0.0433	0.03	0.0916	0.0425	0.11	0.028	0.0679	0.0314	0.0223	0.041	0.0582	0.0525	0.0377	0.05	0.026	0.0253	0.067	0.0265	0.0276	0.0443	0.0314	0.0392	0.0353	0.0409	0.0365	0.0517	0.0617	0.17	1.28	0.297	0.367	0.139	0.382	0.28	0.157	0.183	0.24	0.291	0.254	0.362	0.173	0.298	0.369	0.348	0.346	0.713	0.332	0.273	0.56	0.462	0.961	0.392	0.436	0.517	0.791	0.354	0.563	0.405
+12_13-DiHOME	0.0252	0.0245	0.0142	0.0234	0.0149	0.0185	0.0215	0.0171	0.0167	0.0141	0.0159	0.0266	0.019	0.0237	0.0151	0.0127	0.0164	0.0159	0.0333	0.019	0.0282	0.0245	0.0152	0.0153	0.0011	0.0268	0.0095	0.0103	0.0173	0.0187	0.0208	0.0208	0.0158	0.0156	0.0049	0.0101	0.0867	0.117	0.0443	0.0948	0.0303	0.0606	0.039	0.0112	0.0287	0.06	0.0504	0.018	0.0674	0.0542	0.041	0.0472	0.0429	0.0456	0.0802	0.0195	0.0484	0.0987	0.0871	0.0429	0.0203	0.0572	0.0421	0.181	0.0439	0.0207	0.0529
+9_10-DiHOME	0.0569	0.0418	0.0269	0.0516	0.0299	0.0425	0.0419	0.034	0.0394	0.0284	0.0295	0.0603	0.0442	0.0413	0.0288	0.0291	0.0334	0.0287	0.0553	0.0389	0.0581	0.0524	0.0287	0.0277	0.0062	0.0565	0.021	0.0207	0.032	0.0318	0.0357	0.0396	0.0264	0.0284	0.0114	0.0227	0.144	0.209	0.0693	0.133	0.0438	0.0896	0.0583	0.0221	0.0452	0.103	0.0718	0.0268	0.1	0.0804	0.0709	0.0723	0.0692	0.0733	0.124	0.0264	0.0753	0.152	0.134	0.0942	0.0365	0.0808	0.0698	0.308	0.0671	0.0401	0.0791
+15_16-DiHODE	0.002	0.0009	0.0003	0.0076	0.0014	0.0002	0.0013	\N	0.0008	0.0005	0.0007	0.0011	0.0038	\N	0.0005	\N	0	0.0003	0.0027	0.0049	0.0003	0.001	0.0003	\N	\N	\N	\N	0.0013	0.0016	0.0044	0.0002	0.0047	\N	0.0023	0.0018	0.0005	0.0258	0.0161	0.0083	0.0045	\N	0.0055	0.0029	0.0018	0.0027	0.0252	0.0173	0.0031	0.0086	0.0034	0.0046	0.0091	0.0019	0.0036	0.0079	0.0013	0.005	0.0071	0.0007	0.0149	0.0023	0.0055	0.0092	0.0354	0.0014	0.0055	0.0028
+9_10-DiHODE	0	0	\N	0.0003	\N	\N	0.0003	\N	\N	\N	\N	0.0002	0.0001	\N	\N	\N	0.0001	\N	\N	\N	0.0002	0.0002	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0001	0.0001	0.0007	0.0057	0.0056	0.003	0.0036	0.0008	0.003	0.0014	\N	0.0015	0.0031	0.0033	0.0002	0.0029	0.0033	0.0016	0.0022	0.0019	0.0018	0.0037	0.001	0.0018	0.0047	0.003	0.0037	0.0002	0.0015	0.002	0.0084	0.0012	0.0004	0.0021
+14_15-DiHETrE	0.0018	0.001	0.0016	0.0022	0.0014	0.0015	0.0003	0.0004	0.0012	0.0007	0.0008	0.0028	0.0015	0.0008	0.0011	0.0008	0.0023	0.0014	0	0.0019	0.001	0.0014	0.0005	0.0003	0.0004	0.0007	0.0004	0.0016	0.0012	0.0015	0.001	0.0019	0.0008	0.0017	\N	0.003	0.0026	0.0102	0.0036	0.0049	0.0025	0.0069	0.0008	0.0016	0.0047	0.0054	0.0016	0.0026	0.002	0.0027	0.0044	\N	0.0032	0.0028	0.0089	0.0069	0.0018	0.0016	0.0016	0.0087	0.0015	0.0011	\N	0.0075	0.0002	0.0016	0.0002
+11_12-DiHETrE	0.0037	\N	0.0005	0.0025	0.0005	0.0022	0.0003	\N	0.001	\N	0.0005	0.0046	0.0013	0.0002	0	\N	0.0022	0.0002	\N	0.0003	0.0001	0.0002	\N	0	\N	\N	\N	0.0007	0.0008	0.0009	\N	0.0011	0.0002	0.001	0.0002	0.0063	0.0046	0.0194	0.0029	0.0056	0.0006	0.0024	0.0002	0.0018	0.0027	0.005	0.0026	0.002	0.007	0.0019	0.003	0.0008	0.0018	0.0085	0.0047	0.0064	0.0013	0.005	0.0026	0.0037	0.0045	0.0002	0.0024	0.0211	0.0006	0.0036	0.0034
+19_20-DiHDoPA	0.0022	0.0012	0.0002	0.0069	0.0012	0.0009	\N	0.0008	0.0009	0.0026	0.0008	0.0022	0.0033	0.0001	0.0004	\N	0.0009	0.0002	\N	0.005	0.0004	0.0012	0.0002	\N	\N	\N	0.0003	0.0022	0.0005	0.0048	0.0016	0.0017	\N	0.0016	0.0009	0.0091	0.0072	0.0131	0.0051	0.004	0.0009	0.0053	0.0023	0.0029	0.0061	0.0108	0.0045	0.0009	0.0039	0.0087	0.0084	0.0021	0.0102	0.0078	0.0251	0.0054	0.0092	0.0056	0.0077	0.0047	0.0031	0.0101	0.0086	0.0304	0.0013	0.0082	0.0072
+13-HODE	0.207	0.0526	0.0629	0.219	0.0511	0.127	0.164	0.145	0.124	0.0834	0.0803	0.217	0.103	0.196	0.0506	0.155	0.0932	0.0461	0.049	0.255	0.0904	0.0658	0.0563	0.0525	0.0477	0.163	0.0746	0.0699	0.0896	0.0802	0.0628	0.0905	0.0977	0.0809	0.105	0.222	0.235	5.87	0.394	0.204	0.101	0.17	0.143	0.165	0.0975	0.235	0.424	0.222	0.492	0.137	0.165	0.196	0.28	0.253	1.23	0.188	0.17	0.194	0.538	1.71	0.23	0.863	0.464	2.51	0.129	1.37	0.389
+9-HODE	0.0887	0.0328	0.0315	0.0911	0.0308	0.0781	0.0456	0.0464	0.0618	0.0331	0.04	0.192	0.0411	0.0596	0.033	0.0379	0.0441	0.0241	0.0282	0.0733	0.0538	0.0552	0.0416	0.0321	0.0226	0.0615	0.029	0.0432	0.0537	0.0392	0.0312	0.0477	0.0547	0.0416	0.0774	0.108	0.207	3.74	0.305	0.115	0.0864	0.0687	0.108	0.0888	0.0728	0.187	0.141	0.137	0.193	0.0769	0.134	0.099	0.172	0.152	0.63	0.141	0.0833	0.129	0.294	0.555	0.0868	0.534	0.282	1.59	0.0705	0.726	0.148
+13-HOTE	0.0051	\N	0.0007	0.0108	\N	0.004	0.0064	\N	0.0003	0.001	0.0001	0.0021	0.0004	0.003	\N	0.0021	0.0004	0	\N	0.0063	0.0006	\N	\N	\N	0.0008	0.0002	\N	\N	0.0014	\N	\N	\N	0.0007	0.0002	0.0087	0.0021	0.0044	0.128	0.0129	0.005	0.0044	0.0074	0.0067	0.0043	0.0038	0.0043	0.0198	0.0012	0.0145	0.0048	0.0075	0.0069	0.0085	0.0052	0.0254	0.0168	0.004	0.0005	0.0084	0.205	0.0109	0.0339	0.0162	0.0156	0.0031	0.0291	0.0084
+20-HETE	0.0153	\N	0.0012	0.0089	0.0042	0.0053	0.0005	0.0048	0.0018	0.0032	0.0001	0.0005	\N	0.0019	0.0061	\N	\N	\N	0.0025	0.029	0.004	0.0011	0.0077	0.0023	\N	0.0051	0.0021	\N	0.0031	0.0055	0.0002	0.0019	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+15-HETE	0.0217	0	0.0023	0.0301	0.0023	0.0199	0.0089	0.0064	0.0107	0.0062	0.0019	0.0536	0.0047	0.0137	0.001	0.0224	0.0069	\N	\N	0.0214	0.0072	0.0031	0.0005	\N	\N	0.0036	0.0072	0.0041	0.0073	0.008	\N	0.0063	0.0085	0.0006	0.0055	0.0401	0.0505	0.612	0.0484	0.0285	0.0075	0.0208	0.0076	0.0189	0.0103	0.076	0.0434	0.0313	0.0912	0.0173	0.0164	0.0141	0.0305	0.0421	0.2	0.046	0.0124	0.0303	0.135	0.0653	0.0278	0.0555	0.103	0.713	0.0071	0.228	0.0547
+12-HETE	0.407	0.0352	0.0867	0.342	0.0205	0.185	0.399	0.328	0.262	0.131	0.0863	0.14	0.178	0.533	0.0395	0.3	0.108	0.0014	0.0133	0.635	0.071	0.0308	0.0174	0.0047	0.031	0.219	0.199	0.0825	0.0633	0.133	0.0344	0.159	0.118	0.0663	0.0251	0.282	0.196	4.2	0.291	0.362	0.0564	0.489	0.0557	0.285	0.0755	0.476	0.59	0.208	1.03	0.28	0.0152	0.0953	0.712	0.602	3.68	0.143	0.197	0.378	1.39	0.954	0.362	0.795	0.311	2.6	0.108	2.62	1.28
+8-HETE	0.0034	\N	0.0011	0.0041	\N	0.0016	0.0017	0.0025	0.0005	\N	\N	0.0051	0.0001	0.0024	\N	0.0042	0.001	\N	\N	0.002	\N	\N	\N	\N	\N	\N	0.0005	\N	0.0023	0.0013	\N	0.001	0.001	0.0007	0.0016	0.0205	0.0134	0.238	0.0441	0.0083	0.0067	0.0049	0.0039	0.005	0.0003	0.0145	0.0126	0.0051	0.0283	0.0063	0.0092	\N	0.0047	0.0154	0.0732	0.0186	\N	0.0127	0.0113	0.0299	0.0038	0.015	0.0389	0.13	\N	0.0804	0.0079
+5-HETE	0.0587	0.0056	0.0141	0.0963	0.012	0.0535	0.012	0.0059	0.0377	0.0077	0.0091	0.0997	0.0151	0.0316	0.0217	0.0116	0.0177	0.0063	0.0045	0.0159	0.0114	0.0156	0.0068	0.0038	0.0035	0.0303	0.0032	0.0242	0.0148	0.0125	0.0066	0.103	0.0192	0.0305	0.0115	0.309	0.12	0.552	1.09	0.0611	0.0959	0.0164	0.118	0.0291	0.0262	0.13	0.0887	0.0799	0.278	0.0112	0.0148	0.0248	0.13	0.437	0.197	0.306	0.0342	0.029	0.123	0.449	0.0269	0.0306	0.634	0.742	0.033	0.353	0.0365
+14-HDoHE	0.112	0.0021	0.0064	0.122	0.0022	0.0386	0.104	0.0474	0.0275	0.0198	0.0198	0.0349	0.059	0.115	0.0046	0.0652	0.0216	0.0001	0.0052	0.14	0.0163	0.0016	0.0006	0.0005	0.0023	0.041	0.0304	0.0124	0.0177	0.0377	0.0016	0.0164	0.0157	0.0056	0.0058	0.0707	0.0393	0.95	0.0608	0.0775	0.0134	0.109	0.0103	0.0637	0.0144	0.0871	0.111	0.0428	0.359	0.0652	0.0018	0.0231	0.0849	0.123	0.445	0.0308	0.0518	0.139	0.45	0.175	0.0827	0.155	0.075	0.41	0.0142	0.38	0.234
+4-HDoHE	0.0009	\N	0.0006	0.0047	0.0007	0.0001	\N	\N	\N	0.0007	\N	0.0077	0.0007	0.002	0	0.0015	\N	\N	\N	0.0011	0.0006	\N	0.0004	\N	\N	\N	0.0001	\N	0.0111	0.0003	\N	0.0013	0.0038	\N	0.0019	0.0259	0.0336	0.11	0.0683	0.0095	0.0139	0.0034	0.0127	0.0029	0.0076	0.0393	0.0096	0.0058	0.0248	0.0067	0.0017	0.0158	0.0175	0.0048	0.0912	0.0286	0.0047	0.0067	0.028	0.0117	0.0041	0.0165	0.0577	0.123	0.0068	0.0876	0.0219
+12(13)-EpOME	0.269	0.245	0.2	0.335	0.179	0.283	0.187	0.195	0.201	0.179	0.164	0.269	0.208	0.278	0.174	0.122	0.185	0.156	0.245	0.313	0.303	0.256	0.231	0.215	0.0237	0.317	0.145	0.192	0.166	0.225	0.246	0.269	0.139	0.185	0.0341	0.063	0.293	0.555	0.0631	0.0785	0.0414	0.0659	0.0462	0.0619	0.0632	0.28	0.179	0.0974	0.173	0.0499	0.0613	0.0634	0.0929	0.112	0.266	0.0332	0.056	0.222	0.198	0.222	0.046	0.106	0.228	0.667	0.0416	0.247	0.099
+9(10)-EpOME	0.233	0.23	0.171	0.308	0.156	0.234	0.148	0.182	0.175	0.163	0.133	0.207	0.147	0.241	0.145	0.0964	0.166	0.139	0.22	0.257	0.239	0.204	0.186	0.192	0.027	0.283	0.12	0.178	0.155	0.188	0.225	0.218	0.135	0.173	0.0257	0.0541	0.314	0.698	0.0408	0.0551	0.047	0.0523	0.0374	0.0533	0.0535	0.257	0.16	0.0738	0.152	0.0565	0.0441	0.0703	0.0929	0.108	0.295	0.03	0.0456	0.233	0.209	0.218	0.0284	0.11	0.218	0.759	0.0296	0.264	0.0777
+12(13)-Ep-9-KODE	0.0559	0.0091	0.025	0.0296	0.0131	0.0244	0.0193	0.0283	0.0093	0.0237	0.0255	0.116	0.0194	0.0635	0.0195	0.0284	0.0308	0.0503	0.0115	0.0629	0.0461	0.0229	0.0526	0.0395	0.0241	0.0309	0.0154	0.0201	0.041	0.0272	0.0359	0.0321	0.0553	0.0384	0.0588	0.0667	0.0446	12.2	0.088	0.0535	0.112	0.125	0.0481	0.0683	0.0729	0.0416	0.075	0.0819	0.0586	0.0913	0.0788	0.0843	0.148	0.0242	1.86	0.0522	0.0498	0.0648	0.13	0.139	0.0646	0.349	0.419	1.74	0.0927	1.66	0.0959
+12(13)-EpODE	0.0008	0.0008	0.0003	0.0004	0.0002	\N	0.0001	0.0006	\N	0.0004	\N	0.0009	\N	0.0007	0.0013	0.0007	0.0005	\N	0.0005	\N	\N	0.0005	0.0002	\N	\N	0.0001	0.0006	0.0004	0.0006	0.0004	0.0008	0.0004	0.0009	0.0006	0.0001	0.0004	0.0037	0.0099	0.0025	0.0006	0.0012	0.0021	0.0006	0	0.0053	0.0039	0.0027	\N	0.0019	0.003	0.0064	0.0025	0.0016	0.0016	0.0048	0.001	0.0011	0.0047	0.0024	0.0048	0.0004	0.0031	0.003	0.0107	0.0001	0.0031	0.0011
+9(10)-EpODE	0.0001	0.0009	0.0017	0.0027	0.0007	0.0019	0.001	\N	0.0004	0.0007	0.001	0.0021	\N	0.0009	0.0006	0.0004	0.0001	0.0016	0.0017	0.0003	0.0008	0.0019	\N	0.0001	0.0004	\N	0.0012	0.0008	\N	0.0012	0.0021	0.0006	0.0001	0.0021	0.0021	0.0023	0.0048	0.0874	0.0013	0.0032	0.0029	0.0017	0.0052	0.0031	0.0057	0.0048	0.0038	0.0025	0.0043	0.0012	0.0038	0.0017	0.0043	0.0031	0.0121	0.0017	0.003	0.0054	0.0103	0.0084	0.0007	0.0055	0.0043	0.0901	0.0008	0.0118	0.0015
+14(15)-EpETrE	0.0155	0.0085	0.0076	0.0181	0.003	0.0126	0.0108	0.0058	0.0057	0.0027	0.0033	0.0239	0.0049	0.0067	0.0044	0.0065	0.004	0.0019	0.0051	0.01	0.0069	0.0027	0.0017	0.0016	0.0025	0.0104	0.0006	0.0039	0.0063	0.0027	0.0063	0.0096	0.0039	0.003	0.0063	0.0159	0.0328	0.0669	0.0104	0.0132	0.0111	0.0077	0.0041	0.0032	0.0048	0.0264	0.0204	0.0155	0.0339	0.0049	0.0043	0.0132	0.0089	0.0239	0.0317	0.014	0.0014	0.0305	0.0309	0.0179	0.0082	0.0119	0.0371	0.129	0.0048	0.0431	0.0144
+11(12)-EpETrE	0.0086	0.006	0.0027	0.012	0.0013	0.0048	0.0054	0.0028	0.003	0.0021	0.0011	0.0175	0.0018	0.0067	0.0024	0.003	0.002	0.0021	0.0026	0.0049	0.005	0.0013	0.0014	0.0011	0.0017	0.0044	0.001	0.0014	0.0016	0.0017	0.003	0.004	0.0031	0.0007	0.0018	0.0282	0.0221	0.0492	0.0081	0.0069	0.0201	0.0081	0.0105	0.0042	0.0096	0.0174	0.0135	0.0069	0.0249	0.0067	0.0064	0.005	0.0109	0.0174	0.0248	0.0054	0.0009	0.0223	0.0239	0.0139	0.0039	0.0051	0.0351	0.101	0.0057	0.0382	0.0131
+8(9)-EpETrE	0.0026	0.0038	0.0017	0.0077	0.0007	0.0036	0.0033	0.0007	0.0012	0.0029	0.0009	0.0087	0.0014	0.0044	0.0012	0.0029	0.0007	0.0033	0.0025	0.0051	0.0021	0.0001	0.0009	0.0008	0.0016	0.0062	0.0012	0.0007	0.0011	0.0016	0.0015	0.0046	0.0007	0.0007	\N	0.0109	0.0134	0.0732	\N	0.0026	0.0095	0.0085	\N	0.0031	0.0033	0.0149	0.0094	0.0004	0.0213	0.0118	0.0023	\N	0.0031	0.013	0.0272	0.0023	\N	0.0245	0.0327	0.0164	\N	\N	0.0418	0.157	0.0017	0.0487	0.0077
+19(20)-EpDPE	0.0032	0.0006	0.0003	0.0061	\N	0.0032	0.0002	0.0027	0.0002	0.0002	\N	0.0047	0.0019	0.0006	0.0011	0.0014	0.0012	0.0013	0.0004	0.0021	0.0015	\N	\N	\N	\N	0.0004	\N	0.0001	0.0018	0.0011	0.0009	\N	\N	\N	0.0051	0.0072	0.0157	0.016	0.0048	0.0035	0.0056	0.0047	0.006	0.0013	0.0074	0.0097	0.0054	0.0041	0.0023	0.0042	0.009	0.012	0.0076	0.0023	0.0089	0.004	0.0031	0.0105	0.0184	0.008	0.0028	0.0069	0.0152	0.04	0.0014	0.0102	0.0078
+13-KODE	0.0169	0.018	0.0033	0.036	0.0358	0.0118	0.0138	0.0355	0.0164	0.0094	0.0249	0.0332	0.0225	0.0442	0.0147	0.0107	0.0019	0.0046	0.0509	0.0507	0.014	0.0233	0.0277	0.0221	0.0072	0.0438	0.0186	0.0234	0.0102	0.0122	0.0323	0.0158	0.0082	0.0369	0.0154	0.0219	0.0855	9.01	0.0804	0.0338	0.0209	0.0376	0.0185	0.0322	0.0134	0.0555	0.109	0.0473	0.0445	0.0197	0.0362	0.0446	0.0722	0.041	1.14	0.0612	0.011	0.0721	0.207	0.0868	0.0471	0.269	0.296	4.97	0.0164	0.906	0.0873
+9-KODE	0.0649	0.089	0.0534	0.164	0.0867	0.0886	0.075	0.107	0.12	0.0712	0.0592	0.187	0.081	0.102	0.0808	0.0503	0.0541	0.0505	0.153	0.135	0.0638	0.158	0.0745	0.0863	0.0386	0.179	0.0736	0.0825	0.11	0.0749	0.136	0.117	0.101	0.106	0.0548	0.119	0.257	24.6	0.287	0.135	0.134	0.0744	0.147	0.0911	0.0778	0.215	0.196	0.135	0.221	0.0925	0.149	0.137	0.234	0.132	2.8	0.204	0.0702	0.129	0.531	0.354	0.0997	0.851	0.711	11.5	0.0646	2.49	0.22
+5-KETE	0.0126	0.0001	0.0005	0.009	0.0007	0.0047	0.0017	0.0003	0.0065	0.0006	0.0006	0.0167	0.0018	0.0039	0.0021	0.0025	0.003	0.0002	0.0008	0.0026	0.0017	0.0031	0.0008	0.0005	0.0003	0.0106	0.0005	0.0063	0.0062	0.0022	0.0016	0.015	0.0073	0.0036	0.0013	0.0264	0.0125	0.363	0.0502	0.0107	0.0073	0.005	0.0045	0.0081	0.0078	0.0136	0.0253	0.0202	0.0192	0.0043	0.009	0.0088	0.0162	0.0252	0.16	0.0159	0.0068	0.006	0.0214	0.0536	0.0039	0.0187	0.111	1.31	0.0041	0.189	0.0219
+15-Keto PGE2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0008	0.0013	0.0752	0.133	0.0588	0.197	0.0462	0.0251	0.0306	0.002	0.0246	0.0602	0.0418	0.003	0.062	0.0606	0.0796	0.0456	0.0437	0.0623	0.115	0.0015	0.0529	0.0929	0.0784	0.003	0.0024	0.0497	0.0224	0.413	0.018	0.0175	0.0292
+15-deoxy PGJ2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0068	0.0073	0.0142	0.0052	0.0115	0.006	0.0065	0.0072	0.0059	0.0063	0.0083	0.0072	0.0053	0.0066	0.0039	0.0084	0.0072	0.0139	0.0061	0.006	0.0104	0.0068	0.0061	0.0058	0.0092	0.0065	0.0071	0.0049	0.0063	0.0142	0.0049	0.0077	0.0057
+LTB5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0004	0.0005	0.0012	0.0022	0.0034	0.0007	0.0004	0.0007	0.0005	0.0006	0.0008	0.0008	0.0005	0.0006	0.002	0.0006	0.0011	0.0014	0.0012	0.0052	0.0007	0.0007	0.0007	0.0005	0.0024	0.0021	0.0006	0.0004	0.0027	0.0029	0.0005	0.0005	0.0006
+5_15-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0407	0.116	0.0047	0.0192	0.131	0.0013	0.0022	0.0542	0.0607	0.0819	0.085	0.0024	0.0011	0.1	0.003	0.084	0.0996	0.0562	0.091	0.0049	0.0814	0.0796	0.0756	0.0045	\N	0.11	0.0552	0.0861	0.0971	\N	0.049	0.0881	0.0548
+8_15-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0009	0.0038	0.0005	0.0947	0.0192	0.0072	0.0139	0.0073	\N	0.0215	0.0134	0.0112	0.0204	\N	0.0078	0.0134	0.0586	0.0555	0.0206	0.0087	0.0124	0.0215	0.0019	\N	0.0265	0.0011	0.0321	0.03	0.0221	0.0427	0.0011	0.0206	0.0253
+Resolvin D1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9_10-e-DiHO	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.845	4	6.94	12	11.7	11.5	1.96	12.8	5.94	4.99	6.15	6.27	6.06	8.6	8.84	2.76	8.96	12	13.3	7.8	10.4	13.5	3.2	22	14.1	15	12.2	13	14.9	21.6	13.4	1.67	10.7
+12_13-DiHODE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+8_9-DiHETrE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+5_6-DiHETrE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+17_18-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+14_15-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9-HOTE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0007	0.0042	0.0039	0.0506	0.0043	0.0007	0.0011	0.0018	0.0024	0.0018	0.0035	0.0029	0.0025	0.0023	0.0022	0.0016	0.002	0.0027	0.0013	0.0013	0.0036	0.0031	0.001	0.0036	0.0032	0.0165	0.0013	0.0083	0.0047	0.0166	0.0012	0.0087	0.0034
+9-HETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0008	0.0033	0.0025	0.172	0.0434	0.0054	0.0123	0.0104	0.0075	0.0135	0.0032	0.0193	0.0109	0.0041	0.0089	0.0013	0.0117	0.015	0.0203	0.005	0.0376	0.0189	0.0028	0.0102	0.0081	0.016	0.0023	0.0168	0.0283	0.105	0.0014	0.0515	0.0108
+15-HEPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0003	0.0186	0.0208	0.0529	0.0136	0.0071	0.0065	0.0044	0.0002	0.0034	0.0048	0.0068	0.0059	0.0013	0.0162	0.0049	0.0015	0.0044	0.007	0.0154	0.0256	0.0061	\N	0.0054	0.0136	0.0096	0.0021	0.0059	0.0055	0.0618	\N	0.0258	0.0096
+12-HEPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0006	0.0059	0.0039	0.149	0.0069	0.0192	0.0021	0.0153	0.0026	0.012	0.0046	0.0143	0.0231	0.0085	0.0625	0.0109	0.0016	0.002	0.0178	0.0237	0.0803	0.0041	0.0057	0.0138	0.0643	0.0274	0.016	0.0245	0.0128	0.0807	0.0033	0.0617	0.0343
+9-HEPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+5-HEPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+17-HDoHE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0144	0.0122	0.366	0.0018	0.0079	\N	0.0356	0.0095	0.0184	\N	\N	0.0282	0.0235	0.0765	0.0025	0.0137	0.0164	0.0336	0.0076	0.104	\N	0.0018	0.0069	0.0263	0.0213	0.0059	0.0191	0.0281	0.0739	0.0002	0.0675	0.0652
+9_10-EpO	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.359	0.362	0.654	1.64	1.4	1.34	0.35	2.36	0.942	0.922	1.3	1.25	0.908	1.59	1.73	0.653	1.75	2.22	1.23	0.539	1.19	2.02	0.419	2.23	1.92	1.98	1.7	1.64	1.99	2.39	1.34	0.634	1.41
+15(16)-EpODE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0078	0.0146	0.0022	0.0021	\N	0.0065	\N	\N	0.0067	0.0117	0.0162	\N	0.0131	\N	0.0053	0.0065	0.003	0.0018	0.0047	0.0025	0.0033	0.0079	0.0041	0.0307	0.007	0.0118	0.0137	0.123	0.006	0.0055	0.0024
+17(18)-EpETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+14(15)-EpETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+11(12)-EpETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+16(17)-EpDPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+15-KETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	0.0041	0.0061	0.0108	0.319	0.0313	0.174	0.0115	0.0067	0.0041	0.0052	0.0063	0.0162	0.142	0.0212	0.0196	0.0014	0.0015	0.0041	0.0006	0.0102	0.0996	0.0092	\N	0.0109	0.104	0.0458	0.0003	0.0276	0.0674	1.56	0.0004	0.134	0.0262
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+6-keto PGF1a
+TXB2
+PGE1
+PGE2
+PGD2
+PGF2a
+11-HETE
+Lipoxin A4
+6-trans-LTB4
+LTB4
+SUM-TriHOME
+12_13-DiHOME
+9_10-DiHOME
+15_16-DiHODE
+9_10-DiHODE
+14_15-DiHETrE
+11_12-DiHETrE
+19_20-DiHDoPA
+13-HODE
+9-HODE
+13-HOTE
+20-HETE
+15-HETE
+12-HETE
+8-HETE
+5-HETE
+14-HDoHE
+4-HDoHE
+12(13)-EpOME
+9(10)-EpOME
+12(13)-Ep-9-KODE
+12(13)-EpODE
+9(10)-EpODE
+14(15)-EpETrE
+11(12)-EpETrE
+8(9)-EpETrE
+19(20)-EpDPE
+13-KODE
+9-KODE
+5-KETE
+15-Keto PGE2
+15-deoxy PGJ2
+LTB5
+5_15-DiHETE
+8_15-DiHETE
+Resolvin D1
+9_10-e-DiHO
+12_13-DiHODE
+8_9-DiHETrE
+5_6-DiHETrE
+17_18-DiHETE
+14_15-DiHETE
+9-HOTE
+9-HETE
+15-HEPE
+12-HEPE
+9-HEPE
+5-HEPE
+17-HDoHE
+9_10-EpO
+15(16)-EpODE
+17(18)-EpETE
+14(15)-EpETE
+11(12)-EpETE
+16(17)-EpDPE
+15-KETE
+METABOLITES_END
+#END

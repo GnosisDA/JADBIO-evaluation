@@ -1,0 +1,311 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000255 ANALYSIS_ID:AN000403
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolomics of Neonatal Pulmonary Hypertension (in Preterm Infants)
+PR:PROJECT_TYPE                  	Case-control study
+PR:PROJECT_SUMMARY               	This study aimed to determine metabolic patterns in cord blood associated with
+PR:PROJECT_SUMMARY               	development of pulmonary hypertension (PH) in human preterm infants. Umbilical
+PR:PROJECT_SUMMARY               	blood was acquired from a nested case-control study of 20 premature
+PR:PROJECT_SUMMARY               	age <37 weeks) infants with PH (cases) and 20 infants without PH (controls)
+PR:PROJECT_SUMMARY               	from Prentice NICU birth cohort. Case and control infants were matched by
+PR:PROJECT_SUMMARY               	gender, and gestational age. Archived cord blood plasma underwent metabolomics
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Department of Pediatrics, School of Medicine
+PR:LABORATORY                    	Wedgwood lab
+PR:LAST_NAME                     	Wedgwood
+PR:FIRST_NAME                    	Stephen
+PR:ADDRESS                       	1002B, Research II, 4625 2nd Ave., Sacramento, CA 95817
+PR:EMAIL                         	stephen.wedwood@ucdmc.ucdavis.edu
+PR:PHONE                         	+1-916-734-1518
+PR:FUNDING_SOURCE                	National Institute of Health U24 DK092993
+#STUDY
+ST:STUDY_TITLE                   	NIH WCMC Pilot & Feasibility Project: Metabolomics of Neonatal Pulmonary
+ST:STUDY_TITLE                   	in human
+ST:STUDY_TYPE                    	Case-control study
+ST:STUDY_SUMMARY                 	Targeted metabolomic analyses of oxylipins were performed on 40 human umbilical
+ST:STUDY_SUMMARY                 	plasma samples collected from infants born prematurely (gestational age <37
+ST:STUDY_SUMMARY                 	Samples were analyzed by UPLC-MS/MS using a Waters Acquity UPLC and detected on
+ST:STUDY_SUMMARY                 	API 4000 QTrap (AB Sciex, Framingham, MA, USA) by multiple reaction monitoring
+ST:STUDY_SUMMARY                 	after negative mode electrospray ionization.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Nutrition
+ST:LABORATORY                    	Newman Lab
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 W. Health Sciences Dr., Davis, CA 95616
+ST:EMAIL                         	john.newman@ars.usda.gov
+ST:PHONE                         	+1-530-752-1009
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	16
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:AGE_OR_AGE_RANGE              	Gestational age <37 weeks
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	BP009	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP028	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP090	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP122	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP169	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP191	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP253	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP332	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP333	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP342	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP369	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP388	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP406	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP408	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP476	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP496	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP588	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP700	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP751	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP819	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP875	Treatment:no PH (no pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP010	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP121	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP132	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP158	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP185	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP289	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP295	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP312	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP385	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP407	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP497	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP515	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP516	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP522	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP541	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP732	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	BP832	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	P003	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	P288	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	P295	Treatment:PH (pulmonary hypertension)	
+SUBJECT_SAMPLE_FACTORS           	-	P302	Treatment:PH (pulmonary hypertension)	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:COLLECTION_PROTOCOL_FILENAME  	NewmanLab-FreeOxys-Protocol-P.pdf
+CO:SAMPLE_TYPE                   	Umbilical cord plasma
+CO:STORAGE_CONDITIONS            	- 80°C
+CO:STORAGE_VIALS                 	Eppendorf tubes
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Nested case-control study
+TR:TREATMENT_PROTOCOL_FILENAME   	NewmanLab-FreeOxys-Protocol-P.pdf
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Plasma was added directly to a Waters Ostro plate, mixed with the surrogates,
+SP:SAMPLEPREP_SUMMARY            	and acetonitrile and the extract eluted through. The extracts were dried,
+SP:SAMPLEPREP_SUMMARY            	in 100?L 50:50 methanol:acetonitrile with internal standards
+SP:SAMPLEPREP_SUMMARY            	and filtered at 0.1 µm prior to analysis.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	NewmanLab-FreeOxys-Protocol-P.pdf
+SP:EXTRACTION_METHOD             	Ostro plate
+SP:EXTRACT_CLEANUP               	Ostro plate
+SP:EXTRACT_STORAGE               	- 20 °C
+SP:SAMPLE_RESUSPENSION           	100 µL
+SP:SAMPLE_SPIKING                	See sample prep protocol file
+SP:ORGAN                         	Umbilical cord plasma
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Oxylipin analysis
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	Waters Acquity
+CH:COLUMN_NAME                   	-
+CH:METHODS_FILENAME              	NewmanLab-FreeOxys-Protocol-P.pdf
+CH:COLUMN_TEMPERATURE            	60 C
+CH:FLOW_GRADIENT                 	See protocol/methods file
+CH:FLOW_RATE                     	0.25
+CH:INTERNAL_STANDARD             	See protocol/methods file
+CH:RETENTION_TIME                	See protocol/methods file
+CH:SAMPLE_INJECTION              	5 L
+CH:SOLVENT_A                     	0.1% acetic acid
+CH:SOLVENT_B                     	90% ACN / 10% IPA
+CH:ANALYTICAL_TIME               	16 min
+CH:WEAK_WASH_SOLVENT_NAME        	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME              	600 L
+CH:STRONG_WASH_SOLVENT_NAME      	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME            	600 L
+CH:SAMPLE_LOOP_SIZE              	17 L
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Newman
+AN:SOFTWARE_VERSION              	AB Sciex MultiQuant version 3.0.1
+AN:OPERATOR_NAME                 	Michael La Frano
+AN:DETECTOR_TYPE                 	API 4000 QTrap (AB Sciex, Framingham, MA, USA)
+AN:DATA_FORMAT                   	.mzML
+#MS
+MS:INSTRUMENT_NAME               	Waters Acquity UPLC (Waters)
+MS:INSTRUMENT_TYPE               	Oxylipins analysis
+MS:MS_TYPE                       	QTRAP
+MS:ION_MODE                      	ESI
+MS:CAPILLARY_TEMPERATURE         	See protocol file
+MS:CAPILLARY_VOLTAGE             	NEGATIVE
+MS:MS_COMMENTS                   	Oxylipins analysis
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	% Area Ratio
+MS_METABOLITE_DATA_START
+Samples	BP009	BP009	BP028	BP028	BP090	BP090	BP122	BP122	BP169	BP169	BP191	BP191	BP253	BP253	BP332	BP332	BP333	BP333	BP342	BP342	BP369	BP369	BP388	BP388	BP406	BP406	BP408	BP408	BP476	BP476	BP496	BP496	BP588	BP588	BP700	BP700	BP751	BP751	BP819	BP819	BP875	BP875	BP010	BP010	BP121	BP121	BP132	BP132	BP158	BP158	BP185	BP185	BP289	BP289	BP295	BP295	BP312	BP312	BP385	BP385	BP407	BP407	BP497	BP497	BP515	BP515	BP516	BP516	BP522	BP522	BP541	BP541	BP732	BP732	BP832	BP832	P003	P003	P288	P288	P295	P295	P302	P302
+Factors	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:no PH (no pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)	Treatment:PH (pulmonary hypertension)
+10-Nitrolinoleate																																										
+10-Nitrooleate																																										
+11_12-DiHETrE	3.2500	3.5000	1.5100	2.7200	2.5400	3.9500	3.9700	1.2700	3.3600	2.5000	3.0800	4.2800	2.1500	2.6300	3	5.3800	1.1900	2.7200	3.6100	8.2500	2.8700	3.8900	2.0100	5.8000	1.9900	3.2800	4.1500	2.3700	8.9500	0.3410	4.8100	3.8300	3.0900	6.9500	5.1200	3.3200	5.7100	3.6600	3.6400	6.7200	3.0500	1.2300
+11(12)-EpETE																																										
+11(12)-EpETrE																																										
+11-HETE	17.5000	25.3000	12.9000	9.4000	2.7900	8.9000	5.2500	2.7600	4.8200	8.1100	7.0300	5.5200	6.0300	3.8700	8.2400	6.2400	5.2700	6.0600	5.0200	26	12.7000	21.4000	19.6000	24.2000	7.0200	9.4600	20.4000	3.8300	13.5000	0.8030	52.1000	6.2300	18.4000	26.3000	10.8000	6.9000	12.9000	11.9000	6.5700	23	6.8000	2.3900
+12_13-DiHODE																																										
+12_13-DiHOME (Area Ratio%)	0.0336	0.0094	0.0100	0.0334	0.0105	0.0130	0.0159	0.0207	0.0131	0.0116	0.0210	0.0178	0.0094	0.0156	0.0291	0.0183	0.0070	0.0210	0.0129	0.0204	0.0145	0.0133	0.0552	0.0272	0.0487	0.0226	0.0670	0.0219	0.0393	0.0075	0.0719	0.0267	0.0525	0.0195	0.0207	0.0224	0.0238	0.0165	0.0227	0.0283	0.0244	0.0096
+12(13)-Ep-9-KODE	2.6900	0.7850	0.6440	2.3700	1.3400	1.7700	0.5170	1.6700	1.1900	8.0800	0.7820	1.4500	1.1800	1.3700	1.1000	1.0300	0.7410	1.0700	1.8400	1.2000	0.6830	0.7210	3.3500	0.9500	3.7900	2.0300	44.7000	9.7500	3.2000	13	2.1400	1.4800	2	2.4100	1.6100	1.8200	0.6610	1.5000	1.4600	2.7700	1.1000	1.0900
+12(13)-EpODE																																										
+12(13)-EpOME	5.8100	1.9200	1.1400	4.0700	2.4200	3.9000	1.4100	2.5300	1.1800	2.1700	3.4900	1.3300	2.7600	3.6700	2.6200	3.5800	0.5820	1.9000	1.8700	2.0900	0.7290	1.7800	3.0800	2.3800	3.2800	4.7800	5.9400	4.9100	3.6600	14	9.5100	2.1900	5.0100	4.3500	2.0200	2.2000	2.4900	1.5900	3.3300	3.2000	2.0500	1.2500
+12-HEPE	1.3600	1.9200	0.3130	0.6330	0.1500	0.2840	0.0216	0.4350	0.1800	0.3210	0.4300	4.0700	0.2820	0.3460	0.1080	0.1370	0.2260	0.2030	0.1850	0.9960	0.4170	1.5000	2.4500	4.2000	1.1300	0.5330	0.5620	0.2550	0.8320	0.0904	50.3000	0.2550	3.9300	0.8150	0.2070	0.1550	0.2890	0.4920	0.2330	2.4800	0.3760	0.0186
+12-HETE	153	304	22.4000	42.8000	7.8300	9.4100	5.9600	7.3400	6.1800	11.7000	37	88.7000	7.6100	7.8300	12.3000	7.3100	13.3000	9.3500	9.7500	62.5000	27.5000	336	215	430	29.9000	56.7000	36	7.3200	15.1000	4.2700	4860	6.7700	100	56.5000	13.3000	21.1000	31.6000	24.9000	9.2900	174	12.5000	4.3900
+12-HpETE screen																																										
+13-HODE	27.2000	18.3000	15.1000	21.3000	9.0100	13	9.8200	13.5000	13	35.2000	15	14.6000	9.3500	15.1000	18.3000	12.2000	6.2200	15.1000	12.8000	23.7000	16.6000	8.5500	27.7000	29	33.9000	25.1000	217	32.9000	25.4000	21.9000	48.3000	16.9000	34.8000	29.4000	26.3000	25.9000	19.4000	28.5000	15.3000	62.5000	18.5000	8.9100
+13-HOTE	1.3900	1.3200	1.6600	1.7700	0.3380	0.9240	1.1400	1.0100	0.7700	2.3000	2.1700	1.0500	0.8730	0.4450	1.4300	0.4900	0.2710	2.0700	0.6110	0.8250	0.7540	0.8060	3.7300	1.3300	3.8900	1.1400	19.3000	5.4700	3.1100	15.8000	2.4600	0.4440	1.2800	2.0900	1.5600	2.1100	1.2100	1.4300	1.2700	9.3700	0.4760	0.4260
+13-HpODE screen																																										
+13-KODE	4.9700	0.6510	1.2900	2.8400	1.3000	2.5000	2.6700	3.1400	1.4000	13.4000	2.6800	0.9520	1.9900	2.9700	2.1400	1.1200	0.9670	2.5800	1.0200	2	1.6100	2.6400	10.7000	3.6900	5.5900	3.7100	68.9000	9.2500	1.8600	25.6000	2.4700	1.9500	1.9100	5.2600	3.6000	1.9800	2.1000	2.6100	2.1600	3.6800	3.1400	2.7300
+14_15-DiHETE	0.5190	0.6960	0.5380	1.4400	0.7760	0.8580	0.5960	0.4460	0.9600	1.3700	0.6600	2.3100	1.8000	0.5300		0.3770	0.0502	0.6630	1.3200	1.8600	0.4500	1.2100	1.0400	2.0500	0.5430	0.8610	2.3300	1.1500	8.3000	0.4340	0.8460	0.7460	1.7100	1.8700	1.0900	1.3200	1.2500	0.7850	1.0700	2.5500	0.7500	0.8440
+14_15-DiHETrE	3.8000	3.2000	1.1700	2.4700	2.1600	2.5600	2.3100	1.0900	2.3100	2.1900	2.7300	3.5000	1.8700	2.2500	2.4300	3.4200	0.9050	2.2900	3.1300	5.3000	1.7900	4.0700	2.2200	4.4600	1.8000	3.9500	3.2900	1.9000	6.8100	0.3370	3.4600	2.5900	2.8900	4.1400	3	2.6900	5.1100	2.3900	3.1700	5.0500	2.1900	1.4600
+14(15)-EpETE																																										
+14(15)-EpETrE	2.0200	1.4600	0.4250	0.7720	0.5480	0.4420	0.4400	0.2470	0.2420	0.3490	0.3040	0.9550	0.3490	0.6420	0.4440	0.5330	0.2150	0.7690		0.0484	0.1570	0.8920		0.7400	0.3210	2.1900	0.2760				2.5400	0.6870	1.6100	0.5640	0.2880	0.6600	0.3470	0.2040	1.2400	0.5970	0.2090	0.0902
+14-HDoHE	28.2000	60	5.4500	13.3000	1.9500	5.1700		6.5700	3.5400	9.8800	5.3900	26.4000		3.1400	7.6000		3.4900	5.8200	2.4700	23.1000	14.6000	56.7000	39.7000	83.9000	14.4000	13	20.1000	3.6100	6.5100	1.2000	1860		63.7000	13.3000		3.8900	8.9900		1.7100	61.5000	6.3500	1.0400
+15_16-DiHODE	5.5400	1.3700	1.2600	17.5000	1.3500	2.0200	2.4500	0.7900	1.4100	0.7120	0.8070	1.7600		2.1200	2.4200	1.6900		2.2600	0.6880	0.7820	0.9950	1.9500	28.2000	3.2800	5.1300	3.2300	8.3300	3.4000	6.3900	1.6000	6.5800	2.3800	8.3700	1.6500	2.9100	1.8200	1.2900	1.7400	2.3000	2.8500	2.8600	1.3200
+15(16)-EpODE	2.7100		0.3570	10.9000	1.2700	0.8000	1.3600	0.6980	0.6030	1.3700	1.5300	0.8810	0.5450	1.8900	1.3200	1.0200		1.9300	0.7570		0.5730	0.7570	16.3000	1.1200	3.0300	1.7500	2.7500	7.5000		12.2000	3.1900	1.9400	4.8400	2.1300	0.9100	0.8090	0.9590	0.6220	1.7900	0.7260	0.4500	1.1500
+15-deoxy PGJ2																																										
+15-HEPE	0.2670	0.1400	0.1770	0.5410	0.1640	0.4230	0.2090	0.3900	0.1670	0.3990	0.1760	0.6260	0.2920	0.0864	0.0761	0.2430	0.1520	0.3990	0.6560	0.6230	0.6890	0.1580	0.5750	0.2830	0.4370	0.0196	1.1000	0.6880	0.6270	0.9380	1.1200	0.1120	0.2260	0.4200	0.1060	0.1730	0.1840	0.1440	0.7650	0.2030	0.3860	0.0174
+15-HETE	18.3000	30.8000	10.1000	14.1000	4.0700	11.2000	6.3300	4.7000	7.0800	9.1900	7.5700	6.4000	6.6900	5.0600	10.6000	8.0500	6.9800	9.4300	5.8500	32.1000	19.3000	23.7000	22.5000	22.5000	7.7000	11.1000	23.2000	6.5700	20.5000	0.6050	77.6000	8.7800	17.6000	32.5000	17.4000	8.6700	13.9000	14.7000	6.3100	24.2000	10.9000	3.9100
+15-HpETE screen																																										
+15-KETE																																										
+15-Keto PGE2	0.0970	0.0591	0.0570	0.1050	0.0374				0.1590	0.4150	0.0915	0.1050	0.1300	0.1790	0.0314	0.1400	0.0624	0.3700	0.1940	0.0488		0.4780	0.5000			0.0731	0.1260	0.3040	0.8420	0.0293	0.0321		0.4490	0.1280	0.0331				0.0665	0.1200		0.0274
+16(17)-EpDPE																																										
+17_18-DiHETE	13.1000	5.9100	2.3300	9.5200	3.3400	6.8600	9.8600	3.0600	8.8100		5.2300	13.2000	11.1000	10.5000	4.6100	7.8800	0.8710	0.7260	4.5700	13.1000	3.2300	12.6000	13.6000	12	6.6200	10.5000	11.1000	0.4730	28.1000	0.8500	9.4100	6.7800	5.1500	13	5.5400	5.6800	7.4900	6.1000	5.2100	10.5000	10.3000	6.4000
+17(18)-EpETE																																										
+17-HDoHE	8.0500	9.1300	5.1900	6.9100	1.9500	12.6000	9.0100	3.6500	7.3600	7.3100	2.8600	5.2000	2.9200	4.9000	10.7000	7.3400	5.0100	5.3700	3.2800	31.6000	26.8000	6.0900	12.7000	8.2600	10.3000	8.3400	44.2000	3.1100	16.5000	6.5800	52.2000	7.8800	9.1300	34.2000	17.8000	4.8400	16.4000	14.1000	4.4400	13.4000	8.9000	4.8500
+19_20-DiHDoPE	5.2400	3.5000	1.4700	2.9900	2.7100	5.1900	3.1700	1.9000	2.9100	2.5700	2.9900	5.3400	2.4100	4.2100	2.8100	2.8700	0.5300	2.8800	1.8600	5.5200	1.7100	3.9300	3.1500	5.0300	2.8000	6.6300	4.6300	2.3800	9.0800	0.6030	4.9900	2.7200	3.4500	5.8300	2.8500	3.4600	6.4300	3.2100	3.3500	7.9000	3.9200	2.3600
+19(20)-EpDPE	2.8900				1.2500	96.9000		24.4000	6.2100		6.6000	8.1300			11	2.5900		19.2000			7.6200	8.7600	66.3000	2.1700	1.3800	9.7300		78.4000		592		19.8000	31.9000						2.5300	8.7200	213	9.9200
+20-HETE																																										
+4-HDoHE	11	123	200	9.8300	14.8000	428	15.9000	208	68.1000	710	48.6000	22.9000	260	324	67.4000	28.2000	73.7000	150	81.4000	43.2000	89.6000	270	1090	8.9100	33.6000	104	184	236	768	716	195	460	150	210	72.6000	12.7000	52.3000	87.8000	34.3000	84.3000	99.6000	74.6000
+5_15-DiHETE																																										
+5_6-DiHETrE	0.8510	0.9320	0.4150	0.7880	0.4510	1.7600	0.9750	0.2470	0.7900	0.9270	0.5300	1.1200	0.2830	0.3460	0.7630	1.7100	0.1650	0.5960	0.8430	4.4400	1.3500	0.4950	0.9120	1.0600	0.7220	0.8910	0.6430	0.9080	1.1900	0.2050	2.3200	1.6200	0.7170	2.9600	1.2800	0.3640	1.3900	1.3400	0.6260	2.1700	0.8000	0.4240
+5-HEPE	0.5680	0.3120	0.2480	0.3590	0.2510	0.7960	0.1290	0.4270	0.3020	0.2480	0.4690	0.8760	0.6470	0.2750	0.6880	0.2400	0.0471	0.7570	0.0914	0.5920	0.1530	0.4010	0.7840	0.3590	1.0500	0.5150	0.6650	2.2000	0.3170		1.2300	0.7220	0.9040	1.2800	0.3580	0.3900	0.6530	0.4050	0.6460	0.8680	0.2530	0.2810
+5-HETE	10.8000	24	7.6600	15.3000	6.5700	18.2000	5.9800	3.8600	13.9000	9.5600	10.9000	13.8000	11	3.9600	17.4000	13.9000	3.7600	10.4000	3.9200	24.8000	8.1500	9.3300	18.6000	9.6500	8.4700	24.2000	20.7000	9.5900	22.1000	4.1500	53.6000	34.3000	41.7000	28.1000	9.8200	19.6000	24.1000	11.8000	9.1700	52.3000	6.8700	6.4600
+5-HpETE screen																																										
+5-KETE																																										
+6-keto PGF1a	8.5800	4.6000	1.1400	3.0600	0.2590	1.4500	0.5530	8.7200	0.2440	0.9900	23.1000	1.8900	0.8830	1.5300	1.9200	0.8040	2.3500	0.6550	0.9050	3.6900	2.0900	1.3700	6.8800	2.0600	1.8800	5.0500	12.7000	2	3.1500	0.4200	3.0700	0.0781	1.5600	1.2200	0.3750	3.7400	1.0100	0.8810	7.0700	3.2600	1.2000	0.6130
+6-trans-LTB4																																										
+8_15-DiHETE																																										
+8_9-DiHETrE	3.1000	4.6200	2.2200	2.1300	2.1700	4.4700	3.7200	1.5200	2.8200	2.8200	3.2000	4.4200	2.0200	2.6300	2.8700	5.2000	0.9970	2.1200	3.9600	12.1000	4.4000	3.0100	2.7400	5.6700	2.8800	3.5000	2.9900	2.9500	10	0.4420	5.9500	3.8200	3.2900	7.5400	3.6400	2.5400	4.3700	4.0600	3.0800	8.3700	2.6100	2.1700
+8(9)-EpETrE	1.4000	2.4500	0.5500	1.1300	0.6920	1.3300	1.1600	1.0400	0.5590	2.8000	2.4700	2.1100	1.5100	0.6420	1.5400	0.8630	1.3300	0.2060	0.8310	2.1300	0.5430	1.3300	7.3300	1.4100	1.1100	1.8900	0.9970		3.8700	63.2000	5	1.7900	2.1900	2.1900	1.6800	1.2400	0.9850	1.7200	1.4600	3.5100	0.1960	1.2100
+8-HETE	4.3800	7.4000	2.4100	4.0900	2.6300	4.2600	3.2100	1.5700	2.9600	4.4600	3.0900	5.3500	3.9700	2.4900	3.2600	3.6900	1.4000	2.0100	3.1400	12.3000	5.2000	3.9000	3.7200	5.2000	3.8400	5.4500	9.7600	2.4700	7.3200	0.7380	18.4000	6.3300	6.2400	8.7000	6.5800	3.3100	5.9900	5.6300	3.9400	10.3000	3.0800	2.0700
+9_10-DiHHex																																										
+9_10-DiHODE	0.2370	0.0451	0.0607	0.2880	0.1200	0.0626	0.0365	0.1030	0.0766	0.1890	0.1620	0.0778	0.0668	0.1320	0.2360	0.1190	0.0663	0.0911	0.0660	0.0934		0.1260	0.2590	0.1530	0.2490	0.1420	0.4270	0.2960	0.3280	0.1750	0.3140	0.0914	0.2310	0.1020	0.1250	0.0386	0.0598	0.0548	0.1710	0.1570	0.1140	0.0457
+9_10-DiHOME	3.2000	1.1000	1.3600	3.8400	1.7400	1.8800	1.8300	2.4900	2.2000	2.5900	2.2500	1.9400	1.1300	3.5300	2.9500	2.5400	0.9360	2.4300	1.7700	2.2400	0.8760	1.2800	5.0900	3.0800	4.7800	2.9500	6.9000	5.3400	3.2300	1.6900	6.0300	2.8700	5	2.2900	2.5100	2.7200	2.8100	1.7700	2.4700	3.3500	3.0100	1.2000
+9_10-e-DiHO																																										
+9_10-EpO	8.3900	7.9200	4.9800	10.9000	4.7200	5.9300	6.6800	7.8500	5.4200	14	8.2300	4.7700	5.9900	13.8000	5.8700	6.1000	4.3600	6.0100	16.9000	5	3.4300	13.7000	13	5.6200	17.3000	7.9900	9.5000	10.5000	19.6000		5.2900	5.0200	4.2300	5.1600	4.7200	14.9000	7.6400	5.1400	7.5800	9.1800	4.5900	7.6200
+9(10)-EpODE																																										
+9(10)-EpOME	4.3200	1.2600	0.8990	2.8500	1.9300	1.4700	1.1700	1.2300	1.2700	2.1200	2	1.6900	1.0200	2.2600	1.7800	2.8300	0.7320	1.4300	1.2300	1.5800	0.6160	1.7500	0.8820	2.5600	2.5900	3.8800	3.0700	4.5500	2.8200	4.2000	4.3400	1.8000	3.7900	2.2900	1.6000	1.3400	1.5100	1.2400	2.7200	1.8200	1.2500	1.5600
+9_12_13-TriHOME	1.5300	1.7100	1.0200	2.5500	1.0300	4.0900	2.3800	4.0900	1.4800	1.8100	1.5800	0.8670	2.0500	1.4900	1.7500	1	0.8920	1.3300	4.2700	1.5700	1.2100	1.5700	3.6600	1.4000	1.9000	1.7400	2.8900	4.6100	2.9400	0.9750	4.9600	1.4600	3.9600	1.7100	0.9310	3.0400	2.4400	1.5000	1.2900	3.2900	1.5700	1.2400
+9-HEPE	0.3600	0.5050	0.3280	0.9160	0.3600	0.5160	0.3590	0.4950	0.4020	0.8930	0.2280	0.9380	0.4900	0.2510	0.3510	0.2740	0.1530	0.3360	0.1240	1.4000	0.8690	0.1510	0.3350	0.3750	0.8060	0.5100	0.7610	0.8840		1.1600	0.9620	0.5880	1.4900	0.3970	0.5030	0.6480	0.6980	0.8130	0.4900	1.7600	0.5140	0.2220
+9-HETE	11.7000	30	14.4000	22.5000	7.9000	21	7.8800	3.4200	27.6000	7.9500	15	29.5000	14.3000	5.5200	24.9000	27.6000	5.5900	13	3.2200	42.6000	13.9000	11.4000	36.1000	11.9000	15.2000	59.5000	32.6000	8.1900	30.7000	1.2700	72.7000	38.8000	136	46	17.8000	40.4000	47.9000	29.3000	10.8000	134	12.7000	7.4300
+9-HODE	30.1000	12.9000	13.4000	20.6000	10.1000	10.3000	7.4900	10.3000	11.7000	31.5000	13.5000	11.5000	8.6600	11.6000	12.6000	12.1000	5.2400	12.3000	8.7600	17.1000	7.9400	11.3000	32.3000	25.4000	31.4000	20.5000	171	27.7000	15.2000	19.5000	35.1000	15.4000	28.9000	23.5000	16.7000	17.7000	15.8000	19	13.3000	46	10.6000	9.5800
+9-HOTE	0.8430	0.4510	0.3540	0.8370	0.4740	0.3930	0.4290	0.4550	0.5100	0.5430	0.6180	0.3870	0.4990	0.3730	0.6490	0.3850	0.2180	0.5070	0.4860	0.4900	0.1660	0.2270	1.6300	0.6590	1.5000	0.7710	8.8700	2.8600	1.4000	5.9600	1.0900	0.5940	0.9960	1.2800	0.6870	0.6840	0.7080	0.7160	0.6920	2.1000	0.2780	0.4480
+9-HpODE screen																																										
+9-KODE	10.6000	4.4800	4.2900	10.6000	5.1600	5	3.7900	9.3900	4.9400	24	3.5900	5.5900	4	6.9000	6.7400	4.8100	2.5400	5.0200	6.7100	4.5500	4.5500	5.0200	9.5900	7.0200	10.7000	7.9500	156	40.4000	6.9600	53	6.0900	5.9000	7.5100	9.2200	8.4000	6.6000	6.0200	7.6500	5.6300	12.4000	3.6800	6.3500
+9-Nitrooleate																																										
+Lipoxin A4																																										
+LTB4																																										
+LTB5																																										
+LTE4																																										
+PGD2	1.9900	1.1200	1.3900	0.5400	0.2720	0.1400	0.4130	0.4100	0.5210	0.3520	0.5990	0.4960	0.3610	0.3070	0.4960	0.1240	0.2660	0.1940	0.8080	0.3410	0.2780	1.9200	1.2200	0.8010	0.3590	1.0600		0.1570		0.0682	1.1100	0.2380	0.5430	0.5490	0.4010	0.6040	0.2010	0.5200	0.5990	0.4660	0.3820	0.2740
+PGE1	0.3080	0.4310	0.3220	0.1790	0.0307	0.0725	0.0634	0.0553	0.1500		0.5200	0.0175	0.0504	0.1250	0.0208	0.1600	0.1270	0.1520	0.0171	0.0853		0.2460	0.3290	0.7790		0.0224	0.7560	0.0919	0.7070	0.0331	0.4180	0.4520	1.7000	0.0199	0.0453	0.1340	0.0163	0.0903	0.5530	0.3880		0.0220
+PGE2	11.5000	12.1000	10.1000	4.0900	2.1100	0.6410	5.0200	2.7600	5.2700	0.8480	11.6000	2.3300	2.6900	8.0300	2.2000	2.8000	3.7100	1.1900	9.2000	5.9200	3.5200	6.2100	2.7200	18	4.2400	6.7600	11.1000	0.6810	3.0300	0.1550	15	9.2300	27.7000	5.7200	2.2300	8.9700	3.6400	6.0900	12.1000	7.6100	4.4300	4.3100
+PGE3																																										
+PGF2a	4.5000	4.8100	3.0800	3.8500	0.2860	1.0700	0.4360	2.4200	1.6900		2.5500	1.7600	1.8400	0.5870	0.7580	0.5060	2.3300	0.9810	1.6800	1.9000	0.7970	3.7100	5.3500	3.4400	1.7400	0.8580	3.7700	1.9500	4.4700	0.8510	6.6500	0.6270	2.0500	2.7600	0.5340	1.5900	0.2710	0.1520	1.3400	1.9400	2.2200	0.9710
+PGF3a																																										
+Resolvin D1																																										
+TXB2	167	243	191	70.7000	0.3930		1.2000	14.9000	0.8180	12.1000	25.2000	7.3300	46.6000	33.1000	1.8400	1.0300	33.5000	2.8800	7.2300	12.3000	7.8000	244	152	203	33.3000	45.1000	34.6000	0.4800	53.8000		344	0.8610	15.5000	87.1000	1.6900	30.1000	38.6000	12	3.1500	85.8000	8.5800	3.6300
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+10-Nitrolinoleate				5282259				UCDavis_Newman_ID
+10-Nitrooleate				24836820				UCDavis_Newman_ID
+11_12-DiHETrE				5283146				UCDavis_Newman_ID
+11(12)-EpETE				16061087				UCDavis_Newman_ID
+11(12)-EpETrE				5283204				UCDavis_Newman_ID
+11-HETE				14123410				UCDavis_Newman_ID
+12_13-DiHODE				16061067				UCDavis_Newman_ID
+12_13-DiHOME (Area Ratio%)				10236635				UCDavis_Newman_ID
+12(13)-Ep-9-KODE				5283007				UCDavis_Newman_ID
+12(13)-EpODE				16061061				UCDavis_Newman_ID
+12(13)-EpOME				5356421				UCDavis_Newman_ID
+12-HEPE				10041593				UCDavis_Newman_ID
+12-HETE				13786989				UCDavis_Newman_ID
+12-HpETE screen				5280892				UCDavis_Newman_ID
+13-HODE				5282947				UCDavis_Newman_ID
+13-HOTE				10469728				UCDavis_Newman_ID
+13-HpODE screen				5280720				UCDavis_Newman_ID
+13-KODE				6446027				UCDavis_Newman_ID
+14_15-DiHETE				16061119				UCDavis_Newman_ID
+14_15-DiHETrE				5283147				UCDavis_Newman_ID
+14(15)-EpETE				16061088				UCDavis_Newman_ID
+14(15)-EpETrE				5283205				UCDavis_Newman_ID
+14-HDoHE				11566378				UCDavis_Newman_ID
+15_16-DiHODE				16061068				UCDavis_Newman_ID
+15(16)-EpODE				16061056				UCDavis_Newman_ID
+15-deoxy PGJ2				5311211				UCDavis_Newman_ID
+15-HEPE				16061131				UCDavis_Newman_ID
+15-HETE				9966861				UCDavis_Newman_ID
+15-HpETE screen				5280893				UCDavis_Newman_ID
+15-KETE				5280701				UCDavis_Newman_ID
+15-Keto PGE2				5280719				UCDavis_Newman_ID
+16(17)-EpDPE				14392758				UCDavis_Newman_ID
+17_18-DiHETE				16061120				UCDavis_Newman_ID
+17(18)-EpETE				16061089				UCDavis_Newman_ID
+17-HDoHE				6439179				UCDavis_Newman_ID
+19_20-DiHDoPE				16061148				UCDavis_Newman_ID
+19(20)-EpDPE				11631565				UCDavis_Newman_ID
+20-HETE				123803				UCDavis_Newman_ID
+4-HDoHE				14429109				UCDavis_Newman_ID
+5_15-DiHETE				59878863				UCDavis_Newman_ID
+5_6-DiHETrE				5283142				UCDavis_Newman_ID
+5-HEPE				6439678				UCDavis_Newman_ID
+5-HETE				9862886				UCDavis_Newman_ID
+5-HpETE screen				5283171				UCDavis_Newman_ID
+5-KETE				5283159				UCDavis_Newman_ID
+6-keto PGF1a				5280888				UCDavis_Newman_ID
+6-trans-LTB4				5283128				UCDavis_Newman_ID
+8_15-DiHETE				53480358				UCDavis_Newman_ID
+8_9-DiHETrE				5283144				UCDavis_Newman_ID
+8(9)-EpETrE				5353364				UCDavis_Newman_ID
+8-HETE				11976122				UCDavis_Newman_ID
+9_10-DiHHex				193113				UCDavis_Newman_ID
+9_10-DiHODE				16061066				UCDavis_Newman_ID
+9_10-DiHOME				9966640				UCDavis_Newman_ID
+9_10-e-DiHO				441460				UCDavis_Newman_ID
+9_10-EpO				15868				UCDavis_Newman_ID
+9(10)-EpODE				16061060				UCDavis_Newman_ID
+9(10)-EpOME				6246154				UCDavis_Newman_ID
+9_12_13-TriHOME				9858729				UCDavis_Newman_ID
+9-HEPE				16061129				UCDavis_Newman_ID
+9-HETE				14123398				UCDavis_Newman_ID
+9-HODE				5282944				UCDavis_Newman_ID
+9-HOTE				53480359				UCDavis_Newman_ID
+9-HpODE screen				6439847				UCDavis_Newman_ID
+9-KODE				9839084				UCDavis_Newman_ID
+9-Nitrooleate				11645581				UCDavis_Newman_ID
+Lipoxin A4				5280914				UCDavis_Newman_ID
+LTB4				5280492				UCDavis_Newman_ID
+LTB5				5283125				UCDavis_Newman_ID
+LTE4				5280879				UCDavis_Newman_ID
+PGD2				448457				UCDavis_Newman_ID
+PGE1				5280723				UCDavis_Newman_ID
+PGE2				5280360				UCDavis_Newman_ID
+PGE3				5280937				UCDavis_Newman_ID
+PGF2a				5280363				UCDavis_Newman_ID
+PGF3a				5280940				UCDavis_Newman_ID
+Resolvin D1				16061135				UCDavis_Newman_ID
+TXB2				5283137				UCDavis_Newman_ID
+METABOLITES_END
+#END

@@ -1,0 +1,311 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170720_095033_mwtab.txt DATATRACK_ID:1164 STUDY_ID:ST000809 ANALYSIS_ID:AN001282
+VERSION             	1
+CREATED_ON             	July 24, 2017, 12:05 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Etiologies of preterm delivery among obese women
+PR:PROJECT_SUMMARY               	Here we propose a pilot project to examine the contribution of lipid mediators
+PR:PROJECT_SUMMARY               	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+PR:PROJECT_SUMMARY               	the top causes of infant morbidity and mortality. Our specific interests are in
+PR:PROJECT_SUMMARY               	understanding risks of preterm delivery among obese women, and in particular the
+PR:PROJECT_SUMMARY               	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+PR:PROJECT_SUMMARY               	among obese women. The inflammatory response is a known contributor to preterm
+PR:PROJECT_SUMMARY               	delivery, and obesity is associated with inflammation and an increased risk of
+PR:PROJECT_SUMMARY               	early preterm delivery, but the distinct contribution of aberrations in the
+PR:PROJECT_SUMMARY               	inflammatory response to preterm delivery among obese women has not been
+PR:PROJECT_SUMMARY               	examined previously. Most previous studies of preterm delivery and the
+PR:PROJECT_SUMMARY               	inflammatory response have examined one or only a few of its components at once,
+PR:PROJECT_SUMMARY               	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+PR:PROJECT_SUMMARY               	extend these types of investigations by examining lipid mediators and conducting
+PR:PROJECT_SUMMARY               	global lipid profiling. Lipid mediators are key regulators of inflammation and
+PR:PROJECT_SUMMARY               	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+PR:PROJECT_SUMMARY               	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+PR:PROJECT_SUMMARY               	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+PR:PROJECT_SUMMARY               	Examination of lipid mediators and lipid profiling is particularly relevant to
+PR:PROJECT_SUMMARY               	understanding distinct risks among obese women, given the known
+PR:PROJECT_SUMMARY               	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+PR:PROJECT_SUMMARY               	hypothesis is that the inflammatory response impacts risk of preterm delivery
+PR:PROJECT_SUMMARY               	and that its impact is distinct among obese versus non-obese women. Here we
+PR:PROJECT_SUMMARY               	propose a pilot project that compares mid-pregnancy measurements of lipid
+PR:PROJECT_SUMMARY               	mediators and lipid profiling among obese pregnant women. Findings from this
+PR:PROJECT_SUMMARY               	pilot will provide critical preliminary data to inform larger-scope grant
+PR:PROJECT_SUMMARY               	proposals that will comprehensively address our overarching hypothesis.
+PR:PROJECT_SUMMARY               	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+PR:PROJECT_SUMMARY               	deliver preterm compared to those who deliver at term. In addition, we will use
+PR:PROJECT_SUMMARY               	untargeted global profiling of complex lipids to determine whether obese women
+PR:PROJECT_SUMMARY               	who deliver preterm have a distinct lipidomic signature, relative to obese women
+PR:PROJECT_SUMMARY               	who deliver at term. We propose a nested case-control study that utilizes
+PR:PROJECT_SUMMARY               	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+PR:PROJECT_SUMMARY               	represents over one million deliveries in California from 2007-2012. We propose
+PR:PROJECT_SUMMARY               	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+PR:PROJECT_SUMMARY               	This will provide adequate preliminary data for a larger-scale grant proposal.
+PR:INSTITUTE                     	Stanford University
+PR:DEPARTMENT                    	Pediatrics - Neonatology
+PR:LAST_NAME                     	Carmichael
+PR:FIRST_NAME                    	Suzan
+PR:ADDRESS                       	450 Serra Mall, Stanford, CA 94305
+PR:EMAIL                         	scarmichael@stanford.edu
+PR:PHONE                         	(650) 736-0735
+#STUDY
+ST:STUDY_TITLE                   	Etiologies of preterm delivery among obese women (part I)
+ST:STUDY_TYPE                    	Case-control study
+ST:STUDY_SUMMARY                 	Here we propose a pilot project to examine the contribution of lipid mediators
+ST:STUDY_SUMMARY                 	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+ST:STUDY_SUMMARY                 	the top causes of infant morbidity and mortality. Our specific interests are in
+ST:STUDY_SUMMARY                 	understanding risks of preterm delivery among obese women, and in particular the
+ST:STUDY_SUMMARY                 	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+ST:STUDY_SUMMARY                 	among obese women. The inflammatory response is a known contributor to preterm
+ST:STUDY_SUMMARY                 	delivery, and obesity is associated with inflammation and an increased risk of
+ST:STUDY_SUMMARY                 	early preterm delivery, but the distinct contribution of aberrations in the
+ST:STUDY_SUMMARY                 	inflammatory response to preterm delivery among obese women has not been
+ST:STUDY_SUMMARY                 	examined previously. Most previous studies of preterm delivery and the
+ST:STUDY_SUMMARY                 	inflammatory response have examined one or only a few of its components at once,
+ST:STUDY_SUMMARY                 	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+ST:STUDY_SUMMARY                 	extend these types of investigations by examining lipid mediators and conducting
+ST:STUDY_SUMMARY                 	global lipid profiling. Lipid mediators are key regulators of inflammation and
+ST:STUDY_SUMMARY                 	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+ST:STUDY_SUMMARY                 	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+ST:STUDY_SUMMARY                 	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+ST:STUDY_SUMMARY                 	Examination of lipid mediators and lipid profiling is particularly relevant to
+ST:STUDY_SUMMARY                 	understanding distinct risks among obese women, given the known
+ST:STUDY_SUMMARY                 	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+ST:STUDY_SUMMARY                 	hypothesis is that the inflammatory response impacts risk of preterm delivery
+ST:STUDY_SUMMARY                 	and that its impact is distinct among obese versus non-obese women. Here we
+ST:STUDY_SUMMARY                 	propose a pilot project that compares mid-pregnancy measurements of lipid
+ST:STUDY_SUMMARY                 	mediators and lipid profiling among obese pregnant women. Findings from this
+ST:STUDY_SUMMARY                 	pilot will provide critical preliminary data to inform larger-scope grant
+ST:STUDY_SUMMARY                 	proposals that will comprehensively address our overarching hypothesis.
+ST:STUDY_SUMMARY                 	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+ST:STUDY_SUMMARY                 	deliver preterm compared to those who deliver at term. In addition, we will use
+ST:STUDY_SUMMARY                 	untargeted global profiling of complex lipids to determine whether obese women
+ST:STUDY_SUMMARY                 	who deliver preterm have a distinct lipidomic signature, relative to obese women
+ST:STUDY_SUMMARY                 	who deliver at term. We propose a nested case-control study that utilizes
+ST:STUDY_SUMMARY                 	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+ST:STUDY_SUMMARY                 	represents over one million deliveries in California from 2007-2012. We propose
+ST:STUDY_SUMMARY                 	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+ST:STUDY_SUMMARY                 	This will provide adequate preliminary data for a larger-scale grant proposal.
+ST:INSTITUTE                     	USDA
+ST:DEPARTMENT                    	Obesity and metabolism research unit
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 West Health Sciences Dr. Davis, Ca, 95616
+ST:EMAIL                         	John.Newman@ars.usda.gov
+ST:PHONE                         	(530) 752-1009
+ST:STUDY_COMMENTS                	Case status was blinded by collaborator
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Female
+SU:SUBJECT_COMMENTS              	Obese pregnant femals
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA001	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA002	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA003	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA004	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA005	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA006	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA007	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA008	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA009	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA010	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA011	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA012	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA013	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA014	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA015	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA016	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA017	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA018	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA019	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA020	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA023	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA024	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA025	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA026	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA027	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA028	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA029	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA030	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA031	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA032	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA033	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA034	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA035	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA036	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA037	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA038	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA039	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA040	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA041	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA042	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA045	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA046	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA047	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA048	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA049	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA050	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA051	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA052	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA053	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA054	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA055	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA056	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA057	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA058	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA059	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA060	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA061	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA062	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA063	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA064	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA067	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA068	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA069	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA070	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA071	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA072	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA073	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA074	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA075	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA076	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA077	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA078	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA079	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA080	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA081	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA082	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA083	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA084	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA085	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA086	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA089	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA090	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA091	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA092	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA093	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA094	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA095	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA096	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA097	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA098	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA099	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA100	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA101	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA102	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA103	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA104	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA105	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA106	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA107	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA108	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA109	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CarBileA110	Test_sample:test	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	The collection and processing of specimens was as follows: 1) samples were taken
+CO:COLLECTION_SUMMARY            	at draw stations using BDTM Vacutainer 3.5 mL serum separator tubes with no
+CO:COLLECTION_SUMMARY            	anticoagulants or preservatives and centrifuged 2) samples were received by
+CO:COLLECTION_SUMMARY            	designated clinical laboratories from draw stations at room temperature, on
+CO:COLLECTION_SUMMARY            	average 3.0 days after draw 3) AFP assays were run on samples usually on the day
+CO:COLLECTION_SUMMARY            	received 4) samples were refrigerated up to 7 days, in case further testing was
+CO:COLLECTION_SUMMARY            	necessary 5) samples were sent on cold packs via overnight mail to the serum
+CO:COLLECTION_SUMMARY            	storage bank 6) samples were aliquoted, labeled with barcodes, and frozen at
+CO:COLLECTION_SUMMARY            	−70° C.
+CO:COLLECTION_PROTOCOL_FILENAME  	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+CO:SAMPLE_TYPE                   	Blood
+CO:BLOOD_SERUM_OR_PLASMA         	Serum
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Among the more than 100,000 pregnancy specimens collected for testing in 2003
+TR:TREATMENT_SUMMARY             	and that resulted in a liveborn delivery in 2003, we identified 63 cases with
+TR:TREATMENT_SUMMARY             	hypospadias. Among the 29 cases for which two serum specimens were available, we
+TR:TREATMENT_SUMMARY             	selected all 16 for whom the degree of severity was not specified and the four
+TR:TREATMENT_SUMMARY             	that were coronal, to give a total of 20 cases. As controls, we randomly
+TR:TREATMENT_SUMMARY             	selected 28 specimens that were collected at the same lab during the same time
+TR:TREATMENT_SUMMARY             	period and corresponded to non-malformed, liveborn male infants delivered in
+TR:TREATMENT_SUMMARY             	2003. Thus, this was a nested case-control study. The selection of samples was
+TR:TREATMENT_SUMMARY             	limited to singletons. All samples were obtained with approval from the
+TR:TREATMENT_SUMMARY             	California Health and Welfare Agency Committee for the Protection of Human
+TR:TREATMENT_SUMMARY             	Subjects.
+TR:TREATMENT_PROTOCOL_FILENAME   	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Non-esterified oxylipins, endocannabinoids, polyunsaturated fatty acids and bile
+SP:SAMPLEPREP_SUMMARY            	acids extraction: Oxylipins, endocannabinoids, fatty acids and bile acids were
+SP:SAMPLEPREP_SUMMARY            	isolated by liquid extraction protocol using methanol/acetonitrile mixture (1:1
+SP:SAMPLEPREP_SUMMARY            	v/v] from 40 µL of serum and quantified by UPLC-MS/MS using internal standard
+SP:SAMPLEPREP_SUMMARY            	methods. Procedure shortly: 40 µL of serum was mixed with 5 µL BHT/EDTA (1:1
+SP:SAMPLEPREP_SUMMARY            	MeOH:water), 10 µL of 0.5 µM deuterated oxylipins and endocannabinoids
+SP:SAMPLEPREP_SUMMARY            	surrogates and 20 µL of 1 µM deuterated bile acids surrogates in methanol.
+SP:SAMPLEPREP_SUMMARY            	Next, serum was homogenized by addition of 200 µL of 1-cyclohexyl ureido,
+SP:SAMPLEPREP_SUMMARY            	3-dodecanoic acid (CUDA) and 1-phenyl ureido 3-hexanoic acid (PUHA) at 100 nM in
+SP:SAMPLEPREP_SUMMARY            	1:1 methanol:acetonitrile. Next, homogenate was centrifuge at 15000 rcf for 10
+SP:SAMPLEPREP_SUMMARY            	min and the methanol/acetonitrile supernatant was collected for mass
+SP:SAMPLEPREP_SUMMARY            	spectrometry analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity
+CH:COLUMN_NAME                	Aquity C18 BEH 1.7μm 100mm x 2.1mm column
+CH:FLOW_GRADIENT              	See protocol/methods file
+CH:FLOW_RATE                  	0.4 mL/min
+CH:COLUMN_TEMPERATURE         	60 °C
+CH:SOLVENT_A                  	0.1% Formic Acid
+CH:SOLVENT_B                  	0.1% Formic Acid in Acetonitrile
+CH:INTERNAL_STANDARD          	See protocol/methods file
+CH:RETENTION_TIME             	See protocol/methods file
+CH:SAMPLE_INJECTION           	5 µL
+CH:ANALYTICAL_TIME            	16 min
+CH:WEAK_WASH_SOLVENT_NAME     	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME           	600 µL
+CH:STRONG_WASH_SOLVENT_NAME   	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME         	600 µL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	Newman
+AN:OPERATOR_NAME            	Kamil Borkowski
+AN:DETECTOR_TYPE            	API 6500 QTrap (AB Sciex, Framingham, MA, USA)
+AN:SOFTWARE_VERSION         	AB Sciex MultiQuant version 3.0.2
+AN:DATA_FORMAT              	.mzML
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	API 6500 QTrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration pmol/g
+MS_METABOLITE_DATA_START
+Samples	CarBileA001	CarBileA002	CarBileA003	CarBileA004	CarBileA005	CarBileA006	CarBileA007	CarBileA008	CarBileA009	CarBileA010	CarBileA011	CarBileA012	CarBileA013	CarBileA014	CarBileA015	CarBileA016	CarBileA017	CarBileA018	CarBileA019	CarBileA020	CarBileA023	CarBileA024	CarBileA025	CarBileA026	CarBileA027	CarBileA028	CarBileA029	CarBileA030	CarBileA031	CarBileA032	CarBileA033	CarBileA034	CarBileA035	CarBileA036	CarBileA037	CarBileA038	CarBileA039	CarBileA040	CarBileA041	CarBileA042	CarBileA045	CarBileA046	CarBileA047	CarBileA048	CarBileA049	CarBileA050	CarBileA051	CarBileA052	CarBileA053	CarBileA054	CarBileA055	CarBileA056	CarBileA057	CarBileA058	CarBileA059	CarBileA060	CarBileA061	CarBileA062	CarBileA063	CarBileA064	CarBileA067	CarBileA068	CarBileA069	CarBileA070	CarBileA071	CarBileA072	CarBileA073	CarBileA074	CarBileA075	CarBileA076	CarBileA077	CarBileA078	CarBileA079	CarBileA080	CarBileA081	CarBileA082	CarBileA083	CarBileA084	CarBileA085	CarBileA086	CarBileA089	CarBileA090	CarBileA091	CarBileA092	CarBileA093	CarBileA094	CarBileA095	CarBileA096	CarBileA097	CarBileA098	CarBileA099	CarBileA100	CarBileA101	CarBileA102	CarBileA103	CarBileA104	CarBileA105	CarBileA106	CarBileA107	CarBileA108	CarBileA109	CarBileA110
+Factors	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test
+CA	29.3	61.1	24.4	12.1	18.4	62.2	30.1	280	78.7	46.1	93.2	38.6	29.2	45	23.2	216	222	5.94	42.3	39.6	301	27.5	35	31.4	44.3	28.8	15.2	12.2	29	17.8	19	27.1	19.7	62.7	25.2	157	36.3	19.5	44.9	552	104	144	19.1	56.2	58.2	19.5	45.1	53.8	52.3	15	13.7	39.2	12.9	37.5	15.9	36.3	17.9	43.5	13.8	41.9	14.3	113	25.6	37.5	51.8	38.8	62.2	27.7	15.4	98.6	36.1	80	279	18.9	16.2	15.7	39.1	18.9	80	182	526	53.1	28.8	29.8	48.1	40.7	14.2	47.4	19.4	37.2	53.3	31.3	13.2	44.3	31.2	29	46.6	52.3	5.13	18.8	92.3	20.2
+CDCA	88.8	47.7	48.5	31.8	24.9	176	28	195	92.2	145	54.7	10.8	21.9	35.1	29.2	487	110	5.96	18.8	123	104	20.3	122	19.1	39.8	19	69.2	9.4	23.3	8.26	19.2	45.3	32.7	154	90.8	371	48.3	35.4	32	1490	301	74.8	7.52	207	32.7	10.9	74.2	16.7	40	11.5	28.8	257	16.1	61.1	31.3	37	11.4	51.9	9.73	38.2	21.9	115	26.6	43.5	42.2	137	28.6	20	10.1	193	20.2	332	214	13.8	29.2	125	226	23.4	295	101	346	52.3	38.7	133	107	26.4	22.7	21.4	56.1	39.4	74.8	28.9	15.8	27	101	30.7	79.3	18.3	9.24	38.5	55.2	39.7
+TCA	37.5	52.7	17.4	54.6	42.1	117	224	144	201	134	74.3	144	80.3	39.8	5.41	104	36.2	181	85.1	102	5390	140	23.3	62.6	49.7	95	419	40.6	72.1	167	24.5	1050	413	195	48.1	115	278	214	299	141	161	36.3	72.1	145	184	86.4	57	150	172	23.9	16.3	122	543	84.7	23.7	196	90	60.4	26.6	298	9.24	502	12.7	421	12	31.1	154	165	83.3	9.76	82.3	121	130	39.8	48.9	11	28.2	126	91.5	225	159	445	179	165	167	205	422	634	33.6	44.4	257	363	242	1890	151	50	42.6	586	12.9	43.8	131	405
+TCDCA	191	121	29	170	147	379	510	146	424	390	60.3	199	198	29.8	12.3	181	64.1	112	158	218	2390	369	85	95.8	146	190	837	82.5	229	214	63	1560	729	205	120	305	558	565	376	313	189	58.1	84.3	315	371	168	172	141	419	68.3	21.6	394	387	247	42.3	432	175	177	34.3	408	18.9	662	34.1	927	19.7	59.6	161	419	208	30.7	122	229	117	75.8	104	64	138	337	133	169	269	655	290	328	387	533	660	622	170	135	323	686	402	348	213	158	112	713	32.6	159	236	290
+GCA	81.6	107	62.9	200	160	167	666	256	332	361	179	370	147	109	16.9	300	362	129	333	287	13100	291	73.2	153	130	228	356	83.4	158	483	76.3	1890	445	364	114	229	501	168	868	320	419	243	105	340	445	225	293	336	550	23	61.2	539	1090	115	113	306	184	299	91.6	734	14.7	2190	24.4	715	37.9	96.3	398	481	118	33.4	255	723	572	98.9	83.9	36.5	57.9	434	252	301	531	645	289	285	266	625	526	916	104	264	858	594	655	907	273	151	261	745	48.2	150	624	617
+GCDCA	764	255	130	996	946	780	2620	507	1530	1350	203	814	427	100	139	770	935	122	942	1150	11400	1190	368	283	540	729	1480	354	773	1090	409	4230	1470	839	573	847	1870	475	1690	820	783	324	190	976	1420	718	1210	597	1830	138	187	2620	894	550	327	794	536	1280	198	1390	53.8	4090	81.2	2540	112	311	684	1970	500	123	548	2730	996	276	395	373	347	1400	533	490	1200	1450	868	694	1100	2650	1610	1550	754	898	1810	2030	1450	800	716	517	1210	1510	144	820	1570	668
+DCA	128	87.3	171	1070	122	70	110	151	272	532	259	123	1.5	76	205	851	251	2.95	149	334	283	223	247	122	104	70.6	132	88	98.2	72.4	235	793	124	161	113	193	148	50.2	370	167	441	115	0.852	474	191	92.4	191	93.4	67.5	82.7	382	0.192	72.4	148	281	119	39.8	200	86.5	434	164	559	45.2	108	91.7	259	239	66.7	116	165	194	140	173	18.9	112	807	485	30.4	129	80	177	58.3	226	74.8	408	123	169	88.8	27.3	309	600	63	154	497	564	56	408	33.8	112	255	125	91.3
+TDCA	52.6	37.2	31.2	219	92.5	80.3	215	50.9	439	270	33.9	176	2.58	9.04	11.4	163	51.8	6.73	147	127	848	197	35.3	45.9	36.8	103	273	36	82.2	74	65.6	1320	366	75.8	28.6	78.8	373	89.5	203	22.6	177	23.7	4.61	245	208	90.8	84.4	66.2	134	27.6	50	0.198	197	112	42.2	83.2	97.3	56.1	32.8	696	14.7	380	10.2	426	5.25	26.7	132	121	196	8.36	159	23	35.4	9.08	90.4	63.9	65.2	43.5	22.1	41.7	58.5	76.4	149	56.6	251	135	330	301	20.4	43.2	276	270	170	526	290	44.9	58.4	284	39.2	68.7	78.5	90.3
+TLCA	9.57	3.56	4.13	73.9	8.23	2.2	37.2	6.81	14.8	33.9	9.45	32.8	2.95	2.82	6.48	14.6	24.2	1.33	37.6	34.5	38.9	38.1	12.1	9.21	11.9	35.3	29.6	13.3	32.5	28	28.2	166	25.8	5.18	5.82	23.6	82.5	33.3	22.9	ND	3.31	1.72	1.53	7.2	14.2	12.6	5.9	5.95	40.6	23.6	14.7	0.652	19.2	20.2	20.9	12	9.35	8.8	5.04	41.5	0.981	28.5	1.5	85.7	2.65	1.5	12.2	22.6	34.4	2.39	19.3	0.498	1.23	2.29	2.98	13.5	19.1	17.5	1.06	10.1	19.5	9.13	51.2	2.93	30.9	26	62.5	26.2	1.38	9.76	22.4	40.4	28.5	14.3	40.4	8.64	22.9	46.2	15.3	16.2	26.4	5.19
+GDCA	179	104	143	1350	753	133	730	147	1120	789	131	614	6.94	57.4	115	732	598	19.6	674	571	4640	643	119	141	120	395	398	162	219	322	411	2930	507	292	116	213	913	71.6	876	78.3	524	145	13.8	677	558	292	423	277	451	59.6	368	1.21	378	213	334	131	196	336	138	2080	50.4	2570	40.6	1140	30.2	150	506	454	453	42.5	543	241	299	34.6	201	421	214	146	99.9	98.9	219	110	375	105	502	598	769	659	87	288	1610	635	590	977	841	147	499	345	186	342	583	161
+GLCA	14.5	11	5.27	283	6.16	ND	25.9	16.6	4.73	51.3	9.67	20.7	ND	0.541	6.01	29.5	57.4	ND	33.7	67.4	126	98.4	4.62	16.2	15.1	48.6	16.6	23.4	59.7	30.6	35.8	124	0.759	8.24	10.2	11.3	77.4	9.56	77.2	ND	ND	1.73	ND	5.98	15.1	22	6.62	0.216	24.2	6.61	20.6	ND	14	14.9	38.5	10.2	6.01	4.44	5.57	72.4	3.89	65.3	0.779	199	4.8	4.79	16.8	15.7	44.2	11.4	12.9	1.13	4.53	2.72	3.89	108	23.4	2.03	ND	ND	8.89	4.06	50.3	0.0446	15.9	44.9	102	18.2	ND	8.42	36	23.6	45.2	5.2	40.7	2.05	54.5	19.2	13.4	68.4	52.4	1.32
+GHDCA	1.84	0.182	0.418	4.58	ND	0.0306	1.33	1.91	ND	3.39	ND	1.06	1.94	ND	0.714	0.6	2.75	0.514	1.51	4.97	17.5	1.09	0.902	2.15	1.91	1.87	2.52	1.29	2.97	2.37	0.0411	3.88	2.1	1.78	1.8	2.15	8.11	1.89	1.79	1.11	ND	0.0138	ND	0.145	3.29	2.47	ND	1.72	2.27	ND	0.744	2.28	12.9	0.409	0.0219	2.14	0.536	3.08	ND	2.27	ND	17.8	ND	8.25	0.551	ND	1.24	3.42	ND	2.59	0.879	4.42	1.01	ND	ND	8.31	0.597	0.982	6.7	0.22	5.31	1.16	2.74	1.29	1.57	4.74	0.613	0.304	ND	1.7	3.12	0.467	3.58	0.272	1.34	ND	3.34	2.66	0.869	2.35	1.91	4.51
+UDCA	22.7	6.88	12.8	7.92	7.11	78.2	6.59	27.1	19	105	33.6	2.83	7.36	8.68	12.5	55	36.4	0.736	5.93	41.2	9.19	6.54	13.6	4.24	10.7	6.08	23.8	16.3	4.81	8.58	8.77	66.1	20.4	28.3	25	22.1	17.8	9.82	27.4	333	39.8	16.5	3.27	7.54	15.8	4.4	20.4	23.8	21.7	7.11	8.87	49.4	4.7	9.51	12.6	6.42	3.22	19.5	1.27	9.34	13.2	51.9	17.3	12	21.8	69.3	6.37	12.3	5.01	5.48	7.88	83.4	49.1	2.47	2.92	27	19.7	4.07	43.8	7.31	26.2	5.99	7.19	11.9	36.2	2.07	6.09	12.2	52.6	5.19	12	6.12	2.65	9.92	25.9	6.28	46.3	2.96	22.3	15.9	14.2	12.9
+TUDCA	6.19	16.4	ND	2.01	8.66	62.2	20.9	9.95	10.2	18.6	2.59	1.18	5.75	3.92	0.178	2.85	2.61	2.5	3.45	5.17	21	19.2	0.523	3.1	3.42	6.38	43.4	3.79	8.97	0.718	1.31	86.2	33.2	3.9	6.09	9.94	18.2	21.9	12.1	30.2	8.73	4	1.94	2.84	11.1	6.13	3.11	23	14.8	1.58	1.84	34.3	5.97	4.34	0.518	6.75	4.08	8.51	0.19	13.9	0.595	50.6	1.48	28.4	0.367	0.919	0.552	22.8	3.82	0.182	3.13	11.1	4.72	0.606	2.23	ND	1.18	7.07	5.1	1.77	5.22	8.28	9.65	4.52	22.4	7.8	29.3	25.3	20	3.47	5.3	19.8	11.4	10.8	5.12	7.49	6.49	43.5	6.2	4.78	6.51	9.76
+GUDCA	37	9.64	13.4	48.1	38.2	208	133	37.9	81.7	136	13.3	18.7	28.9	9.48	13.7	41.2	147	5.82	36.3	87.8	105	109	16.1	24	20.5	16	160	24.3	49.1	15.4	26.6	397	111	54.4	41.1	42	93.1	46.8	104	154	55.9	24.7	5.52	19.1	72.1	56	77.5	193	98.1	9.8	11.2	456	8.42	24.6	31.2	20.6	32.3	115	4.35	85.4	9.59	429	17.8	133	9.59	37.4	24.4	216	32.9	3.8	47	323	73.3	11.7	27.2	14.1	11.7	65.4	49	23.6	59.9	30.9	49	16.1	83.7	71.2	106	96.1	241	36.4	38	76.7	61.9	24.7	24.2	69.5	122	142	63.9	58.8	78.2	23.7
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+CA
+CDCA
+TCA
+TCDCA
+GCA
+GCDCA
+DCA
+TDCA
+TLCA
+GDCA
+GLCA
+GHDCA
+UDCA
+TUDCA
+GUDCA
+METABOLITES_END
+#END

@@ -1,0 +1,390 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000096 ANALYSIS_ID:AN000152
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	A study of changes in lipid metabolism of ovarian cancer cells co-cultured with
+PR:PROJECT_TYPE                  	timecourse study
+PR:PROJECT_SUMMARY               	This West Coast Metabolomics Center pilot and feasibility project was granted
+PR:PROJECT_SUMMARY               	Ernst Lengyel  (University of Chicago). The biology of ovarian cancer
+PR:PROJECT_SUMMARY               	is clearly distinct from that of most epithelial tumors, in that hematogenous
+PR:PROJECT_SUMMARY               	are rare, and ovarian tumors remain confined to the peritoneal cavity. The
+PR:PROJECT_SUMMARY               	a large pad of fat tissue (20x13x3cm) covering the bowel, is the most common
+PR:PROJECT_SUMMARY               	of OvCa metastasis. It consists primarily of adipocytes, which become the
+PR:PROJECT_SUMMARY               	microenvironment for the OvCa cells. The underlying hypothesis for this
+PR:PROJECT_SUMMARY               	is that, in the presence of adipocytes, the metabolism of OvCa cells is
+PR:PROJECT_SUMMARY               	and shifts towards lipid utilization, which provides energy that facilitates
+PR:PROJECT_SUMMARY               	growth and metastasis. Preliminary results suggest that primary human omental
+PR:PROJECT_SUMMARY               	secrete cytokines which promote the metastasis of OvCa cells to the omentum and
+PR:PROJECT_SUMMARY               	subsequent invasion. Once metastasis has occurred, OvCa cells induce lipolysis
+PR:PROJECT_SUMMARY               	omental adipocytes, and use the energy derived from these lipids to
+PR:PROJECT_SUMMARY               	study the metabolic changes in the tumor microenvironment we have established a
+PR:PROJECT_SUMMARY               	organotypic culture of the human omentum using primary human cells established
+PR:PROJECT_SUMMARY               	patient tissue. Metabolic studies will be performed on adipocytes and OvCa
+PR:PROJECT_SUMMARY               	individually, on conditioned media and on adipocytes and OvCa cells co-cultured
+PR:PROJECT_SUMMARY               	our 3D model, with the goal of arriving at a comprehensive analysis of primary
+PR:PROJECT_SUMMARY               	and lipids in the tumor microenvironment. In the current investigation,
+PR:PROJECT_SUMMARY               	analysis of primary metabolites and complex lipids were conducted on adipocytes
+PR:PROJECT_SUMMARY               	OvCa cells individually, on conditioned media and on adipocytes and OvCa cells
+PR:PROJECT_SUMMARY               	in our 3D model. Analysis of oxylipins was conducted on conditioned media. To
+PR:PROJECT_SUMMARY               	better understanding of the dynamic regulation of metabolic pathways we will
+PR:PROJECT_SUMMARY               	perform metabolic flux analysis using labeled cells (13C-glucose,
+PR:PROJECT_SUMMARY               	in the 3D culture model. The primary objective of this study is to gain
+PR:PROJECT_SUMMARY               	into the dynamic interactions between OvCa cells and human adipocytes with the
+PR:PROJECT_SUMMARY               	of elucidating targets of therapeutic intervention. 
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+PR:LABORATORY                    	WCMC Metabolomics Core
+PR:LAST_NAME                     	Fiehn
+PR:FIRST_NAME                    	Oliver
+PR:ADDRESS                       	1315 Genome and Biomedical Sciences Facility,451 Health Sciences Drive, Davis,
+PR:ADDRESS                       	95616
+PR:EMAIL                         	ofiehn@ucdavis.edu
+PR:PHONE                         	(530) 754-8258
+PR:FUNDING_SOURCE                	NIH U24DK097154
+#STUDY
+ST:STUDY_TITLE                   	A study of changes in lipid metabolism of ovarian cancer cells co-cultured with
+ST:STUDY_TITLE                   	UPLC-QTRAP MS analysis
+ST:STUDY_TYPE                    	Timecourse
+ST:STUDY_SUMMARY                 	The study investigated the interaction between omental adipocytes and OvCa
+ST:STUDY_SUMMARY                 	as a follow up to preliminary data indicating this leads to reprograming of
+ST:STUDY_SUMMARY                 	(especially lipid) profiles in both adipocytes and OvCa cells as ovarian cancer
+ST:STUDY_SUMMARY                 	(OvCa) readily metastasize to the omental fat pad in the abdomen and stimulate
+ST:STUDY_SUMMARY                 	release of fatty acids. In order to mimic the interaction between OvCa and
+ST:STUDY_SUMMARY                 	adipocytes during metastasis, a coculture system was used that employed OvCa
+ST:STUDY_SUMMARY                 	and primary human adipocytes isolated from omentum. Human primary adipocytes
+ST:STUDY_SUMMARY                 	isolated from omental explants from patients undergoing surgery for benign
+ST:STUDY_SUMMARY                 	After surgical removal, omental tissue was digested with collagenase I, and
+ST:STUDY_SUMMARY                 	cultures of adipocytes were established, characterized, and incorporated into
+ST:STUDY_SUMMARY                 	co-culture. The primary adipocytes were isolated and co-cultured with the OvCa
+ST:STUDY_SUMMARY                 	line Skov3ip1. In this current submission, the the samples will be collected at
+ST:STUDY_SUMMARY                 	18 and 24 hour time points post co-culture to determine the time dependent
+ST:STUDY_SUMMARY                 	on lipid mediators, including oxylipins and ceramides. The study results
+ST:STUDY_SUMMARY                 	in this DRCC submission were the 18 hour time point data for oxylipins and
+ST:STUDY_SUMMARY                 	from targeted metabolomic analysis of lipid mediators performed by the Newman
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	U.S.D.A. Western Human Nutrition Research Center
+ST:LABORATORY                    	Newman
+ST:LAST_NAME                     	John
+ST:FIRST_NAME                    	Newman
+ST:ADDRESS                       	430 W. Health Sciences Dr., Davis, CA 95616
+ST:EMAIL                         	john.newman@ars.usda.gov
+ST:PHONE                         	+1-530-752-1009
+ST:NUM_GROUPS                    	3
+ST:TOTAL_SUBJECTS                	21
+#SUBJECT
+SU:SUBJECT_TYPE                  	Media (Cells and Adipocytes)
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:CELL_STRAIN_DETAILS           	SKOV3ip1
+SU:SUBJECT_COMMENTS              	p80, p85, p86, p89
+SU:CELL_PASSAGE_NUMBER           	p80, p85, p86, p89
+SU:CELL_COUNTS                   	p80, p85, p86, p89
+SU:SPECIES_GROUP                 	Human
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	Patient_1218	S29A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p94; Patient=1218; JWN ID=LNG-22; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-22.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-22.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-22.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1222	S30A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p96; Patient=1222; JWN ID=LNG-16; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-16.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-16.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-16.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1223	S31A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p96; Patient=1223; JWN ID=LNG-12; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-12.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-12.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-12.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1229	S32A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p98; Patient=1229; JWN ID=LNG-17; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-17.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-17.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-17.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1230	S33A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p81; Patient=1230; JWN ID=LNG-24; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-24.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-24.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-24.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1238	S34A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p100; Patient=1238; JWN ID=LNG-25; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-25.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-25.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-25.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1237	S35A	Sample Type:Adipocyte  | Timepoint:18 hours	SKOV3ip1 passage=p80; Patient=1237; JWN ID=LNG-15; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-15.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-15.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-15.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1171	S17A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p80; Patient=#1171; JWN_ID=A4-S17A; File_name=Lengyal Pilot Oxys2-A4-S17A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1181	S19A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p86; Patient=#1181; JWN_ID=A7-S19A; File_name=Lengyal Pilot Oxys-A7-S19A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1182	S20A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p86; Patient=#1182; JWN_ID=A11-S20A; File_name=Lengyal Pilot Oxys2-A11-S20A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1193	S23A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1193; JWN_ID=B3-S23A; File_name=Lengyal Pilot Oxys2-B3-S23A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1194	S24A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p85; Patient=#1194; JWN_ID=B6-S24A; File_name=Lengyal Pilot Oxys-B6-S24A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1197	S25A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1197; JWN_ID=B9-S25A; File_name=Lengyal Pilot Oxys2-B9-S25A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1198	S26A	Sample Type:Adipocyte  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1198; JWN_ID=B12-S26A; File_name=Lengyal Pilot Oxys2-B12-S26A.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1218	S29C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p94; Patient=1218; JWN ID=LNG-18; LNG-19; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-18.mzML; Lengyal 18 hr Pilot Oxys r-LNG-19.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-18.mzML; Lengyal 18 hr Pilot Endos-LNG-19.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-18.mzML; Lengyal 18 hr Pilot Cer-LNG-19.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1222	S30C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p96; Patient=1222; JWN ID=LNG-14; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-14.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-14.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-14.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1223	S31C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p96; Patient=1223; JWN ID=LNG-21; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-21.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-21.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-21.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1229	S32C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p98; Patient=1229; JWN ID=LNG-28; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-28.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-28.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-28.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1230	S33C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p81; Patient=1230; JWN ID=LNG-9; LNG-10; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-9.mzML; Lengyal 18 hr Pilot Oxys r-LNG-10.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-9.mzML; Lengyal 18 hr Pilot Endos-LNG-10.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-9.mzML; Lengyal 18 hr Pilot Cer-LNG-10.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1238	S34C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p100; Patient=1238; JWN ID=LNG-6; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-6.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-6.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-6.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1237	S35C	Sample Type:Co-culture  | Timepoint:18 hours	SKOV3ip1 passage=p80; Patient=1237; JWN ID=LNG-27; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-27.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-27.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-27.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1171	S17C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p80; Patient=#1171; JWN_ID=A6-S17C; File_name=Lengyal Pilot Oxys2-A6-S17C.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1181	S19C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p86; Patient=#1181; JWN_ID=A9-S19C-1; File_name=Lengyal Pilot Oxys-A9-S19C-1.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1182	S20C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p86; Patient=#1182; JWN_ID=A13-S20C-1; File_name=Lengyal Pilot Oxys2-A13-S20-C-1.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1193	S23C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1193; JWN_ID=B5-S23C; File_name=Lengyal Pilot Oxys2-B5-S23C.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1194	S24C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p85; Patient=#1194; JWN_ID=B8-S24C; File_name=Lengyal Pilot Oxys-B8-S24C.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1197	S25C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1197; JWN_ID=B11-S25C; File_name=Lengyal Pilot Oxys2-B11-S25C.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1198	S26C	Sample Type:Co-culture  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1198; JWN_ID=B14-S26C-1; File_name=Lengyal Pilot Oxys2-B14-S26C-1.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1218	S29B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p94; Patient=1218; JWN ID=LNG-20; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-20.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-20.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-20.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1222	S30B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p96; Patient=1222; JWN ID=LNG-23; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-23.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-23.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-23.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1223	S31B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p96; Patient=1223; JWN ID=LNG-13; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-13.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-13.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-13.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1229	S32B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p98; Patient=1229; JWN ID=LNG-26; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-26.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-26.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-26.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1230	S33B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p81; Patient=1230; JWN ID=LNG-11; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-11.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-11.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-11.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1238	S34B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p100; Patient=1238; JWN ID=LNG-7; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-7.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-7.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-7.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1237	S35B	Sample Type:Control  | Timepoint:18 hours	SKOV3ip1 passage=p80; Patient=1237; JWN ID=LNG-8; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-8.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-8.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-8.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1171	S17B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p80; Patient=#1171; JWN_ID=A5-S17B; File_name=Lengyal Pilot Oxys-A5-S17B.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1181	S19B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p86; Patient=#1181; JWN_ID=A8-S19B; File_name=Lengyal Pilot Oxys2-A8-S19B.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1182	S20B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p86; Patient=#1182; JWN_ID=A12-S20B; File_name=Lengyal Pilot Oxys2-A12-S20B.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1193	S23B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1193; JWN_ID=B4-S23B; File_name=Lengyal Pilot Oxys-B4-S23B.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1194	S24B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p85; Patient=#1194; JWN_ID=B7-S24B; File_name=Lengyal Pilot Oxys2-B7-S24B.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1197	S25B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1197; JWN_ID=B10-S25B; File_name=Lengyal Pilot Oxys2-B10-S25B.mzML
+SUBJECT_SAMPLE_FACTORS           	Patient_1198	S26B	Sample Type:Control  | Timepoint:4 hours	SKOV3ip1 passage=p89; Patient=#1198; JWN_ID=B13-S26B; File_name=Lengyal Pilot Oxys2-B13-S26B.mzML
+SUBJECT_SAMPLE_FACTORS           	-	Media blank	Sample Type:Media blank | Timepoint:4 hours	SKOV3ip1 passage=Media blank; Patient=Media blank; JWN_ID=Media blank; File_name=Lengyal Pilot Oxys-A3-Blank Med.mzML
+SUBJECT_SAMPLE_FACTORS           	-	Blank media	Sample Type:Media blank | Timepoint:NA	SKOV3ip1 passage=; Patient=; JWN ID=LNG-3; LNG-4; LNG-5; File name (Oxylipin data)=Lengyal 18 hr Pilot Oxys r-LNG-3.mzML; Lengyal 18 hr Pilot Oxys r-LNG-4.mzML; Lengyal 18 hr Pilot Oxys r-LNG-5.mzML; File name (Ceramide data)=Lengyal 18 hr Pilot Endos-LNG-3.mzML; Lengyal 18 hr Pilot Endos-LNG-4.mzML; Lengyal 18 hr Pilot Endos-LNG-5.mzML; File name (Endocannabinoid data)=Lengyal 18 hr Pilot Cer-LNG-3.mzML; Lengyal 18 hr Pilot Cer-LNG-4.mzML; Lengyal 18 hr Pilot Cer-LNG-5.mzML
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Samples were collected at 18 hours post co-culture
+CO:COLLECTION_PROTOCOL_FILENAME  	Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Ceramide_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Enpdfannabinoid_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf;Newman_Lab_Ceramide_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf
+CO:SAMPLE_TYPE                   	Media
+CO:STORAGE_CONDITIONS            	-80 C
+#TREATMENT
+TR:TREATMENT_SUMMARY             	The study investigated the interaction between omental adipocytes and OvCa
+TR:TREATMENT_SUMMARY             	as a follow up to preliminary data indicating this leads to reprograming of
+TR:TREATMENT_SUMMARY             	(especially lipid) profiles in both adipocytes and OvCa cells as ovarian cancer
+TR:TREATMENT_SUMMARY             	(OvCa) readily metastasize to the omental fat pad in the abdomen and stimulate
+TR:TREATMENT_SUMMARY             	release of fatty acids. In order to mimic the interaction between OvCa and
+TR:TREATMENT_SUMMARY             	adipocytes during metastasis, a coculture system was used that employed OvCa
+TR:TREATMENT_SUMMARY             	and primary human adipocytes isolated from omentum. Human primary adipocytes
+TR:TREATMENT_SUMMARY             	isolated from omental explants from patients undergoing surgery for benign
+TR:TREATMENT_SUMMARY             	After surgical removal, omental tissue was digested with collagenase I, and
+TR:TREATMENT_SUMMARY             	cultures of adipocytes were established, characterized, and incorporated into
+TR:TREATMENT_SUMMARY             	co-culture. The primary adipocytes were isolated and co-cultured with the OvCa
+TR:TREATMENT_SUMMARY             	line Skov3ip1. In this current submission, the the samples will be collected at
+TR:TREATMENT_SUMMARY             	18 and 24 hour time points post co-culture to determine the time dependent
+TR:TREATMENT_SUMMARY             	on lipid mediators, including oxylipins and ceramides. The study results
+TR:TREATMENT_SUMMARY             	in this DRCC submission were the 18 hour time point data for oxylipins and
+TR:TREATMENT_PROTOCOL_FILENAME   	Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Ceramide_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Enpdfannabinoid_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf;Newman_Lab_Ceramide_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf
+TR:CELL_STORAGE                  	-80 C
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	See sample prep protocol file
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Ceramide_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Enpdfannabinoid_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf;Newman_Lab_Ceramide_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf
+SP:PROCESSING_STORAGE_CONDITIONS 	- 20 °C
+SP:EXTRACTION_METHOD             	SPE
+SP:EXTRACT_CONCENTRATION_DILUTION	250 µL
+SP:EXTRACT_CLEANUP               	SPE
+SP:EXTRACT_STORAGE               	- 20 °C
+SP:SAMPLE_RESUSPENSION           	100 µL
+SP:SAMPLE_SPIKING                	See sample prep protocol file
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Oxylipin analysis
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+CH:METHODS_FILENAME              	Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_18hr.pdf;Newman_Lab_Oxylipin_Extraction_&_Analysis_Protocol_Lengyel_WCMC_P&F_4hr.pdf
+CH:COLUMN_TEMPERATURE            	60 C
+CH:FLOW_GRADIENT                 	See protocol/methods file
+CH:FLOW_RATE                     	0.25
+CH:INTERNAL_STANDARD             	See protocol/methods file
+CH:RETENTION_TIME                	See protocol/methods file
+CH:SAMPLE_INJECTION              	5 L
+CH:SOLVENT_A                     	0.1% acetic acid
+CH:SOLVENT_B                     	90% ACN / 10% IPA
+CH:ANALYTICAL_TIME               	16 min
+CH:WEAK_WASH_SOLVENT_NAME        	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME              	600 L
+CH:STRONG_WASH_SOLVENT_NAME      	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME            	600 L
+CH:SAMPLE_LOOP_SIZE              	17 L
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Newman
+AN:ACQUISITION_DATE              	41732
+AN:SOFTWARE_VERSION              	AB Sciex Analyst version 1.6.2
+AN:OPERATOR_NAME                 	Michael La Frano
+AN:DETECTOR_TYPE                 	API 4000 QTrap (AB Sciex, Framingham, MA, USA)
+AN:DATA_FORMAT                   	.mzML
+#MS
+MS:INSTRUMENT_NAME               	Waters Acquity UPLC (Waters)
+MS:INSTRUMENT_TYPE               	Q-TRAP
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+MS:MS_COMMENTS                   	Oxylipins analysis
+MS:ION_SOURCE_TEMPERATURE        	See protocol/methods file
+MS:ION_SPRAY_VOLTAGE             	See protocol/methods file
+MS:MS_COMMENTS                   	Oxylipins analysis
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Area %
+MS_METABOLITE_DATA_START
+Samples	S29A	S29A	S29A	S30A	S30A	S30A	S31A	S31A	S31A	S32A	S32A	S32A	S33A	S33A	S33A	S34A	S34A	S34A	S35A	S35A	S35A	S17A	S17A	S17A	S19A	S19A	S19A	S20A	S20A	S20A	S23A	S23A	S23A	S24A	S24A	S24A	S25A	S25A	S25A	S26A	S26A	S26A	S29C	S29C	S29C	S30C	S30C	S30C	S31C	S31C	S31C	S32C	S32C	S32C	S33C	S33C	S33C	S34C	S34C	S34C	S35C	S35C	S35C	S17C	S17C	S17C	S19C	S19C	S19C	S20C	S20C	S20C	S23C	S23C	S23C	S24C	S24C	S24C	S25C	S25C	S25C	S26C	S26C	S26C	S29B	S29B	S29B	S30B	S30B	S30B	S31B	S31B	S31B	S32B	S32B	S32B	S33B	S33B	S33B	S34B	S34B	S34B	S35B	S35B	S35B	S17B	S17B	S17B	S19B	S19B	S19B	S20B	S20B	S20B	S23B	S23B	S23B	S24B	S24B	S24B	S25B	S25B	S25B	S26B	S26B	S26B	Media blank	Media blank	Media blank	Blank media	Blank media	Blank media
+Factors	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:18 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Adipocyte  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:18 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Co-culture  | Timepoint:4 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:18 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Control  | Timepoint:4 hours	Sample Type:Media blank | Timepoint:4 hours	Sample Type:Media blank | Timepoint:4 hours	Sample Type:Media blank | Timepoint:4 hours	Sample Type:Media blank | Timepoint:NA	Sample Type:Media blank | Timepoint:NA	Sample Type:Media blank | Timepoint:NA
+11_12_15-THET	2.9200	1.2300	3.1000	0.9960	0.8760	2.9100	0.9720								2.9700	2.9200	6.6400	2.4800	2.0700	4.7600	2.8800								0.2240	0.1010	0.1090	0.1460	0.2970	0.2220	0.1090									0.0528
+11_12-DiHETrE	0.2110	0.0988	0.2640	0.1210	0.1180	0.2700	0.1600								0.0928	0.0844	0.4360	0.1100	0.0644	0.1090	0.2590								0.0106	0.0095	0.0083	0.0070	0.0133	0.0152	0.0298									0.0048
+11(12)-EpETE																																												
+11(12)-EpETrE	0.0194	0.2230	0.1590	0.2320	0.0312	0.2540	0.1160								0.0126	0.0322	0.1010	0.0031	0.0316	0.0150	0.0234								0.0060	0.0178	0.0031	0.0065	0.0033	0.0056	0.0014									0.0108
+11(12)-EpETrE_1								0.1144	0.6480	0.0093	0.0760	0.1472	0.1952									0.1880	0.2420	0.0273	0.0028	0.0357	0.1076	0.0280									0.1144	0.0568	0.0728	0.1204	0.0061	0.0394	0.0556	
+11-HETE	0.1830	0.3740	0.7520	0.3860	0.1700	1.2200	0.4680								0.0896	0.0596	0.4160	0.0508	0.0378	0.0816	0.0832								0.0193	0.0136	0.0202	0.0113	0.0186	0.0179	0.0133									0.0277
+11-HETE_1								0.0648	0.9760	0.0010	0.1828	0.2040	0.4040	0.0428								0.5200	0.7066	0.0164	0.0496	0.1124	0.3656	0.0644								0.1588	0.2916	0.2304	0.1644	0.5040	0.1672	0.3340	0.2608	
+12_13-DiHODE																																												
+12_13-DiHOME	0.1760	0.3470	4.9600	1.2800	0.7040	1.3200	0.7200								0.2450	0.1710	1.3900	0.1480	0.1800	0.1910	0.3660								0.0225	0.0284	0.0222	0.0432	0.0300	0.4600	0.0162									0.0606
+12_13-DiHOME_1								0.2804	0.4840	0.0848	0.3648	0.6080	0.4120	0.1016								0.1932	0.3620	0.0406	0.1000	0.2180	0.3536	0.1106								0.0476	0.5520	0.0424	0.0436	0.1676	0.0480	0.1384	0.0308	
+12(13)-Ep-9-KODE	4.2800	4.6000	8.0800	2.3600	4.8400	5.6400	2.9900								3.4700	1.5300	5.3600	0.7640	2.0000	3.8500	2.2200								0.1500	0.0632	0.2670	0.1150	0.1880	0.3690	0.1220									0.1040
+12(13)-Ep-9-KODE_1								0.7480	1.6760	0.3080	0.7360	1.2760	1.8520	1.8080								0.2884	1.4960	0.7080	1.1480	1.0160	2.5240	1.7360								0.1768	0.2492	0.4320	0.1820	0.3980	0.1628	0.5760	0.1460	
+12(13)-EpODE	0.0153	0.0204	0.5600	0.1330	0.0212	0.1250	0.0385								0.0128	0.0144	0.0756	0.0047	0.0077	0.0005	0.0221								0.0074	0.0081	0.0058	0.0032	0.0024	0.0004	0.0004									0.0008
+12(13)-EpOME	0.3160	0.8320	8.4000	3.0800	0.8640	2.4500	1.1000								0.1990	0.1500	1.8500	0.1800	0.1010	0.2090	0.1010								0.0174	0.1170	0.0892	0.0134	0.0179	0.3670	0.0120									0.0770
+12(13)-EpOME_1								1.0240	3.3880	0.0988	0.6640	1.5840	1.9080	0.2148								0.5120	0.9580	0.1382	0.2888	0.1180	0.4920	0.1778								0.1836	0.1232	0.2704	0.0416	0.2532	0.0752	0.2148	0.1276	
+12-HEPE	0.0620	0.1960	0.3140	0.1120	0.0780	0.1710	0.1040								0.0608	0.0788	0.1940	0.0572	0.0614	0.0860	0.0668								0.0692	0.0628	0.0664	0.0672	0.0608	0.0640	0.0612									0.0711
+12-HETE	0.1200	0.9560	4.1600	0.9720	0.1990	3.0000	1.6700								0.1390	0.1410	2.8000	0.2300	0.1770	0.2900	0.4280								0.0852	0.0464	0.0844	0.0154	0.1050	0.0756	0.0964									0.0053
+12-HETE_1								2.0320	15.1200	0.2132	1.6280	1.0280	2.4120	0.0852								1.9240	9.3200	0.0802	0.3920	0.2692	1.4560	0.1462								0.2856	0.6680	0.3864	0.2900	0.4960	0.2644	0.9440	0.3012	
+12-HpETE	1.8100	15.0000	12.8000	18.4000	4.9000	8.2000	10.2000								3.6300	6.3800	2.8700	0.0336	0.0960	2.3800	2.2800								3.3300			0.0150		2.7100										4.9400
+12-HpETE_1								52.8000	115.6000	38.3200	75.2000	108.0000	60.4000	36.6800								154.4000	137.0000	27.6200	90.4000	91.6000	10.2000	119.6000								86.8000	70.8000	91.2000	7.4800	11.1200	123.2000	130.8000	0.9400	
+13-HODE	6.7600	15.8000	150.0000	22.4000	9.0800	48.0000	19.9000								3.7600	3.5900	23.1000	2.3100	2.5200	4.5600	4.8800								0.6400	0.2500	0.2660	0.9040	0.0299	0.1950	0.3520									1.8300
+13-HODE_1								9.7200	165.6000	2.1120	18.7600	9.2400	58.0000	4.9600								6.1200	85.8000	1.7620	3.9360	4.6800	20.7600	2.1800								3.4960	1.6440	2.7200	2.1120	3.1280	2.7440	7.4000	2.6360	
+13-HOTE	0.0588	0.3540	8.2400	0.3730	0.2120	1.2800	0.3550								0.0369	0.0363	0.9440	0.0382	0.0960	0.0980	0.0560								0.0356	0.0106	0.0684	0.0389	0.0051	0.0059	0.0360									0.0582
+13-HpODE	2.0800	4.8100	24.5000	29.8000	3.0700	9.7100	8.2600								0.7830	2.5900	6.0700	0.3330	0.8150	0.4550	0.9360								0.9650	0.7280	0.7570	0.8380	0.7920	0.2450	0.7050									0.7430
+13-HpODE_1								436.0000	1072.0000	61.6000	254.4000	372.0000	400.0000	100.4000								116.4000	222.4000	102.4000	74.8000	364.4000	492.0000	87.0400								59.6000	217.2000	112.0000	97.6000	155.6000	98.0000	101.2000	16.1600	
+13-KODE	2.5500	3.1600	10.2000	2.3100	1.6400	4.3200	1.3000								0.6220	1.1900	2.5600	0.5520	0.6340	0.9480	0.5440								0.0836	0.0082	0.1530	0.0800	0.0312	0.2540	0.5000									0.3790
+13-KODE_1								0.3452	4.3200	0.1416	1.0720	0.9640	1.6920	0.4080								0.1476	1.2880	0.4322	0.8240	0.7880	0.4960	0.3132								0.4920	0.2496	0.1968	0.5080	0.2912	0.4040	0.6840	0.1972	
+14_15-DiHETE	0.0584	0.3430	0.2960	0.1160	0.0880	0.2100	0.1220								0.1280	0.1070	0.5040	0.0988	0.0382	0.2080	0.0876								0.1070	0.0536	0.0198	0.0381	0.0708	0.1320	0.0277									0.1100
+14_15-DiHETrE	0.0488	0.1040	0.3670	0.1630	0.0776	0.2600	0.1860								0.0287	0.0560	0.5960	0.0500	0.0285	0.0700	0.1080										0.0043		0.0107	0.0069	0.0020									
+14(15)-EpETE	0.0532	0.0492	0.0282	0.0492	0.0295	0.0269	0.0285								0.0935	0.0322	0.0816	0.0274	0.1320	0.0264	0.0346								0.0372	0.1490	0.0568	0.0096	0.1150	0.0748	0.1280									0.0615
+14(15)-EpETrE		0.0924	0.0816	0.0612		0.1320	0.0306										0.0092																											
+14-HDoHE	0.0293	0.2500	0.8640	0.2830	0.0528	0.2100	0.1930								0.0562	0.0576	0.1780	0.0824	0.0542	0.0776	0.0358								0.0310	0.0636	0.0351	0.0736	0.0332	0.0604	0.0744									0.0505
+15_16-DiHODE	0.4120	0.7120	7.4400	1.9900	3.6400	1.7800	2.1000								0.2700	0.2160	8.5600	0.2560	0.6900	0.4240	1.2900								0.0992	0.0282	0.0018	0.0532	0.0369	0.0684	0.0840									0.0298
+15(16)-EpODE	0.0091	0.0540	2.0400	0.6960	0.1600	0.3850	0.1500								0.0250	0.0270	0.3180	0.0278	0.0213	0.0052	0.0330								0.0015	0.0180			0.0046	0.0083	0.0035									0.0105
+15-deoxy PGJ2	0.1120	0.0251	0.0600	0.0343	0.0436	0.0804	0.0496								0.1540	0.0239	0.1510	0.1220	0.0734	0.1280	0.0820								0.0492	0.0448	0.0373	0.0408	0.0480	0.0181	0.0240									0.0228
+15-HEPE	0.1020	0.4480	0.6120	0.2610	0.1280	0.3770	0.1740								0.0981	0.1630	0.2420	0.1250	0.1320	0.1080	0.1340								0.1020	0.1120	0.1330	0.0984	0.1140	0.1060	0.1020									0.1000
+15-HEPE_1								0.0528	1.5400	0.0150	0.1656	0.1332	0.3204									0.2812	1.7460	0.0355	0.0404	0.1184	0.3268	0.0594								0.0844	0.0720	0.0524	0.0584	0.1888	0.0536	0.1584	0.0375	
+15-HETE	0.4080	2.3300	7.0000	4.6000	0.8400	7.9200	2.2900								0.3100	0.2090	1.4200	0.1860	0.0879	0.3850	0.3940								0.0369	0.0496	0.0444	0.0496	0.0460	0.0314	0.0440									0.0411
+15-HETE_1								1.9680	39.9200	0.6400	4.6400	1.8360	8.6800	0.4520								1.5080	16.4000	0.1498	0.6840	0.3192	2.0840	0.2036								0.2432	0.3160	0.4240	0.1796	0.6480	0.3108	0.7760	0.2464	
+15-HETrE	0.1060	0.6600	8.3600	1.5800	0.5080	4.3200	1.1700								0.0751	0.1370	1.8500	0.1840	0.1160	0.3560	0.3880								0.0432	0.0318	0.0353		0.0159	0.0051	0.0134									0.0162
+15-HETrE_1								0.1712	4.2800	0.1472	1.3480	0.6320	1.2440	0.1744								0.3132	2.3560	0.1070	0.3280	0.2200	0.7360	0.1592								0.0764	0.1788	0.1796	0.0608	0.3200	0.2276	0.2044	0.1008	
+15-HpETE	3.1200	11.5000	3.5300	16.3000	2.5900	19.8000	4.8500								3.4500	3.7300	5.6200	1.5200	1.9500	4.1500	3.2600								0.2840	5.5300	0.7200	1.3700	2.0500	1.9300	1.2800									1.3800
+15-HpETE_1								484.0000	612.0000	92.0000	122.0000	263.6000	536.0000	107.2000								207.6000	254.6000	77.8000	40.8000	60.0000	209.6000	92.8000								99.6000	137.6000	180.8000	64.0000	80.8000	89.2000	242.8000	0.0000	
+15-KETE	0.1510	0.3320	0.2950	0.2650	0.1650	0.3310	0.2980								0.1950	0.1640	0.1140	0.1450	0.1000	0.0325	0.1560								0.0644	0.0644	0.1870	0.1780		0.0098	0.0692									0.0025
+16(17)-EpDPE																																												
+17_18-DiHETE	0.2650	0.2880	0.3640	0.2530	0.2270	0.1540	0.0932								0.1200	0.7200	1.2500	0.5720	0.4880	0.3950	0.5720								0.5200	0.3190	0.3520	0.2260	0.2470	0.3060	0.3430									0.0894
+17(18)-EpETE																																												
+17-HDoHE		0.6240	0.9840	0.4480	0.0880	0.8760	0.1350									0.0428	0.0928		0.0165	0.0800	0.0304								0.0197	0.0272	0.0342	0.0216	0.0084	0.0552										
+19_20-DiHDoPA	0.0317	0.0332	0.0484	0.0249	0.0397	0.0385	0.0238								0.0239	0.0576	0.0976	0.0468	0.0438	0.0460	0.0744								0.0444	0.0456	0.0302	0.0300	0.0408	0.0416	0.0344									0.0103
+19(20)-EpDPE																																												
+20-carboxy-LTB4																																												
+20-HETE																																												
+20-hydroxy-LTB4																																												
+4-HDoHE																																												
+4-HDoHE_1								0.2472	0.1396	0.0992	0.2728	0.0524	0.2748	0.0908								0.5960	0.3780	0.1402	0.3056	0.0177	0.8560	0.0928								0.1916	0.4040	0.1844	0.2476	1.3480	0.8000	0.5320	0.5680	
+5_15-DiHETE	0.0472	0.0512	0.1220	0.0860	0.0424	0.1700	0.0680								0.0334	0.0284	0.0772	0.0166	0.0185	0.0303	0.0220								0.0266		0.0090	0.0246	0.0120											0.0162
+5_6-DiHETrE	0.0448	0.1470	0.1800	0.1240	0.0444	0.1870	0.1410								0.0030	0.0068	0.0366		0.0044		0.0073									0.0093			0.0028	0.0041										0.0010
+5-HEPE	0.1320	0.6480	0.1420	0.3600	0.2260	0.2780	0.3590								0.0596	0.0876	0.1030	0.0608	0.0740	0.0884	0.0724								0.0516	0.0752	0.0660	0.0404	0.0444	0.0656	0.0381									0.3140
+5-HETE	1.0600	2.3900	2.1600	3.5000	1.5900	5.2000	4.6000								0.2600	0.2850	0.5880	0.2340	0.2070	0.4960	0.5400								0.0828	0.0828	0.1280	0.1040	0.1260	0.1700	0.1280									1.1400
+5-HETE_1								0.5520	1.4280	0.1936	1.5360	0.5400	1.5280	0.2416								2.3880	1.8740	0.1848	0.2348	0.2204	1.9240	0.3384								0.8720	1.8560	1.4120	1.3360	3.7320	1.0520	1.2880	3.5960	
+5-HpETE	5.1600	1.7000	3.0900	5.0800	3.8700	6.2300	3.5000								4.5000	7.6200	4.1000	4.8700	3.7400	6.3300	2.1900								2.4400	7.0900	5.6700	1.8800	6.7600	4.4900	3.9500									5.7400
+5-KETE	0.2400	0.6600	0.3820	0.3320	0.1850	0.7560	0.5160								0.0668	0.0588	0.2080	0.0408	0.0024	0.0564	0.0660								0.0043	0.0146	0.0037		0.0048	0.0162	0.0184									0.0364
+5-KETE_1								0.0374	0.4440	0.0828	0.1808	0.1344	0.3584	0.1004								0.4160	0.3448	0.0638	0.0684	0.0964	0.4400	0.0786								0.0812	0.3336	0.2932	0.1772	0.5560	0.2908	0.2104	0.2720	
+6-keto PGF1a	2.0400	0.2490	2.9000		0.2640	4.2000	0.3580								4.8600	0.4080	7.5600	0.0696	0.4840	3.8500	0.7480																							
+6-keto PGF1a_1								0.0760	1.2960	0.1804	0.4080	1.4040	0.3580	1.3400								0.0528	0.9620	0.1388	0.8520	1.5440	1.0360	1.0080								0.0331	0.1688	0.1224	0.0028	0.0302	0.1620	0.1272	0.0768	
+6-trans-LTB4	0.1850	0.2030	0.1950	0.1860	0.1470	0.1320	0.1920								0.1500	0.1750	0.1500	0.1280	0.1410	0.1650	0.1480								0.1520	0.1450	0.1320	0.1380	0.1390	0.1540	0.1360									0.1530
+8_15-DiHETE																																												
+8_9-DiHETrE	0.0400	0.0448	0.2800	0.1140	0.0223	0.1800	0.1040								0.0188	0.0347	0.0888	0.0544	0.0388	0.0247	0.0379								0.0152			0.0033	0.0504	0.0044	0.0037									
+8(9)-EpETrE	0.0350	0.0732		0.0376		0.0628	0.0452								0.0778	0.1750			0.2170		0.0079								0.1690		0.1790	0.0536	0.0398	0.0099										0.1160
+8-HETE	0.2740	0.2380	0.5600	0.3270	0.0852	0.6440	0.3840								0.0085	0.0221	0.4880		0.0562	0.0130	0.2020									0.0291		0.0265	0.0069	0.0089	0.0212									0.0155
+8-HETE_1								0.0225	0.3204	0.0592	0.0644	0.1312	0.2372	0.0452								0.6320	0.6906	0.0720	0.0548	0.1316	0.5200	0.1326								0.0668	0.5000	0.3444	0.1416	0.7440	0.0868	0.4080	0.2216	
+9_10-13-TriHOME	50.8000	16.0000	64.4000	13.3000	43.6000	72.4000	33.4000								93.0000	114.0000	235.0000	74.0000	126.0000	188.0000	180.0000								1.7100	2.8000	2.9700	3.0400	3.4500	2.4400	2.7300									0.3830
+9_10-13-TriHOME_1								0.9760	2.9360	1.0640	5.9600	5.9600	3.0960	14.2000								1.1760	12.1800	3.2240	22.3600	13.3200	57.6000	24.0400								0.6480	1.1520	1.1000	0.9760	1.5840	1.9240	2.6960	0.2336	
+9_10-DiHODE	0.0179	0.0247	0.3040	0.0524	0.0488	0.0648	0.0584								0.0151	0.0028	0.0688	0.0062	0.0113	0.0129	0.0101								0.0040	0.0072	0.0105	0.0025	0.0047	0.0082	0.0062									0.0069
+9_10-DiHOME	2.9700	4.3200	31.7000	9.0000	9.7200	13.0000	8.1200								2.2200	1.5900	8.9200	0.8640	1.5700	1.7400	2.4300								0.4040	0.2460	0.1980	0.2600	0.3270	5.3200	0.2970									0.3270
+9_10-DiHOME_1								2.7360	8.3200	0.6080	3.6920	5.6000	2.1560	1.3160								1.1120	2.1200	0.4132	0.9960	0.9760	1.3960	0.6440								0.5360	0.3868	0.4200	0.2524	0.3800	0.1208	1.3880	0.2336	
+9(10)-EpODE	0.0444	0.1040	2.0100	0.5200	0.1060	0.3920	0.1460								0.0359	0.0258	0.3180	0.0319	0.0198	0.0217	0.0210								0.0174	0.0084	0.0231	0.0154	0.0258	0.0135	0.0173									0.0173
+9(10)-EpOME	0.2390	0.6280	7.5200	2.2800	0.6000	2.2200	0.8280								0.2040	0.1730	1.2500	0.1260	0.1560	0.1040	0.1760								0.0044	0.0289	0.0212	0.0644	0.0256	0.3240	0.0416									0.0497
+9(10)-EpOME_1								1.0840	2.7480	0.1196	0.5280	1.2800	1.8880	0.1740								0.4680	0.7440	0.1768	0.1288	0.1324	0.3900	0.0872								0.1224	0.1780	0.1868	0.0172	0.2728	0.1880	0.0572	0.0780	
+9_12_13-TriHOME	13.7000	5.0000	17.8000	3.7900	12.8000	18.9000	9.3200								26.1000	30.2000	61.6000	19.2000	32.6000	46.0000	45.2000								0.5240	0.7800	0.7440	0.8360	0.8840	0.7280	0.6880									0.0989
+9_12_13-TriHOME_1								0.5360	0.9160	0.5160	2.1000	2.0160	0.9360	4.2400								0.6720	2.8580	0.9680	6.6000	3.4200	12.9600	6.5800								0.2196	0.4600	0.3552	0.2308	0.4360	0.4880	0.7840	0.0492	
+9-HEPE																																												
+9-HETE	0.0880	0.1120	0.2240	0.1380	0.0716	0.3170	0.2250								0.0266	0.0324	0.0282	0.0540	0.0368	0.0640	0.0680								0.0092	0.0316	0.0311	0.0175	0.0464	0.0436	0.0448									0.0394
+9-HETE_1								0.0420	0.2364	0.1388	0.0468	0.1056	0.2656	0.0680								1.0880	0.7290	0.0708	0.0154	0.0728	0.5880	0.1854								0.1216	0.5800	0.4600	0.2268	1.3080	0.2896	0.4440	0.4120	
+9-HODE	3.6700	7.5600	45.6000	8.2400	4.7600	17.2000	7.9600								0.9610	0.0252	2.9800	0.1570	0.2230	0.4760	0.8240								0.0428			0.2000												0.3510
+9-HODE_1								1.3080	10.5600	0.8600	2.4360	2.6240	8.6400	1.9840								0.9080	3.3720	0.6282	0.7560	1.1120	1.7240	0.7758								1.3720	1.1400	1.4480	0.9480	1.1120	0.9000	2.3600	1.3280	
+9-HOTE	0.0432	0.1770	2.6400	0.3480	0.1620	0.4240	0.2130								0.0328	0.0140	0.1460	0.0312	0.0175		0.0337								0.0181		0.0032	0.0135		0.0003										0.0242
+9-HpODE	1.5300	5.3100	29.9000	29.6000	3.1700	11.0000	8.2400								0.9280	0.9490	6.4100	0.7750	0.3530	0.1560	0.9290								0.0412		0.1300	0.4210	0.0283	0.1250										
+9-HpODE_1								1560.0000	3192.0000	239.2000	1028.0000	1384.0000	2460.0000	323.2000								365.6000	824.0000	153.9480	456.0000	234.4000	616.0000	206.0000								203.6000	93.6000	397.6000	192.8000	155.2000	120.0000	324.4000	2.3880	
+9-KODE	2.5000	4.2400	10.8000	3.2500	2.1300	5.5600	3.1200								0.7460	0.5720	2.3500	0.1500	0.4800	0.4960	0.7000								0.0408	0.1480	0.0275	0.1030	0.1530	0.1460	0.0054									0.3030
+9-KODE_1								0.5880	3.0600	0.3368	0.9200	1.5280	1.6760	0.9920								0.2288	1.6380	0.2220	0.4400	0.4320	0.6560	0.5240								0.2552	0.3112	0.2920	0.0624	0.4400	0.1328	0.9520	0.1380	
+Lipoxin A4	2.6300	1.2500	1.2200	2.5000	2.0200	4.6000	5.1600								0.6440	0.3290	0.8480	0.3250	0.3730	1.1100	1.9600								0.0456	0.0860	0.0904	0.0860	0.1070	0.0640	0.0704									0.3040
+LTB4																																												
+LTB5																																												
+PGD2	0.9360	0.2070	0.7760	0.3200	0.2980	1.2600	0.5480								3.1600	1.0400	2.4500	1.5900	1.7400	3.2600	1.9800								0.1900	0.2940	0.3230	0.3540	0.5040	0.2900	0.1880									0.0511
+PGD2_1								0.0242	0.2568	0.0214	0.0944	0.1336	0.0242	0.1384								0.0416	0.2062	0.0742	0.2648	0.2436	0.5080	0.3142								0.0400	0.0181	0.0944	0.0684	0.0980	0.1884	0.1156	0.0026	
+PGE1	0.2600	0.0836	0.5320	0.0636	0.1240	0.3600	0.1410								0.4600	0.2170	1.2900	0.2330	0.3490	0.5200	0.3000								0.0250	0.1060	0.0956	0.1150	0.1460	0.0976	0.0840									0.0138
+PGE2	2.4300	0.9560	3.1000	0.3220	0.3960	2.4200	0.3460								5.7200	0.9680	7.9200	0.4480	0.7200	1.8400	0.8000								0.3960	0.3710	0.3970	0.3540	0.3810	0.4040	0.3400									0.4270
+PGE2_1								0.2520	0.8680	0.3420	0.3600	0.2956	0.4280	0.4400								0.2680	0.6440	0.3510	0.4760	0.3824	0.5760	0.4480								0.1508	0.3100	0.2032	0.1676	0.3668	0.3132	0.2160	0.2048	
+PGE3	0.0107	0.0188	0.0215	0.0144	0.0094	0.0275	0.0156								0.0206	0.0700	0.0394	0.0748	0.0634	0.0508	0.0520								0.0090	0.0448	0.0336	0.0344	0.0420	0.0280	0.0087									0.0019
+PGF2a	0.9840	2.2200	1.1800	0.2120	0.3100	2.4800	0.5040								1.4100	0.5840	1.6000	0.4680	0.4530	0.8360	0.6760								0.1220	0.1300	0.1240	0.0708	0.2440	0.0640	0.0972									0.0566
+PGF2a_1								0.0580	0.1632	0.0520	0.1408	0.1304	0.0740	0.0508								0.0844	0.2048	0.0351	0.0416	0.2016	0.1256	0.1386								0.0302	0.0456	0.0278	0.0648		0.1228		0.0084	
+PGJ2/ d 12-PGJ2	0.1550	0.0756	0.1550	0.1240	0.1040	0.2930	0.1590								0.1160	0.1240	0.1840	0.0924	0.1320	0.2680	0.1320								0.0468	0.0456	0.0484	0.0928	0.0552	0.0836	0.1020									0.0869
+Resolvin D1																																												
+Resolvin E1																																												
+TXB2	0.3620	0.1560	1.1300	0.0308	0.1380	0.5880	0.1400								0.5160	0.2130	1.5600	0.1280	0.1670	0.5080	0.2460								0.0217	0.0161	0.0202	0.0256	0.0079	0.0306	0.0393									0.0117
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+11,12,15-THET								
+11,12-DiHETrE				5283146			HMDB02314	UCDavis_Newman_ID
+11(12)-EpETE				16061087				
+11(12)-EpETrE				5283204			HMDB10409	UCDavis_Newman_ID
+11-HETE				14123410			HMDB04682	UCDavis_Newman_ID
+12,13-DiHODE				16061067			HMDB10201	UCDavis_Newman_ID
+12,13-DiHOME				10236635			HMDB04705	UCDavis_Newman_ID
+12(13)-Ep-9-KODE							HMDB13623	UCDavis_Newman_ID
+12(13)-EpODE				16061054			HMDB10200	UCDavis_Newman_ID
+12(13)-EpOME				5356421			HMDB04702	UCDavis_Newman_ID
+12-HEPE				10041593			HMDB10202	UCDavis_Newman_ID
+12-HETE				13786989			HMDB06111	UCDavis_Newman_ID
+12-HpETE							HMDB04243	UCDavis_Newman_ID
+13-HODE				5282948			HMDB04667	UCDavis_Newman_ID
+13-HOTE				10469728			HMDB10203	UCDavis_Newman_ID
+13-HpODE							HMDB03871	UCDavis_Newman_ID
+13-KODE				6446027			HMDB04668	UCDavis_Newman_ID
+14,15-DiHETE				16061119			HMDB10204	UCDavis_Newman_ID
+14,15-DiHETrE				5283147			HMDB02265	UCDavis_Newman_ID
+14(15)-EpETE				16061088			HMDB10205	UCDavis_Newman_ID
+14(15)-EpETrE				11954058			HMDB04693	UCDavis_Newman_ID
+14-HDoHE				11566378			HMDB60044	UCDavis_Newman_ID
+15,16-DiHODE				16061068			HMDB10208	UCDavis_Newman_ID
+15(16)-EpODE				16061062			HMDB10206	UCDavis_Newman_ID
+15-deoxy PGJ2				5311211			HMDB05079	UCDavis_Newman_ID
+15-HEPE				53480357			HMDB10209	UCDavis_Newman_ID
+15-HETE				9966861			HMDB03876	UCDavis_Newman_ID
+15-HETrE				44322431			HMDB10410	UCDavis_Newman_ID
+15-HpETE							HMDB04244	UCDavis_Newman_ID
+15-KETE				5280701			HMDB10210	UCDavis_Newman_ID
+16(17)-EpDPE				14392758			HMDB13621	UCDavis_Newman_ID
+17,18-DiHETE				16061120			HMDB10211	UCDavis_Newman_ID
+17(18)-EpETE				16061089			HMDB10212	UCDavis_Newman_ID
+17-HDoHE				6439179			HMDB10213	UCDavis_Newman_ID
+19,20-DiHDoPA							HMDB10214	UCDavis_Newman_ID
+19(20)-EpDPE				11631565			HMDB13620	UCDavis_Newman_ID
+20-carboxy-LTB4				5280877			HMDB06059	UCDavis_Newman_ID
+20-HETE				5283157			HMDB05998	UCDavis_Newman_ID
+20-hydroxy-LTB4				1589			HMDB01509	UCDavis_Newman_ID
+4-HDoHE				14429109			HMDB60049	UCDavis_Newman_ID
+5,15-DiHETE				59878863			HMDB10216	UCDavis_Newman_ID
+5,6-DiHETrE				5283142			HMDB02343	UCDavis_Newman_ID
+5-HEPE				6439678			HMDB05081	UCDavis_Newman_ID
+5-HETE				9862886			HMDB11134	UCDavis_Newman_ID
+5-HpETE							HMDB11135	UCDavis_Newman_ID
+5-KETE				5283159			HMDB10217	UCDavis_Newman_ID
+6-keto PGF1a				5280888			HMDB02886	UCDavis_Newman_ID
+6-trans-LTB4				5283128			HMDB05087	UCDavis_Newman_ID
+8,15-DiHETE				53480358			HMDB10219	UCDavis_Newman_ID
+8,9-DiHETrE				5283144			HMDB02311	UCDavis_Newman_ID
+8(9)-EpETrE				5353364			HMDB02232	UCDavis_Newman_ID
+8-HETE				11976122			HMDB04679	UCDavis_Newman_ID
+9,10-13-TriHOME				5282965			HMDB04710	UCDavis_Newman_ID
+9,10-DiHODE				16061066			HMDB10221	UCDavis_Newman_ID
+9,10-DiHOME				9966640			HMDB04704	UCDavis_Newman_ID
+9(10)-EpODE				16061060			HMDB10220	UCDavis_Newman_ID
+9(10)-EpOME				6246154			HMDB04704	UCDavis_Newman_ID
+9,12,13-TriHOME				9858729			HMDB04708	UCDavis_Newman_ID
+9-HEPE				16061129				
+9-HETE				14123398			HMDB10222	UCDavis_Newman_ID
+9-HODE				5282944			HMDB10223	UCDavis_Newman_ID
+9-HOTE				53480359			HMDB10224	UCDavis_Newman_ID
+9-HpODE							HMDB06940	UCDavis_Newman_ID
+9-KODE				9839084			HMDB04669	UCDavis_Newman_ID
+Lipoxin A4				5280914			HMDB04385	UCDavis_Newman_ID
+LTB4				5280492			HMDB02886	UCDavis_Newman_ID
+LTB5				5283125			HMDB05073	UCDavis_Newman_ID
+PGD2				448457			HMDB01403	UCDavis_Newman_ID
+PGE1				5280723			HMDB01442	UCDavis_Newman_ID
+PGE2				5280360			HMDB01220	UCDavis_Newman_ID
+PGE3				5280937			HMDB02664	UCDavis_Newman_ID
+PGF2a				5283078			HMDB01139	UCDavis_Newman_ID
+PGJ2/ d 12-PGJ2							HMDB04238	UCDavis_Newman_ID
+Resolvin D1				44251266			HMDB03733	UCDavis_Newman_ID
+Resolvin E1				10473088			HMDB10410	UCDavis_Newman_ID
+TXB2				5283137			HMDB03252	UCDavis_Newman_ID
+METABOLITES_END
+#END

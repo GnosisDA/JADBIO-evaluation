@@ -1,0 +1,137 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000143 ANALYSIS_ID:AN000226
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolic regulation by PARP-1 in myofibroblast differentiation and fibrosis
+PR:PROJECT_SUMMARY               	Analysis of wild type lung tissue after saline or bleomycin treatment
+PR:INSTITUTE                     	University of Michigan
+PR:DEPARTMENT                    	Deaprtment of Pathology
+PR:LABORATORY                    	Sem H. Phan
+PR:LAST_NAME                     	Hu
+PR:FIRST_NAME                    	Biao
+PR:ADDRESS                       	Ann Arbor, MI
+PR:EMAIL                         	biaohu@med.umich.edu
+PR:PHONE                         	734-7635731
+#STUDY
+ST:STUDY_TITLE                   	Metabolic analysis of Normal Mouse Lung Fiboblasts with/without TGFbeta
+ST:STUDY_TYPE                    	Glycolysis/TCA/Nucleotide analysis (especially interested in
+ST:STUDY_TYPE                    	and NAD+ and related metabolite analysis for parp1 ko and parp1 wild type lung
+ST:STUDY_TYPE                    	after saline or bleomycin treatment
+ST:STUDY_SUMMARY                 	Glycolysis/TCA/Nucleotide analysis (especially interested in
+ST:STUDY_SUMMARY                 	and NAD+ and related metabolite analysis for parp1 ko and parp1 wild type lung
+ST:STUDY_SUMMARY                 	after saline or bleomycin treatment
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@umich.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	21
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0003983	S00014557	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003984	S00014558	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003985	S00014559	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003994	S00014568	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003995	S00014569	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0004004	S00014578	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0004005	S00014579	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0004006	S00014580	Genotype:parp1 ko | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003980	S00014554	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003981	S00014555	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003982	S00014556	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003992	S00014566	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003993	S00014567	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0004001	S00014575	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0004002	S00014576	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0004003	S00014577	Genotype:parp1 ko | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003989	S00014563	Genotype:parp1 wt | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003990	S00014564	Genotype:parp1 wt | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003991	S00014565	Genotype:parp1 wt | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003998	S00014572	Genotype:parp1 wt | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003999	S00014573	Genotype:parp1 wt | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0004000	S00014574	Genotype:parp1 wt | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0003986	S00014560	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003987	S00014561	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003988	S00014562	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003996	S00014570	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0003997	S00014571	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0004007	S00014581	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0004008	S00014582	Genotype:parp1 wt | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0004009	S00014583	Genotype:parp1 wt | Treatment:saline	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Tissues
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Gly-TCA-nucleotides_analysis_protocol-2015-03-09.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	Luna 3 m NH2 100 , LC Column 150 x 1 mm, Ea (Phenomenex Inc.) | DB-5MS, 250m ID
+CH:COLUMN_NAME                   	30m column, Agilent
+CH:METHODS_ID                    	AQM020 | AQM011
+CH:METHODS_FILENAME              	QTOF-002-HILIC-35min-1mm.m.zip|ALPHA_KETO_ACIDS-FULL.M.zip
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	MRC2 (University of Michigan)
+AN:ACQUISITION_PARAMETERS_FILE   	QTOF-002-HILIC-35min-1mm.m.zip
+AN:PROCESSING_PARAMETERS_FILE    	EX00294-MassHunterQuant-GlyTCA-LCMS-DataAnalysis-Method.m.zip
+#MS
+MS:INSTRUMENT_NAME               	Agilent 6520 QTOF
+MS:INSTRUMENT_TYPE               	Q-TOF
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	uM
+MS_METABOLITE_DATA_START
+Samples	S00014557	S00014558	S00014559	S00014568	S00014569	S00014578	S00014579	S00014580	S00014554	S00014555	S00014556	S00014566	S00014567	S00014575	S00014576	S00014577	S00014563	S00014564	S00014565	S00014572	S00014573	S00014574	S00014560	S00014561	S00014562	S00014570	S00014571	S00014581	S00014582	S00014583
+Factors	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:bleomycin	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 ko | Treatment:saline	Genotype:parp1 wt | Treatment:bleomycin	Genotype:parp1 wt | Treatment:bleomycin	Genotype:parp1 wt | Treatment:bleomycin	Genotype:parp1 wt | Treatment:bleomycin	Genotype:parp1 wt | Treatment:bleomycin	Genotype:parp1 wt | Treatment:bleomycin	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline	Genotype:parp1 wt | Treatment:saline
+2 or 3-phosphoglycerate	2.6535	2.0613	3.4885	2.0597	1.4678	2.6674	1.6227	2.3605	1.2658	1.5084	2.1407	1.1526	1.3969	0.9749	0.7920	0.6063	1.9297	2.0073	2.1112	2.3264	2.2204	1.9894	1.2577	1.2413	0.4635	0.7224	1.0548	0.9298	0.5405	0.9217
+6-Phosphogluconate	4.4931	4.4477	6.1817	3.8803	5.6457	1.5795	4.1915	3.8326	1.4187	1.4955	1.7618	1.7909	1.5738	2.0787	1.3548	1.1566	4.8474	3.8897	4.5157	5.4485	5.3370	4.3964	1.9149	1.8588	1.2201	0.9488	1.4814	1.2173	1.4377	1.3430
+Acetyl-CoA	0.0000	0.0083	0.0038	0.0014	0.0023	0.0000	0.0000	0.0007	0.0122	0.0096	0.0258	0.0068	0.0032	0.0012	0.0068	0.0016	0.0075	0.0000	0.0018	0.0014	0.0026	0.0044	0.0132	0.0182	0.0059	0.0011	0.0015	0.0037	0.0005	0.0095
+Adenosine diphosphate	1.5043	1.3182	2.2288	1.0972	1.8997	0.9749	1.4813	1.4879	1.5453	1.6803	1.8477	1.5318	1.5064	1.4959	1.4833	1.2623	1.8099	1.3163	1.3220	1.3622	1.7721	1.9270	1.7836	1.4980	1.6737	1.1938	1.4039	1.4743	1.0745	1.4563
+Adenosine monophosphate	1.6004	1.1696	2.5563	0.6832	2.2546	0.5653	1.3007	2.4826	5.7147	7.4824	9.4457	2.3780	2.6396	3.0478	1.8936	3.6544	1.4514	0.8905	1.6877	1.0157	1.2305	1.1501	7.1108	5.0456	6.2726	2.2226	4.8690	3.1170	1.8647	2.8844
+Adenosine triphosphate	0.2960	0.4852	0.2939	0.3022	0.1828	0.1881	0.2920	0.2660	0.1786	0.1647	0.2412	0.2686	0.1406	0.1295	0.2168	0.0752	0.5363	0.3583	0.4748	0.4689	0.3590	0.3466	0.2391	0.2742	0.1440	0.0987	0.0953	0.1639	0.1270	0.2378
+Citrate or Isocitrate	21.6376	24.8690	21.6895	18.6761	19.9247	5.9272	11.6287	2.8338	8.8642	9.8332	7.0618	4.5750	5.6280	2.7569	1.6949	4.5562	18.2101	24.3097	21.3533	33.5082	35.4784	24.0798	7.7515	6.3965	6.5852	2.5077	3.5781	2.7033	2.2886	6.9790
+Dihydronicotinamide-adenine dinucleotide phosphate	0.0000	0.0499	0.3726	0.0000	0.0894	0.0000	0.0000	0.0513	0.2645	0.1647	0.0911	0.2148	0.0730	0.1754	0.1770	0.0000	0.0000	0.0973	0.1354	0.2307	0.6056	0.2585	0.3638	0.3451	0.6220	0.1539	0.2182	0.1495	0.3020	0.2050
+Flavin adenine dinucleotide	0.5990	0.3316	0.4890	0.3669	0.4189	0.3078	0.3673	0.3592	0.3551	0.4215	0.2035	0.2763	0.4089	0.5784	0.5253	0.6139	0.2711	0.3665	0.3792	0.5129	0.5134	0.3900	0.3400	0.1886	0.4497	0.5521	0.5944	0.5291	0.4261	0.3036
+Fructose 1_6-bisphosphate	25.0851	26.1479	36.2161	21.6454	23.3500	7.6780	28.7395	21.1193	9.8760	15.7658	13.5273	12.7714	13.9415	12.2076	20.3809	7.3286	43.2561	21.0847	22.0443	23.7357	26.1368	31.3087	22.8418	18.9541	11.4802	11.2469	8.3555	12.9183	11.1033	12.7600
+Glucose 6-phosphate or fructose-6-phosphate	91.3921	61.6863	85.4174	74.0206	87.1447	32.1643	83.8421	77.2553	37.2074	36.4412	26.6717	31.9985	40.4244	42.1510	38.0537	38.2250	84.1244	58.8614	65.1091	77.1580	97.6283	82.1395	41.5557	32.3720	39.0162	39.4828	40.7271	40.6188	31.5745	37.8240
+Malate	33.4035	20.3296	27.2059	16.5010	28.4614	18.6191	23.9477	22.0698	7.3584	12.4476	5.3983	4.9672	13.5272	16.5580	18.4317	16.7952	19.2067	23.8915	21.3513	38.2673	34.8500	26.6794	7.7006	6.0771	11.6278	19.2600	22.2865	16.3916	14.3772	8.5986
+Nicotinamide Adenine Dinucleotide oxidized	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+Nicotinamide adenine dinucleotide phosphate	0.0847	0.1390	0.1924	0.0849	0.2144	0.1342	0.1396	0.1592	0.0908	0.1117	0.0408	0.0770	0.1406	0.3104	0.2714	0.1905	0.0760	0.0454	0.0890	0.2511	0.2390	0.1678	0.0942	0.0796	0.1640	0.2159	0.4128	0.2358	0.1517	0.2797
+Nicotinamide Adenine Dinucleotide reduced	0.8459	0.0000	0.0000	0.0000	0.0000	0.5629	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.7203	0.5805	0.7433	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.6758	0.7004	0.7199	0.3567	0.0000
+Phosphoenolpyruvate	0.3049	0.2640	0.6811	0.1236	0.1124	0.1460	0.1141	0.0772	0.1410	0.0854	0.1686	0.1628	0.0706	0.0138	0.0109	0.0368	0.1517	0.1815	0.2246	0.2316	0.3506	0.3780	0.0957	0.1168	0.0000	0.0110	0.0181	0.0144	0.0128	0.0000
+Sucrose	0.8662	1.5334	1.3334	0.6055	0.5992	0.7760	0.3400	0.6868	1.0186	0.6744	0.7134	0.7194	1.0530	0.6965	0.6743	0.4772	1.2556	0.9773	0.7177	1.9864	1.1077	0.9898	0.8599	1.0669	0.9653	0.5819	0.8536	0.7786	0.6326	0.8365
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+2 or 3-phosphoglycerate				724			2PG/3PG	UM_Target_ID
+6-Phosphogluconate				91493			6PG	UM_Target_ID
+Acetyl-CoA				444493			aCoA	UM_Target_ID
+Adenosine diphosphate				6022			ADP	UM_Target_ID
+Adenosine monophosphate				6083			AMP	UM_Target_ID
+Adenosine triphosphate				5957			ATP	UM_Target_ID
+Citrate or Isocitrate				311			CIT/ICIT	UM_Target_ID
+Dihydronicotinamide-adenine dinucleotide phosphate				5884			NADPH	UM_Target_ID
+Flavin adenine dinucleotide				643975			FAD	UM_Target_ID
+Fructose 1,6-bisphosphate				21125049			FBP	UM_Target_ID
+Glucose 6-phosphate or fructose-6-phosphate				5958			F6P/G6P	UM_Target_ID
+Malate				525			MAL	UM_Target_ID
+Nicotinamide Adenine Dinucleotide oxidized				15938971			NAD	UM_Target_ID
+Nicotinamide adenine dinucleotide phosphate				5886			NADP	UM_Target_ID
+Nicotinamide Adenine Dinucleotide reduced				439153			NADH	UM_Target_ID
+Phosphoenolpyruvate				1005			PEP	UM_Target_ID
+Sucrose				5988			SUC	UM_Target_ID
+METABOLITES_END
+#END

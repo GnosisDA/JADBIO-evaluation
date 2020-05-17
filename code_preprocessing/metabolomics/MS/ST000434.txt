@@ -1,0 +1,198 @@
+#METABOLOMICS WORKBENCH hormel101_20160720_134102_mwtab.txt DATATRACK_ID:681 STUDY_ID:ST000434 ANALYSIS_ID:AN000684
+VERSION             	1
+CREATED_ON             	July 29, 2016, 2:47 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Impact of Long-Term Poor and Good Glycemic Control on Metabolomics Alterations
+PR:PROJECT_TITLE                 	in Type 1 Diabetic People.
+PR:PROJECT_TYPE                  	Targeted LC-MS Metabolomics of Fatty Acids
+PR:PROJECT_SUMMARY               	The objective of the study was to determine whether T1D with good glycemic
+PR:PROJECT_SUMMARY               	control have persistent abnormalities of metabolites and pathways that exist in
+PR:PROJECT_SUMMARY               	T1D with poor glycemic control.
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Endocrinology
+PR:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+PR:LAST_NAME                     	Nair
+PR:FIRST_NAME                    	Sreekumaran
+PR:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+PR:EMAIL                         	Nair.K@mayo.edu
+PR:PHONE                         	507-285-2415
+#STUDY
+ST:STUDY_TITLE                   	Quantitative measurements of free fatty acid in T1D poor control, good control,
+ST:STUDY_TITLE                   	and controls.
+ST:STUDY_TYPE                    	Quantitative measurements of free fatty acid
+ST:STUDY_SUMMARY                 	The objective of the study was to determine whether T1D with good glycemic
+ST:STUDY_SUMMARY                 	control have persistent abnormalities of metabolites and pathways that exist in
+ST:STUDY_SUMMARY                 	T1D with poor glycemic control.
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Endocrinology
+ST:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+ST:LAST_NAME                     	Nair
+ST:FIRST_NAME                    	Sreekumaran
+ST:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+ST:EMAIL                         	Nair.K@mayo.edu
+ST:PHONE                         	507-285-2415
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	ms3332-1	sample1	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-2	sample2	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-3	sample3	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-4	sample4	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-5	sample5	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-6	sample6	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-7	sample7	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-8	sample8	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-9	sample9	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-10	sample10	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-19	sample11	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-20	sample12	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-21	sample13	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-22	sample14	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-23	sample15	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-20	sample16	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-11	sample17	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-12	sample18	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-13	sample19	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-14	sample20	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-15	sample21	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-16	sample22	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-24	sample23	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-25	sample24	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-26	sample25	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-16	sample26	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-17	sample27	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-18	sample28	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-27	sample29	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-28	sample30	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-25	sample31	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-14	sample32	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-27	sample33	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-4	sample34	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-6	sample35	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-36	sample36	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-50	sample37	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-20	sample38	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-28	sample39	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-8	sample40	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-14	sample41	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-10	sample42	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-12	sample43	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-54	sample44	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-1	sample45	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-21	sample46	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-7	sample47	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-22	sample48	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-9	sample49	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-11	sample50	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-23	sample51	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-13	sample52	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-15	sample53	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-3	sample54	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-5	sample55	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-16	sample56	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-18	sample57	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-19	sample58	treatment:T1D poor glycemic control	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	At 5:00 AM after an overnight fast, baseline blood samples were collected from
+CO:COLLECTION_SUMMARY            	study participants. Plasma samples were stored at 80°C until analysis.
+CO:SAMPLE_TYPE                   	Blood. Plasma was isolated for MS analysis.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Participants were admitted to the Clinical Research Unit at St Mary’s Hospital
+TR:TREATMENT_SUMMARY             	(Rochester, Minnesota) the evening before the study and spent overnight in the
+TR:TREATMENT_SUMMARY             	Clinical Research Unit. The participants were given a standard meal on the
+TR:TREATMENT_SUMMARY             	evening of the admission after which they fasted overnight. Participants with
+TR:TREATMENT_SUMMARY             	T1D were treated with insulin as per their usual individual programs. At 5:00 AM
+TR:TREATMENT_SUMMARY             	after an overnight fast, baseline blood samples were collected from study
+TR:TREATMENT_SUMMARY             	participants. Plasma samples were stored at 80°C until analysis.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Plasma quality-control samples used in the study were prepared from pooled
+SP:SAMPLEPREP_SUMMARY            	plasma spiked with a selection of metabolites to mimic elevated levels of
+SP:SAMPLEPREP_SUMMARY            	metabolites during I− (insulin withdrawn) condition. Plasma was spiked with a
+SP:SAMPLEPREP_SUMMARY            	standard mixture (3:1 ratio of plasma to spiking solution) containing 100 μg/mL
+SP:SAMPLEPREP_SUMMARY            	niacin, hypoxanthine, leucine, isoleucine, phenylalanine, tryptophan, citric
+SP:SAMPLEPREP_SUMMARY            	acid, glucose, hippuric acid, and taurocholic acid dissolved in 1:1
+SP:SAMPLEPREP_SUMMARY            	acetonitrile/water. All plasma samples (200 μL) were thawed on ice at 4°C
+SP:SAMPLEPREP_SUMMARY            	followed by deproteinization with methanol (1:4 ratio of plasma to methanol) and
+SP:SAMPLEPREP_SUMMARY            	vortexed for 10 s, followed by incubation at −20°C for 2 h. The samples were
+SP:SAMPLEPREP_SUMMARY            	then centrifuged at 15,871g for 30 min at 4°C. The supernatants were
+SP:SAMPLEPREP_SUMMARY            	lyophilized (Savant, Holbrook, NY) and stored at −20°C prior to analysis. The
+SP:SAMPLEPREP_SUMMARY            	samples were reconstituted in 50% H2O/acetonitrile and passed through a Microcon
+SP:SAMPLEPREP_SUMMARY            	YM3 filter (Millipore Corporation). The supernatants were transferred to
+SP:SAMPLEPREP_SUMMARY            	analytical vials, stored in the autosampler at 4°C, and analyzed within 48 h of
+SP:SAMPLEPREP_SUMMARY            	reconstitution in buffer.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	Concentration and isotopic enrichment of palmitic acid from extracted plasmas
+CH:CHROMATOGRAPHY_SUMMARY     	were simultaneously measured against an extracted concentration standard curve
+CH:CHROMATOGRAPHY_SUMMARY     	as well as an enrichment standard curve on the Applied Biosystem API5000 mass
+CH:CHROMATOGRAPHY_SUMMARY     	spectrometer-MS (Foster City, CA) coupled with a Cohesive TX2 liquid
+CH:CHROMATOGRAPHY_SUMMARY     	chromatography system-LC (Franklin, MA). This system provides two LCs connected
+CH:CHROMATOGRAPHY_SUMMARY     	in parallel to the mass spectrometer, allowing twice the number of samples to be
+CH:CHROMATOGRAPHY_SUMMARY     	analyzed by using tandem sample injection. The LCs were controlled by Aria
+CH:CHROMATOGRAPHY_SUMMARY     	software (Cohesive Technology). Palmitic and heptadecanoic acids were separated
+CH:CHROMATOGRAPHY_SUMMARY     	on the LCs using an Ascentis C18, 2.7 μm, 2.1 × 150 mm column using two
+CH:CHROMATOGRAPHY_SUMMARY     	buffers. Buffer A was 80% acetonitrile, 0.5 mM ammonium acetate; buffer B was
+CH:CHROMATOGRAPHY_SUMMARY     	99% acetonitrile, 1% 0.5 mM ammonium acetate. The flow rate was 0.4 ml/min, and
+CH:CHROMATOGRAPHY_SUMMARY     	the gradient conditions were as follows: 0–8 min isocratic at 55% B, 8–8.5
+CH:CHROMATOGRAPHY_SUMMARY     	min 55⇒95% B, 8.5–10 min isocratic at 95% B, 10–10.5 min 95⇒55% B, and
+CH:CHROMATOGRAPHY_SUMMARY     	10.5–12 min isocratic at 55% B. One tenth of the volume of each concentration
+CH:CHROMATOGRAPHY_SUMMARY     	standard and each plasma sample were resuspended in 400 μl of buffer A prior to
+CH:CHROMATOGRAPHY_SUMMARY     	injecting 10 μl onto the LC/MS. The chromographic separation of linoleic acid,
+CH:CHROMATOGRAPHY_SUMMARY     	palmitic acid, oleic acid, eladic acid, and heptadecanoic acid (internal
+CH:CHROMATOGRAPHY_SUMMARY     	standard) are depicted in Fig. 1A. Although palmitic and oleic acid peaks
+CH:CHROMATOGRAPHY_SUMMARY     	overlap, they are distinguishable by MS, whereas eladic acid, which is
+CH:CHROMATOGRAPHY_SUMMARY     	indistinguishable from oleic acid by MS, is easily separated by chromatography.
+CH:CHROMATOGRAPHY_SUMMARY     	Fig. 1B depicts the M+2 peaks for palmitate and heptadecanoate and the M+16 peak
+CH:CHROMATOGRAPHY_SUMMARY     	for palmitate of a plasma sample from a volunteer receiving a [U-13C]palmitate
+CH:CHROMATOGRAPHY_SUMMARY     	infusion. Palmitate elutes at 6.2 min and heptadecanoate acid at 7.1 min;
+CH:CHROMATOGRAPHY_SUMMARY     	however, in Fig. 1B the retention times are shown as 1.2 and 2.9 min because of
+CH:CHROMATOGRAPHY_SUMMARY     	the 3 min delay set in the LC method before diverting the flow to the MS for
+CH:CHROMATOGRAPHY_SUMMARY     	acquisition. The MS was set to acquire for only 5 min, allowing MS data
+CH:CHROMATOGRAPHY_SUMMARY     	acquisition from the second LC to begin while the first LC finishes its 12 min
+CH:CHROMATOGRAPHY_SUMMARY     	gradient. The MS was equipped with a turbo ion spray interface with the heater
+CH:CHROMATOGRAPHY_SUMMARY     	set at 60°C, spray voltage at 5500 V, sheath gas at 50, sweep gas at 40, and
+CH:CHROMATOGRAPHY_SUMMARY     	transfer capillary at 270°C. Palmitate, [13C16]palmitate and heptadecanoate
+CH:CHROMATOGRAPHY_SUMMARY     	were selectively monitored at m/z 257, m/z 271 in negative mode. Palmitate was
+CH:CHROMATOGRAPHY_SUMMARY     	monitored as [M+2−H]− and [M+16−H]−. Heptadecanoic was also monitor as
+CH:CHROMATOGRAPHY_SUMMARY     	[M+2−H]− . Therefore m/z 271 was either [13C16]palmitate or heptadecanoate,
+CH:CHROMATOGRAPHY_SUMMARY     	depending on where it eluted in the LC gradient.
+CH:CHROMATOGRAPHY_TYPE        	HPLC-MS
+CH:INSTRUMENT_NAME            	Applied Biosystem API5000 mass spectrometer-MS
+CH:COLUMN_NAME                	None
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Applied Biosystem API5000 mass spectrometer-MS
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	micromolar
+MS_METABOLITE_DATA_START
+Samples	sample1	sample2	sample3	sample4	sample5	sample6	sample7	sample8	sample9	sample10	sample11	sample12	sample13	sample14	sample15	sample16	sample17	sample18	sample19	sample20	sample21	sample22	sample23	sample24	sample25	sample26	sample27	sample28	sample29	sample30	sample31	sample32	sample33	sample34	sample35	sample36	sample37	sample38	sample39	sample40	sample41	sample42	sample43	sample44	sample45	sample46	sample47	sample48	sample49	sample50	sample51	sample52	sample53	sample54	sample55	sample56	sample57	sample58
+Factors	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control
+linolenic	16.9	6.26	10.01	6.05	5.1	6.24	7.71	7.06	17.55	6.69	23.8	34.56	4.75	11.79	26.65	34.59	15.64	3.58	6.39	5.91	5.61	10.61	30.57	2.06	15.31	9.69	12.11	16.18	28.71	7.98	5.64	4.62	3.86	12.13	3.68	5.84	18.13	7.71	8.07	9.5	5.62	7.59	7.64	45.55	7	8.5	6.13	4.03	4.56	6.7	36.1	5.92	6.29	7.21	2.63	5.91	28.31	3.85
+myristic	27.74	12.9	16.32	18.9	4.46	12.24	9.01	9.69	13.63	5.96	9.03	13.81	6.84	12.29	14.91	13.74	17.26	3.76	12.12	5.92	6.21	9.84	21.91	5.32	3.68	9.86	8.24	11.34	10.33	4.69	9.14	10.37	3.25	22.63	8.89	5.57	25.05	7.66	4.59	9.77	6.03	11.1	12.37	21.9	11.47	9.04	9.83	11.24	2.6	11.96	10.57	11.68	5.5	11.06	2.39	5.44	11.85	5.93
+palmitoleic	56.07	19.76	26.91	21.42	16.02	22.49	28.98	8.77	28.56	22	29.36	51.33	11.19	44.97	27.93	51.33	19.58	9.52	16.13	24.61	11.94	15.44	60.56	7.65	8.63	15.53	34.38	20.13	14.06	8.18	11.413	20.469	10.051	47.884	14.972	13.12	19.85	16.436	8.262	9.309	24.889	17.683	17.495	23.05	16.008	7.685	12.612	21.856	3.735	17.871	16.99	20.609	9.675	17.62	3.246	17.365	26.73	10.864
+arachidonic	4.54	4.03	3.46	3.91	3.47	4.69	3.93	3.79	4.48	3.83	4.98	5.38	3.01	4.8	5.79	5.79	4.88	3.31	4.48	4.65	3.04	4.63	3.65	3.09	2.79	4.28	6.15	5.39	3.5	2.15	3.95	3.74	2.23	5.69	3.33	2.38	7.78	3.44	2.07	4.54	4.42	3.9	4.41	1.22	4.27	2.96	4.18	3.89	3.18	4.16	7.73	3.93	1.94	3.66	3	1.87	9.85	2.37
+linoleic	215.29	91.45	142.75	98.94	57.33	96.48	130.88	76.43	202.37	83.93	217.33	317.07	91.64	183.83	291.58	311.92	193.49	39.49	71.65	72.46	88.83	120.93	415.5	60.39	175.18	118.94	170.97	214.78	279.21	86.08	71.24	61.76	72.88	175.14	37.11	77.65	92.47	78.94	87.36	112.78	70.6	100.35	118.05	337.05	114.01	105.51	98.29	67.84	36.74	96.18	201.35	171.46	75.81	97.31	20.19	105.56	272.72	89.48
+palmitic	220.28	115.29	154.32	144.28	61.4	144.32	123.28	108.23	179	93.02	128.11	138.39	73.95	149.78	167.87	138.39	186.01	61.51	119.96	123.18	94.85	123.9	305.9	60.55	72.1	128.58	153.81	142.98	134.43	69.14	105.48	96.87	58.32	287.66	88.23	50.52	76.14	87.86	68.83	127.34	128.98	137.91	170.48	164.08	121.94	94.87	151.08	143.56	38.26	128.76	70.64	171.18	50.42	126.78	29.07	62.11	145.88	62.99
+oleic	331.734	143.254	245.952	165.265	99.05	191.097	235.88	115.21	299.137	133.405	250.461	270.645	130.698	259.122	300.451	270.645	240.683	79.425	141.618	161.317	130.439	150.292	480.144	91.37	118.807	139.726	251.537	181.328	187.6	94.137	135.534	119.871	75.288	294.124	102.873	83.673	101.755	128.226	92.309	134.948	157.031	172.219	238.603	256.129	222.795	96.587	197.096	193.667	53.543	185.563	125.677	175.206	82.824	167.763	28.94	119.172	280.105	136.303
+elaidic	21.16	11.07	16.61	12.97	5.23	16.41	12.13	8.51	14.88	8.34	14.14	14.86	10.42	14.1	19.99	14.96	13.67	5.21	12.86	5.6	22.79	12.19	26.13	10.36	9.55	12.65	10.1	11.42	13.85	7.49	6.4	6.96	4.48	13.33	6.16	7.23	10.19	7.01	7.59	13.39	5.85	8.94	12.61	16.77	10.39	9.1	13.53	12.59	3.59	10.68	6.21	9.57	7.15	10.78	5.53	7.35	12.55	8.44
+stearic	60.27	38.23	56.23	34.56	22.44	55.22	35.18	52.02	65.89	26.15	50.82	36.21	37.04	36.18	78.53	36.21	69.96	24.02	52.5	41.24	48.02	48.63	89.55	37.08	27.17	49.16	52.44	46.77	54.36	27.9	29.7	26.9	16.86	64.43	28.54	19.53	22.08	33.21	27.07	47.48	42.85	51.11	61.69	43.38	47.14	48.6	68.95	57.82	21.23	44.19	24.75	56.12	16.03	49.92	15.49	21.68	58.79	24.67
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+linolenic
+myristic
+palmitoleic
+arachidonic
+linoleic
+palmitic
+oleic
+elaidic
+stearic
+METABOLITES_END
+#END

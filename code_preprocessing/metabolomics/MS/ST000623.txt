@@ -1,0 +1,292 @@
+#METABOLOMICS WORKBENCH montewillis_20170520_053032 DATATRACK_ID:917 STUDY_ID:ST000623 ANALYSIS_ID:AN000955
+VERSION             	1
+CREATED_ON             	June 20, 2017, 3:36 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Non-targeted Metabolomics Analysis of Golden Retriever Muscular
+PR:PROJECT_TITLE                 	Dystrophy-Affected Muscles Dog
+PR:PROJECT_TYPE                  	GC-MS non targeted analysis
+PR:PROJECT_SUMMARY               	Non-targeted Metabolomics Analysis of Golden Retriever Muscular
+PR:PROJECT_SUMMARY               	Dystrophy-Affected Muscles Dog
+PR:INSTITUTE                     	University of North Carolina
+PR:DEPARTMENT                    	McAllister heart Institute, Department of Internal medicine
+PR:LABORATORY                    	Multiple Centers
+PR:LAST_NAME                     	Willis
+PR:FIRST_NAME                    	Monte
+PR:ADDRESS                       	111 Mason Farm road, Chapel Hill, North Carolina, 27599-7126, USA
+PR:EMAIL                         	monte_willis@med.unc.edu
+PR:PHONE                         	(984) 999-5431
+PR:FUNDING_SOURCE                	NIH, Fondation Leducq
+#STUDY
+ST:STUDY_TITLE                   	Non-targeted Metabolomics Analysis of Golden Retriever Muscular
+ST:STUDY_TITLE                   	Dystrophy-Affected Muscles Reveals Alterations in Arginine and Proline
+ST:STUDY_TITLE                   	Metabolism, and Elevations in Glutamic and Oleic Acid In Vivo
+ST:STUDY_SUMMARY                 	Like Duchenne muscular dystrophy (DMD), the Golden Retriever Muscular Dystrophy
+ST:STUDY_SUMMARY                 	(GRMD) dog model of DMD exhibits is characterized by muscle necrosis,
+ST:STUDY_SUMMARY                 	progressive paralysis, and pseudohypertrophy in specific skeletal muscles. This
+ST:STUDY_SUMMARY                 	severe GRMD phenotype included atrophy of the biceps femoris (BF) and compared
+ST:STUDY_SUMMARY                 	to unaffected normal dogs, while the long digital extensor (LDE) of the pelvic
+ST:STUDY_SUMMARY                 	limb, serving as a hip flex and stifle extensor, is unaffected. A recent
+ST:STUDY_SUMMARY                 	microarray analysis of GRMD identified alterations in genes associated with
+ST:STUDY_SUMMARY                 	lipid metabolism and energy production. We, therefore, undertook a non-targeted
+ST:STUDY_SUMMARY                 	metabolomics analysis of the GRMD BF (affected) and LDE (unaffected) using GC-MS
+ST:STUDY_SUMMARY                 	to identify underlying metabolic defects specific for affected GRMD skeletal
+ST:STUDY_SUMMARY                 	muscle. Of the 134 metabolites identified in BF, eight were significantly
+ST:STUDY_SUMMARY                 	altered in GRMD BF compared to control BF (Glutamic Acid (2.48 fold vs.
+ST:STUDY_SUMMARY                 	controls); Oleic Acid (1.76 fold vs. controls); Proline (1.73 fold vs.
+ST:STUDY_SUMMARY                 	controls); Myoinositol-2- Phosphate (0.44 fold vs. controls); Fumaric Acid (0.40
+ST:STUDY_SUMMARY                 	fold vs. controls); Carnosine (0.40 fold vs. controls); Lactamide (0.33 fold vs.
+ST:STUDY_SUMMARY                 	controls); and Stearamide (0.23 fold vs. controls). Pathway analysis of the
+ST:STUDY_SUMMARY                 	T-test significant metabolites identified BF muscle metabolites significantly
+ST:STUDY_SUMMARY                 	enriched for Arginine and proline metabolism (p=5.8E-4, FDR=0.04) and Alanine,
+ST:STUDY_SUMMARY                 	aspartate, and glutamate metabolism (p=1.3E-3, FDR=0.05). The GRMD LDE
+ST:STUDY_SUMMARY                 	previously reported to be unaffected, in contrast, had only one significantly
+ST:STUDY_SUMMARY                 	altered metabolite (3-Phosphoglyceric Acid (0.35 Fold vs. controls)).The
+ST:STUDY_SUMMARY                 	identification of elevated BF Oleic acid (a long-chain fatty acid) is consistent
+ST:STUDY_SUMMARY                 	with recent microarray studies identifying altered lipid metabolism genes, while
+ST:STUDY_SUMMARY                 	alterations in Arginine and Proline metabolism are consistent with recent
+ST:STUDY_SUMMARY                 	studies identifying elevated L-arginine in DMD patient sera as a biomarker of
+ST:STUDY_SUMMARY                 	disease (alterations in DMD or GRMD muscle itself have not previously been
+ST:STUDY_SUMMARY                 	reported).Together, these studies demonstrate muscle-specific alterations in
+ST:STUDY_SUMMARY                 	GRMD-affected muscle, which illustrate previously unidentified metabolic
+ST:STUDY_SUMMARY                 	changes.
+ST:INSTITUTE                     	University of North Carolina
+ST:DEPARTMENT                    	McAllister heart Institute, Department of Internal medicine, Department of
+ST:DEPARTMENT                    	Pathology & Laboratory, Department of Pharmacology
+ST:LABORATORY                    	Multiple Centers
+ST:LAST_NAME                     	Willis
+ST:FIRST_NAME                    	Monte
+ST:ADDRESS                       	111 Mason Farm Road, MBRB 2336, Chapel Hill, North Carolina, 27599-7126, USA
+ST:EMAIL                         	monte_willis@med.unc.edu
+ST:PHONE                         	(984) 999-5431
+ST:STUDY_COMMENTS                	Skeletal Muscle (Biceps femoris (BF), long digital extensor(LDE))
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Canis lupus familiaris
+SU:TAXONOMY_ID                   	9615
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	K 8	Gentotype:Control BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 10	Gentotype:Control BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 7	Gentotype:Control BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 9	Gentotype:Control BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 2	Gentotype:GRMD BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 3	Gentotype:GRMD BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 4	Gentotype:GRMD BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 5	Gentotype:GRMD BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 6	Gentotype:GRMD BF	
+SUBJECT_SAMPLE_FACTORS           	-	K 1	Gentotype:GRMD BF	
+SUBJECT_SAMPLE_FACTORS           	-	K17	Gentotype:Control LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 19	Gentotype:Control LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 18	Gentotype:Control LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 20	Gentotype:Control LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 12	Gentotype:GRMD LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 13	Gentotype:GRMD LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 14	Gentotype:GRMD LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 16	Gentotype:GRMD LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 11	Gentotype:GRMD LDE	
+SUBJECT_SAMPLE_FACTORS           	-	K 15	Gentotype:GRMD LDE	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Skeletal muscle (BF, LDE) was surgically biosied and flash frozen in liquid
+CO:COLLECTION_SUMMARY            	nitrogen.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Fraction of cardiac tissue weighed (25-50 mg wet weight), then the finely cut up
+TR:TREATMENT_SUMMARY             	tissue quickly added to fresh pre-made buffer (50 % acetyl-nitrile, 50% water,
+TR:TREATMENT_SUMMARY             	0.3% formic acid) at a standard concentration of 25 mg/475 mcl buffer then fully
+TR:TREATMENT_SUMMARY             	homogenized on ice for 20-25 s and placed on dry ice/stored at - 80C
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	The samples were crash deprotonized by methanol precipitation and spiked with
+SP:SAMPLEPREP_SUMMARY            	D27-deuterated myristic acid (D27-C14:0) as an internal standard for
+SP:SAMPLEPREP_SUMMARY            	retention-time locking and dried. The trimethylsilyl-D27-C14:0 standard
+SP:SAMPLEPREP_SUMMARY            	retention time (RT) was set at 16.727 min. Reactive carbonyls were stabilized at
+SP:SAMPLEPREP_SUMMARY            	50C with methoxyamine hydrochloride in dry pyridine. Metabolites were made
+SP:SAMPLEPREP_SUMMARY            	volatile with TMS groups using N-methyl-N-(trimethylsilyl) trifluoroacetamide or
+SP:SAMPLEPREP_SUMMARY            	MSTFA with catalytic trimethylchlorosilane at 50C.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	GC/MS methods follow previous studies using a 6890 N GC connected to a 5975
+CH:CHROMATOGRAPHY_SUMMARY     	Inert single quadrupole MS (Agilent Technologies, Santa Clara, CA) (Bonikos et
+CH:CHROMATOGRAPHY_SUMMARY     	al. 1975; Fiehn 2008; Kind et al. 2009). The two wall-coated, open-tubular GC
+CH:CHROMATOGRAPHY_SUMMARY     	columns connected in series are both from J&W/Agilent (part 122-5512), DB5-MS,
+CH:CHROMATOGRAPHY_SUMMARY     	15 meters in length, 0.25 mm in diameter, with an 0.25-l m luminal film.
+CH:CHROMATOGRAPHY_SUMMARY     	Positive ions generated with conventional electron-ionization at 70 eV are
+CH:CHROMATOGRAPHY_SUMMARY     	scanned broadly from 600 to 50 m/z in the detector throughout the 45 min cycle
+CH:CHROMATOGRAPHY_SUMMARY     	time.
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent 6890 N GC
+CH:COLUMN_NAME                	DB5-MS, 15 m length, 0.25 mm dia., with an 0.25-l m luminal film
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Agilent 5975 MS
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+MS:INSTRUMENT_NAME          	Agilent 5975 MS
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Peak values (Log transformed)
+MS_METABOLITE_DATA_START
+Samples	K 19	K 18	K 20	K 12	K 13	K 14	K 16	K 11	K 15	K 8	K 10	K 7	K 9	K 2	K 3	K 4	K 5	K 6	K 1
+Factors	Gentotype:Control LDE	Gentotype:Control LDE	Gentotype:Control LDE	Gentotype:GRMD LDE	Gentotype:GRMD LDE	Gentotype:GRMD LDE	Gentotype:GRMD LDE	Gentotype:GRMD LDE	Gentotype:GRMD LDE	Gentotype:Control BF	Gentotype:Control BF	Gentotype:Control BF	Gentotype:Control BF	Gentotype:GRMD BF	Gentotype:GRMD BF	Gentotype:GRMD BF	Gentotype:GRMD BF	Gentotype:GRMD BF	Gentotype:GRMD BF
+1,2-Propanediol	18.36	19.48	18.62	17.98	18.24	17.48	18.46	18.73	18.82	19.91	14.2	17.85	20.51	18.84	18.67	18.82	16.53	19.95	16.52
+1,5-Anhydroglucitol	16.92	18.17	17.58	15.83	17.54	18.11	15.83		16.63		17.21	17.94	17.74	18.16	16.7	17.34	18.1	18.03	17.73
+2-Aminoadipic Acid	21.96	20.93	22.2	21.8	21.6	21.5	20.33	19.56	21.37	22.02	22.12	21.78	22.02	22.44	20.93	21.62	21.32	21.63	21.64
+2-Hydroxybutyric Acid	15.85	14.4	15.65	14.23	15.24	16.2	15.82		14.76	16.21			15.61	15.92	16.28	13.35		16.15	14.68
+2-Hydroxyglutaric Acid	18.06	17.34	18.05	18.41	17.4	17.9	17.07	16.94	17.66	19.3	17.61		18.82		18.33	17.97		18.29	18.44
+2-Hydroxypyridine	17.4	17.75	17.45	16.82	17.45	17.31	17.23	17.13	17.4	17.59	17.43	17.48	17.51	17.09	17.61	17.2	17.54	17.46	17.93
+3-Phosphoglyceric Acid	17.58	17.24	17.34	16.6	16.67	17.22		14.62	15.37	15.08	15.73	14.64	14.74		13.69	18.56	17.28	18.08	15.62
+4-Hydroxymandelic Acid	14.47	15.71	15.06	14.3	14.45	14.79	15.34	14.43	14.89	14.92	15.21	15.16	14.97	14.81	15.26	13.65		14.74	15.12
+Adenine	14.94		14.88		15.52	15.45	14.6	15.78	14.84	16.38	15.2	15.11	15.42	15.29	15.05	15.55	15.07	15.31	15.72
+Adenosine	17.66	19.25	18.35	17.34	17.53	18.06	18.88	17.35	17.96	18.02	18.77	18.08	18.84	17.82	18.61	17.77	16.02	17.56	17.87
+Adenosine-5-Monophosphate	20.35	21.79	20.43	20.69	18.58	19.48	20.1	18.53	21.6	21.14	18.55	19	22.02		13.72	19.21	20.81	20.38	17.45
+Alanine	20.9	21.07	20.78	20.26	20.98	20.76	20.73	20.01	20.76	21.13	20.88	21.04	21.21	21.25	20.64	20.87	20.23	20.64	21.6
+Alpha-Tocopherol	16.9	17.15	16.62	16.81	16.52	17.03	16.49	15.24	16.25	17.09	15.85	17.19	16.14	16.16	16	17.19	16.76	17.17	16.46
+Aminomalonic Acid	17.97	17.93	17.01	18.16	17.86	17.33	17.61	16.24	17.04	17.14	17.4	17.97	17.36	17.42	17.3	17.28	17.55	16.97	17.95
+Lactamide	15.73	15.34	15.95		15.48	15.24		14.24	15.65	13.98	15.71	14.26	16.11		11.95	14.81	12.61	13.93	
+Arachidonic Acid (Also Eicosapentaenoic Acid)	19.18	19.39	19.76	17.83	19.52	19.89	18.93	18.37	19.43	19.39	19.56	18.8	19.43	19.88	20.63	19.78	16.82	19.13	20.52
+Asparagine	18.25	18.25	18.04	18.83	18.74	18.39	19.19	17.86	17.91	19.18	18.2	19.15	19.25	18.77	19.49	18.3	19.04	18.62	19.22
+Aspartic Acid	19.96	20.07	19.37	19.48	18.77	20.14	19.42	18.19	18.7	20.06	18.49	20.57	19.79	19.55	18.04	18.97	19.24	19.71	19.69
+Beta-Alanine	15.5	16.52	16.22	20.13	15.27	15.12	16.59	16.4	16.35	15.84	16.58	15.69	16.27	15.36	16.3	14.36	19.99	14.88	15.48
+Beta-Hydroxybutyric Acid	16.04	16.48	17.53	16.69	17.39	16.46	17.87	16.06	17.48	16.58	17.58	15.4	17.64	16.54	18.64	17.05	16.22	16.28	17.77
+Campesterol	15.05	13.22	14.4		14.56	13.61	13.28		13.91	13.78	13.9	14.06	14	13.69		14.7		13.86	11.53
+Carnosine	22.08	23.04	23.02	22.16	21.56	21.44	23.21	23.12	22.56	22.77	23.35	22.14	22.56	20.57	22.26	21.28	19.96	21.41	22.09
+Cholesterol	24.78	24.35	24.01	24.69	24.85	24.94	24.29	22.85	24	24.96	23.98	24.16	24.07	24.53	24.37	24.42	23.65	24.86	24.19
+Citric Acid/Isocitric Acid	19.96	20.47	20.07	19.9	20.11	20.01	19.18	21.16	19.95	20.82	19.2	21.27	21.16	17.98	17.47	20.74	19.99	21.57	20.18
+Creatinine	24.16	24.89	24.76	24.9	24.38	24.24	24.45	24	24.44	24.23	24.54	23.96	24.34	24.42	23.41	24.25	24.35	23.66	25.2
+Dehydroascorbic Acid	19.47	17.16	16.7	18.59	19.52	19.66	19.11	16.73	17.08	18.8	16.82	16.24	16.1	18.56	17.8	19.11	17.17	18.67	15.86
+Disaccharide	20.03	19.11	19.21	15.83	20.15	19.83	20.1	20.34	17.89	18.47	20.1	16.44	17.26	16.68	16.05	19.24	16.49	18.13	18.27
+Ethanolamine	16.49	16.98	17.29	15.51	16.9	16.98	16.38	15.55	16.5	16.9	17.15	15.7	16.49	16.35	17.71	17.55	15.31	16.21	16.45
+Fructose Or Similar Ketohexose	15.52	13.73	15.41	14.2	14.82	14.8	14.43	13.79	14.77	13.31	17.64	12.12	17.11			13.36		13.88	16.07
+Fructose-6-Phosphate	20.65	20.73	19.9	18.92	19.27	19.58	19.64	19.43	21.48	18.66	22.01	18.15	20.6	17.45	18.11	19.32	17.09	18.11	22.77
+Fumaric Acid	18.76	19.98	19.66	18.46	18.47	18.7	19.61	18.31	19.52	19.12	19.27	19.31	20.16	18.42	18.34	18.03	17.74	17.98	18.55
+Gamma-Hydroxybutyric Acid/Ethylmalonic Acid	17.58	15.6	18.28	15.39	16.75	17.25	16.67	15.49	18	15.32	18.74	13.59	17.96	15.6	18.53	16.78	15.07	14.66	19.77
+Glucose And Other Aldohexoses	23.92	23.38	21.74	21.38	22.2	23.67	23.05	23.13	23.48	21.64	22.79	19.89	22.96	22.5	21.05	22.61	22.37	23.44	23.12
+Glucose-6-Phosphate	22.39	22.12	21.62	20.51	20.49	21.29	21.33	20.67	23.18	20.09	23.7	19.61	22.25	18.55	19.03	20.57	18.13	19.75	21
+Glutamic Acid	21.98	21.97	20.33	21.07	21.91	22.05	20.6	19.57	21.32	20.86	19.48	21.71	20.44	21.77	23.29	22.11	21.74	21.62	21.41
+Glutamine	22.91	22.74	22.74	22.12	22.73	22.84	22.46	21.3	22.02	22.89	21.82	22.22	22.59	21.38	23.53	22.48	21.52	22.52	21.61
+Glycerol 1-Phosphate	22.42	23.42	23.2	21.89	22.13	21.91	22.79	21.37	22.44	20.75	22.95	20.45	22.76	20.53	23.3	22.62	21.24	19.84	21.48
+Glycine	22.41	22.07	20.99	22.66	22.44	21.98	21.99	20.93	21.34	23.15	21.72	22.5	21.96	22.08	21.6	22.1	21.81	21.86	22.27
+Hydroxyprolines	17.16	16.87	15.56	15.94	18.01	16.89	15.77	15.29	16.71	17.33	16.9	18.41	17.86	17.88	17.23	17.85	14.59	16.55	17.08
+Hypotaurine	17.84	16.38	15.83	18.4	17.85	16.79	16.75	14.88		17.52	15.61	14.82	15.32	16.88	15.48	17.24	16.77	16.34	
+Hypoxanthine	20.2	19.72	20.24	18.77	20.55	20.29	20.84	20.3	19.69	20.19	20.27	18.66	19.86	20.54	18.61	19.79	18.42	20.33	19.55
+Inosine	23.81	23	23.59	21.46	23.92	22.91	23.61	21.98	21.92	22.53	23.4	21.94	23.09	22.84	21.14	23.55	20.89	22.54	22.46
+Isoleucine/Leucine	17.26	17.21	16.75	18.52	17.34	17.9	17.79	16.3	16.81	17.65	16.45	17.2	16.76	17.01	17.86	16.66	18.8	17.4	17.23
+Ketopentose-5-Phosphate	17.98	16.84	17.88	15.15	17.98	17.59	18.04	17.54	16.52	18.01	18.02	16.74	16.56	17.01	14.74	18.03	15.6	17.9	16.53
+Lactic Acid	26.45	26.14	26.46	26.06	26.39	26.13	25.98	25.5	26.34	25.49	26.63	24.58	26.35	25.76	25.17	25.87	24.96	25.23	26.63
+Linoleic Acid	19.09	19.59	19.86	18.53	19.27	19.36	18.94	18.92	19.58	19.41	20.23	19.25	19.52	20.04	21.08	20.07	18.25	19.06	20.51
+Lysine	21.4	20.61	20.25	20.85	21.27	21.39	20.66	19.47	20.09	21.56	19.37	20.21	20.78	21.18	20.46	21.06	19.99	21.07	20.27
+Malic Acid	21.64	21.85	22.2	20.98	21.65	21.97	22.36	20.86	21.53	21.96	21.97	22.34	21.15	21.7	20.38	21.32	20.38	21.75	20.79
+Maltose Or Similar Disaccharide	21.77	21.51	21.26	19.46	22.22	21.66	22.19	22.27	20.24	20.18	22.23	20.33	21.39	20.57	21.79	21.27	18.61	19.78	20.49
+Myoinositol	24.39	23.99	23.39	24.11	24.09	24.34	23.87	22.6	23.46	25.52	23.45	24.13	23.96	24.92	24.13	24.73	25.12	25.11	24.35
+Myoinositol-2-Phosphate			15.71	15.07	15.3	16.18	15.13	15.77	16.31	15.46	16.11	16.56	16.3		13.81		14.37	15.92	
+N-Acetylneuraminic Acid	16.19	17.3	15.95	16.9	15.64	15.63	15.78	13.12	15.9	16.32	16.52	15.42	15.72	15.21	16.66	15.18	15.26	15.57	
+N-Methylalanine/2-Aminobutanoic Acid/N-Ethylglycine	15.06	14.06	12.95	12.5	12.3	14.96	15.22	11.32	14.1	14.27	11.62	12.56	12.45	14.96	13.94	13.57	12.89	13.08	15.51
+O-Methylphosphate	13.8	17.42	16.2	18.77	14.98	14.55	17	19.86	17.82	19.57	16.24	19.66	19.31	16.2	15.99	16.48	17.65	18.55	16.53
+O-Phosphocolamine	20.81	19.67	19.24	19.97	20.09	21.16	20.49	18.63	19.39	20.2	18.69	18.28	18.57	18.14	18.78	19.87	18.47	20.34	17.27
+Oleic Acid	17.25	18.12	17.94	17.54	16.47	17.25	18.84	15.82	17.55	17.21	17.57	17.23	17.09	17.72	18.5	17.92	18.18	18.2	18.01
+Pantothenic Acid	16.05	17.34	16.14	17.08	15.36	15.2	17	14.44	16.25	16.08	15.79	16.75	15.98	14.65	17.04	15.36	16.32	14.61	16.52
+Phenylalanine	18	17.94	17.98	17.97	17.84	18.59	18.1	16.3	17.27	18.17	17.44	17.47	18.1	17.17	17.83	17.33	18.34	17.86	18.13
+Phosphoric Acid	26.04	26.21	25.68	26.06	25.85	25.82	25.86	25.79	25.95	25.77	25.4	25.41	25.91	25.04	25.42	25.43	25.6	25.56	25.54
+Proline	18.62	16.43	17.37	18.96	18.73	18.9	18.31	17.12	17.27	18.78	17.5	17.93	17.52	19.53	18.38	18.62	18.46	18.91	18.72
+Pyrophosphate	18.68	21.32	20.51	19.69	17.21	18.11	19.95	21.6	21.21	20.25	20.33	22.82	22.21		13.27	19.51	20.26	21.81	16.31
+Serine	20.34	20.29	19.82	20.41	20.54	20.06	20.49	18.67	19.53	21.06	19.55	20.06	20.52	20.24	20.78	20.39	20.27	19.85	20.55
+Siloxanes_R1		15.09	14.69	13.25	13.05	13.85	11.2	12.65	13.95	13.46	15.67	13.92	14.22		14.15	12.9			14.04
+Siloxanes_R2	15.75	14.18	15.53	14.82	13.18	16.38	15.6	16.14	15.53	13.38	14.17	14.02	14.1	12.65		13.02	13.2	13.2	14.14
+Siloxanes_R3	16.69	18.16	17.51	18.44	17.64	17.07	16.44	17.47	17.56	17.71	17.37	17.9	17.79	17.88	16.38	17.82	17.56	17.81	17.71
+Spermidine	19.26	16.27	16.16	17.68	18.94	19.25	18.49	15.69	15.8	19.3	14.8	15.15	15.51	18.33	16.61	19.04	17.12	19.04	
+Spermine	16.38	15.44	14.85	15.51	17.49	16.51	15.49	15.61	13.73	17	13.81	14.23	14.1	16.32	15.1	18.04	15.51	16.85	14.96
+Squalene	16.59	18.86	17.46	16.39	15.82	15.77	17.79	17.3	18.31	17.6	18.53	18.26	18.73	16.75	18.38	16.42	15.5	16.47	18.55
+Stearamide		20.02	19.18	17.1	18.71	17.73	18.78	19.99	19.71	18.73	20.09	19.39	20.9	17.2	17.96	17.99		17.51	18.74
+Succinic Acid	20.74	22.01	21.84	20.62	20.49	19.8	21.31	19.72	21.7	19.76	22.31	20.3	21.13	19.82	22.24	20.26	19.85	18.48	21.6
+Threonine	20.42	20.7	20.15	20.29	20.64	21.02	20.36	18.92	20.09	20.79	19.65	20.31	20.44	20.35	20.13	20.04	19.74	20.58	20.59
+Trisaccharide	19.84	20.21	19.47	16.27	20.49	18.94	19.68	18.58	18.78	17.58	20.77	17.51	17.63	17.08	18.67	19.6	16.22	16.73	20.62
+Tyrosine	18.32	18.53	18.94	18.25	17.97	18.9	18.54	17.85	18.18	18.31	17.84	18.14	18.9	17.33	17.93	17.19	18.78	18.4	17.98
+Uracil	16.62	15.85	14.88	16.08	17.1	17.01	16.73	14.53	15.87	16.52	15.01	13.04	15.39	16.03	15.88	15.89	15.05	15.74	15.2
+Urea	21.97	23.05	21.97	22.44	22.25	21.98	22.15	22.53	22.38	22.12	22.89	22.62	23.13	22.19	22.34	22.04	21.99	22.04	22.68
+Uric Acid	16.45	15.32	14.99	17.17	17.07	17.39	15.89	15.52	14.85	16.58	15.22	13.6	15.06	14.59	14.25	16.32	15.3	16.61	14.51
+Valine	18.48	16.54	17.14	17.65	16.49	18.7	18.76	17.26	17.87	18.46	16.49	16.29	15.69	18.16	16.81	17.17	19.17	16.74	18.37
+Xanthine	18.09	16.67	17.32	17.23	18.47	18.42	18.01	16.98	17.37	17.83	17.25	15.4	17.54	16.77	15.15	17.7	16.16	17.95	15.91
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+1,2-Propanediol
+1,5-Anhydroglucitol
+2-Aminoadipic Acid
+2-Hydroxybutyric Acid
+2-Hydroxyglutaric Acid
+2-Hydroxypyridine
+3-Phosphoglyceric Acid
+4-Hydroxymandelic Acid
+Adenine
+Adenosine
+Adenosine-5-Monophosphate
+Alanine
+Alpha-Tocopherol
+Aminomalonic Acid
+Lactamide
+Arachidonic Acid (Also Eicosapentaenoic Acid)
+Asparagine
+Aspartic Acid
+Beta-Alanine
+Beta-Hydroxybutyric Acid
+Campesterol
+Carnosine
+Cholesterol
+Citric Acid/Isocitric Acid
+Creatinine
+Dehydroascorbic Acid
+Disaccharide
+Ethanolamine
+Fructose Or Similar Ketohexose
+Fructose-6-Phosphate
+Fumaric Acid
+Gamma-Hydroxybutyric Acid/Ethylmalonic Acid
+Glucose And Other Aldohexoses
+Glucose-6-Phosphate
+Glutamic Acid
+Glutamine
+Glycerol 1-Phosphate
+Glycine
+Hydroxyprolines
+Hypotaurine
+Hypoxanthine
+Inosine
+Isoleucine/Leucine
+Ketopentose-5-Phosphate
+Lactic Acid
+Linoleic Acid
+Lysine
+Malic Acid
+Maltose Or Similar Disaccharide
+Myoinositol
+Myoinositol-2-Phosphate
+N-Acetylneuraminic Acid
+N-Methylalanine/2-Aminobutanoic Acid/N-Ethylglycine
+O-Methylphosphate
+O-Phosphocolamine
+Oleic Acid
+Pantothenic Acid
+Phenylalanine
+Phosphoric Acid
+Proline
+Pyrophosphate
+Serine
+Siloxanes_R1
+Siloxanes_R2
+Siloxanes_R3
+Spermidine
+Spermine
+Squalene
+Stearamide
+Succinic Acid
+Threonine
+Trisaccharide
+Tyrosine
+Uracil
+Urea
+Uric Acid
+Valine
+Xanthine
+METABOLITES_END
+#END

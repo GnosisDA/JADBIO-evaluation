@@ -1,0 +1,249 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170106_122829 DATATRACK_ID:815 STUDY_ID:ST000548 ANALYSIS_ID:AN000836
+VERSION             	1
+CREATED_ON             	February 8, 2017, 1:23 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Reproducibility study: The common feature of leukemia-associated IDH1 and IDH2
+PR:PROJECT_TITLE                 	mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to
+PR:PROJECT_TITLE                 	2-hydroxyglutarate
+PR:PROJECT_SUMMARY               	The Reproducibility Project: Cancer Biology seeks to address growing concerns
+PR:PROJECT_SUMMARY               	about reproducibility in scientific research by conducting replications of
+PR:PROJECT_SUMMARY               	selected experiments from a number of high-profile papers in the field of cancer
+PR:PROJECT_SUMMARY               	biology. The papers, which were published between 2010 and 2012, were selected
+PR:PROJECT_SUMMARY               	on the basis of citations and Altmetric scores (Errington et al., 2014). This
+PR:PROJECT_SUMMARY               	Registered Report describes the proposed replication plan of key experiments
+PR:PROJECT_SUMMARY               	from “The common feature of leukemia-associated IDH1 and IDH2 mutations is a
+PR:PROJECT_SUMMARY               	neomorphic enzyme activity converting alpha-ketoglutarate to
+PR:PROJECT_SUMMARY               	2-hydroxyglutarate” by Ward and colleagues, published in Cancer Cell in 2010
+PR:PROJECT_SUMMARY               	(Ward et al., 2010). The experiments that will be replicated are those reported
+PR:PROJECT_SUMMARY               	in Figures 2, 3 and 5. Ward and colleagues demonstrate the mutations in
+PR:PROJECT_SUMMARY               	isocitrate dehydrogenase 2 (IDH2), commonly found in acute myeloid leukemia
+PR:PROJECT_SUMMARY               	(AML), abrogate the enzyme’s wild-type activity and confer to the mutant
+PR:PROJECT_SUMMARY               	neomorphic activity that produces the oncometabolite 2-hydroxyglutarate (2-HG)
+PR:PROJECT_SUMMARY               	(Figures 2 and 3). They then show that elevated levels of 2-HG are correlated
+PR:PROJECT_SUMMARY               	with mutations in IDH1 and IDH2in AML patient samples (Figure 5). The
+PR:PROJECT_SUMMARY               	Reproducibility Project: Cancer Biology is a collaboration between the Center
+PR:PROJECT_SUMMARY               	for Open Science and Science Exchange and the results of the replications
+PR:PROJECT_SUMMARY               	will be published by eLife.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Genome and Biolmedical Sciences Facility
+PR:LABORATORY                    	WCMC Metabolomics Core
+PR:LAST_NAME                     	Fiehn
+PR:FIRST_NAME                    	Oliver
+PR:ADDRESS                       	Health Sciences Drive, Davis, California, 95616, USA
+PR:EMAIL                         	ofiehn@ucdavis.edu
+PR:PHONE                         	(530) 754-8258
+PR:FUNDING_SOURCE                	NIH U24DK097154
+#STUDY
+ST:STUDY_TITLE                   	Replication study: The common feature of leukemia-associated IDH1 and IDH2
+ST:STUDY_TITLE                   	mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to
+ST:STUDY_TITLE                   	2-hydroxyglutarate
+ST:STUDY_SUMMARY                 	The Reproducibility Project: Cancer Biology seeks to address growing concerns
+ST:STUDY_SUMMARY                 	about reproducibility in scientific research by conducting replications of
+ST:STUDY_SUMMARY                 	selected experiments from a number of high-profile papers in the field of cancer
+ST:STUDY_SUMMARY                 	biology. The papers, which were published between 2010 and 2012, were selected
+ST:STUDY_SUMMARY                 	on the basis of citations and Altmetric scores (Errington et al., 2014). This
+ST:STUDY_SUMMARY                 	Registered Report describes the proposed replication plan of key experiments
+ST:STUDY_SUMMARY                 	from “The common feature of leukemia-associated IDH1 and IDH2 mutations is a
+ST:STUDY_SUMMARY                 	neomorphic enzyme activity converting alpha-ketoglutarate to
+ST:STUDY_SUMMARY                 	2-hydroxyglutarate” by Ward and colleagues, published in Cancer Cell in 2010
+ST:STUDY_SUMMARY                 	(Ward et al., 2010). The experiments that will be replicated are those reported
+ST:STUDY_SUMMARY                 	in Figures 2, 3 and 5. Ward and colleagues demonstrate the mutations in
+ST:STUDY_SUMMARY                 	isocitrate dehydrogenase 2 (IDH2), commonly found in acute myeloid leukemia
+ST:STUDY_SUMMARY                 	(AML), abrogate the enzyme’s wild-type activity and confer to the mutant
+ST:STUDY_SUMMARY                 	neomorphic activity that produces the oncometabolite 2-hydroxyglutarate (2-HG)
+ST:STUDY_SUMMARY                 	(Figures 2 and 3). They then show that elevated levels of 2-HG are correlated
+ST:STUDY_SUMMARY                 	with mutations in IDH1 and IDH2in AML patient samples (Figure 5). The
+ST:STUDY_SUMMARY                 	Reproducibility Project: Cancer Biology is a collaboration between the Center
+ST:STUDY_SUMMARY                 	for Open Science and Science Exchange and the results of the replications
+ST:STUDY_SUMMARY                 	will be published by eLife.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+ST:LABORATORY                    	WCMC Metabolomics Core
+ST:LAST_NAME                     	Fiehn
+ST:FIRST_NAME                    	Oliver
+ST:ADDRESS                       	Health Sciences Drive, Davis, California, 95616, USA
+ST:EMAIL                         	ofiehn@ucdavis.edu
+ST:PHONE                         	(530) 754-8258
+#SUBJECT
+SU:SUBJECT_TYPE                  	Cells
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	Inj08_STD6_liner2.D	QC001	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj09_CS29_V09_24.D	V09	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj10_CS19_MUT09_24.D	MUT09	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj11_CS17_MUT07_24.D	MUT07	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj12_CS16_MUT06_24.D	MUT06	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj13_CS02_WT02_24.D	WT02	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj14_CS07_WT07_24.D	WT07	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj15_CS05_WT05_24.D	WT05	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj16_CS14_MUT04_24.D	MUT04	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj17_CS27_V07_24.D	V07	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj18_CS18_MUT08_24.D	MUT08	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj19_STD6_liner2.D	QC002	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj20_CS04_WT04_24.D	WT04	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj21_CS06_WT06_24.D	WT06	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj22_CS22_V02_24.D	V02	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj23_CS03_WT03_24.D	WT03	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj24_CS20_MUT10_24.D	MUT10	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj25_CS10_WT10_24.D	WT10	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj26_CS01_WT01_24.D	WT01	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj27_CS15_MUT05_24.D	MUT05	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj28_CS08_WT08_24.D	WT08	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj29_CS25_V05_24.D	V05	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj30_STD6_liner2.D	QC003	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj31_CS13_MUT03_24.D	MUT03	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj32_CS09_WT09_24.D	WT09	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj33_CS30_V10_24.D	V10	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj34_CS26_V06_24.D	V06	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj35_CS24_V04_24.D	V04	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj36_CS21_V01_24.D	V01	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj37_CS12_MUT02_24.D	MUT02	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj38_CS23_V03_24.D	V03	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj39_CS11_MUT01_24.D	MUT01	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj40_CS28_V08_24.D	V08	Time Point:CS-24h | Sample Source:293T HEK cell line	Sample Type=Vector
+SUBJECT_SAMPLE_FACTORS           	Inj41_STD6_liner2.D	QC004	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj43_CS33_MB_01.D	Blank001	Time Point:Blank | Sample Source:-	Sample Type=MTBSTFA/ACN (1:1,v/v)
+SUBJECT_SAMPLE_FACTORS           	Inj45_STD6_liner2.D	QC005	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj46_HR_11_IDH1.D	HR_11_IDH1	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH1 Mutant (R132C)
+SUBJECT_SAMPLE_FACTORS           	Inj47_HR_09_IDH1.D	HR_09_IDH1	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH1 Mutant (R132C)
+SUBJECT_SAMPLE_FACTORS           	Inj48_HR_02_WT.D	HR_02_WT	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj49_HR_05_IDH2.D	HR_05_IDH2	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj50_HR_07_IDH2.D	HR_07_IDH2	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj51_HR_10_IDH1.D	HR_10_IDH1	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH1 Mutant (R132C)
+SUBJECT_SAMPLE_FACTORS           	Inj52_STD6_liner2.D	QC06	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj53_HR_08_IDH2.D	HR_08_IDH2	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj54_HR_12_IDH1.D	HR_12_IDH1	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH1 Mutant (R132C)
+SUBJECT_SAMPLE_FACTORS           	Inj55_HR_03_WT.D	HR_03_WT	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj56_HR_06_IDH2.D	HR_06_IDH2	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj57_HR_04_WT.D	HR_04_WT	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj58_HR_01_WT.D	HR_01_WT	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Sample Type=IDH Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj59_HR_MB.D	Blank002	Time Point:Blank | Sample Source:-	Sample Type=MTBSTFA/ACN (1:1,v/v)
+SUBJECT_SAMPLE_FACTORS           	Inj60_STD6_liner2.D	QC007	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj08_STD6_liner3.D	QC008	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj09_CS49_MUT09.D	CS49_MUT09_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj10_CS43_MUT03.D	CS43_MUT03_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj11_CS56_V06.D	CS56_V06_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj12_CS53_V03.D	CS53_V03_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj13_CS37_WT07.D	CS37_WT07_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj14_CS47_MUT07.D	CS47_MUT07_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj15_CS58_V08.D	CS58_V08_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj16_CS51_V01.D	CS51_V01_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj17_CS33_WT03.D	CS33_WT03_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj18_CS44_MUT04.D	CS44_MUT04_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj19_STD6_liner3.D	QC009	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj20_CS41_MUT01.D	CS41_MUT01_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj21_CS39_WT09.D	CS39_WT09_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj22_CS52_V02.D	CS52_V02_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj23_CS48_MUT08.D	CS48_MUT08_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj24_CS42_MUT02.D	CS42_MUT02_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj25_CS57_V07.D	CS57_V07_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj26_CS45_MUT05.D	CS45_MUT05_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj27_CS34_WT04.D	CS34_WT04_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj28_CS36_WT06.D	CS36_WT06_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj29_CS50_MUT10.D	CS50_MUT10_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj30_STD6_liner3.D	QC010	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj31_CS40_WT10.D	CS40_WT10_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj32_CS38_WT08.D	CS38_WT08_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj33_CS55_V05.D	CS55_V05_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj34_CS59_V09.D	CS59_V09_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj35_CS54_V04.D	CS54_V04_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj36_CS35_WT05.D	CS35_WT05_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj37_CS46_MUT06.D	CS46_MUT06_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Mutant (R172K)
+SUBJECT_SAMPLE_FACTORS           	Inj38_CS32_WT02.D	CS32_WT02_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj39_CS60_V10.D	CS60_V10_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=Empty Vector Control
+SUBJECT_SAMPLE_FACTORS           	Inj40_CS31_WT01.D	CS31_WT01_48	Time Point:CS-48h | Sample Source:293T HEK cell line	Sample Type=IDH2 Wild Type
+SUBJECT_SAMPLE_FACTORS           	Inj41_STD6_liner3.D	QC011	Time Point:QC | Sample Source:-	Sample Type=Quality Control
+SUBJECT_SAMPLE_FACTORS           	Inj44_MB_liner3.D	Blank003	Time Point:Blank | Sample Source:-	Sample Type=MTBSTFA/ACN (1:1,v/v)
+#COLLECTION
+CO:COLLECTION_SUMMARY            	293T Cells were harvested 24 and 48 hours after transfection by removal of media
+CO:COLLECTION_SUMMARY            	and rapid quenching with 1.5 mL per 10 cm plate of -80°C methanol. Cells were
+CO:COLLECTION_SUMMARY            	incubated at -80°C for 15 minutesmin, then scraped off the dish and centrifuged
+CO:COLLECTION_SUMMARY            	for 5 min at 2,000 x g at 4°C to pellet cellular debris. Pellet was
+CO:COLLECTION_SUMMARY            	re-extracted by addition of 500 µL of -80°C 80% methanol in water, vortexed,
+CO:COLLECTION_SUMMARY            	then incubated at 4°C for 15 minutes and centrifuged for 5 minutes at 2,000 x g
+CO:COLLECTION_SUMMARY            	at 4°C. Peripheral blood mono-nuclear cells were centrifuged at 2,000 x g,
+CO:COLLECTION_SUMMARY            	freeze media removed and extracted using same procedure as 293T cells.
+CO:COLLECTION_PROTOCOL_FILENAME  	The common feature of IDH1 and IDH2 mutations.pdf
+CO:SAMPLE_TYPE                   	Cells
+CO:COLLECTION_LOCATION           	UC Davis Genome and Biomedical Sciences Facility
+#TREATMENT
+TR:TREATMENT_SUMMARY             	239T cells (ATCC CRL-3216) were grown in DMEM (Invitrogen) with 10% FBS
+TR:TREATMENT_SUMMARY             	(Hyclone) at -37°C in 10% CO2 and transfected with pcDNA3.1, pcDNA3.1-IDH2WT,
+TR:TREATMENT_SUMMARY             	pcDNA3.1-IDH2R172K (Invitrogen and Origene) with Lipofectamine 2000 (Invitrogen)
+TR:TREATMENT_SUMMARY             	according to manufacturer instructions. 6x10^5 cells were seeded in 6 well
+TR:TREATMENT_SUMMARY             	plates for protocol 1 and 3.5x10^6 cells were seeded in 10 cm plates for
+TR:TREATMENT_SUMMARY             	protocol 2. Identity of all vectors was confirmed by sequencing and vector
+TR:TREATMENT_SUMMARY             	integrity with agarose gel electrophoresis.
+TR:TREATMENT_PROTOCOL_FILENAME   	The common feature of IDH1 and IDH2 mutations.pdf
+TR:CELL_ENVIR_COND               	239T cells (ATCC CRL-3216) were grown in DMEM (Invitrogen) with 10% FBS
+TR:CELL_ENVIR_COND               	(Hyclone) at 37°C in 10% CO2 and transfected with pcDNA3.1, pcDNA3.1-IDH2WT,
+TR:CELL_ENVIR_COND               	pcDNA3.1-IDH2R172K (Invitrogen and Origene) with Lipofectamine 2000 (Invitrogen)
+TR:CELL_ENVIR_COND               	according to manufacturer instructions.
+TR:CELL_HARVESTING               	24-48 hours after transfection
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Supernatants were combined and evaporated to dryness. Samples were then
+SP:SAMPLEPREP_SUMMARY            	re-suspended in 200 µL LC-MS-grade water. A 2 mL AG-1 X8 100-200 anion exchange
+SP:SAMPLEPREP_SUMMARY            	resin (Bio-Rad) was washed with 5 column volumes (10 mL) of 3 N HCl followed by
+SP:SAMPLEPREP_SUMMARY            	transfer of re-suspended extracts to resin column. Metabolites were eluted using
+SP:SAMPLEPREP_SUMMARY            	10 mL 3 N HCl. Samples were evaporated to dryness and re-suspended in 100 µL
+SP:SAMPLEPREP_SUMMARY            	MTBSTFA/ACN (1:1, v/v) and shaken at 60°C for 1 hour. Derivatized extracts were
+SP:SAMPLEPREP_SUMMARY            	further diluted (1:4) with a MTBSTFA/ACN (1:1, v/v) mixture and transferred to
+SP:SAMPLEPREP_SUMMARY            	glass vials with micro-inserts and capped immediately.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	The common feature of IDH1 and IDH2 mutations.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent 7890A GC
+CH:COLUMN_NAME                	Agilent HP-5MS UI (30 m length x 0.25 mm internal diameter, 0.25 μm)
+CH:FLOW_RATE                  	1mL/min
+CH:COLUMN_TEMPERATURE         	250°C
+CH:METHODS_FILENAME           	Data_Dictionary_Fiehn_laboratory_GCTOF_MS_primary_metabolism_10-15-2013_general.pdf
+CH:SAMPLE_INJECTION           	0.2µl
+CH:OVEN_TEMPERATURE           	100°C (3 min), 4°C/min to 230°C (hold 4 min), 30°C/min to 300°C (hold 5
+CH:OVEN_TEMPERATURE           	min)
+CH:TRANSFERLINE_TEMPERATURE   	230°C
+CH:RANDOMIZATION_ORDER        	Excel generated
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	WCMC Metabolomics Center
+AN:DETECTOR_TYPE            	TOF
+AN:SOFTWARE_VERSION         	Chromatof
+AN:DATA_FORMAT              	.d
+#MS
+MS:INSTRUMENT_NAME          	Agilent 7890A GC
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+MS:ION_SOURCE_TEMPERATURE   	230°C
+MS:IONIZATION_ENERGY        	70eV
+MS:MASS_ACCURACY            	Nominal
+MS:SCAN_RANGE_MOVERZ        	50-600 Da
+MS:SCANNING_CYCLE           	2.71 scans/sec
+MS:SCANNING_RANGE           	50-600 Da
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Counts
+MS_METABOLITE_DATA_START
+Samples	V09	MUT09	MUT07	MUT06	WT02	WT07	WT05	MUT04	V07	MUT08	QC002	WT04	WT06	V02	WT03	MUT10	WT10	WT01	MUT05	WT08	V05	QC003	MUT03	WT09	V10	V06	V04	V01	MUT02	V03	MUT01	V08	QC004	Blank001	QC005	HR_11_IDH1	HR_09_IDH1	HR_02_WT	HR_05_IDH2	HR_07_IDH2	HR_10_IDH1	QC06	HR_08_IDH2	HR_12_IDH1	HR_03_WT	HR_06_IDH2	HR_04_WT	HR_01_WT	Blank002	QC007	QC008	CS49_MUT09_48	CS43_MUT03_48	CS56_V06_48	CS53_V03_48	CS37_WT07_48	CS47_MUT07_48	CS58_V08_48	CS51_V01_48	CS33_WT03_48	CS44_MUT04_48	QC009	CS41_MUT01_48	CS39_WT09_48	CS52_V02_48	CS48_MUT08_48	CS42_MUT02_48	CS57_V07_48	CS45_MUT05_48	CS34_WT04_48	CS36_WT06_48	CS50_MUT10_48	QC010	CS40_WT10_48	CS38_WT08_48	CS55_V05_48	CS59_V09_48	CS54_V04_48	CS35_WT05_48	CS46_MUT06_48	CS32_WT02_48	CS60_V10_48	CS31_WT01_48	QC011	Blank003
+Factors	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:QC | Sample Source:-	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:QC | Sample Source:-	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:CS-24h | Sample Source:293T HEK cell line	Time Point:QC | Sample Source:-	Time Point:Blank | Sample Source:-	Time Point:QC | Sample Source:-	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:QC | Sample Source:-	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:HR | Sample Source:Peripheral blood mono-nuclear cells	Time Point:Blank | Sample Source:-	Time Point:QC | Sample Source:-	Time Point:QC | Sample Source:-	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:QC | Sample Source:-	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:QC | Sample Source:-	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:CS-48h | Sample Source:293T HEK cell line	Time Point:QC | Sample Source:-	Time Point:Blank | Sample Source:-
+Asp TIC Results	62067.0586	68997.33993	75371.38813	70801.55076	57925.81691	54193.40238	70498.59874	75943.91992	64545.09647	85047.2726	447866.2448	48154.70257	57527.10983	195115.1489	109874.8587	24718.9052	42896.08221	65546.02794	66255.50981	52567.21863	59880.8502	517862.6181	184595.3644	68731.63646	69226.80163	69381.23022	50766.08415	66367.8631	89576.99165	75550.29143	82785.95803	54247.98495	429798.3593	5306.82436	508958.2916	609124.4604	199059.426	498470.7185	114465.8525	294486.5884	148462.0829	830592.7041	1251014.126	30251.68959	135569.8079	493269.6016	3450604.433	207144.2845	10665.68855	788290.8294	620218.6602	22127.07494	55695.28688	27501.0992	48423.55338	21037.22373	22634.30231	24947.40435	24803.51163	33477.10421	15504.29583	586575.8508	23392.70818	22287.02709	22427.61428	22521.52089	31661.43607	30064.90361	20797.25454	20106.64763	23075.75919	20365.98566	513001.8396	20638.83746	23649.2834	29344.76887	26826.7331	23241.50115	24558.9413	18890.38544	31039.5341	22522.23797	19136.39006	498748.7566	14472.85897
+Asp EIC Results	3662.335785	4347.787233	4583.813687	4203.923077	3334	3182	4256.284942	4528.721112	3918	4911.015217	28168	2718.296788	3421.644581	12155.11512	6705.797197	1454	2236.269006	3674.666291	3960.195702	3085.191925	3243	33897.15629	11989.50018	4013.754717	3994.741025	4002.483707	3013.425367	4072	5499.242766	4173.888452	4778	3045	27344	34	32648	40897.83605	11823.08569	33519.62848	6254.089803	18889.7325	8699.05017	58439.72847	89508.51923	1287.386974	7797.942518	32259.55409	278317.2429	13213.95684	25.93100988	54622.76509	36722.98839	1165	3313.723305	1411	2723	1062	1194	1264	1441.993592	1879	1042.273538	34674.55438	1327	1135	1103	1242	1951	1519	1009	1220	1151	1152	31354.5028	911	1221	1578	1389.318707	1234	1097	951.2824659	1816.250938	1046	1005	29754.16455	65
+2HG TIC Results	2379.6125	929937.0141	998440.9202	1069168.264	1766.103125	1957.321316	2171.235413	1099299.67	1892.113359	1145497.368	1622118.682	1975.7625	1905.813369	1984.771547	1546.773382	345366.8361	1970.146877	1600.292662	1295079.348	1979.033494	1900.014468	2014774.842	1280467.562	3027.920939	2127.9625	2185.223102	1412.21632	1225.53659	793902.9575	2112.97766	1011826.018	1652.465949	1557615.714	5827.246875	2067240.808	170291.5777	3583177.525	5628.459375	110893.0043	988477.7222	62002.62615	2617796.438	3029049.197	77559.86208	7178.801639	1450304.234	11398.43176	4855.188278	5736.79375	2501630.235	2308320.5	677076.7539	157407.1728	970.9440275	1329.561653	1737.817176	767532.3147	3001.959482	1516.810698	1431.522293	340394.3165	2295711.772	410910.7765	1573.514574	1086.680241	628545.7785	197697.5771	1267.5	352363.9151	1232.087565	1126.125	387689.2244	2118710.26	1059.402263	939.9966076	1131.44375	1327.84375	1295.81875	1672.782695	714603.4415	2195.4	1634.450019	2509.975414	2056238.225	4077.5625
+2HG EIC Results	270	138357.9143	149553.5296	167596.3631	229	191.0320803	227	165613.6082	202	174699.255	247344.8571	269	293	153.6153846	106	46323.90963	188	208	193454.2214	224.7783898	217.5384615	313709.2498	193792	309	186.7152671	208	147	114.9890625	113573.8189	99.34615385	149099.4184	185	237473.5094	350	310272	23652.43084	621035.4005	412.2819881	15248.91958	152807.3429	8894.017817	424871.6039	514037.0952	10228.53963	296.2179893	229797.9352	2742.899876	398.9230769	24.56854897	402789.2198	337960.5409	91317.61085	20168.79702	172	97	187	105992.4709	214	100	174.4615385	43709.26145	333160.3944	52373.78773	229.4774348	95	86368	25699.3888	111	44661.99109	140	219	50886.54115	300712.5488	252	202	79	139	101	88	96216.04266	136	39.28245356	416.0769231	286699.1261	277
+Glu TIC Results	6571665.097	2105616.63	2428900.625	2636272.734	5319126.759	4913475.068	6259518.76	2824469.46	6210461.425	3010281.962	492659.6078	5720729.838	5446163.308	7399968.004	6710379.362	325767.923	2744293.793	5883039.872	2628371.845	5277603.5	5635202.765	598050.7795	3618888.413	6774789.104	5235173	7130334.299	5388128.67	6177417.333	3911635.827	6304200.431	2773219.482	5752449.506	494130.8833	2445.575749	608088.0796	5657123.897	5421979.081	6700558.637	2476359.879	5688185.037	2886950.29	899682.6277	7693632.984	1022163.621	2983100.095	7513739.861	15857911.82	3486475.573	3341.736286	861844.5374	782679.0936	402768.302	917124.0403	916524.7667	896398.7647	820508.4048	371541.9572	627541.9594	1423014.712	667199.7068	229728.4523	716686.8442	545835.1978	684639.2191	480477.1016	448996.381	335738.4797	1373593.676	442350.3798	479408.5638	749449.6118	276934.2842	639601.1459	912840.1011	811977.5594	1048159.737	801784.0505	523768.2465	906725.4161	296481.0148	629705.2325	1078039.936	981691.4646	611840.7043	2820.99936
+Glu EIC Results	990626.18	275121.6334	327978.707	351267.1984	775707.6208	718882.7063	948702.1825	375655.602	958285.8009	411560.9846	56331.95826	820832.6422	779101.1062	1121221.964	1010130.576	36423.1178	354539.6253	863701.3527	344749.4315	786260.5234	827220.0986	69132.46603	509222.163	1025686.712	767966.1044	1096147.9	796064.9075	934035.5617	553716.6715	967320.9254	379383.6661	856029.8588	57421.82176	173.1177599	68298.64274	837782.48	830819.2785	1052077.06	338847.0227	879267.292	410022.5336	114711.7821	1228190.706	131308.0108	423002.6766	1211303.961	2735000.716	493847.4982	52.31457294	107096.0611	85587.29888	43606.31775	104180.3391	103251.6172	98985.38524	93037.50765	38941.82004	68263.01578	161903.8392	72772.85632	23784.77659	79924.08804	59903.28215	74874.48183	52460.39831	47686.8242	35286.04402	159346.2915	47240.15665	49911.82271	81988.5512	28334.90626	68413.25009	102408	88845.668	120836.1069	89995.74745	56981.70133	102053.4034	30213.95252	68351.40361	122740.3042	110601.1028	66061.18033	129
+Ratio of 2HG/Glu TIC	0.000362102	0.44164593	0.411067011	0.405560567	0.000332029	0.000398358	0.000346869	0.38920572	0.000304666	0.380528264	3.292574947	0.000345369	0.000349937	0.000268214	0.000230505	1.060162194	0.000717907	0.000272018	0.492730642	0.000374987	0.000337169	3.368902628	0.353828971	0.00044694	0.000406474	0.000306469	0.000262098	0.00019839	0.202959323	0.00033517	0.364856091	0.000287263	3.152233075	2.38277096	3.399574629	0.030102147	0.660861555	0.000839999	0.04478065	0.17377735	0.02147686	2.909688769	0.393708564	0.075878128	0.00240649	0.193020288	0.000718785	0.001392578	1.716710494	2.902646738	2.949255345	1.681057696	0.17163128	0.001059376	0.001483226	0.002117976	2.065802529	0.004783679	0.001065914	0.002145568	1.481724676	3.203228566	0.752811065	0.002298312	0.002261669	1.399890523	0.588843964	0.000922762	0.796571974	0.002570016	0.001502603	1.39993221	3.312549193	0.001160556	0.001157663	0.001079457	0.001656111	0.002474031	0.001844861	2.410283984	0.003486393	0.001516131	0.002556786	3.360741137	1.445431913
+Ratio of 2HG/Glu EIC	0.000272555	0.502897255	0.455985484	0.477119309	0.000295214	0.000265735	0.000239274	0.440865536	0.000210793	0.424479631	4.390844286	0.000327716	0.000376074	0.000137007	0.000104937	1.271827137	0.000530265	0.000240824	0.561144425	0.000285883	0.000262975	4.537799211	0.38056474	0.000301262	0.00024313	0.000189755	0.000184658	0.00012311	0.205111792	0.000102702	0.393004317	0.000216114	4.135596924	2.021745199	4.542872121	0.028232186	0.74749758	0.000391874	0.045002371	0.173789409	0.021691534	3.703818354	0.418531986	0.077897301	0.000700275	0.189711206	0.001002888	0.000807786	0.469631072	3.761008721	3.948723062	2.09413717	0.193595041	0.001665833	0.000979943	0.002009942	2.721816052	0.003134933	0.000617651	0.002397344	1.837699054	4.16846038	0.874305812	0.003064828	0.00181089	1.811150175	0.728315954	0.000696596	0.94542428	0.002804947	0.002671105	1.795895871	4.395530814	0.002460745	0.002273606	0.000653778	0.001544517	0.001772499	0.000862294	3.184490431	0.001989718	0.000320045	0.00376196	4.339903172	2.147286822
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+Asp TIC Results
+Asp EIC Results
+2HG TIC Results
+2HG EIC Results
+Glu TIC Results
+Glu EIC Results
+Ratio of 2HG/Glu TIC
+Ratio of 2HG/Glu EIC
+METABOLITES_END
+#END

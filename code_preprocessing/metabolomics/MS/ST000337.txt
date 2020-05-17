@@ -1,0 +1,204 @@
+#METABOLOMICS WORKBENCH kenanazam_20160121_111839 STUDY_ID:ST000337 ANALYSIS_ID:AN000544
+VERSION             	1
+CREATED_ON             	January 21, 2016, 11:48 am
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolomics approach to allograft assessment in liver transplantation
+PR:PROJECT_TYPE                  	Retrospective analysis of biobank samples
+PR:PROJECT_SUMMARY               	Organ shortage is the primary limiting factor in liver transplantation and has
+PR:PROJECT_SUMMARY               	led to expanded utilization of livers from marginal donors. Assessment of liver
+PR:PROJECT_SUMMARY               	allograft quality is currently based on clinical factors such as donor age,
+PR:PROJECT_SUMMARY               	cause of death, liver function, routine clinical laboratory values and extent of
+PR:PROJECT_SUMMARY               	graft steatosis (fat content). Expanded utilization necessitates a more detailed
+PR:PROJECT_SUMMARY               	assessment of liver allograft quality to guide decisions regarding suitability
+PR:PROJECT_SUMMARY               	for transplantation. Using a metabolomics approach, we plan to capture molecular
+PR:PROJECT_SUMMARY               	snapshots of the physiologic state of the graft and to elucidate biomarkers of
+PR:PROJECT_SUMMARY               	allograft quality and graft function post-transplant.
+PR:INSTITUTE                     	Ochsner Multi-Organ Transplant Institute / SECIM
+PR:DEPARTMENT                    	Abdominal Organ Transplantation
+PR:LABORATORY                    	Not applicable
+PR:LAST_NAME                     	Azam
+PR:FIRST_NAME                    	Kenan
+PR:ADDRESS                       	1514 Jefferson Highway, New Orleans, LA 70121
+PR:EMAIL                         	John.Seal@ochsner.org
+PR:PHONE                         	504-232-4253
+PR:FUNDING_SOURCE                	SECIM Pilot and Feasibility Award
+#STUDY
+ST:STUDY_TITLE                   	Metabolomics Approach to Allograft Assessment in Liver Transplantation
+ST:STUDY_TYPE                    	Retrospective analysis of biobanked liver tissue from organ donors
+ST:STUDY_SUMMARY                 	This pilot study is designed to apply several types of metabolomic analysis for
+ST:STUDY_SUMMARY                 	liver allograft assessment with the aim of identifying candidate biomarkers for
+ST:STUDY_SUMMARY                 	allograft function and to develop a methodology that could be applied to larger
+ST:STUDY_SUMMARY                 	scale studies. The three main categories of metabolomic analysis are reflected
+ST:STUDY_SUMMARY                 	in each of the specific aims, including a targeted profiling of central carbon
+ST:STUDY_SUMMARY                 	metabolism, open lipidomic and metabolomic profiling for hypothesis generation
+ST:STUDY_SUMMARY                 	and MALDI-IMS for tissue-based spatial analysis. Each of these approaches offers
+ST:STUDY_SUMMARY                 	potential benefits that could be optimized in a protocol for larger scale
+ST:STUDY_SUMMARY                 	studies depending the results of the pilot investigations.
+ST:INSTITUTE                     	Ochsner Multi-Organ Transplant Institute
+ST:DEPARTMENT                    	SECIM
+ST:LABORATORY                    	Abdominal Organ Transplantation
+ST:LAST_NAME                     	Seal
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	1514 Jefferson Highway, New Orleans, LA 70121
+ST:EMAIL                         	John.Seal@ochsner.org
+ST:PHONE                         	504-232-4253
+ST:NUM_GROUPS                    	3
+ST:TOTAL_SUBJECTS                	Targeted analysis and open profiling: Control group - standard criteria donor
+ST:TOTAL_SUBJECTS                	(N=15); Experimental group - donation-after-cardiac-death donors (N=10).
+ST:TOTAL_SUBJECTS                	MALDI-IMS - standard criteria donor (N=10)
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human tissue (Decendent)
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:GENOTYPE_STRAIN               	Not applicable
+SU:AGE_OR_AGE_RANGE              	Variable
+SU:WEIGHT_OR_WEIGHT_RANGE        	Variable
+SU:HEIGHT_OR_HEIGHT_RANGE        	Variable
+SU:GENDER                        	Variable
+SU:HUMAN_RACE                    	Variable
+SU:HUMAN_ETHNICITY               	Variable
+SU:HUMAN_TRIAL_TYPE              	Not applicable
+SU:HUMAN_LIFESTYLE_FACTORS       	Not applicable
+SU:HUMAN_MEDICATIONS             	Not applicable
+SU:HUMAN_PRESCRIPTION_OTC        	Not applicable
+SU:HUMAN_SMOKING_STATUS          	Not applicable
+SU:HUMAN_ALCOHOL_DRUG_USE        	Not applicable
+SU:HUMAN_NUTRITION               	Not applicable
+SU:HUMAN_INCLUSION_CRITERIA      	Deceased organ donor with consent for use of tissue for research
+SU:HUMAN_EXCLUSION_CRITERIA      	None
+SU:ANIMAL_ANIMAL_SUPPLIER        	in house/in house
+SU:SUBJECT_COMMENTS              	Liver biopsy is routinely performed on livers used for solid organ
+SU:SUBJECT_COMMENTS              	transplantation. The tissue is from decedent subjects. Consent for use of tissue
+SU:SUBJECT_COMMENTS              	is obtained at the time of organ donation by the local organ procurement
+SU:SUBJECT_COMMENTS              	organization.
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	114291	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=1/20/2015; OPO=AROR; ABO=A; AGE (years)=46; RACE=CAU; SEX=F; DONOR HEIGHT (cm)=163; DONOR WEIGHT (kg)=74.4; Hep C Positive Donor=NO; Cold Ischemia (min)=327; Cold Ischemia (Hrs)=5.45; DCD DONOR=YES; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	116707	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=2/7/2015; OPO=LAOP; ABO=A; AGE (years)=52; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=175.26; DONOR WEIGHT (kg)=96.79; Hep C Positive Donor=NO; Cold Ischemia (min)=278; Cold Ischemia (Hrs)=4.63; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	115165	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=4/1/2015; OPO=TXSB; ABO=O; AGE (years)=59; RACE=CAU; SEX=F; DONOR HEIGHT (cm)=165; DONOR WEIGHT (kg)=63; Hep C Positive Donor=NO; Cold Ischemia (min)=323; Cold Ischemia (Hrs)=5.38; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	115333	DONOR CAUSE OF DEATH:Cerebrovascular/Stroke	RECOVERY DATE=4/10/2015; OPO=PADV; ABO=B; AGE (years)=44; RACE=BLK; SEX=M; DONOR HEIGHT (cm)=180.34; DONOR WEIGHT (kg)=59; Hep C Positive Donor=NO; Cold Ischemia (min)=454; Cold Ischemia (Hrs)=7.57; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	115342	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=4/10/2015; OPO=LAOP; ABO=B; AGE (years)=46; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=180.34; DONOR WEIGHT (kg)=103.78; Hep C Positive Donor=NO; Cold Ischemia (min)=216; Cold Ischemia (Hrs)=3.60; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	117751	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=6/25/2015; OPO=LAOP; ABO=O; AGE (years)=48; RACE=BLK; SEX=M; DONOR HEIGHT (cm)=182.9; DONOR WEIGHT (kg)=105.9; Hep C Positive Donor=NO; Cold Ischemia (min)=228; Cold Ischemia (Hrs)=3.80; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121063	DONOR CAUSE OF DEATH:Cerebrovascular/Stroke	RECOVERY DATE=8/26/2015; OPO=LAOP; ABO=B; AGE (years)=48; RACE=BLK; SEX=F; DONOR HEIGHT (cm)=154.94; DONOR WEIGHT (kg)=119.15; Hep C Positive Donor=NO; Cold Ischemia (min)=207; Cold Ischemia (Hrs)=3.45; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	120237	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=8/5/2015; OPO=LAOP; ABO=O; AGE (years)=40; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=177.8; DONOR WEIGHT (kg)=82.8; Hep C Positive Donor=NO; Cold Ischemia (min)=320; Cold Ischemia (Hrs)=5.33; DCD DONOR=YES; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	120240	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=8/6/2015; OPO=TNDS; ABO=AB; AGE (years)=27; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=183; DONOR WEIGHT (kg)=93.3; Hep C Positive Donor=NO; Cold Ischemia (min)=293; Cold Ischemia (Hrs)=4.88; DCD DONOR=YES; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	120257	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=8/15/2015; OPO=ALOB; ABO=O; AGE (years)=28; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=183; DONOR WEIGHT (kg)=78; Hep C Positive Donor=YES; Cold Ischemia (min)=226; Cold Ischemia (Hrs)=3.77; DCD DONOR=YES; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121095	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=9/22/2015; OPO=LAOP; ABO=O; AGE (years)=23; RACE=BLK; SEX=F; DONOR HEIGHT (cm)=170.18; DONOR WEIGHT (kg)=61.37; Hep C Positive Donor=NO; Cold Ischemia (min)=171; Cold Ischemia (Hrs)=2.85; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	114300	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=1/31/2015; OPO=LAOP; ABO=A; AGE (years)=25; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=182.88; DONOR WEIGHT (kg)=66.22; Hep C Positive Donor=NO; Cold Ischemia (min)=377; Cold Ischemia (Hrs)=6.28; DCD DONOR=NO; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	116736	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=4/11/2015; OPO=LAOP; ABO=B; AGE (years)=25; RACE=BLK; SEX=F; DONOR HEIGHT (cm)=139.7; DONOR WEIGHT (kg)=84.14; Hep C Positive Donor=NO; Cold Ischemia (min)=281; Cold Ischemia (Hrs)=4.68; DCD DONOR=NO; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121087	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=9/18/2015; OPO=LAOP; ABO=O; AGE (years)=26; RACE=BLK; SEX=M; DONOR HEIGHT (cm)=175.26; DONOR WEIGHT (kg)=74.84; Hep C Positive Donor=NO; Cold Ischemia (min)=366; Cold Ischemia (Hrs)=6.10; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	117323	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=6/8/2015; OPO=LAOP; ABO=O; AGE (years)=27; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=177.8; DONOR WEIGHT (kg)=67.8; Hep C Positive Donor=NO; Cold Ischemia (min)=262; Cold Ischemia (Hrs)=4.37; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121091	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=9/20/2015; OPO=LAOP; ABO=O; AGE (years)=31; RACE=CAU; SEX=F; DONOR HEIGHT (cm)=172.72; DONOR WEIGHT (kg)=77.65; Hep C Positive Donor=NO; Cold Ischemia (min)=414; Cold Ischemia (Hrs)=6.90; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121089	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=9/19/2015; OPO=LAOP; ABO=O; AGE (years)=34; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=182.88; DONOR WEIGHT (kg)=95; Hep C Positive Donor=NO; Cold Ischemia (min)=46; Cold Ischemia (Hrs)=0.77; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	116709	DONOR CAUSE OF DEATH:Trauma	RECOVERY DATE=2/17/2015; OPO=LAOP; ABO=O; AGE (years)=35; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=182.88; DONOR WEIGHT (kg)=72.57; Hep C Positive Donor=NO; Cold Ischemia (min)=367; Cold Ischemia (Hrs)=6.12; DCD DONOR=NO; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	114647	DONOR CAUSE OF DEATH:Cerebrovascular/Stroke	RECOVERY DATE=2/12/2015; OPO=LAOP; ABO=O; AGE (years)=39; RACE=BLK; SEX=F; DONOR HEIGHT (cm)=170.18; DONOR WEIGHT (kg)=80.83; Hep C Positive Donor=NO; Cold Ischemia (min)=156; Cold Ischemia (Hrs)=2.60; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	118601	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=7/19/2015; OPO=LAOP; ABO=A1; AGE (years)=39; RACE=CAU; SEX=F; DONOR HEIGHT (cm)=154.9; DONOR WEIGHT (kg)=62.5; Hep C Positive Donor=NO; Cold Ischemia (min)=236; Cold Ischemia (Hrs)=3.93; DCD DONOR=NO; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121079	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=9/8/2015; OPO=LAOP; ABO=O; AGE (years)=40; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=160; DONOR WEIGHT (kg)=67.2; Hep C Positive Donor=NO; Cold Ischemia (min)=338; Cold Ischemia (Hrs)=5.63; DCD DONOR=NO; PHS Increased Risk Donor=YES; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121364	DONOR CAUSE OF DEATH:CVA	RECOVERY DATE=10/7/2015; OPO=LAOP; ABO=O; AGE (years)=43; RACE=CAU; SEX=M; DONOR HEIGHT (cm)=172.72; DONOR WEIGHT (kg)=82.9; Hep C Positive Donor=NO; Cold Ischemia (min)=54; Cold Ischemia (Hrs)=0.90; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121358	DONOR CAUSE OF DEATH:CVA	RECOVERY DATE=10/4/2015; OPO=LAOP; ABO=O; AGE (years)=44; RACE=BLK; SEX=F; DONOR HEIGHT (cm)=162.6; DONOR WEIGHT (kg)=53.9; Hep C Positive Donor=NO; Cold Ischemia (min)=246; Cold Ischemia (Hrs)=4.10; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	121356	DONOR CAUSE OF DEATH:CVA	RECOVERY DATE=10/3/2015; OPO=LAOP; ABO=O; AGE (years)=49; RACE=BLK; SEX=M; DONOR HEIGHT (cm)=167.6; DONOR WEIGHT (kg)=52.4; Hep C Positive Donor=NO; Cold Ischemia (min)=336; Cold Ischemia (Hrs)=5.60; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+SUBJECT_SAMPLE_FACTORS           	-	115347	DONOR CAUSE OF DEATH:Anoxia	RECOVERY DATE=4/23/2015; OPO=LAOP; ABO=B; AGE (years)=49; RACE=BLK; SEX=F; DONOR HEIGHT (cm)=162.56; DONOR WEIGHT (kg)=73.84; Hep C Positive Donor=NO; Cold Ischemia (min)=280; Cold Ischemia (Hrs)=4.67; DCD DONOR=NO; PHS Increased Risk Donor=NO; Hepatits B Core Ab +=NO
+#COLLECTION
+CO:COLLECTION_SUMMARY            	A wedge biopsy of the right lobe of the liver is routinely obtained prior to
+CO:COLLECTION_SUMMARY            	transplantation. The sample is immediately flash frozen in the operating room
+CO:COLLECTION_SUMMARY            	and subsequently transferred to Ochsner Biobank for sample storage.
+CO:SAMPLE_TYPE                   	Liver Tissue
+CO:COLLECTION_METHOD             	Open biopsy during cold storage preservation of organ for transplant
+CO:COLLECTION_LOCATION           	Operating room of liver transplant during
+CO:COLLECTION_FREQUENCY          	Single sample prior to transplant
+CO:COLLECTION_DURATION           	Not applicable
+CO:COLLECTION_TIME               	Not applicable
+CO:VOLUMEORAMOUNT_COLLECTED      	~50mg
+CO:STORAGE_CONDITIONS            	-180 degree C, liquid nitrogen vapor phase
+CO:COLLECTION_VIALS              	ThermoScientific CryoTube vials, 1.8mL
+CO:STORAGE_VIALS                 	ThermoScientific CryoTube vials, 1.8mL
+CO:COLLECTION_TUBE_TEMP          	-70 degree liguid nitrogen flash freezing
+CO:ADDITIVES                     	None
+CO:BLOOD_SERUM_OR_PLASMA         	N/A
+CO:TISSUE_CELL_IDENTIFICATION    	N/A
+CO:TISSUE_CELL_QUANTITY_TAKEN    	N/A
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Not Applicable
+TR:TREATMENT_PROTOCOL_ID         	Not Applicable
+TR:TREATMENT_PROTOCOL_FILENAME   	Not Applicable
+TR:TREATMENT_PROTOCOL_COMMENTS   	Not Applicable
+TR:TREATMENT                     	Not Applicable
+TR:TREATMENT_COMPOUND            	Not Applicable
+TR:TREATMENT_ROUTE               	Not Applicable
+TR:TREATMENT_DOSE                	Not Applicable
+TR:TREATMENT_DOSEVOLUME          	Not Applicable
+TR:TREATMENT_DOSEDURATION        	Not Applicable
+TR:TREATMENT_VEHICLE             	Not Applicable
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Amino acid assay|CoA assay|NAD-ATP assay|NADH assay|Organic acid assay
+SP:SAMPLEPREP_PROTOCOL_ID        	SB_AA_Assay.pdf;SB_CoA_Assay.pdf;SB_NAD-ATP_Assay_Agilent.pdf;SB_NADH_Assay_Agilent.pdf;SB_OA_Assay.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	Amino acid assay
+CH:CHROMATOGRAPHY_TYPE        	HPLC
+CH:INSTRUMENT_NAME            	Agilent 1290 Infinity HPLC
+CH:COLUMN_NAME                	AccQ·Tag 2 x 100 mm, 1.7 μm column, Waters Corporation, Cat. No. 186003837
+CH:METHODS_FILENAME           	SB_AA_Assay.pdf
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Agilent 6490 triple quadrupole
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_COMMENTS              	Amino acid assay- ESI
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	nmol/mg dry powder
+MS_METABOLITE_DATA_START
+Samples	114291	116707	115165	115333	115342	117751	121063	120237	120240	120257	121095	114300	116736	121087	117323	121091	121089	116709	114647	118601	121079	121364	121358	121356	115347
+Factors	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Cerebrovascular/Stroke	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Cerebrovascular/Stroke	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Trauma	DONOR CAUSE OF DEATH:Cerebrovascular/Stroke	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:Anoxia	DONOR CAUSE OF DEATH:CVA	DONOR CAUSE OF DEATH:CVA	DONOR CAUSE OF DEATH:CVA	DONOR CAUSE OF DEATH:Anoxia
+_1_Methylhistidine																								N/A	
+_3_Methylhistidine																								N/A	
+Alanine	5.36	8.13	6.55	12.51	4.45	6.19	4.17	3.25	7.93	9.52	6.11	4.78	8.05	7.39	10.34	7.06	4.24	14.92	2.69	3.70	3.49	10.49	4.04	N/A	4.28
+Arginine														0.09	0.07									N/A	
+Asparagine	0.40	0.41	0.36	0.93	0.20	0.57	0.32	0.27	0.72	0.53	0.34	0.90	0.65	0.62	0.63	0.47	0.32	0.45	0.20	0.60	0.44	1.02	0.66	N/A	0.70
+Aspartic Acid	2.77	1.09	1.88	2.15	0.77	2.79	2.15	1.68	2.41	2.66	1.98	2.44	2.25	2.16	3.17	2.49	3.13	1.67	1.55	1.10	3.44	3.66	4.06	N/A	6.26
+Citrulline																								N/A	
+Glutamic Acid	9.08	6.98	5.63	13.45	3.88	8.24	8.58	5.51	9.89	12.25	5.36	9.96	12.55	8.97	13.05	7.43	7.50	10.36	4.64	5.51	13.34	13.01	17.65	N/A	20.63
+Glutamine	3.11	3.87	4.19	6.07	1.34	6.40	6.37	3.38	8.74	8.54	3.98	5.72	9.53	7.39	10.73	9.21	4.91	9.62	3.10	6.73	7.99	10.68	8.92	N/A	14.69
+Glycine	9.00	5.24	5.49	6.06	2.06	5.75	5.23		4.57	7.62	2.81	3.43	5.32	2.83	6.94	3.98		3.22	2.32	3.59	3.74	6.40	1.99	N/A	4.33
+Histidine	0.68	0.77	0.42	1.35	0.39	1.09	0.58	0.47	1.11	0.78	0.63	0.64	0.81	1.44	1.04	1.60	0.66	1.72	0.42	0.68	1.14	1.53	1.11	N/A	0.90
+Isoleucine	0.26	0.30	0.16	0.33	0.07	0.22	0.16		0.35	0.25	0.09	0.11	0.16	0.21	0.15	0.16		0.11	0.09	0.13	0.12	0.17	0.09	N/A	0.23
+Leucine	0.59	0.60	0.28	0.71	0.20	0.46	0.43	0.30	0.69	0.55	0.24	0.23	0.31	0.52	0.33	0.26	0.27	0.32	0.17	0.27	0.24	0.36	0.21	N/A	0.40
+Lysine	0.88	0.77		1.36	0.32					0.85		0.50		1.10	0.41	1.20		0.70			0.66	0.69	0.42	N/A	0.55
+Methionine																								N/A	
+Ornithine	0.60	0.38		0.81			0.33			0.48		0.25		0.30	0.27	0.44		0.24			0.28	0.58	0.30	N/A	1.18
+Phenylalanine	0.20	0.34	0.19	0.35	0.10	0.19	0.21		0.33	0.22	0.11	0.09	0.13	0.16	0.15	0.14		0.15		0.15	0.13	0.23	0.09	N/A	
+Proline	1.31	0.84	0.53	1.66	0.62	0.84	0.85		1.77	2.15	0.39	0.45	1.77	1.67	0.49	0.42		4.03	0.23	1.12	1.14	1.87	0.60	N/A	1.03
+Serine	1.03	0.78	1.36	1.50	0.39	1.39	0.96		1.42	1.36	0.66	0.82	2.88	1.12	1.61	1.34		0.35	0.59	0.85	1.27	2.35	0.94	N/A	1.72
+Threonine	0.77	0.60	0.43	0.83	0.14	0.92	0.58	0.77	1.47	1.71	0.37	0.51	1.04	0.77	1.31	1.06		0.41	0.52	0.33	0.48	0.90	0.36	N/A	1.17
+Tryptophan	0.06	0.07	0.05	0.09	0.03	0.06	0.08		0.10	0.07	0.03	0.03	0.04	0.05	0.04	0.05		0.05		0.05	0.03	0.06	0.02	N/A	
+Tyrosine	0.21	0.29	0.14	0.30	0.08	0.18	0.19		0.32	0.30	0.08	0.08	0.12	0.15	0.16	0.09		0.10	0.08	0.10	0.09	0.18	0.08	N/A	
+Valine	0.63	0.52	0.30	0.77	0.20	0.51	0.38		0.64	0.51	0.22	0.29	0.30	0.66	0.31	0.30		0.34	0.20	0.30	0.27	0.42	0.24	N/A	0.53
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	retention index	quantified m/z	PubChem ID	KEGG ID
+_1_Methylhistidine	2.33	340.1	92105
+_3_Methylhistidine	2.33	340.1	64969
+Alanine	4.16	260.17	5950
+Arginine	2.68	345.21	6322
+Asparagine	2.25	303.13	6267
+Aspartic Acid	2.99	304.11	5960
+Citrulline	3.33	346.21	9750
+Glutamic Acid	3.35	318.11	33032
+Glutamine	2.65	317.21	5961
+Glycine	2.81	246.08	750
+Histidine	2.07	326.21	6274
+Isoleucine	8.15	302.21	6306
+Leucine	8.26	302.21	6106
+Lysine	6.66	487.21	5962
+Methionine	6.87	320.21	6137
+Ornithine	5.93	473.22	6262
+Phenylalanine	8.40	336.21	6140
+Proline	4.84	286.16	145742
+Serine	2.60	276.11	5951
+Threonine	3.74	290.11	6288
+Tryptophan	8.54	375.21	6305
+Tyrosine	6.66	352.21	6057
+Valine	7.09	288.21	6287
+METABOLITES_END
+#END

@@ -1,0 +1,188 @@
+#METABOLOMICS WORKBENCH neo_009_20170616_150445 DATATRACK_ID:980 STUDY_ID:ST000622 ANALYSIS_ID:AN000954
+VERSION             	1
+CREATED_ON             	June 20, 2017, 9:58 am
+#PROJECT
+PR:PROJECT_TITLE                 	Identification and metabolite profiling of chemical activators of lipid
+PR:PROJECT_TITLE                 	accumulation in green algae
+PR:PROJECT_TYPE                  	GC-MS based Metabolite profiles
+PR:PROJECT_SUMMARY               	Microalgae are proposed as feedstock organisms useful for producing biofuels and
+PR:PROJECT_SUMMARY               	co-products. However, several limitations must be overcome before algae-based
+PR:PROJECT_SUMMARY               	production is economically feasible. Among these is the ability to induce lipid
+PR:PROJECT_SUMMARY               	accumulation and storage without affecting biomass yield. To overcome this
+PR:PROJECT_SUMMARY               	barrier, a chemical genetics approach was employed in which 43,783 compounds
+PR:PROJECT_SUMMARY               	were screened against Chlamydomonas reinhardtii and 243 compounds were
+PR:PROJECT_SUMMARY               	identified that increase triacylglyceride (TAG) accumulation without terminating
+PR:PROJECT_SUMMARY               	growth. Identified compounds were classified by structural similarity and 15
+PR:PROJECT_SUMMARY               	selected for secondary analyses addressing impacts on growth fitness,
+PR:PROJECT_SUMMARY               	photosynthetic pigments, and total cellular protein and starch concentrations.
+PR:PROJECT_SUMMARY               	TAG accumulation was verified using GC-MS quantification of total fatty acids
+PR:PROJECT_SUMMARY               	and targeted TAG and galactolipid (GL) measurements using LC-MRM/MS. These
+PR:PROJECT_SUMMARY               	results demonstrated TAG accumulation does not necessarily proceed at the
+PR:PROJECT_SUMMARY               	expense of GL. Untargeted metabolite profiling provided important insights into
+PR:PROJECT_SUMMARY               	pathway shifts due to 5 different compound treatments and verified the anabolic
+PR:PROJECT_SUMMARY               	state of the cells with regard to the oxidative pentose phosphate pathway,
+PR:PROJECT_SUMMARY               	Calvin cycle, tricarboxylic acid cycle and amino acid biosynthetic pathways.
+PR:PROJECT_SUMMARY               	Metabolite patterns were distinct from nitrogen starvation and other abiotic
+PR:PROJECT_SUMMARY               	stresses commonly used to induce oil accumulation in algae. The efficacy of
+PR:PROJECT_SUMMARY               	these compounds was also demonstrated in 3 other algal species. These lipid
+PR:PROJECT_SUMMARY               	inducing compounds offer a valuable set of tools for delving into the
+PR:PROJECT_SUMMARY               	biochemical mechanisms of lipid accumulation in algae and a direct means to
+PR:PROJECT_SUMMARY               	improve algal oil content independent of the severe growth limitations
+PR:PROJECT_SUMMARY               	associated with nutrient deprivation.
+PR:INSTITUTE                     	University of Nebraska-Lincoln
+PR:DEPARTMENT                    	Biochemistry
+PR:LABORATORY                    	FATTTLab
+PR:LAST_NAME                     	Wase
+PR:FIRST_NAME                    	Nishikant
+PR:ADDRESS                       	1901 Beadle Center, Vine Street, 1901 VINE STREET, Lincoln, NE, 68588-0664, USA
+PR:EMAIL                         	nishikant.wase@gmail.com
+PR:PHONE                         	4023109931
+#STUDY
+ST:STUDY_TITLE                   	Identification and metabolite profiling of chemical activators of lipid
+ST:STUDY_TITLE                   	accumulation in green algae
+ST:STUDY_TYPE                    	GC-MS metabolite profiling of algal lipid activators
+ST:STUDY_SUMMARY                 	Microalgae are proposed as feedstock organisms useful for producing biofuels and
+ST:STUDY_SUMMARY                 	co-products. However, several limitations must be overcome before algae-based
+ST:STUDY_SUMMARY                 	production is economically feasible. Among these is the ability to induce lipid
+ST:STUDY_SUMMARY                 	accumulation and storage without affecting biomass yield. To overcome this
+ST:STUDY_SUMMARY                 	barrier, a chemical genetics approach was employed in which 43,783 compounds
+ST:STUDY_SUMMARY                 	were screened against Chlamydomonas reinhardtii and 243 compounds were
+ST:STUDY_SUMMARY                 	identified that increase triacylglyceride (TAG) accumulation without terminating
+ST:STUDY_SUMMARY                 	growth. Identified compounds were classified by structural similarity and 15
+ST:STUDY_SUMMARY                 	selected for secondary analyses addressing impacts on growth fitness,
+ST:STUDY_SUMMARY                 	photosynthetic pigments, and total cellular protein and starch concentrations.
+ST:STUDY_SUMMARY                 	TAG accumulation was verified using GC-MS quantification of total fatty acids
+ST:STUDY_SUMMARY                 	and targeted TAG and galactolipid (GL) measurements using LC-MRM/MS. These
+ST:STUDY_SUMMARY                 	results demonstrated TAG accumulation does not necessarily proceed at the
+ST:STUDY_SUMMARY                 	expense of GL. Untargeted metabolite profiling provided important insights into
+ST:STUDY_SUMMARY                 	pathway shifts due to 5 different compound treatments and verified the anabolic
+ST:STUDY_SUMMARY                 	state of the cells with regard to the oxidative pentose phosphate pathway,
+ST:STUDY_SUMMARY                 	Calvin cycle, tricarboxylic acid cycle and amino acid biosynthetic pathways.
+ST:STUDY_SUMMARY                 	Metabolite patterns were distinct from nitrogen starvation and other abiotic
+ST:STUDY_SUMMARY                 	stresses commonly used to induce oil accumulation in algae. The efficacy of
+ST:STUDY_SUMMARY                 	these compounds was also demonstrated in 3 other algal species. These lipid
+ST:STUDY_SUMMARY                 	inducing compounds offer a valuable set of tools for delving into the
+ST:STUDY_SUMMARY                 	biochemical mechanisms of lipid accumulation in algae and a direct means to
+ST:STUDY_SUMMARY                 	improve algal oil content independent of the severe growth limitations
+ST:STUDY_SUMMARY                 	associated with nutrient deprivation.
+ST:INSTITUTE                     	Univ of Nebraska-Lincoln
+ST:DEPARTMENT                    	Biochemistry
+ST:LABORATORY                    	FATTTLab
+ST:LAST_NAME                     	Wase
+ST:FIRST_NAME                    	Nishikant
+ST:ADDRESS                       	1901 Beadle Center, Vine Street, 1901 VINE STREET, Lincoln, NE, 68588-0664, USA
+ST:EMAIL                         	nishikant.wase@gmail.com
+ST:PHONE                         	4023109931
+ST:NUM_GROUPS                    	6
+#SUBJECT
+SU:SUBJECT_TYPE                  	Photosynthetic organism
+SU:SUBJECT_SPECIES               	Chlamydomonas reinhardtii
+SU:TAXONOMY_ID                   	3055
+SU:GENOTYPE_STRAIN               	Wild Type
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	030_A_1	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_A_2	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_A_3	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_B_1	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_B_2	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_B_3	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_C_1	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_C_2	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	030_C_3	Class:WD30030	
+SUBJECT_SAMPLE_FACTORS           	-	067_A_1	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_A_2	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_A_3	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_B_1	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_B_2	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_B_3	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_C_1	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_C_2	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	067_C_3	Class:WD20067	
+SUBJECT_SAMPLE_FACTORS           	-	461_A_1	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_A_2	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_A_3	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_B_1	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_B_2	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_B_3	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_C_1	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_C_2	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	461_C_3	Class:WD10461	
+SUBJECT_SAMPLE_FACTORS           	-	542_A_1	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_A_2	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_A_3	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_B_1	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_B_2	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_B_3	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_C_1	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_C_2	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	542_C_3	Class:WD20542	
+SUBJECT_SAMPLE_FACTORS           	-	784_A_1	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_A_2	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_A_3	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_B_1	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_B_2	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_B_3	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_C_1	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_C_2	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	784_C_3	Class:WD10784	
+SUBJECT_SAMPLE_FACTORS           	-	ContA_1	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContA_2	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContA_3	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContB_1	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContB_2	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContB_3	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContC_1	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContC_2	Class:Control	
+SUBJECT_SAMPLE_FACTORS           	-	ContC_3	Class:Control	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Cells were pre-grown to mid-log phase and treated with 5 selected compounds
+CO:COLLECTION_SUMMARY            	(final concentration 5 µM) with an initial cell density of 1.0 x 106 cells/mL
+CO:COLLECTION_SUMMARY            	(100 mL volume; in triplicate) and allowed to grow for 72 h. After 72 h of
+CO:COLLECTION_SUMMARY            	growth, cells were harvested, media removed and freeze-dried. Accurately
+CO:COLLECTION_SUMMARY            	measured 50 ± 0.5 mg of freeze dried powder was used for metabolite extraction.
+CO:COLLECTION_SUMMARY            	Sample powder was pulverized with a single steel ball using TissueLyser LT
+CO:COLLECTION_SUMMARY            	(Qiagen) at 50 Hz speed for 5 min
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Cells were treated either with compounds (5 uM) final concentration in DMSO or
+TR:TREATMENT_SUMMARY             	DMSO alone (in case of control). Mid-log phase cells were used as starter
+TR:TREATMENT_SUMMARY             	culture at a initial inoculum density of 1.0E06 cells/mL in 250 mL flasks with
+TR:TREATMENT_SUMMARY             	100 mL of TAP media. Cells were allowed to grow in orbital shaker under constant
+TR:TREATMENT_SUMMARY             	light for 72 hours. After 72 hours, experiment was terminated and cells were
+TR:TREATMENT_SUMMARY             	harvested via centrifugation.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Harvested cells were flash frozen in liquid N and freeze dried. Accurately
+SP:SAMPLEPREP_SUMMARY            	measured 50 ± 0.5 mg of freeze dried powder was used for metabolite extraction.
+SP:SAMPLEPREP_SUMMARY            	Sample powder was pulverized with a single steel ball using TissueLyser LT
+SP:SAMPLEPREP_SUMMARY            	(Qiagen) at 50 Hz speed for 5 min. One milliliter of extraction buffer
+SP:SAMPLEPREP_SUMMARY            	containing MeOH:CHCl3:H2O (5:2:2; v/v/v; pre-cooled at -20 °C) was added and
+SP:SAMPLEPREP_SUMMARY            	vortexed for 5 min. Ribitol (0.2 mg/mL in water; 10 µL) was spiked in the
+SP:SAMPLEPREP_SUMMARY            	extraction buffer as internal standard in order to identify potential
+SP:SAMPLEPREP_SUMMARY            	chromatographic errors. The homogenized material was centrifuged at 14000 rpm
+SP:SAMPLEPREP_SUMMARY            	for 5 min and the supernatant was transferred to new tubes. 400 µL of pure
+SP:SAMPLEPREP_SUMMARY            	water was added to the supernatant, samples were vortexed and centrifuged at
+SP:SAMPLEPREP_SUMMARY            	14,000 rpm for 5 min. The upper polar phase was transferred to new tubes for
+SP:SAMPLEPREP_SUMMARY            	GC-MS analysis. An aliquot of 300 µL was dried out in vacuum concentrator
+SP:SAMPLEPREP_SUMMARY            	without heating. To the dried material, 10 µL methoxyamine HCL in 100% pyridine
+SP:SAMPLEPREP_SUMMARY            	(40 mg/mL) was added and shaken at 30 °C for 90 minutes and subsequently 90 µL
+SP:SAMPLEPREP_SUMMARY            	of MSTFA 1% TMCS was added for trimethylsilylation of acidic protons and shaken
+SP:SAMPLEPREP_SUMMARY            	at 37 °C for 30 minutes. The reaction mixture was transferred to GCvials with
+SP:SAMPLEPREP_SUMMARY            	glass microinserts and closed by crimp caps. GC-MS data acquisition was
+SP:SAMPLEPREP_SUMMARY            	performed as per previously published report (Wase et al., 2014)
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent 6890 GC system with 5973 MS detector
+CH:COLUMN_NAME                	Agilent DB-5MS UI Capillary column
+CH:INTERNAL_STANDARD          	Ribitol
+CH:SAMPLE_INJECTION           	1 uL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	FATTTLab
+AN:DETECTOR_TYPE            	MSD
+AN:DATA_FORMAT              	Agilent .d
+#MS
+MS:INSTRUMENT_NAME          	Agilent 5973 MS
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+MS:MS_RESULTS_FILE          	ST000622_AN000954_Results.txt	UNITS:peak area
+#END

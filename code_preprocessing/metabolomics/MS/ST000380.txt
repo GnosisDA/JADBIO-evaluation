@@ -1,0 +1,370 @@
+#METABOLOMICS WORKBENCH michaelsa93_20160414_130539_mwtab.txt DATATRACK_ID:594
+VERSION             	1
+CREATED_ON             	November 16, 2016, 9:34 am
+#PROJECT
+PR:PROJECT_TITLE                 	Temporal metabolomic responses of cultured HepG2 liver cells to high fructose
+PR:PROJECT_TITLE                 	and high glucose exposures
+PR:PROJECT_TYPE                  	Time-course Study
+PR:PROJECT_SUMMARY               	High fructose consumption has been implicated with deleterious effects on human
+PR:PROJECT_SUMMARY               	health, including hyperlipidemia elicited through de novo lipogenesis. However,
+PR:PROJECT_SUMMARY               	more global effects of fructose on cellular metabolism have not been elucidated.
+PR:PROJECT_SUMMARY               	In order to explore the metabolic impact of fructose-containing nutrients, we
+PR:PROJECT_SUMMARY               	applied both GC-TOF and HILIC-QTOF mass spectrometry metabolomic strategies
+PR:PROJECT_SUMMARY               	using extracts from cultured HepG2 cells exposed to fructose, glucose, or
+PR:PROJECT_SUMMARY               	fructose + glucose. Cellular responses were analyzed in a time-dependent manner,
+PR:PROJECT_SUMMARY               	incubated in media containing 5.5 mM glucose + 5.0 mM fructose in comparison to
+PR:PROJECT_SUMMARY               	controls incubated in media containing either 5.5 mM glucose or 10.5 mM glucose.
+PR:PROJECT_SUMMARY               	Mass spectrometry identified 156 unique known metabolites and a large number of
+PR:PROJECT_SUMMARY               	unknown compounds, which revealed metabolite changes due to both utilization of
+PR:PROJECT_SUMMARY               	fructose and high-carbohydrate loads independent of hexose structure. Fructose
+PR:PROJECT_SUMMARY               	was shown to be partially converted to sorbitol, and generated higher levels of
+PR:PROJECT_SUMMARY               	fructose-1-phosphate as a precursor for glycolytic intermediates. Differentially
+PR:PROJECT_SUMMARY               	regulated ratios of 3-phosphoglycerate to serine pathway intermediates in high
+PR:PROJECT_SUMMARY               	fructose media indicated a diversion of carbon backbones away from energy
+PR:PROJECT_SUMMARY               	metabolism. Additionally, high fructoseconditions changed levels of complex
+PR:PROJECT_SUMMARY               	lipids toward phosphatidylethanolamines. Patterns of acylcarnitines in response
+PR:PROJECT_SUMMARY               	to high hexose exposure (10.5 mM glucose or glucose/fructose combination)
+PR:PROJECT_SUMMARY               	suggested a reduction in mitochondrial beta-oxidation.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+PR:LABORATORY                    	WCMC Metabolomics Core
+PR:LAST_NAME                     	Fiehn
+PR:FIRST_NAME                    	Oliver
+PR:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+PR:ADDRESS                       	CA 95616
+PR:EMAIL                         	ofiehn@ucdavis.edu
+PR:PHONE                         	(530) 754-8258
+PR:FUNDING_SOURCE                	NIH U24DK097154
+#STUDY
+ST:STUDY_TITLE                   	Temporal metabolomic responses of cultured HepG2 liver cells to high fructose
+ST:STUDY_TITLE                   	and high glucose exposures
+ST:STUDY_SUMMARY                 	High fructose consumption has been implicated with deleterious effects on human
+ST:STUDY_SUMMARY                 	health, including hyperlipidemia elicited through de novo lipogenesis. However,
+ST:STUDY_SUMMARY                 	more global effects of fructose on cellular metabolism have not been elucidated.
+ST:STUDY_SUMMARY                 	In order to explore the metabolic impact of fructose-containing nutrients, we
+ST:STUDY_SUMMARY                 	applied both GC-TOF and HILIC-QTOF mass spectrometry metabolomic strategies
+ST:STUDY_SUMMARY                 	using extracts from cultured HepG2 cells exposed to fructose, glucose, or
+ST:STUDY_SUMMARY                 	fructose + glucose. Cellular responses were analyzed in a time-dependent manner,
+ST:STUDY_SUMMARY                 	incubated in media containing 5.5 mM glucose + 5.0 mM fructose in comparison to
+ST:STUDY_SUMMARY                 	controls incubated in media containing either 5.5 mM glucose or 10.5 mM glucose.
+ST:STUDY_SUMMARY                 	Mass spectrometry identified 156 unique known metabolites and a large number of
+ST:STUDY_SUMMARY                 	unknown compounds, which revealed metabolite changes due to both utilization of
+ST:STUDY_SUMMARY                 	fructose and high-carbohydrate loads independent of hexose structure. Fructose
+ST:STUDY_SUMMARY                 	was shown to be partially converted to sorbitol, and generated higher levels of
+ST:STUDY_SUMMARY                 	fructose-1-phosphate as a precursor for glycolytic intermediates. Differentially
+ST:STUDY_SUMMARY                 	regulated ratios of 3-phosphoglycerate to serine pathway intermediates in high
+ST:STUDY_SUMMARY                 	fructose media indicated a diversion of carbon backbones away from energy
+ST:STUDY_SUMMARY                 	metabolism. Additionally, high fructoseconditions changed levels of complex
+ST:STUDY_SUMMARY                 	lipids toward phosphatidylethanolamines. Patterns of acylcarnitines in response
+ST:STUDY_SUMMARY                 	to high hexose exposure (10.5 mM glucose or glucose/fructose combination)
+ST:STUDY_SUMMARY                 	suggested a reduction in mitochondrial beta-oxidation.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+ST:LABORATORY                    	WCMC Metabolomics Core
+ST:LAST_NAME                     	Fiehn
+ST:FIRST_NAME                    	Oliver
+ST:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+ST:ADDRESS                       	CA 95616
+ST:EMAIL                         	ofiehn@ucdavis.edu
+ST:PHONE                         	(530) 754-8258
+#SUBJECT
+SU:SUBJECT_TYPE                  	Cells
+SU:SUBJECT_SPECIES               	Homo sapiens
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R1	10Glucosamine10minReplicate1_0047.d	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R2	10Glucosamine10minReplicate2_0093.d	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R3	10Glucosamine10minReplicate3_0026.d	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R4	10Glucosamine10minReplicate4_0073.d	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R5	10Glucosamine10minReplicate5_0021.d	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	GlcN-10min-R6	10Glucosamine10minReplicate6_0091.d	Treatment:Glucosamine | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R1	10Glucose10minReplicate1_0042.d	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R2	10Glucose10minReplicate2_0077.d	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R3	10Glucose10minReplicate3_0022.d	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R4	10Glucose10minReplicate4_0008.d	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R5	10Glucose10minReplicate5_0094.d	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-10min-R6	10Glucose10minReplicate6_0024.d	Treatment:10.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R1	10Glucose1hrReplicate1_0005.d	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R2	10Glucose1hrReplicate2_0034.d	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R3	10Glucose1hrReplicate3_0083.d	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R4	10Glucose1hrReplicate4_0037.d	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R5	10Glucose1hrReplicate5_0092.d	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-1hr-R6	10Glucose1hrReplicate6_0030.d	Treatment:10.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R1	10Glucose6hrReplicate1_0071.d	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R2	10Glucose6hrReplicate2_0070.d	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R3	10Glucose6hrReplicate3_0006.d	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R4	10Glucose6hrReplicate4_0009.d	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R5	10Glucose6hrReplicate5_0046.d	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-6hr-R6	10Glucose6hrReplicate6_0031.d	Treatment:10.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R1	10Glucose24hrReplicate1_0043.d	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R2	10Glucose24hrReplicate2_0090.d	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R3	10Glucose24hrReplicate3_0044.d	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R4	10Glucose24hrReplicate4_0061.d	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R5	10Glucose24hrReplicate5_0062.d	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	10.5mM Glu-24hr-R6	10Glucose24hrReplicate6_0053.d	Treatment:10.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R1	5Glucose5Fructose10minReplicate1_0036.d	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R2	5Glucose5Fructose10minReplicate2_0065.d	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R3	5Glucose5Fructose10minReplicate3_0013.d	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R4	5Glucose5Fructose10minReplicate4_0023.d	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R5	5Glucose5Fructose10minReplicate5_0029.d	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-10min-R6	5Glucose5Fructose10minReplicate6_0082.d	Treatment:5.5mM Glu 5mM Fru | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R1	5Glucose5Fructose1hrReplicate1_0038.d	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R2	5Glucose5Fructose1hrReplicate2_0081.d	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R3	5Glucose5Fructose1hrReplicate3_0067.d	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R4	5Glucose5Fructose1hrReplicate4_0048.d	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R5	5Glucose5Fructose1hrReplicate5_0059.d	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-1hr-R6	5Glucose5Fructose1hrReplicate6_0017.d	Treatment:5.5mM Glu 5mM Fru | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R1	5Glucose5Fructose6hrReplicate1_0014.d	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R2	5Glucose5Fructose6hrReplicate2_0012.d	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R3	5Glucose5Fructose6hrReplicate3_0018.d	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R4	5Glucose5Fructose6hrReplicate4_0041.d	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-6hr-R6	5Glucose5Fructose6hrReplicate6_0045.d	Treatment:5.5mM Glu 5mM Fru | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R1	5Glucose5Fructose24hrReplicate1_0056.d	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R2	5Glucose5Fructose24hrReplicate2_0054.d	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R3	5Glucose5Fructose24hrReplicate3_0033.d	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R4	5Glucose5Fructose24hrReplicate4_0007.d	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R5	5Glucose5Fructose24hrReplicate5_0074.d	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu 5mM Fru-24hr-R6	5Glucose5Fructose24hrReplicate6_0035.d	Treatment:5.5mM Glu 5mM Fru | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R1	5Glucose10minReplicate1_0068.d	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R2	5Glucose10minReplicate2_0020.d	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R3	5Glucose10minReplicate3_0086.d	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R4	5Glucose10minReplicate4_0032.d	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R5	5Glucose10minReplicate5_0089.d	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-10min-R6	5Glucose10minReplicate6_0019.d	Treatment:5.5mM Glu | Time:10min	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R1	5Glucose1hrReplicate1_0069.d	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R2	5Glucose1hrReplicate2_0060.d	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R3	5Glucose1hrReplicate3_0057.d	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R4	5Glucose1hrReplicate4_0095.d	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R5	5Glucose1hrReplicate5_0080.d	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-1hr-R6	5Glucose1hrReplicate6_0085.d	Treatment:5.5mM Glu | Time:1hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R1	5Glucose6hrReplicate1_0010.d	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R2	5Glucose6hrReplicate2_0049.d	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R3	5Glucose6hrReplicate3_0079.d	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R4	5Glucose6hrReplicate4_0011.d	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R5	5Glucose6hrReplicate5_0072.d	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-6hr-R6	5Glucose6hrReplicate6_0055.d	Treatment:5.5mM Glu | Time:6hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R1	5Glucose24hrReplicate1_0050.d	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R2	5Glucose24hrReplicate2_0066.d	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R3	5Glucose24hrReplicate3_0078.d	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R4	5Glucose24hrReplicate4_0084.d	Treatment:5.5mM Glu | Time:24hr	
+SUBJECT_SAMPLE_FACTORS           	5.5mM Glu-24hr-R5	5Glucose24hrReplicate5_0025.d	Treatment:5.5mM Glu | Time:24hr	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	HepG2 cells (ATCC HB-8065) were cultured in MEM containing 10 % (v:v) FBS, 100
+CO:COLLECTION_SUMMARY            	U/mL penicillin and 100 mg/mL streptomycin (Invitrogen, Carlsbad, CA), 1 x MEM
+CO:COLLECTION_SUMMARY            	non-essential amino acids, and 5.5 mM glucose at 37 °C in a 5 % CO2
+CO:COLLECTION_SUMMARY            	environment. Cells were grown for four to six passages in 10 cm tissue culture
+CO:COLLECTION_SUMMARY            	dishes with 14 mL MEM, and transferred to MULTIWELL™ 12 well culture dishes
+CO:COLLECTION_SUMMARY            	for incubation in 2 mL of the treatment medium. Upon reaching 80 % confluency,
+CO:COLLECTION_SUMMARY            	the cell culture medium was changed to media representative of experimental
+CO:COLLECTION_SUMMARY            	condition: 5.5 mM glucose MEM, 5.5 mM glucose MEM + 5 mM glucose, or 5.5 mM
+CO:COLLECTION_SUMMARY            	glucose MEM + 5 mM fructose. Media was replenished after 24 and 48 h. Cell
+CO:COLLECTION_SUMMARY            	material was collected at 10 min, 1, 6, and 24 h time points following the 48 h
+CO:COLLECTION_SUMMARY            	media replacement. Culture dishes were placed on ice and each well was washed
+CO:COLLECTION_SUMMARY            	twice with 1 mL ice-cold PBS. 4 mL ice-cold 3:1 methanol/H2O extraction solvent
+CO:COLLECTION_SUMMARY            	was added to each well. Cell material was manually scraped from each well, and
+CO:COLLECTION_SUMMARY            	the extraction solvent cell material suspension was transferred to collection
+CO:COLLECTION_SUMMARY            	tubes and frozen at −80 °C prior to further processing.
+CO:COLLECTION_PROTOCOL_FILENAME  	metabolomic_responses_of_cultured_HepG2_liver_cells.pdf
+CO:SAMPLE_TYPE                   	Cell
+CO:COLLECTION_LOCATION           	Invitrogen, Carlsbad, CA
+CO:COLLECTION_FREQUENCY          	Cell material was collected at 10 min, 1, 6, and 24 h time points following the
+CO:COLLECTION_FREQUENCY          	48 h media replacement.
+CO:TISSUE_CELL_IDENTIFICATION    	HepG2
+#TREATMENT
+TR:TREATMENT_SUMMARY             	3 Treatments: A) Control group of HepG2 cells incubated in media with 5.5 mM
+TR:TREATMENT_SUMMARY             	glucose (Glc5) B) HepG2 cells incubated in media containing 5.5 mM glucose + 5.0
+TR:TREATMENT_SUMMARY             	mM fructose (Glc5Fru5) C) HepG2 cells incubated in media containing 10.5 mM
+TR:TREATMENT_SUMMARY             	glucose (Glc10)
+TR:TREATMENT_PROTOCOL_FILENAME   	metabolomic_responses_of_cultured_HepG2_liver_cells.pdf
+TR:TREATMENT_PROTOCOL_COMMENTS   	HepG2 cells incubated in media containing 10.5 mM glucose (Glc10) was included
+TR:TREATMENT_PROTOCOL_COMMENTS   	to enable differentiation of metabolic effects caused by fructose from metabolic
+TR:TREATMENT_PROTOCOL_COMMENTS   	effects caused by increased hexose resources
+TR:CELL_MEDIA                    	Cells were acclimated to their respective media condition for 48 h prior to
+TR:CELL_MEDIA                    	collection of sample material to obtain a metabolite profile representative of
+TR:CELL_MEDIA                    	continued exposure instead of response to a sudden change in carbohydrate
+TR:CELL_MEDIA                    	resources. Media was replenished after 24 and 48 h
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Sample material was thawed on ice, vortexed for 20 s, sonicated for 5 min with a
+SP:SAMPLEPREP_SUMMARY            	VWR 50HT Ultrasonic Bath (VWR International Inc., Bridgeport, NJ), and separated
+SP:SAMPLEPREP_SUMMARY            	into 500 μL aliquots. Each aliquot was centrifuged for 5 min @ 14,000 rcf, and
+SP:SAMPLEPREP_SUMMARY            	supernatant was collected and lyophilized to dryness. Samples was kept on ice
+SP:SAMPLEPREP_SUMMARY            	and removed only for sonication, centrifugation, and lyophilization steps.
+SP:SAMPLEPREP_SUMMARY            	Lyophilized material was used for HILIC-QTOF metabolite profiling without
+SP:SAMPLEPREP_SUMMARY            	additional clean-up steps. Lyophilized material for GC-TOF analysis was
+SP:SAMPLEPREP_SUMMARY            	redissolved in 1:1 acetonitrile/H2O, vortexed for 10 s, and centrifuged for 5
+SP:SAMPLEPREP_SUMMARY            	min @ 14,000 rcf. Supernatant was collected and lyophilized to dryness.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	metabolomic_responses_of_cultured_HepG2_liver_cells.pdf
+SP:PROCESSING_METHOD             	Lysophilization
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	HILIC
+CH:INSTRUMENT_NAME            	Agilent 6530 Accurate Mass QTOF
+CH:COLUMN_NAME                	Waters Acquity UPLC BEH Amide Column, 1.7 μm, 2.1 mm x 150 mm) Pre-column:
+CH:COLUMN_NAME                	Waters Acquity
+CH:FLOW_GRADIENT              	100% B to 30% B
+CH:FLOW_RATE                  	0.4 mL/min
+CH:COLUMN_TEMPERATURE         	45 C
+CH:METHODS_FILENAME           	Data_Dictionary_Fiehn_laboratory_HILIC_QTOF_MS.pdf
+CH:SOLVENT_A                  	Ultrapure water with 10 mM ammonium formiate + 0.125% formic acid, pH 3
+CH:SOLVENT_B                  	Ultrapure water with 10 mM ammonium formiate + 0.125% formic acid, pH 3
+CH:COLUMN_PRESSURE            	200-700 bar
+CH:INJECTION_TEMPERATURE      	4 C
+CH:INTERNAL_STANDARD          	See data dictionary
+CH:RETENTION_TIME             	See data dictionary
+CH:SAMPLE_INJECTION           	3uL
+CH:ANALYTICAL_TIME            	14 min
+CH:CAPILLARY_VOLTAGE          	4500 V
+CH:TIME_PROGRAM               	16.75 min
+CH:WEAK_WASH_SOLVENT_NAME     	1:1 ACN:H2O
+CH:STRONG_WASH_SOLVENT_NAME   	1:1 ACN:H2O
+CH:TARGET_SAMPLE_TEMPERATURE  	Autosampler temp 4 C
+CH:RANDOMIZATION_ORDER        	Excel generated
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	WCMC Metabolomics Core
+AN:SOFTWARE_VERSION         	ChromaTOF
+AN:DATA_FORMAT              	.peg, .txt, .cdf
+#MS
+MS:INSTRUMENT_NAME          	Agilent 6530 Accurate Mass QTOF
+MS:INSTRUMENT_TYPE          	QTOF
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:CAPILLARY_VOLTAGE        	3500
+MS:COLLISION_GAS            	Nitrogen
+MS:DRY_GAS_FLOW             	8 L/min
+MS:DRY_GAS_TEMP             	325 C
+MS:FRAGMENT_VOLTAGE         	120 V
+MS:FRAGMENTATION_METHOD     	Auto MS/MS
+MS:ION_SOURCE_TEMPERATURE   	325
+MS:ION_SPRAY_VOLTAGE        	1000
+MS:IONIZATION               	Pos
+MS:PRECURSOR_TYPE           	Intact Molecule
+MS:REAGENT_GAS              	Nitrogen
+MS:SOURCE_TEMPERATURE       	325 C
+MS:DATAFORMAT               	.d
+MS:DESOLVATION_GAS_FLOW     	11 L/min
+MS:DESOLVATION_TEMPERATURE  	350 C
+MS:NEBULIZER                	35 psig
+MS:OCTPOLE_VOLTAGE          	750
+MS:RESOLUTION_SETTING       	extended dynamic range
+MS:SCAN_RANGE_MOVERZ        	60-1700 Da
+MS:SCANNING_CYCLE           	2 Hz
+MS:SCANNING_RANGE           	60-1700 Da
+MS:SKIMMER_VOLTAGE          	1850 V
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	counts
+MS_METABOLITE_DATA_START
+Samples	10Glucosamine10minReplicate1_0047.d	10Glucosamine10minReplicate2_0093.d	10Glucosamine10minReplicate3_0026.d	10Glucosamine10minReplicate4_0073.d	10Glucosamine10minReplicate5_0021.d	10Glucosamine10minReplicate6_0091.d	10Glucose10minReplicate1_0042.d	10Glucose10minReplicate2_0077.d	10Glucose10minReplicate3_0022.d	10Glucose10minReplicate4_0008.d	10Glucose10minReplicate5_0094.d	10Glucose10minReplicate6_0024.d	10Glucose1hrReplicate1_0005.d	10Glucose1hrReplicate2_0034.d	10Glucose1hrReplicate3_0083.d	10Glucose1hrReplicate4_0037.d	10Glucose1hrReplicate5_0092.d	10Glucose1hrReplicate6_0030.d	10Glucose6hrReplicate1_0071.d	10Glucose6hrReplicate2_0070.d	10Glucose6hrReplicate3_0006.d	10Glucose6hrReplicate4_0009.d	10Glucose6hrReplicate5_0046.d	10Glucose6hrReplicate6_0031.d	10Glucose24hrReplicate1_0043.d	10Glucose24hrReplicate2_0090.d	10Glucose24hrReplicate3_0044.d	10Glucose24hrReplicate4_0061.d	10Glucose24hrReplicate5_0062.d	10Glucose24hrReplicate6_0053.d	5Glucose5Fructose10minReplicate1_0036.d	5Glucose5Fructose10minReplicate2_0065.d	5Glucose5Fructose10minReplicate3_0013.d	5Glucose5Fructose10minReplicate4_0023.d	5Glucose5Fructose10minReplicate5_0029.d	5Glucose5Fructose10minReplicate6_0082.d	5Glucose5Fructose1hrReplicate1_0038.d	5Glucose5Fructose1hrReplicate2_0081.d	5Glucose5Fructose1hrReplicate3_0067.d	5Glucose5Fructose1hrReplicate4_0048.d	5Glucose5Fructose1hrReplicate5_0059.d	5Glucose5Fructose1hrReplicate6_0017.d	5Glucose5Fructose6hrReplicate1_0014.d	5Glucose5Fructose6hrReplicate2_0012.d	5Glucose5Fructose6hrReplicate3_0018.d	5Glucose5Fructose6hrReplicate4_0041.d	5Glucose5Fructose6hrReplicate6_0045.d	5Glucose5Fructose24hrReplicate1_0056.d	5Glucose5Fructose24hrReplicate2_0054.d	5Glucose5Fructose24hrReplicate3_0033.d	5Glucose5Fructose24hrReplicate4_0007.d	5Glucose5Fructose24hrReplicate5_0074.d	5Glucose5Fructose24hrReplicate6_0035.d	5Glucose10minReplicate1_0068.d	5Glucose10minReplicate2_0020.d	5Glucose10minReplicate3_0086.d	5Glucose10minReplicate4_0032.d	5Glucose10minReplicate5_0089.d	5Glucose10minReplicate6_0019.d	5Glucose1hrReplicate1_0069.d	5Glucose1hrReplicate2_0060.d	5Glucose1hrReplicate3_0057.d	5Glucose1hrReplicate4_0095.d	5Glucose1hrReplicate5_0080.d	5Glucose1hrReplicate6_0085.d	5Glucose6hrReplicate1_0010.d	5Glucose6hrReplicate2_0049.d	5Glucose6hrReplicate3_0079.d	5Glucose6hrReplicate4_0011.d	5Glucose6hrReplicate5_0072.d	5Glucose6hrReplicate6_0055.d	5Glucose24hrReplicate1_0050.d	5Glucose24hrReplicate2_0066.d	5Glucose24hrReplicate3_0078.d	5Glucose24hrReplicate4_0084.d	5Glucose24hrReplicate5_0025.d
+Factors	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:Glucosamine | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:10min	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:1hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:6hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:10.5mM Glu | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:10min	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:1hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:6hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu 5mM Fru | Time:24hr	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:10min	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:1hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:6hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr	Treatment:5.5mM Glu | Time:24hr
+Choline	4825	5245	3613	4150	4855	4385	3172	3996	3804	3353	3426	3745	3558	3456	3216	3396	2713	2654	4066	2875	3211	3894	3023	3081	5164	4219	4575	4307	5147	5510	3113	2108	2983	3828	2291	3118	3104	3660	3402	3393	3439	2795	3191	3403	3481	3073	2377	4214	3111	4260	4488	4454	4350	1935	1884	2147	1899	1760	2047	1584	1732	1711	1729	1751	1668	2503	2632	2213	2894	2426	2736	1112	1694	2261	1761	1328
+Creatinine	5730	7836	4978	6575	5759	6141	12343	19029	16851	13868	21400	16159	12982	16273	17503	10655	18200	14294	19015	15532	16552	24800	13834	12652	16341	10712	8819	11019	13132	27800	11758	16830	14818	16323	11269	15830	14125	20145	16683	17714	21695	14717	21645	15970	19965	13542	21821	13827	15909	11640	13334	13346	14938	16575	17479	15007	14300	17292	18474	16809	21571	22715	26001	23190	20160	24755	19121	26511	35401	18342	18056	10476	8687	13389	11636	9148
+Proline	36792	43553	27581	35314	34577	33244	41821	42428	51102	46225	40587	44437	51259	49818	44789	43505	44918	42999	67357	63128	59484	72108	54558	53589	86475	63952	69646	62879	63336	70904	45317	41907	34243	47960	35976	44077	46618	47909	49924	48811	55339	48848	50773	56381	61714	54128	54963	63824	53052	69374	67021	71592	72651	43735	39607	33460	41006	40620	43513	40841	59519	51525	44348	45923	46519	65070	61281	69953	72246	62782	54705	26823	40242	48227	42645	34366
+Betaine	151346	164714	119065	163192	139880	157260	144963	160701	127919	131050	136443	129804	142946	157465	151458	123990	142714	136489	203228	146139	144219	168794	137533	120729	191807	127570	139220	143361	171282	223047	167737	170993	130456	158432	137009	204267	172855	190881	181427	170078	174897	164964	151771	150880	157044	164574	143696	177528	149702	203937	173842	179806	189372	164398	139770	160018	137874	176950	151596	179168	161420	171735	162452	169575	168701	144768	153863	187961	158294	184257	156056	134193	151678	205499	177299	123386
+Taurine	16984	23931	14127	22156	20713	19984	63262	70295	73990	64681	66829	68390	70944	61185	68233	55834	66618	63805	83947	69264	66565	76478	54616	67253	76255	66434	59138	68283	65489	71918	76273	74272	66754	91940	74163	89606	74222	85158	84823	78711	94460	88124	60223	71560	64736	62491	54538	90458	76693	100632	92055	114375	99332	88663	90065	85488	88083	120670	99959	86094	97192	94713	87905	92563	91572	56692	64590	73812	69848	67936	58780	67791	108280	136772	122597	91832
+Creatine	154610	200504	108258	173606	157148	171324	263061	294395	251514	278861	264963	263188	218171	263553	228279	194900	228164	229386	339769	322765	283622	335388	287449	242645	326019	240659	264640	277535	246874	239623	339571	262389	257016	352695	274439	399456	312475	336470	350853	335520	384539	306397	296322	353239	348579	361144	279281	349279	312722	421424	325258	453012	421782	271976	246695	251485	225413	302106	265839	222679	278931	252100	242278	249152	249368	270391	294882	376211	312520	318917	330642	319943	452162	571321	500226	359262
+Adenine	1609	2746	1504	2709	1836	2586	3125	4334	4501	3118	3094	4332	3790	3465	3768	3062	3251	3657	2308	2660	1942	1442	1701	1995	5061	6042	4978	6108	4979	6508	3597	3611	3029	3436	3645	3528	2928	3052	2941	2693	2996	2992	2318	2019	1849	1858	1471	4651	4338	4186	4333	5954	6589	4320	3548	5121	3893	4872	4182	2838	4153	4312	3767	3981	4850	2140	1697	2209	2069	1977	1993	3156	4846	7337	6743	6264
+Glutamine	21787	33478	13988	15140	20473	15018	24425	16303	36192	43369	21213	24655	66111	41458	26848	37516	23427	27105	22280	39314	48732	57459	22572	25048	9062	4078	5392	8084	5575	10897	25984	18243	23093	32350	16958	13706	37865	32333	51487	35061	93382	33766	22707	38379	39462	22964	26420	5105	3636	4964	9448	7153	6557	32124	29666	11872	25661	19362	32132	24340	87766	44111	30482	32555	28535	48071	30988	31044	58754	22128	29108	3212	4266	3184	2505	1241
+Carnitine	18511	25722	11695	18784	15711	16380	33618	35220	46546	35354	41320	33065	57233	46424	53860	45933	40704	33436	52505	55863	45620	56790	30006	41961	58205	46618	41536	51802	50005	49921	44650	45411	38703	53691	34348	45237	58363	64647	79365	59796	93608	55483	33233	45069	51738	39797	44818	53240	41196	48288	56618	67073	51408	61234	51504	45788	42930	57060	46221	54543	92656	64472	59682	60341	59917	61126	57758	66028	62021	58005	45873	19807	36273	38890	34427	22451
+Phenylalanine	11880	12732	11701	9992	14638	8827	14544	11867	20173	20648	7560	18755	27043	22722	11942	16337	11533	23330	16744	13380	22537	32251	14156	15919	27368	9030	14269	11308	12344	29763	20070	17975	18573	25292	17175	12893	24228	15234	20218	23272	27957	26357	19873	21742	27310	17782	14073	16151	12345	19218	22735	15645	26240	15157	17847	8536	22954	13101	25426	12875	24510	19088	12238	13589	12437	24144	15043	13397	29900	13154	18223	9922	9493	14092	9175	14085
+Acylcarnitine C2:0	15584	22066	10911	16432	13301	15503	50556	55723	68519	58856	68738	54234	50412	45184	46686	42977	40195	30770	40863	81856	51817	42431	36962	28518	36791	28875	29750	35535	36743	37681	51760	36881	41704	61354	40304	56659	36315	37333	50981	38825	66061	29636	34748	50323	39389	47704	45101	44806	33216	40972	48364	52912	37739	53292	43502	41882	35060	53970	44264	32536	67774	41050	36382	40836	38241	34748	54125	57406	51655	40561	34695	27637	42166	49930	47985	34434
+Acylcarnitine C3:0	5701	6842	4124	6377	6259	5058	3922	3419	4722	4017	3606	3896	6056	4609	4354	5420	4441	4854	3094	3592	3599	5748	3048	2951	4504	3286	4521	4614	4563	5413	4090	4841	3486	5627	3633	4841	6167	6624	5918	4768	8414	5572	3172	3841	4370	3767	2935	3844	3311	5003	4792	4323	4824	5178	5143	4134	4814	5783	4681	4827	6371	5307	4370	4708	5364	3705	2990	2634	4000	3346	3228	3086	2892	4051	4246	2558
+Pantothenic Acid	33311	40823	27194	43724	36932	37091	46621	51552	58523	52525	49983	54920	78909	75532	75921	65435	75585	81028	89036	71670	73624	96421	59573	71275	29344	23075	23920	23291	24539	27589	44621	41079	39461	53938	45204	52146	78574	74614	86950	78767	92003	82402	69541	78316	87752	68060	77980	27479	22276	28526	33050	30240	26695	45642	48208	40242	46295	53496	51938	76875	97973	84549	77213	85939	80043	93403	79765	100476	97884	89304	70390	11993	17508	20383	17450	15978
+Acylcarnitine C4:0	7913	16579	4598	7941	7086	6893	14862	15953	20345	16670	19691	15840	32214	24315	31513	26098	22868	17066	20968	33603	21370	22865	14408	14737	13387	10135	11164	12939	12083	12863	18170	18787	15529	21137	15866	21211	29121	35610	51905	29087	89597	26798	16591	23483	20206	19298	21283	14424	11092	13648	17423	16297	12215	24617	17315	14029	15001	23001	17414	24851	80898	31666	27968	32453	32232	21437	25582	30741	24471	22147	19388	4766	6738	8433	7907	5859
+Taurine Dimer	776	1257	413	1176	1210	699	5641	6001	9525	6617	6139	8139	7193	5866	6313	5738	6256	6706	6626	7315	7556	7357	5094	7823	8158	7679	6063	8002	5660	5097	8698	7558	7256	10913	8286	8721	8002	9415	9691	8076	12450	9942	5040	8741	7001	5338	5782	10952	8764	11610	11913	17017	12814	11954	12738	9095	11395	15874	13153	9230	13964	12392	9898	10274	10826	4939	7039	7261	7999	6133	5890	5948	16544	16644	16337	13496
+Thiamine	32220	48893	26937	37843	33354	33817	34049	41254	40695	36023	27285	38074	59061	57866	57698	46753	45809	54434	46936	40427	41509	56752	34194	35221	56330	36799	32720	34851	36668	71507	40608	55334	35030	47727	38551	45073	58049	47056	61289	53407	71374	56530	41198	45700	51105	40730	34511	44069	34847	47622	47061	54107	56899	49953	41819	40857	49962	55436	53675	45761	60907	55137	45609	45581	43545	45637	35793	37403	54969	37761	42377	41431	45467	61724	53905	42437
+Adenosine	2431	2911	2004	3219	1790	3071	2899	3865	4642	4413	3620	4221	3985	2610	3388	2447	2375	2557	4071	5855	6215	4935	4554	1556	3589	3914	3769	4208	3453	4421	3751	4366	3916	4092	3209	4715	3936	4414	4427	3749	6273	5075	5815	6169	4730	5151	3042	4671	4299	4758	5964	5115	5112	2685	2022	2558	2516	3240	3479	1586	3386	2244	1768	2699	2871	1905	3518	2696	3010	3868	4156	2037	2749	3580	4061	3701
+5-Methylthioadenosine	35475	55710	29000	51308	39244	48072	68214	94103	97162	78724	74539	84358	91842	72063	72799	64913	60138	92376	38174	42228	41259	36181	39012	46015	118898	137701	119733	138907	120364	155157	90344	70959	64224	68138	75460	88357	51173	60412	64942	58264	71194	67389	46100	44489	40344	35853	41667	109672	98032	95852	96280	131707	141519	83974	75835	101216	86422	98071	93946	62852	95061	83495	73569	86536	86591	42411	35172	40098	41839	42745	42113	72065	101977	170192	174432	167519
+Acylcarnitine C12:0	354	86	360	491	243	106	1352	1432	1957	1360	1269	1472	938	827	622	853	798	1022	1617	1477	1635	537	1119	540	3395	1462	1994	1705	1709	1739	3623	2146	2341	4020	2773	3388	2098	2142	2306	3263	2804	2032	2764	2834	2610	3302	1672	7284	5071	6310	7835	9435	6151	3428	3687	3119	3404	3524	4119	2164	2704	2417	2179	2340	2434	925	2322	1463	1977	1280	1874	6357	9376	11970	8870	9749
+Acylcarnitine C14:1	525	612	275	699	560	679	1504	1594	1043	1414	1125	1204	865	1064	937	700	973	915	1455	1684	1169	822	1124	639	2483	1423	1370	1809	1792	1993	3619	2576	2071	2996	2503	3942	2973	2677	3161	3235	2800	2169	2848	2571	1984	3388	2028	6228	4873	6167	5800	7682	5986	4688	4374	4440	4601	5141	5108	2927	3307	4265	3174	3786	3931	1131	2021	1697	2337	1655	2284	9911	12099	14519	12291	10372
+Acylcarnitine C14:0	3227	3036	2249	3613	3714	2627	6590	7289	6419	6772	6094	7120	5123	6147	4117	3832	4903	4353	6924	8456	6757	5138	7987	3316	9530	5361	5774	6452	6277	6578	15437	9816	9874	13058	11793	14498	9925	9922	9618	10965	10258	8457	10834	10518	8532	12895	9575	19156	17406	21094	18761	22204	20459	17598	17478	18200	15357	20622	19904	11945	11474	13447	11896	12885	12562	3817	9671	7714	7465	7949	8270	24646	31061	41570	33083	28480
+Acylcarnitine C16:1	1748	1602	1320	1797	1802	1861	2837	3590	2660	4033	2687	3356	2302	3085	2021	1820	2458	2599	3413	4207	3517	3254	2941	1773	2983	1720	1990	1742	1941	2458	5080	3374	3911	5209	4479	5279	4256	4488	4851	4621	4039	4745	5447	4670	3884	6824	4572	6078	4962	6211	5349	6830	5820	8004	7838	8663	7627	10020	10322	6277	6259	7517	6233	6581	6162	2083	4099	4017	3511	3290	3833	7400	10664	12933	9817	9372
+Acylcarnitine C16:0	9547	9256	6849	8593	8976	9129	14913	15480	15577	15601	13025	16457	10324	11167	9298	8286	9800	9764	12942	14920	12061	8527	10992	5821	14085	8760	8713	9690	10096	12201	23379	16772	17112	25291	19520	27330	15382	15610	14627	16746	15463	15067	16145	15465	14127	17908	12996	26316	24431	30203	26572	28810	30758	25119	27222	29760	26613	31132	32054	19594	18007	22868	17872	17170	18397	6303	14698	10209	12313	11850	12262	35240	44466	61608	45090	43675
+Acylcarnitine C18:1	4538	3071	3189	3324	3895	3231	6962	6152	6119	8002	5753	6906	4453	4865	4232	3815	4112	4747	6480	6195	5686	4352	5903	3063	7832	4291	4421	4880	4889	6820	9228	6138	7119	10464	7901	10512	6805	6942	7242	7714	6003	7218	8503	8219	6507	9933	6557	12404	10173	14862	12083	12590	13114	12599	15101	14189	13982	17232	17845	9833	8835	12895	10228	10051	10869	3481	6823	4871	5837	4731	5885	18531	20311	29640	20403	20915
+Acylcarnitine C18:0	2008	1664	1406	1619	2580	2152	4348	3409	3063	4273	2999	4173	2248	2562	1495	2031	2328	2633	4662	3673	2793	2262	2979	1871	7557	4242	4848	4585	4511	6734	7329	3890	5089	7297	4596	6382	3585	3073	2964	4266	2972	3765	4857	4037	3380	5257	3394	14287	12483	16554	14844	12582	14896	7292	9201	8156	8006	7813	9977	5199	4476	6083	4727	5050	4731	2511	4255	2589	3434	2560	3303	20938	22446	28410	19677	23456
+lysoPE 16:0	5959	6083	4356	5532	5431	6337	7135	6857	6025	6579	6328	6847	6426	6212	5664	4320	6468	6143	6214	5431	4913	5381	5010	3583	7304	5458	6030	5616	6093	6341	7621	6547	6129	8230	6394	9223	7719	7166	7487	7816	6961	6726	4469	4952	5148	5937	4783	7438	6812	7549	7563	6852	6587	7242	7677	7479	7094	9559	7912	7687	7922	7690	7157	7574	8220	5161	5441	5225	4895	6118	4173	5527	6889	10706	8948	6348
+lysoPE 18:1	5420	6268	3534	5819	6254	5788	8720	8370	8718	9052	8378	8833	9717	8716	7538	6852	8213	8689	8125	7248	7169	7495	6755	6237	11326	9626	9652	8106	9200	11234	9203	7821	8228	9340	7905	10839	9168	8575	8778	8973	8496	9242	6097	6972	7191	7733	6378	10624	9938	10678	11955	10949	10104	8097	8920	7712	7997	9527	8486	8872	9617	9113	7914	8017	9046	5937	6922	6315	7080	6447	6010	7827	8426	11408	11489	9584
+lysoPE 18:0	8770	9141	6694	8395	9256	8207	12872	13204	13657	13834	13687	13333	12068	11142	10743	9326	10305	10827	9921	10289	10504	10006	8983	8538	11259	10554	10366	9758	9068	9045	12043	9986	9984	13665	10032	13569	11094	10616	11370	11098	11678	11732	7412	8329	8590	9609	6788	10291	9685	11168	12088	9924	10242	9754	10932	8632	8551	11076	10850	8962	9208	9648	9121	9242	8638	7286	7662	7885	8831	7112	7103	7111	8577	8413	8135	8484
+lysoPC 16:1	4892	4650	3218	4978	4481	4593	5221	5615	5326	4587	5790	4801	7119	6498	6300	6952	6494	5578	4893	7605	5742	5565	5968	4719	5709	11036	6920	7236	5009	5502	5596	4828	3959	4172	4850	4713	7137	8096	6852	6940	7771	5304	5233	4983	5747	6499	6329	8082	7982	6707	6509	9179	9940	7206	5308	5843	5390	5067	5246	5618	8235	6385	7068	7304	6003	5226	6694	6953	5477	5858	5936	5374	6450	7107	7872	6595
+lysoPC 16:0	89271	97427	63560	88637	88536	87298	103571	106396	115535	103740	98834	105344	119140	128330	117538	106612	117450	115492	106971	106661	88721	104644	88936	79166	122266	116007	100725	103931	104483	110853	94072	80458	69474	98573	78409	96196	113369	103585	111895	104125	121402	102297	65345	70551	79922	77826	75522	86835	79805	93883	86236	98625	94608	90709	93079	84490	85164	98336	91666	92665	109025	107044	100707	93520	92377	77078	84727	82162	85140	77674	70270	54482	72292	89277	85620	69656
+lysoPC 18:1	31516	33224	23231	32888	30955	35248	38358	42590	44154	37737	45691	35728	48083	45817	46795	47052	44946	40238	39752	49589	41249	38247	42972	35045	59018	67526	53742	55816	48147	51639	37717	33308	27183	32197	30214	34546	44074	46534	40765	41572	45927	37492	27920	31220	31712	36727	37036	43350	42380	41444	42151	51651	50067	38545	34849	33233	33211	36554	32934	33598	44678	39080	39412	40704	34597	32389	38468	35342	35312	31862	33771	31885	36500	41889	42564	38271
+lysoPC 18:0	64617	72974	48462	63576	66153	65200	92780	93323	98014	95474	86198	94678	100825	110826	98575	98458	99499	101216	93605	88575	78742	95340	76763	70336	84974	86715	73832	72288	82183	76131	72827	64988	57842	81635	62404	77428	90217	82106	89018	85754	98161	86039	52552	58675	65763	59025	62115	50239	45388	55787	53424	54891	57697	80495	77577	71104	74674	86040	80228	88473	97806	97729	87906	81470	79125	62150	72441	68502	75890	62227	56345	37831	50003	61296	51383	46541
+SM 32:1	35832	35220	26941	30989	34084	32422	41783	39095	37480	42512	40716	39221	39618	43697	35529	35985	39202	35122	36414	41060	44055	45445	38934	36532	35834	37575	41430	42996	33951	29007	53261	38391	40998	43428	35635	44634	44944	47843	50306	52976	49017	45667	43178	46346	52439	51756	42175	47209	52657	49968	48627	51046	53060	47206	46384	40569	37742	44531	46451	46028	51813	46928	42979	44565	42259	49113	53125	50699	45121	50088	44222	45163	46009	42674	44139	47263
+PE 32:2	11633	13120	11877	15024	13786	10986	7913	8026	8511	9013	7213	8561	7895	9874	7772	9541	8915	7551	6850	9724	9904	8380	9219	9506	7100	11711	8540	8734	7258	4852	13229	10520	12691	9353	12754	8500	13132	12639	13018	12373	14421	14146	13073	13302	13428	12370	12708	14367	14087	14618	14771	18587	16705	13657	13054	12976	14832	11918	19219	13226	17434	14411	12326	14907	14329	12879	11866	13124	13184	13692	12641	17226	16448	12251	18378	21474
+PE 32:1	71338	76182	74340	80307	68985	66346	43484	44408	57709	47795	48787	49542	44583	49601	46988	58424	47230	43960	32986	62580	53660	39463	48371	48528	36625	59228	46553	53076	35250	21799	63192	51268	58473	44429	65628	32893	65893	65643	69799	59037	83614	65737	60225	61658	63595	63976	70040	63034	68424	59348	66277	88047	74748	78146	70947	61765	75184	53777	81653	62288	89186	68404	67143	70538	68313	65576	58920	70707	68625	69207	67643	70005	91365	59076	74119	89960
+SM 34:1	479592	403674	388304	353325	381001	389282	520017	467719	364106	486282	470304	453809	529138	487651	430057	436386	503200	422908	435022	464546	501364	443883	463783	415298	463420	271099	425714	451514	406670	397979	572487	419045	439435	399467	400486	463614	513412	545668	515739	608254	434781	475632	480381	383792	465209	559394	454077	452464	480967	455992	470347	343111	411593	497604	452384	410041	366592	494529	478905	471705	467516	508529	476432	570999	446625	445738	543673	489705	431258	480217	418488	504775	449319	413675	379103	434902
+PE 34:3	13503	15493	14203	15767	14729	13197	11117	11331	13289	13252	10632	12591	11530	12530	10971	14405	11741	10897	8951	13370	13652	10919	12919	12848	8573	13805	10286	10361	8625	5536	14334	12285	13503	11630	14376	9533	14520	14605	15232	13997	16960	16429	15380	15385	16453	16194	15882	13982	14372	13791	16684	17053	16597	14571	14609	14233	15864	11864	16696	13660	16698	14716	13289	13664	15993	16035	14126	17244	16096	16046	16966	13066	15070	10834	13513	16312
+PE 34:2	187513	196415	194670	209483	187340	176922	138767	143506	185152	150077	145998	161568	150721	157024	160018	187439	150549	147450	104470	187492	177807	129429	157014	163219	106432	183793	137697	143225	105229	66070	168612	151145	169102	130582	181613	95070	194179	186468	197278	167972	209366	202113	183473	202250	194884	187570	212360	169307	176634	158592	181928	209364	192113	208051	196547	180519	215920	150570	216293	178331	209114	195476	172302	190797	191430	200971	186750	210182	197611	205012	202789	174291	214137	141124	176382	220039
+PE 34:1	144601	158666	159880	156447	134405	146192	118187	105277	129968	111393	118173	115461	108255	122466	120416	130874	119559	120255	89514	126400	111005	87215	101336	98742	106386	122472	111919	126333	98853	59857	131973	114947	125174	106172	139543	81793	154242	133942	157521	125546	173065	144980	135246	131767	138431	124387	131267	144548	140648	135191	138855	167706	148614	191876	149750	146970	162977	126309	173739	143814	172548	165120	140317	147374	147261	133915	127732	139782	120621	137412	142989	148574	207264	148456	190405	192457
+PC 32:2	211265	192964	192949	197159	229599	227190	202975	188350	140429	190972	152779	191219	213824	226053	171383	153946	203549	194460	325410	182244	252486	305060	209314	210407	223790	161799	184739	162209	212946	272728	238466	186126	214962	251182	179339	334002	256618	213569	227105	274169	181033	255327	281795	256911	268217	280748	202522	263305	253632	324493	272425	206615	265932	198449	227110	244111	193798	312687	263964	269814	201814	269837	269828	229942	268722	271803	260328	245363	261256	283222	232008	276343	212407	333579	316613	241909
+PE 36:4	142525	150852	142374	156176	144105	132037	129256	125654	172557	134680	130534	143257	138010	146272	146962	188339	134825	137601	100308	164674	161820	117984	148144	155678	99311	177217	132811	136074	96625	57879	141441	125456	147226	108388	157099	75154	171368	161125	159402	138571	193219	171827	168963	182129	163833	165768	191936	142026	149683	136407	156792	179109	171031	170928	161419	148037	178027	118071	172809	148541	181315	170476	139266	148994	149222	168790	160972	182417	169399	176596	188704	133334	172026	100783	132546	174497
+PE 36:3	177487	194853	190713	198768	184557	173125	166269	160992	213403	171391	169667	185548	182064	191367	185942	229861	172058	187730	130335	214209	211866	145730	185328	196640	130745	206990	170917	181507	126943	78120	191360	176596	209285	152778	215985	107517	239080	219052	231569	192736	247478	246529	237348	248096	234468	227702	236946	205619	215403	194419	225817	234964	233352	226827	217607	199923	239269	154529	230316	201457	217354	224830	184440	188063	198661	228896	213303	238497	222096	233157	254204	169307	215782	140986	184253	231425
+PE 36:2	290198	317541	332336	312949	289592	297180	302955	270897	334370	273591	277475	292806	283431	307916	299430	357245	285168	307135	234499	304585	289919	234978	264632	273239	251566	323894	284360	292018	242502	151972	284675	269697	313807	265831	323297	188228	373811	307447	354576	293958	380624	358111	336536	358665	331058	298314	321823	313124	314785	328973	332938	376694	338573	384156	336872	327895	374047	281179	364321	309737	344646	354425	289256	291663	311289	332230	305508	328308	294814	327605	378477	298596	378328	281651	328556	365376
+PC 34:4	356365	372698	439195	509884	451935	350750	367955	381496	429769	448568	352960	466215	432364	501580	372075	396387	388805	477210	433446	464083	455441	526799	416125	531865	384536	392693	396982	385075	359440	417771	444166	331671	435125	445106	433473	402772	451584	411012	492796	429242	515628	510236	468929	512169	568593	426144	423452	369515	361879	533666	484776	477202	438704	389980	467171	365287	449861	446541	478083	374035	425024	367030	369174	426744	405118	510454	437789	426899	540158	464468	413578	394729	354023	393923	375930	455487
+PC 34:2	1038508	977338	1031028	940897	1055997	1069071	1117963	1102488	921201	1075273	1032520	1084102	1077930	1093882	1044109	943376	1133823	1114608	1392119	1065741	1134528	1345052	1181459	1169057	1039087	884179	971038	918107	1070790	1273352	893253	1006205	965793	1033433	899611	1236928	1116486	1097916	1089729	1242478	968938	1126261	1197230	1172263	1177034	1210188	1114900	1082077	1087876	1085558	1044499	952368	950083	970904	1047318	1123777	987726	1225198	1012672	1169689	1007097	1056086	1163194	1093448	1170443	1304828	1294398	1215286	1224630	1275182	1179237	1054925	880725	1064402	1028387	913166
+PC 34:1	2963360	2600160	3173826	2828846	3047953	3008582	3451673	3206858	2891887	3248843	2999763	3258242	3268501	3312256	3007859	3005648	3200719	3292044	3594286	2779762	3179917	3312156	3196417	3166857	3292943	2548038	3037615	2583346	3063717	3550507	2913508	2771235	3014954	2868101	2801883	3082409	3442532	3205961	2976105	3306618	2589629	3388809	3414935	3142297	3110152	3355657	3207330	3004220	3027118	3416300	3139480	2523733	3059581	2732575	3145098	3183245	2973116	3165954	3087952	3215574	2511466	3172505	3124161	3163019	3063347	3238896	3124923	3155952	3290915	3400722	3107439	3186864	2554963	2969125	2796588	2703407
+PE 38:6	52709	53076	53488	56993	55625	49976	49155	50419	61600	51711	48741	55718	55518	56576	56680	73332	51797	56020	42952	62002	66047	50026	59970	63454	38361	61238	48354	47979	37922	25568	52304	48011	57713	44145	61393	32299	69368	62045	62126	55373	69960	73657	72965	76599	66862	71197	74309	57034	59958	56998	61969	62690	67469	61246	61589	56816	66552	45668	64794	57744	63904	66114	52081	54215	58582	65355	65221	71448	64206	68532	77525	47763	57562	39549	48415	61015
+PC 36:3	217069	260322	181668	219228	180990	221656	228231	277353	277934	244936	354077	231967	235420	203776	333987	282316	287938	274204	251821	371455	258483	273091	345097	339843	177967	330228	253941	358445	302108	206636	164705	286047	201209	227531	236752	198795	250216	335773	340931	299590	373773	251220	278867	291946	283489	279978	334983	323809	339188	160926	240084	355436	233567	309847	238162	285313	275905	257916	207883	294756	352845	259195	314842	269394	303959	330943	402318	352746	317725	296961	417343	243379	295809	195948	235820	235880
+PC 36:2	904033	1061883	853414	883082	767367	917655	1094034	1264895	1434364	1186373	1643840	1116024	1139015	987999	1602957	1445826	1370809	1234695	1034794	1631344	1290258	1136469	1580936	1552675	823803	1434657	1157657	1497926	1354919	872598	757624	1278706	899297	957136	1103590	768095	1115944	1463677	1410432	1303042	1530191	1133714	1187552	1303563	1249734	1167780	1544528	1309702	1378670	716395	988317	1376802	957038	1376390	1105842	1244914	1329037	1032913	908075	1275785	1449032	1052039	1394016	1220256	1311503	1490884	1640980	1448711	1416103	1276445	1679464	992998	1169028	738996	886597	968139
+PC 38:5	247308	228191	263860	269399	261402	241600	300121	313492	254614	280636	249075	285931	290915	283037	268379	270854	284668	291654	356184	253113	289331	302789	295837	296491	332647	227469	277071	209567	261217	260582	248870	272776	260058	264858	244945	254632	297874	305245	268589	292940	273364	297251	297373	281899	283459	303045	293424	262349	262031	284686	271935	206436	281127	235242	274348	282019	259700	258276	270257	284301	205550	277804	252745	279245	268834	280269	268545	310103	294448	328222	296193	243394	208230	218379	217727	229114
+PC 38:4	93621	118764	95732	114293	107507	88659	113863	118642	189364	131302	119647	142147	126023	140985	122077	198724	118559	119902	76252	164877	166788	107373	146530	149275	90152	212229	144621	147212	84687	46047	121605	100278	129173	90418	131330	52694	134954	120610	142344	109463	169193	134889	135877	156353	150095	130433	144612	109491	119823	111690	136331	168117	167624	156264	145102	120819	164681	92177	156193	101678	155519	127028	102435	107364	115980	157585	129908	137157	144029	142279	147847	89536	131337	67737	91517	151006
+PC 38:3	51811	64448	59610	64226	63352	51497	78080	84960	140229	93292	81216	99920	92655	95746	87797	140578	85268	90132	50530	105452	113651	68166	87557	101474	61170	163064	94761	102362	55248	29434	82856	70533	96083	62941	97636	36024	98606	90862	99632	70221	135139	106739	101915	112905	108190	83751	88484	75244	77662	72730	99286	108237	109111	106875	96038	79879	114612	53161	106550	69658	107242	81848	65350	72988	70450	90966	70118	89373	90141	89961	95842	55314	83023	41957	56607	93725
+PC 38:2	46411	61818	54909	57278	57126	47744	93060	103287	169714	104957	102956	127984	119133	120217	123524	184535	104113	111610	66256	141255	144358	73369	113119	132602	79455	187167	120816	137280	74366	37646	89005	88370	105665	64620	113547	37242	118416	101619	108703	75200	155752	127541	130702	135053	125561	104084	115167	88286	88221	84257	108198	134160	121960	117018	106701	88946	123713	54307	112492	77384	125295	92934	76406	78194	76086	102278	92945	106412	99840	112154	138125	56750	93816	42269	56613	101002
+PC 40:7	32120	40368	32971	38561	39640	28801	40720	40957	63199	48165	40473	53544	41956	50210	42482	61997	40685	43527	26174	54090	61106	40095	50763	55687	32020	68892	52347	48402	27500	13572	42757	35066	50252	34019	49096	16454	46857	40738	48865	39122	50400	53073	52821	60401	58396	48899	51023	40141	44008	38130	52174	53848	61612	51000	55059	40991	60697	30616	59092	36590	50153	45659	34667	36187	40965	61920	48116	50531	52091	50063	52194	32160	47054	22922	34160	58551
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	row ID	row m/z	retention time	Pubchem ID
+Choline	2655	104.1071794	13.753	305
+Creatinine	124	114.0662848	4.167	588
+Proline	4854	116.0711927	11.194	145742
+Betaine	5018	118.0864932	11.424	247
+Taurine	5248	126.0220355	4.995	1123
+Creatine	8522	132.0768601	12.209	586
+Adenine	2970	136.0639019	2.491	190
+Glutamine	8626	147.0804022	12.372	5961
+Carnitine	359	162.1115757	13.482	10917
+Phenylalanine	3523	166.0864615	9.57	6140
+Acylcarnitine C2:0	8099	204.1229547	13.103	7045767
+Acylcarnitine C3:0	3752	218.1357026	12.818	188824
+Pantothenic Acid	6783	220.1179959	4.898	6613
+Acylcarnitine C4:0	1941	232.1535555	12.493	213144
+Taurine Dimer	5105	251.0358709	4.968	1123
+Thiamine	8570	265.1122176	13.319	1130
+Adenosine	397	268.1055386	3.152	60961
+5-Methylthioadenosine	5256	298.0973149	2.475	439176
+Acylcarnitine C12:0	26324	344.2781712	11.147	168381
+Acylcarnitine C14:1	4029	370.2942133	10.991	53634646
+Acylcarnitine C14:0	5601	372.3105627	10.977	53477791
+Acylcarnitine C16:1	5522	398.3270304	10.869	53951914
+Acylcarnitine C16:0	4964	400.3424124	10.842	11953816
+Acylcarnitine C18:1	4944	426.3576773	10.747	46907933
+Acylcarnitine C18:0	1130	428.3735135	10.734	52922056
+lysoPE 16:0	6707	454.292605	8.888	9547069
+lysoPE 18:1	66	480.308566	8.575	9547071
+lysoPE 18:0	7817	482.324123	8.454	9547068
+lysoPC 16:1	2704	494.324484	11.422	24779461
+lysoPC 16:0	4219	496.3398435	11.381	460602
+lysoPC 18:1	1499	522.3557595	11.178	16081932
+lysoPC 18:0	7408	524.3711797	11.286	497299
+SM 32:1	6033	675.543565	11.01	11433862
+PE 32:2	728	688.4914041	4.274	9546809
+PE 32:1	3140	690.5067966	4.372	52924223
+SM 34:1	7335	703.5742272	10.946	9939941
+PE 34:3	8574	714.5064345	4.212	52924360
+PE 34:2	5001	716.522987	4.252	52924899
+PE 34:1	1482	718.5373503	4.37	9546802
+PC 32:2	2391	730.5386662	9.945	24778764
+PE 36:4	1357	740.5220477	4.049	52924875
+PE 36:3	599	742.5377229	4.144	52924364
+PE 36:2	8487	744.5537567	4.198	9546757
+PC 34:4	6780	754.5366323	9.985	52922835
+PC 34:2	7085	758.5702511	9.907	24778935
+PC 34:1	4681	760.5845333	9.907	24778933
+PE 38:6	996	764.5225557	3.989	52924873
+PC 36:3	7627	784.5854303	9.62	52922727
+PC 36:2	230	786.6014517	9.75	10350317
+PC 38:5	8240	808.5842462	9.5	52923293
+PC 38:4	8607	810.599117	8.5	53478957
+PC 38:3	6357	812.6143887	9.15	52923173
+PC 38:2	491	814.6301964	9.247	52923113
+PC 40:7	6434	832.5834274	8.43	52923693
+METABOLITES_END
+#END

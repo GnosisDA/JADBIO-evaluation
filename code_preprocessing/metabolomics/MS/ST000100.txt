@@ -1,0 +1,149 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000100 ANALYSIS_ID:AN000165
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Global Metabolomics of C. elegans using an augmented reference IROA design
+PR:PROJECT_SUMMARY               	-
+PR:INSTITUTE                     	University of Florida
+PR:DEPARTMENT                    	Biochemistry & Molecular Biology
+PR:LAST_NAME                     	Edison
+PR:FIRST_NAME                    	Arthur
+PR:ADDRESS                       	R3-226 Academic Research Building, Department of Biochemistry & Molecular
+PR:ADDRESS                       	PO Box 100245, Gainesville, Fl
+PR:EMAIL                         	aedison@ufl.edu
+PR:PHONE                         	(352) 392-4535
+PR:FUNDING_SOURCE                	NIH
+#STUDY
+ST:STUDY_TITLE                   	Global Metabolomics of C. elegans using an augmented reference IROA design
+ST:STUDY_TYPE                    	heat shock
+ST:STUDY_SUMMARY                 	Global Metabolomics of C. elegans using an augmented reference IROA design
+ST:INSTITUTE                     	University of Florida
+ST:DEPARTMENT                    	Biochemistry & Molecular Biology
+ST:LABORATORY                    	Arthur Edison
+ST:LAST_NAME                     	Edison
+ST:FIRST_NAME                    	Arthur
+ST:ADDRESS                       	R3-226 Academic Research Building, Department of Biochemistry & Molecular
+ST:ADDRESS                       	PO Box 100245, Gainesville, FL 32610-0245
+ST:EMAIL                         	aedison@ufl.edu
+ST:PHONE                         	-
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Caenorhabditis elegans
+SU:TAXONOMY_ID                   	6329
+SU:GENOTYPE_STRAIN               	N2
+SU:AGE_OR_AGE_RANGE              	Young adult
+SU:GENDER                        	Hermaphrodite
+SU:SPECIES_GROUP                 	Invertebrate
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	Worm	10PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=4; BioRep=10; ExperRep=1,2; PairID=101,102; SampleID=37,38; SampleOrder=32,48
+SUBJECT_SAMPLE_FACTORS           	Worm	11PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=4; BioRep=11; ExperRep=1,2; PairID=111,112; SampleID=41,42; SampleOrder=8,2
+SUBJECT_SAMPLE_FACTORS           	Worm	12PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=4; BioRep=12; ExperRep=1,2; PairID=121,122; SampleID=45,46; SampleOrder=23,33
+SUBJECT_SAMPLE_FACTORS           	Worm	1PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=1; BioRep=1; ExperRep=1,2; PairID=11,12; SampleID=1,2; SampleOrder=19,35
+SUBJECT_SAMPLE_FACTORS           	Worm	2PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=1; BioRep=2; ExperRep=1,2; PairID=21,22; SampleID=5,6; SampleOrder=40,37
+SUBJECT_SAMPLE_FACTORS           	Worm	3PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=1; BioRep=3; ExperRep=1,2; PairID=31,32; SampleID=9,10; SampleOrder=25,12
+SUBJECT_SAMPLE_FACTORS           	Worm	4PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=2; BioRep=4; ExperRep=1,2; PairID=41,42; SampleID=13,14; SampleOrder=10,6
+SUBJECT_SAMPLE_FACTORS           	Worm	5PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=2; BioRep=5; ExperRep=1,2; PairID=51,52; SampleID=17,18; SampleOrder=22,45
+SUBJECT_SAMPLE_FACTORS           	Worm	6PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=2; BioRep=6; ExperRep=1,2; PairID=61,62; SampleID=21,22; SampleOrder=15,44
+SUBJECT_SAMPLE_FACTORS           	Worm	7PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=3; BioRep=7; ExperRep=1,2; PairID=71,72; SampleID=25,26; SampleOrder=41,4
+SUBJECT_SAMPLE_FACTORS           	Worm	8PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=3; BioRep=8; ExperRep=1,2; PairID=81,82; SampleID=29,30; SampleOrder=17,13
+SUBJECT_SAMPLE_FACTORS           	Worm	9PC-5	Labelling:0.05 | Experimentalgroup:heat-shock	Batch=3; BioRep=9; ExperRep=1,2; PairID=91,92; SampleID=33,34; SampleOrder=27,30
+SUBJECT_SAMPLE_FACTORS           	Worm	10PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=4; BioRep=10; ExperRep=1,2; PairID=101,102; SampleID=39,40; SampleOrder=31,47
+SUBJECT_SAMPLE_FACTORS           	Worm	11PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=4; BioRep=11; ExperRep=1,2; PairID=111,112; SampleID=43,44; SampleOrder=7,1
+SUBJECT_SAMPLE_FACTORS           	Worm	12PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=4; BioRep=12; ExperRep=1,2; PairID=121,122; SampleID=47,48; SampleOrder=24,34
+SUBJECT_SAMPLE_FACTORS           	Worm	1PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=1; BioRep=1; ExperRep=1,2; PairID=11,12; SampleID=3,4; SampleOrder=20,36
+SUBJECT_SAMPLE_FACTORS           	Worm	2PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=1; BioRep=2; ExperRep=1,2; PairID=21,22; SampleID=7,8; SampleOrder=39,38
+SUBJECT_SAMPLE_FACTORS           	Worm	3PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=1; BioRep=3; ExperRep=1,2; PairID=31,32; SampleID=11,12; SampleOrder=26,11
+SUBJECT_SAMPLE_FACTORS           	Worm	4PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=2; BioRep=4; ExperRep=1,2; PairID=41,42; SampleID=15,16; SampleOrder=9,5
+SUBJECT_SAMPLE_FACTORS           	Worm	5PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=2; BioRep=5; ExperRep=1,2; PairID=51,52; SampleID=19,20; SampleOrder=21,46
+SUBJECT_SAMPLE_FACTORS           	Worm	6PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=2; BioRep=6; ExperRep=1,2; PairID=61,62; SampleID=23,24; SampleOrder=16,43
+SUBJECT_SAMPLE_FACTORS           	Worm	7PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=3; BioRep=7; ExperRep=1,2; PairID=71,72; SampleID=27,28; SampleOrder=42,3
+SUBJECT_SAMPLE_FACTORS           	Worm	8PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=3; BioRep=8; ExperRep=1,2; PairID=81,82; SampleID=31,32; SampleOrder=18,14
+SUBJECT_SAMPLE_FACTORS           	Worm	9PHS-5	Labelling:0.05 | Experimentalgroup:no heat-shock	Batch=3; BioRep=9; ExperRep=1,2; PairID=91,92; SampleID=35,36; SampleOrder=28,29
+SUBJECT_SAMPLE_FACTORS           	Worm	10PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=4; BioRep=10; ExperRep=1,2; PairID=101,102; SampleID=37,38; SampleOrder=32,48
+SUBJECT_SAMPLE_FACTORS           	Worm	11PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=4; BioRep=11; ExperRep=1,2; PairID=111,112; SampleID=41,42; SampleOrder=8,2
+SUBJECT_SAMPLE_FACTORS           	Worm	12PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=4; BioRep=12; ExperRep=1,2; PairID=121,122; SampleID=45,46; SampleOrder=23,33
+SUBJECT_SAMPLE_FACTORS           	Worm	1PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=1; BioRep=1; ExperRep=1,2; PairID=11,12; SampleID=1,2; SampleOrder=19,35
+SUBJECT_SAMPLE_FACTORS           	Worm	2PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=1; BioRep=2; ExperRep=1,2; PairID=21,22; SampleID=5,6; SampleOrder=40,37
+SUBJECT_SAMPLE_FACTORS           	Worm	3PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=1; BioRep=3; ExperRep=1,2; PairID=31,32; SampleID=9,10; SampleOrder=25,12
+SUBJECT_SAMPLE_FACTORS           	Worm	4PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=2; BioRep=4; ExperRep=1,2; PairID=41,42; SampleID=13,14; SampleOrder=10,6
+SUBJECT_SAMPLE_FACTORS           	Worm	5PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=2; BioRep=5; ExperRep=1,2; PairID=51,52; SampleID=17,18; SampleOrder=22,45
+SUBJECT_SAMPLE_FACTORS           	Worm	6PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=2; BioRep=6; ExperRep=1,2; PairID=61,62; SampleID=21,22; SampleOrder=15,44
+SUBJECT_SAMPLE_FACTORS           	Worm	7PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=3; BioRep=7; ExperRep=1,2; PairID=71,72; SampleID=25,26; SampleOrder=41,4
+SUBJECT_SAMPLE_FACTORS           	Worm	8PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=3; BioRep=8; ExperRep=1,2; PairID=81,82; SampleID=29,30; SampleOrder=17,13
+SUBJECT_SAMPLE_FACTORS           	Worm	9PC-95	Labelling:0.95 | Experimentalgroup:heat-shock	Batch=3; BioRep=9; ExperRep=1,2; PairID=91,92; SampleID=33,34; SampleOrder=27,30
+SUBJECT_SAMPLE_FACTORS           	Worm	10PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=4; BioRep=10; ExperRep=1,2; PairID=101,102; SampleID=39,40; SampleOrder=31,47
+SUBJECT_SAMPLE_FACTORS           	Worm	11PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=4; BioRep=11; ExperRep=1,2; PairID=111,112; SampleID=43,44; SampleOrder=7,1
+SUBJECT_SAMPLE_FACTORS           	Worm	12PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=4; BioRep=12; ExperRep=1,2; PairID=121,122; SampleID=47,58; SampleOrder=24,34
+SUBJECT_SAMPLE_FACTORS           	Worm	1PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=1; BioRep=1; ExperRep=1,2; PairID=11,12; SampleID=3,4; SampleOrder=20,36
+SUBJECT_SAMPLE_FACTORS           	Worm	2PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=1; BioRep=2; ExperRep=1,2; PairID=21,22; SampleID=7,8; SampleOrder=39,38
+SUBJECT_SAMPLE_FACTORS           	Worm	3PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=1; BioRep=3; ExperRep=1,2; PairID=31,32; SampleID=11,12; SampleOrder=26,11
+SUBJECT_SAMPLE_FACTORS           	Worm	4PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=2; BioRep=4; ExperRep=1,2; PairID=41,42; SampleID=15,16; SampleOrder=9,5
+SUBJECT_SAMPLE_FACTORS           	Worm	5PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=2; BioRep=5; ExperRep=1,2; PairID=51,52; SampleID=19,20; SampleOrder=21,46
+SUBJECT_SAMPLE_FACTORS           	Worm	6PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=2; BioRep=6; ExperRep=1,2; PairID=61,62; SampleID=23,24; SampleOrder=16,43
+SUBJECT_SAMPLE_FACTORS           	Worm	7PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=3; BioRep=7; ExperRep=1,2; PairID=71,72; SampleID=27,28; SampleOrder=42,3
+SUBJECT_SAMPLE_FACTORS           	Worm	8PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=3; BioRep=8; ExperRep=1,2; PairID=81,82; SampleID=31,32; SampleOrder=18,14
+SUBJECT_SAMPLE_FACTORS           	Worm	9PHS-95	Labelling:0.95 | Experimentalgroup:no heat-shock	Batch=3; BioRep=9; ExperRep=1,2; PairID=91,92; SampleID=35,36; SampleOrder=28,29
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Each flask was separated into supernatant (exometabolome) and worm pellet
+CO:COLLECTION_SUMMARY            	by centrifugation 2,000 rpm for 2 min.
+CO:COLLECTION_PROTOCOL_ID        	Centrifugation
+CO:COLLECTION_PROTOCOL_FILENAME  	Experimental_Methods.docx
+CO:VOLUMEORAMOUNT_COLLECTED      	25,000 worms in 2.5 mL
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Samples were treated with a 20 min heat shock at 33 °C followed by incubation
+TR:TREATMENT_SUMMARY             	22C for 100 min. Sample shook at 250 rpm at a worm density of 10,000 worms per
+TR:TREATMENT_SUMMARY             	Samples were incubated at 22C for 120 min. Sample shook at 250 rpm at a worm
+TR:TREATMENT_SUMMARY             	of 10,000 worms per mL.
+TR:TREATMENT_PROTOCOL_ID         	Test/Control
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_ID        	Endometabolome
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Experimental_Methods.docx
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	The worm pellets were homogenized using a FastPrep-24 (MP Biomedicals) using
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	Matrix E tubes for 5 cycles of 60 sec in 80% methanol and then frozen at -80
+SP:PROCESSING_METHOD             	Homogenization
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Samples were analyzed using a mass range of m/z 70-1000 in positive and
+CH:CHROMATOGRAPHY_SUMMARY        	ionization mode, externally calibrated, using a Thermo Scientific Q-Exactive
+CH:CHROMATOGRAPHY_SUMMARY        	mass spectrometer equipped with a Dionex UltiMate 3000 RS autosampler and pump.
+CH:CHROMATOGRAPHY_SUMMARY        	?L of each sample were injected onto an Acquity UPLC HSS T3 (2.1x100 mm, 1.8
+CH:CHROMATOGRAPHY_SUMMARY        	column using a column temperature of 35 C and a flow rate of 300 L/min with
+CH:CHROMATOGRAPHY_SUMMARY        	A (0.1% formic acid in water (Fisher LC-MS Optima)) held at 100% A for 1 min,
+CH:CHROMATOGRAPHY_SUMMARY        	by linear increase to 80% B (0.1% formic acid in acetonitrile) over 10 min,
+CH:CHROMATOGRAPHY_SUMMARY        	constant for 2 min, followed by a return to initial conditions over 0.5 min and
+CH:CHROMATOGRAPHY_SUMMARY        	for 3 min.
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	Dionex UltiMate 3000 RS
+CH:COLUMN_NAME                   	Acquity UPLC HSS T3 (2.1x100 mm, 1.8 micron)
+CH:FLOW_GRADIENT                 	A held at 100% A for 1 min, followed by linear increase to 80% B over 10 min,
+CH:FLOW_GRADIENT                 	constant for 2 min, followed by a return to initial conditions over 0.5 min and
+CH:FLOW_GRADIENT                 	for 3 min
+CH:FLOW_RATE                     	300 L/min
+CH:SAMPLE_INJECTION              	3 ?L
+CH:SOLVENT_A                     	0.1% formic acid in water (Fisher LC-MS Optima)
+CH:SOLVENT_B                     	0.1% formic acid in acetonitrile
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Edison
+AN:OPERATOR_NAME                 	Chaevien Clendinen
+AN:DETECTOR_TYPE                 	Positive
+#MS
+MS:INSTRUMENT_NAME               	Thermo Scientific Q-Exactive Orbitrap
+MS:INSTRUMENT_TYPE               	Orbitrap
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+MS:MS_COMMENTS                   	The Q-Exactive was equipped with a Heated Electrospray Ionization (HESI) source
+MS:MS_COMMENTS                   	operated at a spray temperature of 350 ?C, a spray voltage of 3.5 kV, and
+MS:MS_COMMENTS                   	and auxiliary gas flow rates of 50 and 10 arbitrary units, respectively. The
+MS:MS_COMMENTS                   	temperature was held at 325 ?C, and the S-lens RF Level was set to 40%. The FR
+MS:MS_COMMENTS                   	was set to 70,000 at m/z 200. The accuracy achieved was routinely less than 1.5
+MS:CAPILLARY_TEMPERATURE         	325 ?C
+MS:ION_SOURCE_TEMPERATURE        	350 ?C
+MS:ION_SPRAY_VOLTAGE             	3.5 kV
+MS:RESOLUTION_SETTING            	70000
+MS:MS_COMMENTS                   	The Q-Exactive was equipped with a Heated Electrospray Ionization (HESI) source
+MS:MS_COMMENTS                   	operated at a spray temperature of 350 ?C, a spray voltage of 3.5 kV, and
+MS:MS_COMMENTS                   	and auxiliary gas flow rates of 50 and 10 arbitrary units, respectively. The
+MS:MS_COMMENTS                   	temperature was held at 325 ?C, and the S-lens RF Level was set to 40%. The FR
+MS:MS_COMMENTS                   	was set to 70,000 at m/z 200. The accuracy achieved was routinely less than 1.5
+#END

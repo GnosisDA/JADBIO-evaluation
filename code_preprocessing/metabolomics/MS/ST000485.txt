@@ -1,0 +1,702 @@
+#METABOLOMICS WORKBENCH hormel101_20160923_082006 DATATRACK_ID:749
+VERSION             	1
+CREATED_ON             	November 16, 2016, 3:18 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Mechanism by Which Caloric Restriction Improves Insulin Sensitivity in Sedentary
+PR:PROJECT_TITLE                 	Obese Adults
+PR:PROJECT_TYPE                  	skeletal muscle ceramide, diacylglycerol, or amino acid metabolite levels
+PR:PROJECT_SUMMARY               	effect of caloric restriction on insulin sensitivity through skeletal muscle
+PR:PROJECT_SUMMARY               	ceramide, diacylglycerol, or amino acid metabolite levels
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Endocrinology
+PR:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+PR:LAST_NAME                     	Nair
+PR:FIRST_NAME                    	Sreekumaran
+PR:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+PR:EMAIL                         	Nair.K@mayo.edu
+PR:PHONE                         	507-285-2415
+#STUDY
+ST:STUDY_TITLE                   	D2 Glucose Quantifcation of obese patients on a 16 week caloric restriction from
+ST:STUDY_TITLE                   	plasma
+ST:STUDY_TYPE                    	timecourse
+ST:STUDY_SUMMARY                 	Caloric restriction (CR) improves insulin sensitivity and reduces the incidence
+ST:STUDY_SUMMARY                 	of diabetes in obese individuals. The underlying mechanisms whereby CR improves
+ST:STUDY_SUMMARY                 	insulin sensitivity are not clear. We evaluated the effect of 16 weeks of CR on
+ST:STUDY_SUMMARY                 	whole-body insulin sensitivity by pancreatic clamp before and after CR in 11
+ST:STUDY_SUMMARY                 	obese participants (BMI = 35 kg/m2) compared with 9 matched control subjects
+ST:STUDY_SUMMARY                 	(BMI = 34 kg/m2). Compared with the control subjects, CR increased the glucose
+ST:STUDY_SUMMARY                 	infusion rate needed to maintain euglycemia during hyperinsulinemia, indicating
+ST:STUDY_SUMMARY                 	enhancement of peripheral insulin sensitivity. This improvement in insulin
+ST:STUDY_SUMMARY                 	sensitivity was not accompanied by changes in skeletal muscle mitochondrial
+ST:STUDY_SUMMARY                 	oxidative capacity or oxidant emissions, nor were there changes in skeletal
+ST:STUDY_SUMMARY                 	muscle ceramide, diacylglycerol, or amino acid metabolite levels. However, CR
+ST:STUDY_SUMMARY                 	lowered insulin-stimulated thioredoxin-interacting protein (TXNIP) levels and
+ST:STUDY_SUMMARY                 	enhanced nonoxidative glucose disposal. These results support a role for TXNIP
+ST:STUDY_SUMMARY                 	in mediating the improvement in peripheral insulin sensitivity after CR.
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Endocrinology
+ST:LABORATORY                    	Mayo Metabolomics Core
+ST:LAST_NAME                     	Nair
+ST:FIRST_NAME                    	Sreekumaran
+ST:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+ST:EMAIL                         	Nair.K@mayo.edu
+ST:PHONE                         	507-285-2415
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5037_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s17	MS5038_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5027_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s12	MS5028_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5013_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s5	MS5014_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_5_0	visit:1 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5033_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_5_0	visit:2 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s15	MS5034_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_5_0	visit:1 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5021_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_5_0	visit:2 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s9	MS5022_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_5_0	visit:1 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5029_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_5_0	visit:2 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s13	MS5030_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5023_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s10	MS5024_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5017_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s7	MS5018_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5035_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s16	MS5036_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_5_0	visit:1 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5025_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_5_0	visit:2 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s11	MS5026_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_5_0	visit:1 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5039_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_5_0	visit:2 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s18	MS5040_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5005_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s1	MS5006_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_5_0	visit:1 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5019_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_5_0	visit:2 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s8	MS5020_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_5_0	visit:1 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5031_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_5_0	visit:2 | Time (mins):- | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s14	MS5032_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5015_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s6	MS5016_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_5_0	visit:1 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5043_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_5_0	visit:2 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s20	MS5044_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_1_baseline	visit:1 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_2_-30	visit:1 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_3_-20	visit:1 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_4_-10	visit:1 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_5_0	visit:1 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_6_120	visit:1 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_7_140	visit:1 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_8_160	visit:1 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_9_180	visit:1 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_10_300	visit:1 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_11_320	visit:1 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_12_340	visit:1 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_13_360	visit:1 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5041_16_GINF	visit:1 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_1_baseline	visit:2 | Time (mins):baseline | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_2_-30	visit:2 | Time (mins):-30 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_3_-20	visit:2 | Time (mins):-20 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_4_-10	visit:2 | Time (mins):-10 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_5_0	visit:2 | Time (mins):- | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_6_120	visit:2 | Time (mins):120 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_7_140	visit:2 | Time (mins):140 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_8_160	visit:2 | Time (mins):160 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_9_180	visit:2 | Time (mins):180 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_10_300	visit:2 | Time (mins):300 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_11_320	visit:2 | Time (mins):320 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_12_340	visit:2 | Time (mins):340 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_13_360	visit:2 | Time (mins):360 | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s19	MS5042_16_GINF	visit:2 | Time (mins):GINF | Category:Control	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5007_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s2	MS5008_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5009_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s3	MS5010_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=M
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_1_baseline	visit:1 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_2_-30	visit:1 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_3_-20	visit:1 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_4_-10	visit:1 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_5_0	visit:1 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_6_120	visit:1 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_7_140	visit:1 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_8_160	visit:1 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_9_180	visit:1 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_10_300	visit:1 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_11_320	visit:1 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_12_340	visit:1 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_13_360	visit:1 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5011_16_GINF	visit:1 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_1_baseline	visit:2 | Time (mins):baseline | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_2_-30	visit:2 | Time (mins):-30 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_3_-20	visit:2 | Time (mins):-20 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_4_-10	visit:2 | Time (mins):-10 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_5_0	visit:2 | Time (mins):- | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_6_120	visit:2 | Time (mins):120 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_7_140	visit:2 | Time (mins):140 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_8_160	visit:2 | Time (mins):160 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_9_180	visit:2 | Time (mins):180 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_10_300	visit:2 | Time (mins):300 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_11_320	visit:2 | Time (mins):320 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_12_340	visit:2 | Time (mins):340 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_13_360	visit:2 | Time (mins):360 | Category:Caloric Restriction	Sex=F
+SUBJECT_SAMPLE_FACTORS           	s4	MS5012_16_GINF	visit:2 | Time (mins):GINF | Category:Caloric Restriction	Sex=F
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Blood samples were collected in a heated hotbox (131°F) through a retrograde
+CO:COLLECTION_SUMMARY            	intravenous catheter at baseline for glucose and hormone levels, and every 10
+CO:COLLECTION_SUMMARY            	min during the clamp to maintain euglycemia. In addition, blood samples were
+CO:COLLECTION_SUMMARY            	collected every 20 min from 0600 to 0700, 0900 to 1000, and 1200 to 1300 to
+CO:COLLECTION_SUMMARY            	measure plasma [6,62H2]glucose. At 1330 h, a percutaneous needle muscle biopsy
+CO:COLLECTION_SUMMARY            	specimen (350–400 mg) was obtained from the vastus lateralis muscle under
+CO:COLLECTION_SUMMARY            	local anesthesia, immediately frozen in liquid nitrogen, and stored at −80°F
+CO:COLLECTION_SUMMARY            	for future analysis (27). This biopsy sample was used for analysis of TXNIP mRNA
+CO:COLLECTION_SUMMARY            	and protein content. The participant remained in the CRU through the remainder
+CO:COLLECTION_SUMMARY            	of the day and was given a weight-maintenance diet until 2200 h. At 0700 h the
+CO:COLLECTION_SUMMARY            	following morning, a second muscle biopsy specimen was obtained under local
+CO:COLLECTION_SUMMARY            	anesthesia, and ∼100 mg was used immediately for mitochondrial function
+CO:COLLECTION_SUMMARY            	measurements of isolated mitochondria and mtH2O2 emissions (28). The remainder
+CO:COLLECTION_SUMMARY            	was immediately frozen in liquid nitrogen and stored at −80°F for future
+CO:COLLECTION_SUMMARY            	analysis, including DAG, ceramide, and amino acid measurements (Fig. 1).
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Before and after 16 weeks of CR or CON, two outpatient visits and one inpatient
+TR:TREATMENT_SUMMARY             	visit were scheduled. Before the outpatient visits, participants were instructed
+TR:TREATMENT_SUMMARY             	to fast overnight from 10:00 p.m. the evening before and to avoid strenuous
+TR:TREATMENT_SUMMARY             	exercise for 24 h preceding the visits. One outpatient visit consisted of an MRI
+TR:TREATMENT_SUMMARY             	to measure subcutaneous and visceral fat distribution and magnetic resonance
+TR:TREATMENT_SUMMARY             	spectroscopy to measure skeletal muscle oxidative capacity (25). The second
+TR:TREATMENT_SUMMARY             	outpatient visit was for measurements of resting energy expenditure (REE) for
+TR:TREATMENT_SUMMARY             	the calculation of a weight-maintenance diet (Parvo Medics TrueOne 2400 Canopy
+TR:TREATMENT_SUMMARY             	system), DEXA scan (Lunar DPX-L; Lunar Radiation, Madison, WI), and VO2peak test
+TR:TREATMENT_SUMMARY             	on a bicycle ergometer (Fig. 1). Participants were admitted to the Clinical
+TR:TREATMENT_SUMMARY             	Research Unit (CRU) on the evening of the fifth day of the weight-maintaining
+TR:TREATMENT_SUMMARY             	diet provided by the CRU metabolic kitchen (Supplementary Fig. 1). The
+TR:TREATMENT_SUMMARY             	weight-maintenance meals (diet composition: 20% protein, 30% fat, 50%
+TR:TREATMENT_SUMMARY             	carbohydrate) were monitored daily to ensure that the correct calorie level was
+TR:TREATMENT_SUMMARY             	achieved. Upon admission to the CRU, no calories were consumed after 2100 h to
+TR:TREATMENT_SUMMARY             	achieve a 10-h fast before the two-stage insulin euglycemic pancreatic clamp the
+TR:TREATMENT_SUMMARY             	following morning, as previously published (26), with modifications as follows:
+TR:TREATMENT_SUMMARY             	the following morning at 0400 h, a primed [6,62H2]glucose bolus (6 mg ⋅ kg
+TR:TREATMENT_SUMMARY             	fat-free mass[FFM]−1) was administered, followed by a 9-h continuous infusion
+TR:TREATMENT_SUMMARY             	of [6,62H2]glucose (started at 4 mg ⋅ kgFFM−1 ⋅ h−1 then titrated
+TR:TREATMENT_SUMMARY             	downward over the infusion time period to match anticipated changes in
+TR:TREATMENT_SUMMARY             	endogenous glucose production [EGP]). At 0600 h, gas exchange was measured by
+TR:TREATMENT_SUMMARY             	indirect calorimetry for 30 min for REE determination. Then at 0700 h, glucagon
+TR:TREATMENT_SUMMARY             	(0.001 μg ⋅ kgFFM−1 ⋅ min−1), somatostatin (0.093 μg ⋅ kgFFM−1 ⋅
+TR:TREATMENT_SUMMARY             	min−1), and growth hormone (0.0047 μg ⋅ kgFFM−1 ⋅ min−1) were infused
+TR:TREATMENT_SUMMARY             	for 6 h. Insulin was infused from 0700 to 1000 h at 0.62 mU ⋅ kgFFM−1 ⋅
+TR:TREATMENT_SUMMARY             	min−1 and then from 1000 to 1300 h at 2.3 mU ⋅ kgFFM−1 ⋅ min−1. A 40%
+TR:TREATMENT_SUMMARY             	dextrose with 2% enrichment of [6,62H2]glucose was infused as needed to maintain
+TR:TREATMENT_SUMMARY             	blood glucose above 4.7 mmol/L from 0700 to 1000 h and then between 4.7 and 5.3
+TR:TREATMENT_SUMMARY             	mmol/L from 1000 to 1300 h.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Glucose concentration was measured every 10 min during the insulin clamp with an
+SP:SAMPLEPREP_SUMMARY            	Analox glucose analyzer (Analox Instruments, London, U.K.). [6,6-2H2]-d-glucose
+SP:SAMPLEPREP_SUMMARY            	enrichment in the plasma and infusate was measured using gas
+SP:SAMPLEPREP_SUMMARY            	chromatography–mass spectrometry. As described previously, the steady-state
+SP:SAMPLEPREP_SUMMARY            	equations of Steele et al. (29) were used to calculate the rate of glucose
+SP:SAMPLEPREP_SUMMARY            	appearance (Ra) and disappearance (Rd). EGP was calculated as the difference
+SP:SAMPLEPREP_SUMMARY            	between total glucose Ra and the exogenous glucose infusion rate, peripheral
+SP:SAMPLEPREP_SUMMARY            	insulin sensitivity was assessed from the rate of glucose infusion required to
+SP:SAMPLEPREP_SUMMARY            	maintain euglycemia during the high-dose insulin clamp, and hepatic insulin
+SP:SAMPLEPREP_SUMMARY            	sensitivity was assessed by the extent to which EGP was suppressed from baseline
+SP:SAMPLEPREP_SUMMARY            	to low-dose hyperinsulinemia (26).
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	Glucose concentration was measured every 10 min during the insulin clamp with an
+CH:CHROMATOGRAPHY_SUMMARY     	Analox glucose analyzer (Analox Instruments, London, U.K.). [6,6-2H2]-d-glucose
+CH:CHROMATOGRAPHY_SUMMARY     	enrichment in the plasma and infusate was measured using gas
+CH:CHROMATOGRAPHY_SUMMARY     	chromatography–mass spectrometry. As described previously, the steady-state
+CH:CHROMATOGRAPHY_SUMMARY     	equations of Steele et al. (29) were used to calculate the rate of glucose
+CH:CHROMATOGRAPHY_SUMMARY     	appearance (Ra) and disappearance (Rd). EGP was calculated as the difference
+CH:CHROMATOGRAPHY_SUMMARY     	between total glucose Ra and the exogenous glucose infusion rate, peripheral
+CH:CHROMATOGRAPHY_SUMMARY     	insulin sensitivity was assessed from the rate of glucose infusion required to
+CH:CHROMATOGRAPHY_SUMMARY     	maintain euglycemia during the high-dose insulin clamp, and hepatic insulin
+CH:CHROMATOGRAPHY_SUMMARY     	sensitivity was assessed by the extent to which EGP was suppressed from baseline
+CH:CHROMATOGRAPHY_SUMMARY     	to low-dose hyperinsulinemia (26).
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent MSD 5973
+CH:COLUMN_NAME                	db5ms 30m x 0.25mm x 250um
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Agilent MSD 5973
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	mole percent enrichment
+MS_METABOLITE_DATA_START
+Samples	MS5037_1_baseline	MS5037_2_-30	MS5037_3_-20	MS5037_4_-10	MS5037_5_0	MS5037_6_120	MS5037_7_140	MS5037_8_160	MS5037_9_180	MS5037_10_300	MS5037_11_320	MS5037_12_340	MS5037_13_360	MS5037_16_GINF	MS5038_1_baseline	MS5038_2_-30	MS5038_3_-20	MS5038_4_-10	MS5038_5_0	MS5038_6_120	MS5038_7_140	MS5038_8_160	MS5038_9_180	MS5038_10_300	MS5038_11_320	MS5038_12_340	MS5038_13_360	MS5038_16_GINF	MS5027_1_baseline	MS5027_2_-30	MS5027_3_-20	MS5027_4_-10	MS5027_5_0	MS5027_6_120	MS5027_7_140	MS5027_8_160	MS5027_9_180	MS5027_10_300	MS5027_11_320	MS5027_12_340	MS5027_13_360	MS5027_16_GINF	MS5028_1_baseline	MS5028_2_-30	MS5028_3_-20	MS5028_4_-10	MS5028_5_0	MS5028_6_120	MS5028_7_140	MS5028_8_160	MS5028_9_180	MS5028_10_300	MS5028_11_320	MS5028_12_340	MS5028_13_360	MS5028_16_GINF	MS5013_1_baseline	MS5013_2_-30	MS5013_3_-20	MS5013_4_-10	MS5013_5_0	MS5013_6_120	MS5013_7_140	MS5013_8_160	MS5013_9_180	MS5013_10_300	MS5013_11_320	MS5013_12_340	MS5013_13_360	MS5013_16_GINF	MS5014_1_baseline	MS5014_2_-30	MS5014_3_-20	MS5014_4_-10	MS5014_5_0	MS5014_6_120	MS5014_7_140	MS5014_8_160	MS5014_9_180	MS5014_10_300	MS5014_11_320	MS5014_12_340	MS5014_13_360	MS5014_16_GINF	MS5033_1_baseline	MS5033_2_-30	MS5033_3_-20	MS5033_4_-10	MS5033_5_0	MS5033_6_120	MS5033_7_140	MS5033_8_160	MS5033_9_180	MS5033_10_300	MS5033_11_320	MS5033_12_340	MS5033_13_360	MS5033_16_GINF	MS5034_1_baseline	MS5034_2_-30	MS5034_3_-20	MS5034_4_-10	MS5034_5_0	MS5034_6_120	MS5034_7_140	MS5034_8_160	MS5034_9_180	MS5034_10_300	MS5034_11_320	MS5034_12_340	MS5034_13_360	MS5034_16_GINF	MS5021_1_baseline	MS5021_2_-30	MS5021_3_-20	MS5021_4_-10	MS5021_5_0	MS5021_6_120	MS5021_7_140	MS5021_8_160	MS5021_9_180	MS5021_10_300	MS5021_11_320	MS5021_12_340	MS5021_13_360	MS5021_16_GINF	MS5022_1_baseline	MS5022_2_-30	MS5022_3_-20	MS5022_4_-10	MS5022_5_0	MS5022_6_120	MS5022_7_140	MS5022_8_160	MS5022_9_180	MS5022_10_300	MS5022_11_320	MS5022_12_340	MS5022_13_360	MS5022_16_GINF	MS5029_1_baseline	MS5029_2_-30	MS5029_3_-20	MS5029_4_-10	MS5029_5_0	MS5029_6_120	MS5029_7_140	MS5029_8_160	MS5029_9_180	MS5029_10_300	MS5029_11_320	MS5029_12_340	MS5029_13_360	MS5029_16_GINF	MS5030_1_baseline	MS5030_2_-30	MS5030_3_-20	MS5030_4_-10	MS5030_5_0	MS5030_6_120	MS5030_7_140	MS5030_8_160	MS5030_9_180	MS5030_10_300	MS5030_11_320	MS5030_12_340	MS5030_13_360	MS5030_16_GINF	MS5023_1_baseline	MS5023_2_-30	MS5023_3_-20	MS5023_4_-10	MS5023_5_0	MS5023_6_120	MS5023_7_140	MS5023_8_160	MS5023_9_180	MS5023_10_300	MS5023_11_320	MS5023_12_340	MS5023_13_360	MS5023_16_GINF	MS5024_1_baseline	MS5024_2_-30	MS5024_3_-20	MS5024_4_-10	MS5024_5_0	MS5024_6_120	MS5024_7_140	MS5024_8_160	MS5024_9_180	MS5024_10_300	MS5024_11_320	MS5024_12_340	MS5024_13_360	MS5024_16_GINF	MS5017_1_baseline	MS5017_2_-30	MS5017_3_-20	MS5017_4_-10	MS5017_5_0	MS5017_6_120	MS5017_7_140	MS5017_8_160	MS5017_9_180	MS5017_10_300	MS5017_11_320	MS5017_12_340	MS5017_13_360	MS5017_16_GINF	MS5018_1_baseline	MS5018_2_-30	MS5018_3_-20	MS5018_4_-10	MS5018_5_0	MS5018_6_120	MS5018_7_140	MS5018_8_160	MS5018_9_180	MS5018_10_300	MS5018_11_320	MS5018_12_340	MS5018_13_360	MS5018_16_GINF	MS5035_1_baseline	MS5035_2_-30	MS5035_3_-20	MS5035_4_-10	MS5035_5_0	MS5035_6_120	MS5035_7_140	MS5035_8_160	MS5035_9_180	MS5035_10_300	MS5035_11_320	MS5035_12_340	MS5035_13_360	MS5035_16_GINF	MS5036_1_baseline	MS5036_2_-30	MS5036_3_-20	MS5036_4_-10	MS5036_5_0	MS5036_6_120	MS5036_7_140	MS5036_8_160	MS5036_9_180	MS5036_10_300	MS5036_11_320	MS5036_12_340	MS5036_13_360	MS5036_16_GINF	MS5025_1_baseline	MS5025_2_-30	MS5025_3_-20	MS5025_4_-10	MS5025_5_0	MS5025_6_120	MS5025_7_140	MS5025_8_160	MS5025_9_180	MS5025_10_300	MS5025_11_320	MS5025_12_340	MS5025_13_360	MS5025_16_GINF	MS5026_1_baseline	MS5026_2_-30	MS5026_3_-20	MS5026_4_-10	MS5026_5_0	MS5026_6_120	MS5026_7_140	MS5026_8_160	MS5026_9_180	MS5026_10_300	MS5026_11_320	MS5026_12_340	MS5026_13_360	MS5026_16_GINF	MS5039_1_baseline	MS5039_2_-30	MS5039_3_-20	MS5039_4_-10	MS5039_5_0	MS5039_6_120	MS5039_7_140	MS5039_8_160	MS5039_9_180	MS5039_10_300	MS5039_11_320	MS5039_12_340	MS5039_13_360	MS5039_16_GINF	MS5040_1_baseline	MS5040_2_-30	MS5040_3_-20	MS5040_4_-10	MS5040_5_0	MS5040_6_120	MS5040_7_140	MS5040_8_160	MS5040_9_180	MS5040_10_300	MS5040_11_320	MS5040_12_340	MS5040_13_360	MS5040_16_GINF	MS5005_1_baseline	MS5005_2_-30	MS5005_3_-20	MS5005_4_-10	MS5005_5_0	MS5005_6_120	MS5005_7_140	MS5005_8_160	MS5005_9_180	MS5005_10_300	MS5005_11_320	MS5005_12_340	MS5005_13_360	MS5005_16_GINF	MS5006_1_baseline	MS5006_2_-30	MS5006_3_-20	MS5006_4_-10	MS5006_5_0	MS5006_6_120	MS5006_7_140	MS5006_8_160	MS5006_9_180	MS5006_10_300	MS5006_11_320	MS5006_12_340	MS5006_13_360	MS5006_16_GINF	MS5019_1_baseline	MS5019_2_-30	MS5019_3_-20	MS5019_4_-10	MS5019_5_0	MS5019_6_120	MS5019_7_140	MS5019_8_160	MS5019_9_180	MS5019_10_300	MS5019_11_320	MS5019_12_340	MS5019_13_360	MS5019_16_GINF	MS5020_1_baseline	MS5020_2_-30	MS5020_3_-20	MS5020_4_-10	MS5020_5_0	MS5020_6_120	MS5020_7_140	MS5020_8_160	MS5020_9_180	MS5020_10_300	MS5020_11_320	MS5020_12_340	MS5020_13_360	MS5020_16_GINF	MS5031_1_baseline	MS5031_2_-30	MS5031_3_-20	MS5031_4_-10	MS5031_5_0	MS5031_6_120	MS5031_7_140	MS5031_8_160	MS5031_9_180	MS5031_10_300	MS5031_11_320	MS5031_12_340	MS5031_13_360	MS5031_16_GINF	MS5032_1_baseline	MS5032_2_-30	MS5032_3_-20	MS5032_4_-10	MS5032_5_0	MS5032_6_120	MS5032_7_140	MS5032_8_160	MS5032_9_180	MS5032_10_300	MS5032_11_320	MS5032_12_340	MS5032_13_360	MS5032_16_GINF	MS5015_1_baseline	MS5015_2_-30	MS5015_3_-20	MS5015_4_-10	MS5015_5_0	MS5015_6_120	MS5015_7_140	MS5015_8_160	MS5015_9_180	MS5015_10_300	MS5015_11_320	MS5015_12_340	MS5015_13_360	MS5015_16_GINF	MS5016_1_baseline	MS5016_2_-30	MS5016_3_-20	MS5016_4_-10	MS5016_5_0	MS5016_6_120	MS5016_7_140	MS5016_8_160	MS5016_9_180	MS5016_10_300	MS5016_11_320	MS5016_12_340	MS5016_13_360	MS5016_16_GINF	MS5043_1_baseline	MS5043_2_-30	MS5043_3_-20	MS5043_4_-10	MS5043_5_0	MS5043_6_120	MS5043_7_140	MS5043_8_160	MS5043_9_180	MS5043_10_300	MS5043_11_320	MS5043_12_340	MS5043_13_360	MS5043_16_GINF	MS5044_1_baseline	MS5044_2_-30	MS5044_3_-20	MS5044_4_-10	MS5044_5_0	MS5044_6_120	MS5044_7_140	MS5044_8_160	MS5044_9_180	MS5044_10_300	MS5044_11_320	MS5044_12_340	MS5044_13_360	MS5044_16_GINF	MS5041_1_baseline	MS5041_2_-30	MS5041_3_-20	MS5041_4_-10	MS5041_5_0	MS5041_6_120	MS5041_7_140	MS5041_8_160	MS5041_9_180	MS5041_10_300	MS5041_11_320	MS5041_12_340	MS5041_13_360	MS5041_16_GINF	MS5042_1_baseline	MS5042_2_-30	MS5042_3_-20	MS5042_4_-10	MS5042_5_0	MS5042_6_120	MS5042_7_140	MS5042_8_160	MS5042_9_180	MS5042_10_300	MS5042_11_320	MS5042_12_340	MS5042_13_360	MS5042_16_GINF	MS5007_1_baseline	MS5007_2_-30	MS5007_3_-20	MS5007_4_-10	MS5007_5_0	MS5007_6_120	MS5007_7_140	MS5007_8_160	MS5007_9_180	MS5007_10_300	MS5007_11_320	MS5007_12_340	MS5007_13_360	MS5007_16_GINF	MS5008_1_baseline	MS5008_2_-30	MS5008_3_-20	MS5008_4_-10	MS5008_5_0	MS5008_6_120	MS5008_7_140	MS5008_8_160	MS5008_9_180	MS5008_10_300	MS5008_11_320	MS5008_12_340	MS5008_13_360	MS5008_16_GINF	MS5009_1_baseline	MS5009_2_-30	MS5009_3_-20	MS5009_4_-10	MS5009_5_0	MS5009_6_120	MS5009_7_140	MS5009_8_160	MS5009_9_180	MS5009_10_300	MS5009_11_320	MS5009_12_340	MS5009_13_360	MS5009_16_GINF	MS5010_1_baseline	MS5010_2_-30	MS5010_3_-20	MS5010_4_-10	MS5010_5_0	MS5010_6_120	MS5010_7_140	MS5010_8_160	MS5010_9_180	MS5010_10_300	MS5010_11_320	MS5010_12_340	MS5010_13_360	MS5010_16_GINF	MS5011_1_baseline	MS5011_2_-30	MS5011_3_-20	MS5011_4_-10	MS5011_5_0	MS5011_6_120	MS5011_7_140	MS5011_8_160	MS5011_9_180	MS5011_10_300	MS5011_11_320	MS5011_12_340	MS5011_13_360	MS5011_16_GINF	MS5012_1_baseline	MS5012_2_-30	MS5012_3_-20	MS5012_4_-10	MS5012_5_0	MS5012_6_120	MS5012_7_140	MS5012_8_160	MS5012_9_180	MS5012_10_300	MS5012_11_320	MS5012_12_340	MS5012_13_360	MS5012_16_GINF
+Factors	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Control	visit:1 | Time (mins):-30 | Category:Control	visit:1 | Time (mins):-20 | Category:Control	visit:1 | Time (mins):-10 | Category:Control	visit:1 | Time (mins):- | Category:Control	visit:1 | Time (mins):120 | Category:Control	visit:1 | Time (mins):140 | Category:Control	visit:1 | Time (mins):160 | Category:Control	visit:1 | Time (mins):180 | Category:Control	visit:1 | Time (mins):300 | Category:Control	visit:1 | Time (mins):320 | Category:Control	visit:1 | Time (mins):340 | Category:Control	visit:1 | Time (mins):360 | Category:Control	visit:1 | Time (mins):GINF | Category:Control	visit:2 | Time (mins):baseline | Category:Control	visit:2 | Time (mins):-30 | Category:Control	visit:2 | Time (mins):-20 | Category:Control	visit:2 | Time (mins):-10 | Category:Control	visit:2 | Time (mins):- | Category:Control	visit:2 | Time (mins):120 | Category:Control	visit:2 | Time (mins):140 | Category:Control	visit:2 | Time (mins):160 | Category:Control	visit:2 | Time (mins):180 | Category:Control	visit:2 | Time (mins):300 | Category:Control	visit:2 | Time (mins):320 | Category:Control	visit:2 | Time (mins):340 | Category:Control	visit:2 | Time (mins):360 | Category:Control	visit:2 | Time (mins):GINF | Category:Control	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction	visit:1 | Time (mins):baseline | Category:Caloric Restriction	visit:1 | Time (mins):-30 | Category:Caloric Restriction	visit:1 | Time (mins):-20 | Category:Caloric Restriction	visit:1 | Time (mins):-10 | Category:Caloric Restriction	visit:1 | Time (mins):- | Category:Caloric Restriction	visit:1 | Time (mins):120 | Category:Caloric Restriction	visit:1 | Time (mins):140 | Category:Caloric Restriction	visit:1 | Time (mins):160 | Category:Caloric Restriction	visit:1 | Time (mins):180 | Category:Caloric Restriction	visit:1 | Time (mins):300 | Category:Caloric Restriction	visit:1 | Time (mins):320 | Category:Caloric Restriction	visit:1 | Time (mins):340 | Category:Caloric Restriction	visit:1 | Time (mins):360 | Category:Caloric Restriction	visit:1 | Time (mins):GINF | Category:Caloric Restriction	visit:2 | Time (mins):baseline | Category:Caloric Restriction	visit:2 | Time (mins):-30 | Category:Caloric Restriction	visit:2 | Time (mins):-20 | Category:Caloric Restriction	visit:2 | Time (mins):-10 | Category:Caloric Restriction	visit:2 | Time (mins):- | Category:Caloric Restriction	visit:2 | Time (mins):120 | Category:Caloric Restriction	visit:2 | Time (mins):140 | Category:Caloric Restriction	visit:2 | Time (mins):160 | Category:Caloric Restriction	visit:2 | Time (mins):180 | Category:Caloric Restriction	visit:2 | Time (mins):300 | Category:Caloric Restriction	visit:2 | Time (mins):320 | Category:Caloric Restriction	visit:2 | Time (mins):340 | Category:Caloric Restriction	visit:2 | Time (mins):360 | Category:Caloric Restriction	visit:2 | Time (mins):GINF | Category:Caloric Restriction
+D2.GLUC.MPE	0	1.61	1.11	1.7	1.84	1.6	1.37	1.38	1.36	1.53	1.55	1.42	1.52	1.39	0	1.84	1.74	1.69	1.63	1.61	1.59	1.5	1.5	1.52	1.71	1.71	1.4	1.706	0	2.09	2.02	2.1	2.25	2.15	1.98	1.92	1.95	1.73	1.95	2.04	1.94	1.2	0	1.85	1.67	1.86	1.83	1.93	1.68	1.77	1.6	1.74	1.7	1.77	1.68	1.233	0	1.46	1.4	1.68	1.58	1.04	0.84	1.09	1.04	1.62	1.49	1.44	1.52	1.19	0	2.02	1.71	1.93	1.78	1.53	1.63	1.5	1.52	1.27	1.44	1.35	1.32	1.187	0	1.72	1.7	1.77	1.88	1.43	1.26	1.25	1.4	1.77	1.85	1.88	1.74	1.46	0	0.72	0.83	0.89	0.99	1.58	1.56	1.75	1.83	2.12	2.19	2.18	2.26	1.434	0	No Sample	No Sample	No Sample	1.57	1.64	1.47	1.36	1.39	1.44	1.61	1.62	1.59	1.21	0	1.74	1.79	1.71	1.84	1.7	1.57	1.56	1.68	1.79	1.67	1.55	1.68	1.319	0	1.88	1.87	1.8	1.85	1.88	1.77	1.56	1.44	1.55	1.57	1.71	1.54	1.5	0	1.78	1.89	1.93	1.96	1.73	1.9	1.76	1.7	1.54	1.67	1.62	1.57	1.541	0	1.92	2.03	1.83	1.87	1.88	1.65	1.64	1.75	1.86	1.74	1.69	1.79	1.1	0	1.74	1.79	1.71	1.84	1.7	1.57	1.56	1.68	1.79	1.67	1.55	1.68	1.319	0	1.91	1.67	1.55	1.86	1.42	1.33	1.19	1.64	1.43	1.55	1.82	1.95	1.52	0	1.81	1.8	1.78	1.85	1.36	1.98	1.85	1.6	1.78	1.69	1.68	1.62	1.479	0	1.75	1.82	1.84	1.75	2.13	1.98	2.07	1.93	1.64	1.74	1.71	1.71	1.67	0	2.25	2.24	2.43	2.21	2.41	2.28	2.32	2.23	1.71	1.67	1.64	1.56	1.569	0	1.72	1.79	1.81	1.73	1.29	1.33	1.03	1.09	1.81	1.78	1.82	1.79	1	0	1.65	1.78	1.8	1.73	1.26	1.33	1.25	1.13	1.75	1.75	1.79	1.41	1.22	0	1.75	1.78	1.89	1.71	1.57	1.43	1.21	1.25	1.52	1.67	1.65	1.58	1.25	0	1.49	1.6	1.52	1.57	1.37	1.21	1.18	0.98	1.37	1.38	1.41	1.51	1.328	0	1.34		1.14	1.28	0.85	0.86	0.82	0.77	1.03	1.1	1.09	1.19	1.35	0	1.75	1.67	1.59	1.76	1.24	1.22	1.07	0.92	1.51	1.46	1.47	1.52	1.419	0	2.02	2.17	2.1	2	2.31	2.08	2.06	2.14	1.66	1.79	1.67	1.58	1.43	0	2.22	2.1	2.16	2.12	2.41	2.1	2.02	1.93	1.73	1.56	1.42	1.63	1.344	0	2	2.09	1.99	2.25	2.02	1.81	1.84	1.77	1.56	1.47	1.56	1.55	1.43	0	2.16	1.91	No Sample	2.02	2	1.93	1.86	1.78	1.64	1.55	1.61	1.61	1.41	0	1.93	2.16	1.98	1.97	2.05	1.97	1.81	1.78	1.63	1.74	1.74	1.77	1.18	0	1.7	2.09	2.16	2.09	2.03	2.03	2	1.86	1.76	1.81	1.94	1.87	1.18	0	1.83	1.66	1.65	1.67	1.34	1.26	1.34	1.18	1.54	1.51	1.51	1.43	1.24	0	1.79	1.78	1.68	1.71	1.69	1.51	1.48	1.43	1.68	1.56	1.63	1.52	1.418	0	1.69	1.73	1.8	1.73	1.85	1.69	1.73	1.71	1.52	1.5	1.52	1.74	1.36	0	1.69	1.74	1.75	1.87	1.78	1.88	1.78	1.75	1.58	1.48	1.79	1.63	1.225	0	1.59	1.45	1.52	1.67	1.2	1.27	1.16	1.11	1.65	1.89	1.84	1.98	1.58	0	1.88	1.86	1.82	1.87	1.38	1.36	1.38	1.35	1.66	1.53	1.59	1.55	1.464	0	2.01	2.07	2.17	2.13	2.06	1.83	1.85	1.78	1.84	1.84	1.77	1.58	1.61	0	2.12	1.9	2.14	2.03	2.23	2.1	1.97	2.01	1.57	1.5	1.48	1.46	1.369	0	1.37	1.53	1.46	1.31	1.34	1.27	1.37	1.12	1.59	1.6	1.6	1.73	1.25	0	1.69	1.79	1.71	2	1.85	1.69	1.81	1.59	1.58	1.43	1.58	1.48	1.124
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	retention index	quantified m/z	PubChem ID	KEGG ID
+D2.GLUC.MPE
+METABOLITES_END
+#END

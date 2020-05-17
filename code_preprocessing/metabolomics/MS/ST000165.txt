@@ -1,0 +1,237 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000165 ANALYSIS_ID:AN000258
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Sparing of muscle mass and function by passive loading in an experimental
+PR:PROJECT_TITLE                 	care unit model
+PR:PROJECT_SUMMARY               	The response to mechanical stimuli, i.e. tensegrity, plays an important role in
+PR:PROJECT_SUMMARY               	cell physiological and pathophysiological function, and the mechanical
+PR:PROJECT_SUMMARY               	observed in intensive care unit (ICU) patients leads to a severe and specific
+PR:PROJECT_SUMMARY               	wasting condition. This study aims to unravel the underlying mechanisms and the
+PR:PROJECT_SUMMARY               	of passive mechanical loading on skeletal muscle mass and function at the gene,
+PR:PROJECT_SUMMARY               	and cellular levels. A unique experimental rat ICU model has been used allowing
+PR:PROJECT_SUMMARY               	(weeks) time-resolved analyses of the effects of standardized unilateral
+PR:PROJECT_SUMMARY               	mechanical loading on skeletal muscle size and function and underlying
+PR:PROJECT_SUMMARY               	Results show that passive mechanical loading alleviated the muscle wasting and
+PR:PROJECT_SUMMARY               	loss of force-generation associated with the ICU intervention, resulting in a
+PR:PROJECT_SUMMARY               	of the functional capacity of the loaded versus the unloaded muscles after a
+PR:PROJECT_SUMMARY               	ICU intervention. We demonstrate that the improved maintenance of muscle mass
+PR:PROJECT_SUMMARY               	function is probably a consequence of a reduced oxidative stress revealed by
+PR:PROJECT_SUMMARY               	levels of carbonylated proteins, and a reduced loss of the molecular motor
+PR:PROJECT_SUMMARY               	myosin. A complex temporal gene expression pattern, delineated by microarray
+PR:PROJECT_SUMMARY               	was observed with loading-induced changes in transcript levels of sarcomeric
+PR:PROJECT_SUMMARY               	muscle developmental processes, stress response, extracellular matrix/cell
+PR:PROJECT_SUMMARY               	proteins and metabolism. Thus, the results from this study show that passive
+PR:PROJECT_SUMMARY               	loading alleviates the severe negative consequences on muscle size and function
+PR:PROJECT_SUMMARY               	with the mechanical silencing in ICU patients, strongly supporting early and
+PR:PROJECT_SUMMARY               	physical therapy in immobilized ICU patients.
+PR:INSTITUTE                     	Uppsala University
+PR:DEPARTMENT                    	Department of Neuroscience,
+PR:LAST_NAME                     	Larsson
+PR:FIRST_NAME                    	Lars
+PR:ADDRESS                       	-
+PR:EMAIL                         	Lars.larsson@neuro.uu.se
+PR:PHONE                         	-
+#STUDY
+ST:STUDY_TITLE                   	Sparing of muscle mass and function by passive loading in an experimental
+ST:STUDY_TITLE                   	care unit model
+ST:STUDY_TYPE                    	time course + intervention
+ST:STUDY_SUMMARY                 	A unique experimental rat ICU model has been used allowing long-term (weeks)
+ST:STUDY_SUMMARY                 	analyses of the effects of standardized unilateral passive mechanical loading
+ST:STUDY_SUMMARY                 	skeletal muscle size and function and underlying mechanisms. Results show that
+ST:STUDY_SUMMARY                 	mechanical loading alleviated the muscle wasting and the loss of
+ST:STUDY_SUMMARY                 	associated with the ICU intervention, resulting in a doubling of the functional
+ST:STUDY_SUMMARY                 	of the loaded versus the unloaded muscles after a 2-week ICU intervention.
+ST:INSTITUTE                     	Uppsala University
+ST:DEPARTMENT                    	Department of Neuroscience,
+ST:LAST_NAME                     	Larsson
+ST:FIRST_NAME                    	Lars
+ST:ADDRESS                       	-
+ST:EMAIL                         	Lars.larsson@neuro.uu.se
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	2
+ST:TOTAL_SUBJECTS                	13
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animals
+SU:SUBJECT_SPECIES               	Rattus norvegicus
+SU:TAXONOMY_ID                   	10114
+SU:GENOTYPE_STRAIN               	Sprague?Dawley
+SU:GENDER                        	female
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	34	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial superficial; ID=MEK080318; tissue fluid(mpe)=22.73; mmp(mpe)=0.0027; FSR (%/hr)=0.0467
+SUBJECT_SAMPLE_FACTORS           	-	36	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial deep; ID=MEK080318; tissue fluid(mpe)=25.51; mmp(mpe)=0.0143; FSR (%/hr)=0.2240
+SUBJECT_SAMPLE_FACTORS           	-	38	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral superficial; ID=MEK080318; tissue fluid(mpe)=23.89; mmp(mpe)=0.0073; FSR (%/hr)=0.1214
+SUBJECT_SAMPLE_FACTORS           	-	40	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral deep; ID=MEK080318; tissue fluid(mpe)=24.76; mmp(mpe)=0.0130; FSR (%/hr)=0.2098
+SUBJECT_SAMPLE_FACTORS           	-	42	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial superficial; ID=MEK080507; tissue fluid(mpe)=20.24; mmp(mpe)=0.0067; FSR (%/hr)=0.1330
+SUBJECT_SAMPLE_FACTORS           	-	44	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial deep; ID=MEK080507; tissue fluid(mpe)=21.01; mmp(mpe)=0.0150; FSR (%/hr)=0.2855
+SUBJECT_SAMPLE_FACTORS           	-	46	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral superficial; ID=MEK080507; tissue fluid(mpe)=19.27; mmp(mpe)=0.0063; FSR (%/hr)=0.1317
+SUBJECT_SAMPLE_FACTORS           	-	48	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral deep; ID=MEK080507; tissue fluid(mpe)=22.78; mmp(mpe)=0.0189; FSR (%/hr)=0.3318
+SUBJECT_SAMPLE_FACTORS           	-	50	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial superficial; ID=MEK080519; tissue fluid(mpe)=15.00; mmp(mpe)=0.0016; FSR (%/hr)=0.0425
+SUBJECT_SAMPLE_FACTORS           	-	52	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial deep; ID=MEK080519; tissue fluid(mpe)=15.96; mmp(mpe)=0.0059; FSR (%/hr)=0.1485
+SUBJECT_SAMPLE_FACTORS           	-	54	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral superficial; ID=MEK080519; tissue fluid(mpe)=14.81; mmp(mpe)=0.0027; FSR (%/hr)=0.0736
+SUBJECT_SAMPLE_FACTORS           	-	56	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral deep; ID=MEK080519; tissue fluid(mpe)=17.40; mmp(mpe)=0.0114; FSR (%/hr)=0.2615
+SUBJECT_SAMPLE_FACTORS           	-	66	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial superficial; ID=UU13; tissue fluid(mpe)=18.99; mmp(mpe)=0.0065; FSR (%/hr)=0.1379
+SUBJECT_SAMPLE_FACTORS           	-	68	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. medial deep; ID=UU13; tissue fluid(mpe)=17.47; mmp(mpe)=0.0176; FSR (%/hr)=0.4036
+SUBJECT_SAMPLE_FACTORS           	-	70	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral superficial; ID=UU13; tissue fluid(mpe)=17.67; mmp(mpe)=0.0101; FSR (%/hr)=0.2287
+SUBJECT_SAMPLE_FACTORS           	-	72	Mechanical loading hours/day:12 | Group:Passive Mechanical Loading	Tissue=Gast=L. lateral deep; ID=UU13; tissue fluid(mpe)=19.57; mmp(mpe)=0.0113; FSR (%/hr)=0.2306
+SUBJECT_SAMPLE_FACTORS           	-	33	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial superficial; ID=MEK080318; tissue fluid(mpe)=21.64; mmp(mpe)=0.0029; FSR (%/hr)=0.0536
+SUBJECT_SAMPLE_FACTORS           	-	35	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial deep; ID=MEK080318; tissue fluid(mpe)=23.67; mmp(mpe)=0.0088; FSR (%/hr)=0.1482
+SUBJECT_SAMPLE_FACTORS           	-	37	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral superficial; ID=MEK080318; tissue fluid(mpe)=26.03; mmp(mpe)=0.0051; FSR (%/hr)=0.0787
+SUBJECT_SAMPLE_FACTORS           	-	39	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral deep; ID=MEK080318; tissue fluid(mpe)=26.62; mmp(mpe)=0.0066; FSR (%/hr)=0.0987
+SUBJECT_SAMPLE_FACTORS           	-	41	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial superficial; ID=MEK080507; tissue fluid(mpe)=21.61; mmp(mpe)=0.0017; FSR (%/hr)=0.0319
+SUBJECT_SAMPLE_FACTORS           	-	43	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial deep; ID=MEK080507; tissue fluid(mpe)=23.74; mmp(mpe)=0.0083; FSR (%/hr)=0.1391
+SUBJECT_SAMPLE_FACTORS           	-	45	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral superficial; ID=MEK080507; tissue fluid(mpe)=22.76; mmp(mpe)=0.0091; FSR (%/hr)=0.1596
+SUBJECT_SAMPLE_FACTORS           	-	47	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral deep; ID=MEK080507; tissue fluid(mpe)=22.40; mmp(mpe)=0.0086; FSR (%/hr)=0.1530
+SUBJECT_SAMPLE_FACTORS           	-	49	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial superficial; ID=MEK080519; tissue fluid(mpe)=19.68; mmp(mpe)=0.0004; FSR (%/hr)=0.0089
+SUBJECT_SAMPLE_FACTORS           	-	51	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial deep; ID=MEK080519; tissue fluid(mpe)=18.73; mmp(mpe)=0.0143; FSR (%/hr)=0.3059
+SUBJECT_SAMPLE_FACTORS           	-	53	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral superficial; ID=MEK080519; tissue fluid(mpe)=19.30; mmp(mpe)=0.0025; FSR (%/hr)=0.0509
+SUBJECT_SAMPLE_FACTORS           	-	55	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral deep; ID=MEK080519; tissue fluid(mpe)=19.13; mmp(mpe)=0.0153; FSR (%/hr)=0.3198
+SUBJECT_SAMPLE_FACTORS           	-	65	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial superficial; ID=UU13; tissue fluid(mpe)=20.06; mmp(mpe)=0.0118; FSR (%/hr)=0.2362
+SUBJECT_SAMPLE_FACTORS           	-	67	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. medial deep; ID=UU13; tissue fluid(mpe)=19.64; mmp(mpe)=0.0064; FSR (%/hr)=0.1304
+SUBJECT_SAMPLE_FACTORS           	-	69	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral superficial; ID=UU13; tissue fluid(mpe)=19.03; mmp(mpe)=0.0118; FSR (%/hr)=0.2485
+SUBJECT_SAMPLE_FACTORS           	-	71	Mechanical loading hours/day:None | Group:Passive Mechanical Loading	Tissue=Gast=R. lateral deep; ID=UU13; tissue fluid(mpe)=19.19; mmp(mpe)=0.0107; FSR (%/hr)=0.2231
+SUBJECT_SAMPLE_FACTORS           	-	1	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=080617-1; tissue fluid(mpe)=26.02; mmp(mpe)=0.0169; FSR (%/hr)=0.2595
+SUBJECT_SAMPLE_FACTORS           	-	10	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=080617-2; tissue fluid(mpe)=20.46; mmp(mpe)=0.0125; FSR (%/hr)=0.2453
+SUBJECT_SAMPLE_FACTORS           	-	100	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=UU17; tissue fluid(mpe)=30.48; mmp(mpe)=0.0187; FSR (%/hr)=0.2457
+SUBJECT_SAMPLE_FACTORS           	-	101	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=UU17; tissue fluid(mpe)=34.48; mmp(mpe)=0.0183; FSR (%/hr)=0.2125
+SUBJECT_SAMPLE_FACTORS           	-	102	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=UU17; tissue fluid(mpe)=31.05; mmp(mpe)=0.0179; FSR (%/hr)=0.2310
+SUBJECT_SAMPLE_FACTORS           	-	103	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=UU17; tissue fluid(mpe)=34.57; mmp(mpe)=0.0240; FSR (%/hr)=0.2782
+SUBJECT_SAMPLE_FACTORS           	-	104	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=UU17; tissue fluid(mpe)=30.37; mmp(mpe)=0.0250; FSR (%/hr)=0.3288
+SUBJECT_SAMPLE_FACTORS           	-	11	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=080617-2; tissue fluid(mpe)=26.73; mmp(mpe)=0.0112; FSR (%/hr)=0.1676
+SUBJECT_SAMPLE_FACTORS           	-	12	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=080617-2; tissue fluid(mpe)=22.31; mmp(mpe)=0.0178; FSR (%/hr)=0.3199
+SUBJECT_SAMPLE_FACTORS           	-	13	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=080617-2; tissue fluid(mpe)=27.76; mmp(mpe)=0.0170; FSR (%/hr)=0.2449
+SUBJECT_SAMPLE_FACTORS           	-	14	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=080617-2; tissue fluid(mpe)=23.57; mmp(mpe)=0.0156; FSR (%/hr)=0.2645
+SUBJECT_SAMPLE_FACTORS           	-	15	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=080617-2; tissue fluid(mpe)=25.98; mmp(mpe)=0.0229; FSR (%/hr)=0.3525
+SUBJECT_SAMPLE_FACTORS           	-	16	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=080617-2; tissue fluid(mpe)=25.42; mmp(mpe)=0.0198; FSR (%/hr)=0.3121
+SUBJECT_SAMPLE_FACTORS           	-	17	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=UU11; tissue fluid(mpe)=15.80; mmp(mpe)=0.0063; FSR (%/hr)=0.1588
+SUBJECT_SAMPLE_FACTORS           	-	18	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=UU11; tissue fluid(mpe)=15.35; mmp(mpe)=0.0045; FSR (%/hr)=0.1173
+SUBJECT_SAMPLE_FACTORS           	-	19	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=UU11; tissue fluid(mpe)=15.72; mmp(mpe)=0.0069; FSR (%/hr)=0.1755
+SUBJECT_SAMPLE_FACTORS           	-	2	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=080617-1; tissue fluid(mpe)=29.02; mmp(mpe)=0.0165; FSR (%/hr)=0.2274
+SUBJECT_SAMPLE_FACTORS           	-	20	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=UU11; tissue fluid(mpe)=12.51; mmp(mpe)=0.0042; FSR (%/hr)=0.1338
+SUBJECT_SAMPLE_FACTORS           	-	21	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=UU11; tissue fluid(mpe)=14.78; mmp(mpe)=0.0048; FSR (%/hr)=0.1287
+SUBJECT_SAMPLE_FACTORS           	-	22	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=UU11; tissue fluid(mpe)=13.47; mmp(mpe)=0.0060; FSR (%/hr)=0.1770
+SUBJECT_SAMPLE_FACTORS           	-	23	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=UU11; tissue fluid(mpe)=16.60; mmp(mpe)=0.0092; FSR (%/hr)=0.2215
+SUBJECT_SAMPLE_FACTORS           	-	24	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=UU11; tissue fluid(mpe)=15.47; mmp(mpe)=0.0120; FSR (%/hr)=0.3102
+SUBJECT_SAMPLE_FACTORS           	-	25	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=UU12; tissue fluid(mpe)=24.10; mmp(mpe)=0.0171; FSR (%/hr)=0.2835
+SUBJECT_SAMPLE_FACTORS           	-	26	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=UU12; tissue fluid(mpe)=16.25; mmp(mpe)=0.0082; FSR (%/hr)=0.2020
+SUBJECT_SAMPLE_FACTORS           	-	27	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=UU12; tissue fluid(mpe)=22.97; mmp(mpe)=0.0235; FSR (%/hr)=0.4087
+SUBJECT_SAMPLE_FACTORS           	-	28	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=UU12; tissue fluid(mpe)=19.81; mmp(mpe)=0.0207; FSR (%/hr)=0.4188
+SUBJECT_SAMPLE_FACTORS           	-	29	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=UU12; tissue fluid(mpe)=23.32; mmp(mpe)=0.0115; FSR (%/hr)=0.1966
+SUBJECT_SAMPLE_FACTORS           	-	3	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=080617-1; tissue fluid(mpe)=26.14; mmp(mpe)=0.0127; FSR (%/hr)=0.1942
+SUBJECT_SAMPLE_FACTORS           	-	30	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=UU12; tissue fluid(mpe)=15.88; mmp(mpe)=0.0022; FSR (%/hr)=0.0557
+SUBJECT_SAMPLE_FACTORS           	-	31	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=UU12; tissue fluid(mpe)=24.52; mmp(mpe)=0.0162; FSR (%/hr)=0.2647
+SUBJECT_SAMPLE_FACTORS           	-	32	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=UU12; tissue fluid(mpe)=15.23; mmp(mpe)=0.0040; FSR (%/hr)=0.1053
+SUBJECT_SAMPLE_FACTORS           	-	4	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=080617-1; tissue fluid(mpe)=28.66; mmp(mpe)=0.0131; FSR (%/hr)=0.1825
+SUBJECT_SAMPLE_FACTORS           	-	5	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=080617-1; tissue fluid(mpe)=28.39; mmp(mpe)=0.0178; FSR (%/hr)=0.2511
+SUBJECT_SAMPLE_FACTORS           	-	57	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=071220-3; tissue fluid(mpe)=28.82; mmp(mpe)=0.0116; FSR (%/hr)=0.1604
+SUBJECT_SAMPLE_FACTORS           	-	58	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=071220-3; tissue fluid(mpe)=25.39; mmp(mpe)=0.0127; FSR (%/hr)=0.1995
+SUBJECT_SAMPLE_FACTORS           	-	59	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=071220-3; tissue fluid(mpe)=30.68; mmp(mpe)=0.0158; FSR (%/hr)=0.2055
+SUBJECT_SAMPLE_FACTORS           	-	6	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=080617-1; tissue fluid(mpe)=28.02; mmp(mpe)=0.0181; FSR (%/hr)=0.2588
+SUBJECT_SAMPLE_FACTORS           	-	60	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=071220-3; tissue fluid(mpe)=28.22; mmp(mpe)=0.0166; FSR (%/hr)=0.2353
+SUBJECT_SAMPLE_FACTORS           	-	61	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=071220-3; tissue fluid(mpe)=24.72; mmp(mpe)=0.0070; FSR (%/hr)=0.1133
+SUBJECT_SAMPLE_FACTORS           	-	62	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=071220-3; tissue fluid(mpe)=24.03; mmp(mpe)=0.0063; FSR (%/hr)=0.1055
+SUBJECT_SAMPLE_FACTORS           	-	63	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=071220-3; tissue fluid(mpe)=30.66; mmp(mpe)=0.0175; FSR (%/hr)=0.2284
+SUBJECT_SAMPLE_FACTORS           	-	64	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=071220-3; tissue fluid(mpe)=29.48; mmp(mpe)=0.0202; FSR (%/hr)=0.2735
+SUBJECT_SAMPLE_FACTORS           	-	7	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=080617-1; tissue fluid(mpe)=27.05; mmp(mpe)=0.0229; FSR (%/hr)=0.3394
+SUBJECT_SAMPLE_FACTORS           	-	73	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=UU14; tissue fluid(mpe)=21.74; mmp(mpe)=0.0082; FSR (%/hr)=0.1503
+SUBJECT_SAMPLE_FACTORS           	-	74	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=UU14; tissue fluid(mpe)=21.84; mmp(mpe)=0.0167; FSR (%/hr)=0.3064
+SUBJECT_SAMPLE_FACTORS           	-	75	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=UU14; tissue fluid(mpe)=24.08; mmp(mpe)=0.0226; FSR (%/hr)=0.3749
+SUBJECT_SAMPLE_FACTORS           	-	76	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=UU14; tissue fluid(mpe)=22.22; mmp(mpe)=0.0208; FSR (%/hr)=0.3749
+SUBJECT_SAMPLE_FACTORS           	-	77	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=UU14; tissue fluid(mpe)=21.14; mmp(mpe)=0.0092; FSR (%/hr)=0.1748
+SUBJECT_SAMPLE_FACTORS           	-	78	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=UU14; tissue fluid(mpe)=22.41; mmp(mpe)=0.0158; FSR (%/hr)=0.2818
+SUBJECT_SAMPLE_FACTORS           	-	79	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=UU14; tissue fluid(mpe)=24.22; mmp(mpe)=0.0238; FSR (%/hr)=0.3926
+SUBJECT_SAMPLE_FACTORS           	-	8	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=080617-1; tissue fluid(mpe)=25.90; mmp(mpe)=0.0266; FSR (%/hr)=0.4110
+SUBJECT_SAMPLE_FACTORS           	-	80	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=UU14; tissue fluid(mpe)=22.65; mmp(mpe)=0.0215; FSR (%/hr)=0.3797
+SUBJECT_SAMPLE_FACTORS           	-	81	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=UU15; tissue fluid(mpe)=16.91; mmp(mpe)=0.0218; FSR (%/hr)=0.5153
+SUBJECT_SAMPLE_FACTORS           	-	82	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=UU15; tissue fluid(mpe)=15.88; mmp(mpe)=0.0169; FSR (%/hr)=0.4253
+SUBJECT_SAMPLE_FACTORS           	-	83	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=UU15; tissue fluid(mpe)=16.23; mmp(mpe)=0.0305; FSR (%/hr)=0.7529
+SUBJECT_SAMPLE_FACTORS           	-	84	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=UU15; tissue fluid(mpe)=16.57; mmp(mpe)=0.0241; FSR (%/hr)=0.5814
+SUBJECT_SAMPLE_FACTORS           	-	85	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=UU15; tissue fluid(mpe)=15.47; mmp(mpe)=0.0205; FSR (%/hr)=0.5306
+SUBJECT_SAMPLE_FACTORS           	-	86	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=UU15; tissue fluid(mpe)=17.58; mmp(mpe)=0.0223; FSR (%/hr)=0.5072
+SUBJECT_SAMPLE_FACTORS           	-	87	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=UU15; tissue fluid(mpe)=16.11; mmp(mpe)=0.0306; FSR (%/hr)=0.7598
+SUBJECT_SAMPLE_FACTORS           	-	88	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=UU15; tissue fluid(mpe)=16.75; mmp(mpe)=0.0201; FSR (%/hr)=0.4805
+SUBJECT_SAMPLE_FACTORS           	-	89	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=UU16; tissue fluid(mpe)=14.92; mmp(mpe)=0.0377; FSR (%/hr)=1.0119
+SUBJECT_SAMPLE_FACTORS           	-	9	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=080617-2; tissue fluid(mpe)=25.58; mmp(mpe)=0.0205; FSR (%/hr)=0.3209
+SUBJECT_SAMPLE_FACTORS           	-	90	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=UU16; tissue fluid(mpe)=14.54; mmp(mpe)=0.0108; FSR (%/hr)=0.2960
+SUBJECT_SAMPLE_FACTORS           	-	91	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=UU16; tissue fluid(mpe)=15.31; mmp(mpe)=0.0569; FSR (%/hr)=1.4853
+SUBJECT_SAMPLE_FACTORS           	-	92	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial deep; ID=UU16; tissue fluid(mpe)=17.92; mmp(mpe)=0.0229; FSR (%/hr)=0.5116
+SUBJECT_SAMPLE_FACTORS           	-	93	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral superficial; ID=UU16; tissue fluid(mpe)=17.25; mmp(mpe)=0.0142; FSR (%/hr)=0.3293
+SUBJECT_SAMPLE_FACTORS           	-	94	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral superficial; ID=UU16; tissue fluid(mpe)=14.13; mmp(mpe)=0.0037; FSR (%/hr)=0.1061
+SUBJECT_SAMPLE_FACTORS           	-	95	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. lateral deep; ID=UU16; tissue fluid(mpe)=17.81; mmp(mpe)=0.0230; FSR (%/hr)=0.5170
+SUBJECT_SAMPLE_FACTORS           	-	96	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. lateral deep; ID=UU16; tissue fluid(mpe)=14.92; mmp(mpe)=0.0025; FSR (%/hr)=0.0682
+SUBJECT_SAMPLE_FACTORS           	-	97	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial superficial; ID=UU17; tissue fluid(mpe)=31.62; mmp(mpe)=0.0165; FSR (%/hr)=0.2090
+SUBJECT_SAMPLE_FACTORS           	-	98	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=L. medial superficial; ID=UU17; tissue fluid(mpe)=30.41; mmp(mpe)=0.0180; FSR (%/hr)=0.2369
+SUBJECT_SAMPLE_FACTORS           	-	99	Mechanical loading hours/day:None | Group:Sham	Tissue=Gast=R. medial deep; ID=UU17; tissue fluid(mpe)=35.19; mmp(mpe)=0.0194; FSR (%/hr)=0.2200
+#COLLECTION
+CO:COLLECTION_SUMMARY            	The tibialis anterior (TA), extensor digitorum longus (EDL), plantaris,
+CO:COLLECTION_SUMMARY            	and soleus muscles were dissected from the loaded left leg and the unloaded
+CO:COLLECTION_SUMMARY            	leg immediately after death. One half of the soleus and EDL muscles together
+CO:COLLECTION_SUMMARY            	TA and gastrocnemius were quickly frozen in liquid propane cooled by liquid
+CO:COLLECTION_SUMMARY            	and stored at ?160°C for further analyses. In the other halves of the soleus
+CO:COLLECTION_SUMMARY            	EDL muscles, bundles of approximately 50 fibres were dissected from the muscles
+CO:COLLECTION_SUMMARY            	relaxing solution at 4°C and tied to glass capillaries, stretched to about
+CO:COLLECTION_SUMMARY            	of their resting slack length. The bundles were chemically skinned for 24 h in
+CO:COLLECTION_SUMMARY            	solution containing 50% (v/v) glycerol for 24 h at 4°C and were subsequently
+CO:COLLECTION_SUMMARY            	at ?20°C (Larsson & Moss, 1993). All the bundles were cryo-protected within 1
+CO:COLLECTION_SUMMARY            	after skinning by transferring the bundles every 30 min to relax solution
+CO:COLLECTION_SUMMARY            	increasing concentrations of sucrose, i.e. 0, 0.5, 1.0, 1.5 and 2.0 m, and
+CO:COLLECTION_SUMMARY            	frozen in liquid propane chilled with liquid nitrogen (Frontera & Larsson,
+CO:COLLECTION_SUMMARY            	The frozen bundles were stored at ?160°C pending use. One day before the
+CO:COLLECTION_SUMMARY            	a bundle was transferred to a 2.0 m sucrose solution for 30 min, subsequently
+CO:COLLECTION_SUMMARY            	in solutions of decreasing sucrose concentration (1.5?0.5 m) and finally kept
+CO:COLLECTION_SUMMARY            	a skinning solution at ?20°C.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Mechanical stimulation|Sham operation
+TR:TREATMENT_PROTOCOL_COMMENTS   	Sham operated controls and 46 anaesthetized and mechanically ventilated female
+TR:TREATMENT_PROTOCOL_COMMENTS   	rats treated with ?-cobratoxin for durations varying from 6 h to 14 days were
+TR:TREATMENT_PROTOCOL_COMMENTS   	in this study. The experimental model has previously been described in detail
+TR:TREATMENT_PROTOCOL_COMMENTS   	& Dworkin, 1990, 2004). For mechanical stimulation animals, left leg was
+TR:TREATMENT_PROTOCOL_COMMENTS   	stimulated and right leg was not. |Sham operated controls and 46 anaesthetized
+TR:TREATMENT_PROTOCOL_COMMENTS   	mechanically ventilated female Sprague?Dawley rats treated with ?-cobratoxin
+TR:TREATMENT_PROTOCOL_COMMENTS   	durations varying from 6 h to 14 days were included in this study. The
+TR:TREATMENT_PROTOCOL_COMMENTS   	model has previously been described in detail (Dworkin & Dworkin, 1990, 2004).
+TR:TREATMENT_PROTOCOL_COMMENTS   	sham operated controls, no stimulation was performed on either legs
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	An i.v. bolus dose of [ring-13C6]phenylalanine (15 ?g g?1 body weight) was
+SP:SAMPLEPREP_SUMMARY            	15 min prior to the animals being killed. Immediately after death, the
+SP:SAMPLEPREP_SUMMARY            	muscle was removed from the left and right hindlimb and split into a medial and
+SP:SAMPLEPREP_SUMMARY            	deep red and superficial white portion and frozen in liquid propane chilled by
+SP:SAMPLEPREP_SUMMARY            	nitrogen. Tissue fluid and mixed gastrocnemius muscle proteins were isolated
+SP:SAMPLEPREP_SUMMARY            	to the method of Ljungqvist et al. (1997). The mixed muscle protein precipitate
+SP:SAMPLEPREP_SUMMARY            	the isolation was hydrolysed by heating with 6 m HCl overnight at 110°C. Both
+SP:SAMPLEPREP_SUMMARY            	fluid and hydrolysed mixed gastrocnemius muscle amino acids were purified using
+SP:SAMPLEPREP_SUMMARY            	BioRad AG-50 × 8 ion exchange resin prior to mass spectrometry
+SP:SAMPLEPREP_SUMMARY            	fluid The level of enrichment of [ring-13C6]phenylalanine in tissue fluid
+SP:SAMPLEPREP_SUMMARY            	analysed using ThermoFisher Quantum gas chromatography tandem mass spectrometry
+SP:SAMPLEPREP_SUMMARY            	(San Jose, CA, USA). The heptafluorobutyryl isobutyl ester derivative was
+SP:SAMPLEPREP_SUMMARY            	as described by Ford et al. (1985) and the amino acids were measured under
+SP:SAMPLEPREP_SUMMARY            	ion chemical ionisation conditions using isobutane as reactant gas. The [M-HF]?
+SP:SAMPLEPREP_SUMMARY            	reflecting the m0 and m+6 species were monitored (m/z transitions 397?377 and
+SP:SAMPLEPREP_SUMMARY            	respectively) and the enrichment of the label was measured against a
+SP:SAMPLEPREP_SUMMARY            	curve prepared from known amounts of labelled and unlabelled phenylalanine
+SP:SAMPLEPREP_SUMMARY            	0?30%).
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	The level of enrichment of [ring-13C6]phenylalanine derived from hydrolysed
+CH:CHROMATOGRAPHY_SUMMARY        	muscle proteins were analysed using a ThermoFisher DeltaPlus Isotope Ratio mass
+CH:CHROMATOGRAPHY_SUMMARY        	(IR/MS) (Bremen, Germany) fitted with an on-line gas chromatograph with
+CH:CHROMATOGRAPHY_SUMMARY        	and reduction furnaces as previously described (Balagopal et al. 1996). The
+CH:CHROMATOGRAPHY_SUMMARY        	acids were derivatized to their trimethyl acetyl, methyl esters according to
+CH:CHROMATOGRAPHY_SUMMARY        	method of Metges et al. (1996). Any amino acid eluting from the gas
+CH:CHROMATOGRAPHY_SUMMARY        	is converted to CO2 and N2 prior to entry into the IR/MS. The amino acids were
+CH:CHROMATOGRAPHY_SUMMARY        	to their trimethyl acetyl, methyl esters according to the method of Metges et
+CH:CHROMATOGRAPHY_SUMMARY        	(1996). Enrichment of the tracer was measured by monitoring the ratio of 13C to
+CH:CHROMATOGRAPHY_SUMMARY        	in the IR/MS and again referenced to a calibration curve (00.1%).
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Mayo Clinic Metabolomics Core
+#MS
+MS:INSTRUMENT_NAME               	ThermoFisher DeltaPlus Isotope Ratio MS
+MS:INSTRUMENT_TYPE               	IR MS
+MS:MS_TYPE                       	IR MS
+MS:ION_MODE                      	NEGATIVE
+MS:MS_COMMENTS                   	the amino acids were measured under negative ion chemical ionisation conditions
+MS:MS_COMMENTS                   	isobutane as reactant gas
+#END

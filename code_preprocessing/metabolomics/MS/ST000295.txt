@@ -1,0 +1,118 @@
+#METABOLOMICS WORKBENCH efahy_20151228_064502 STUDY_ID:ST000295 ANALYSIS_ID:AN000472
+VERSION             	1
+CREATED_ON             	December 28, 2015, 6:45 am
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolic regulation by PARP-1 in myofibroblast differentiation and fibrosis
+PR:PROJECT_SUMMARY               	Analysis of wild type lung tissue after saline or bleomycin treatment
+PR:INSTITUTE                     	University of Michigan
+PR:LAST_NAME                     	Hu
+PR:FIRST_NAME                    	Biao
+PR:ADDRESS                       	Ann Arbor, MI
+PR:EMAIL                         	biaohu@med.umich.edu
+PR:PHONE                         	734-763-5731
+#STUDY
+ST:STUDY_TITLE                   	Metabolic analysis of Parp1 ko/wt Saline & Bleo Mouse Lung Fiboblasts and Human
+ST:STUDY_TITLE                   	Normal Lung Fiboblasts with TGFbeta and Fizz2 treatment
+ST:STUDY_SUMMARY                 	Glycolysis/TCA/Nucleotide analysis and NAD+ and related metabolite analysis for
+ST:STUDY_SUMMARY                 	all samples
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@med.umich.edu
+ST:PHONE                         	(734) 232-8175
+ST:NUM_GROUPS                    	6
+ST:TOTAL_SUBJECTS                	35
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal/Human
+SU:SUBJECT_SPECIES               	Mus musculus/Homo sapiens
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0005146	S00016590	Species:Mus musculus | Genotype:WT | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005147	S00016591	Species:Mus musculus | Genotype:WT | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005148	S00016592	Species:Mus musculus | Genotype:WT | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005149	S00016593	Species:Mus musculus | Genotype:WT | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005150	S00016594	Species:Mus musculus | Genotype:WT | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005151	S00016595	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005152	S00016596	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005153	S00016597	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005154	S00016598	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005155	S00016599	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005156	S00016600	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005157	S00016601	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005158	S00016602	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005159	S00016603	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005160	S00016604	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	
+SUBJECT_SAMPLE_FACTORS           	SU0005161	S00016605	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005162	S00016606	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005163	S00016607	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005164	S00016608	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005165	S00016609	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	
+SUBJECT_SAMPLE_FACTORS           	SU0005166	S00016610	Species:Homo sapiens | Genotype:WT | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	SU0005167	S00016611	Species:Homo sapiens | Genotype:WT | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	SU0005168	S00016612	Species:Homo sapiens | Genotype:WT | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	SU0005169	S00016613	Species:Homo sapiens | Genotype:WT | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	SU0005170	S00016614	Species:Homo sapiens | Genotype:WT | Treatment:None	
+SUBJECT_SAMPLE_FACTORS           	SU0005171	S00016615	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	
+SUBJECT_SAMPLE_FACTORS           	SU0005172	S00016616	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	
+SUBJECT_SAMPLE_FACTORS           	SU0005173	S00016617	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	
+SUBJECT_SAMPLE_FACTORS           	SU0005174	S00016618	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	
+SUBJECT_SAMPLE_FACTORS           	SU0005175	S00016619	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	
+SUBJECT_SAMPLE_FACTORS           	SU0005176	S00016620	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	
+SUBJECT_SAMPLE_FACTORS           	SU0005177	S00016621	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	
+SUBJECT_SAMPLE_FACTORS           	SU0005178	S00016622	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	
+SUBJECT_SAMPLE_FACTORS           	SU0005179	S00016623	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	
+SUBJECT_SAMPLE_FACTORS           	SU0005180	S00016624	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Cells
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Glycolysis-TCA-nucleotides-20150324.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Agilent 1260 LC
+CH:COLUMN_NAME                	Phenomenex Xbridge C18 2mm x 50mm
+CH:METHODS_FILENAME           	Ceramides-20150305.docx
+CH:METHODS_ID                 	DQM0152
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:ACQUISITION_PARAMETERS_FILE	QM033_2mmC18_Ceramide_MRM.m
+AN:PROCESSING_PARAMETERS_FILE	EX00363-Ceramides-Quant-method.m
+#MS
+MS:INSTRUMENT_TYPE          	Triple quadrupole
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_COMMENTS              	Ceramides MS(+)
+MS:INSTRUMENT_NAME               	-
+MS:INSTRUMENT_NAME          	Agilent 6410A QQQ
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	ng/ug protein
+MS_METABOLITE_DATA_START
+Samples	S00016590	S00016591	S00016592	S00016593	S00016594	S00016595	S00016596	S00016597	S00016598	S00016599	S00016600	S00016601	S00016602	S00016603	S00016604	S00016605	S00016606	S00016607	S00016608	S00016609	S00016610	S00016611	S00016612	S00016613	S00016614	S00016615	S00016616	S00016617	S00016618	S00016619	S00016620	S00016621	S00016622	S00016623	S00016624
+Factors	Species:Mus musculus | Genotype:WT | Treatment:saline	Species:Mus musculus | Genotype:WT | Treatment:saline	Species:Mus musculus | Genotype:WT | Treatment:saline	Species:Mus musculus | Genotype:WT | Treatment:saline	Species:Mus musculus | Genotype:WT | Treatment:saline	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	Species:Mus musculus | Genotype:WT | Treatment:bleomycin	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:saline	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	Species:Mus musculus | Genotype:PARP1 knockout | Treatment:bleomycin	Species:Homo sapiens | Genotype:WT | Treatment:None	Species:Homo sapiens | Genotype:WT | Treatment:None	Species:Homo sapiens | Genotype:WT | Treatment:None	Species:Homo sapiens | Genotype:WT | Treatment:None	Species:Homo sapiens | Genotype:WT | Treatment:None	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	Species:Homo sapiens | Genotype:WT | Treatment:TGFb	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2	Species:Homo sapiens | Genotype:WT | Treatment:Fizz2
+Cer C14	93.288	101.353	103.542	125.486	140.060	154.471	201.662	155.359	73.501	162.947	135.161	129.968	98.227	132.268	152.251	161.141	111.575	106.159	152.067	101.588	155.382	261.432	378.889	385.095	237.200	300.852	322.175	297.417	251.528	200.446	215.256	277.997	274.900	492.692	411.681
+Cer C16	156.292	127.118	179.486	190.264	208.758	237.578	251.387	223.935	129.219	195.350	259.262	194.173	155.850	199.311	237.022	199.104	137.600	131.858	198.442	162.748	155.953	307.779	383.478	454.916	318.123	357.642	311.316	368.992	304.137	264.793	290.305	356.363	247.555	497.786	494.510
+Cer C18	63.789	63.740	76.727	86.257	89.406	91.469	82.874	89.978	56.767	67.920	98.494	60.876	61.456	72.299	96.954	69.014	57.414	54.886	86.672	78.614	99.899	172.728	222.884	264.461	185.460	217.412	201.513	213.863	166.862	145.998	171.378	213.614	160.240	326.282	295.957
+Cer C18:1	2.000	1.935	2.312	2.793	2.551	3.645	2.068	2.533	1.512	1.296	3.024	1.615	1.654	1.787	2.328	1.984	1.217	1.052	1.989	2.398	2.840	5.707	8.151	8.302	6.284	6.760	6.662	8.066	5.510	5.259	6.104	7.789	5.223	10.173	9.416
+Cer C20	70.328	69.333	90.764	104.009	108.344	108.613	96.793	92.643	69.257	88.966	110.143	69.808	70.775	74.115	89.809	90.507	79.281	86.101	122.261	99.257	110.621	228.758	234.373	328.060	242.337	267.997	250.882	308.470	243.249	186.254	225.505	288.603	217.809	410.320	385.374
+Cer C22	249246.300	197007.476	515291.883	355460.976	464656.841	365254.181	510307.001	312255.895	315255.764	488964.969	736807.099	493406.892	282547.056	387942.959	458349.476	496853.384	219198.867	343588.209	658433.474	491547.356	234580.372	428701.027	728329.987	721773.987	614381.348	492752.563	666927.938	859299.330	607305.494	450409.594	616280.493	684041.466	570624.478	881893.200	633436.779
+Cer C24	148.883	125.673	200.816	148.731	217.472	210.894	309.305	167.150	124.048	295.245	234.005	192.946	115.978	180.340	212.509	219.166	244.737	138.430	279.632	203.872	136.343	410.319	578.833	644.635	371.498	445.406	465.718	538.066	416.276	179.728	181.825	225.026	214.018	674.257	397.511
+Cer C24:1	943191.087	587489.776	1451552.522	1270213.796	1366797.675	1353068.120	1727224.089	1147270.861	1020504.433	1376437.803	2033184.497	1328641.249	987074.190	1132915.244	1399355.663	1393113.445	714921.394	1010625.816	1770983.500	1440687.416	550532.395	988602.202	1494584.401	1470959.388	1470856.218	1283520.304	1542765.927	1963191.691	1381850.103	1331870.778	1426053.842	1578535.966	1262880.766	1656101.332	1423790.665
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	PubChem CID
+Cer C14	5282310
+Cer C16	5283564
+Cer C18	5283565
+Cer C18:1	5283563
+Cer C20	5283566
+Cer C22	5283567
+Cer C24	5283571
+Cer C24:1	5283568
+METABOLITES_END
+#END

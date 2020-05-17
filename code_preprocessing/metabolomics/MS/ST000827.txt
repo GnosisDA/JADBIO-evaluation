@@ -1,0 +1,105 @@
+#METABOLOMICS WORKBENCH araskind_20170802_130550 DATATRACK_ID:1174 STUDY_ID:ST000827 ANALYSIS_ID:AN001315
+VERSION             	1
+CREATED_ON             	August 7, 2017, 3:27 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolic regulation by PARP-1 in myofibroblast differentiation and fibrosis
+PR:PROJECT_TYPE                  	MS analysis
+PR:PROJECT_SUMMARY               	Analysis of wild type lung tissue after saline or bleomycin treatment
+PR:INSTITUTE                     	University of Michigan
+PR:DEPARTMENT                    	Deaprtment of Pathology
+PR:LABORATORY                    	Sem H. Phan
+PR:LAST_NAME                     	Hu
+PR:FIRST_NAME                    	Biao
+PR:ADDRESS                       	Ann Arbor, MI
+PR:EMAIL                         	biaohu@med.umich.edu
+PR:PHONE                         	734-7635731
+#STUDY
+ST:STUDY_TITLE                   	Metabolic analysis of Normal Mouse Lung Fiboblasts with/without TGFbeta
+ST:STUDY_TITLE                   	treatment
+ST:STUDY_TYPE                    	MS analysis
+ST:STUDY_SUMMARY                 	Glycolysis/TCA/Nucleotide analysis (especially interested in
+ST:STUDY_SUMMARY                 	alpha-ketoglutarate) and NAD+ and related metabolite analysis for parp1 ko and
+ST:STUDY_SUMMARY                 	parp1 wild type lung tissue after saline or bleomycin treatment
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@med.umich.edu
+ST:PHONE                         	(734) 232-8175
+ST:NUM_GROUPS                    	2
+ST:TOTAL_SUBJECTS                	30
+#SUBJECT
+SU:SUBJECT_TYPE                  	MOUSE
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0003980	S00014554	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003981	S00014555	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003982	S00014556	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003983	S00014557	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003984	S00014558	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003985	S00014559	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003986	S00014560	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003987	S00014561	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003988	S00014562	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003989	S00014563	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003990	S00014564	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003991	S00014565	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003992	S00014566	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003993	S00014567	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003994	S00014568	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003995	S00014569	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003996	S00014570	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003997	S00014571	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0003998	S00014572	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0003999	S00014573	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0004000	S00014574	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0004001	S00014575	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0004002	S00014576	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0004003	S00014577	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0004004	S00014578	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0004005	S00014579	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0004006	S00014580	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	
+SUBJECT_SAMPLE_FACTORS           	SU0004007	S00014581	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0004008	S00014582	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+SUBJECT_SAMPLE_FACTORS           	SU0004009	S00014583	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	A010 - Ceramides.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Phenyl
+CH:INSTRUMENT_NAME            	6490A QQQ LC/MS (Agilent)
+CH:COLUMN_NAME                	Pinnacle DB Biphenyl, 140A, 1.9mkm, 2.1mm X 50mm (Restek)
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:ANALYSIS_PROTOCOL_FILE   	A010 - Ceramides.pdf
+AN:ACQUISITION_PARAMETERS_FILE	QM033_2mmC18_Ceramide_MRM
+AN:PROCESSING_PARAMETERS_FILE	-
+#MS
+MS:INSTRUMENT_NAME          	6490A QQQ LC/MS (Agilent)
+MS:INSTRUMENT_TYPE          	QQQ
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	counts
+MS_METABOLITE_DATA_START
+Samples	S00014554	S00014555	S00014556	S00014557	S00014558	S00014559	S00014560	S00014561	S00014562	S00014563	S00014564	S00014565	S00014566	S00014567	S00014568	S00014569	S00014570	S00014571	S00014572	S00014573	S00014574	S00014575	S00014576	S00014577	S00014578	S00014579	S00014580	S00014581	S00014582	S00014583
+Factors	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	Bleomycin:yes | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:no	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:no | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:yes	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:yes | Parp1 KO:yes | Parp1 WT (129S Background):no | Saline:no	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes	Bleomycin:no | Parp1 KO:no | Parp1 WT (129S Background):yes | Saline:yes
+N-ICOSANOYLSPHINGOSINE	187726.2082	257996.5179	181075.134	119582.4733	133817.6561	81470.29751	181036.3685	209456.6369	320488.7738	132285.6415	131067.9974	164374.0507	222628.9276	310990.8647	197506.5612	103793.5756	506075.8974	367551.85	110971.7491	86491.02575	125452.0005	288947.7398	453491.4602	373769.5684	142085.6713	177898.5123	194922.2093	311762.3714	380515.7367	247455.1244
+C22 CER	483038.069	583350.2541	355268.2794	230914.8352	306199.0198	224112.6849	657930.2302	504988.3198	887236.8942	220528.6348	230607.6113	290510.7538	456306.0274	908580.9516	448792.0912	303831.9649	1031293.125	884207.5029	264235.3273	175261.8318	252599.7688	663291.0877	866876.9734	714586.1185	331863.4573	251959.1613	334203.8306	711555.3195	644009.2631	687307.0188
+C24:1 CER	1115337.067	1293227.6	803000.8996	1069697.973	983074.3611	724963.4276	1150454.036	1011958.89	1650140.043	831289.1932	871493.1217	1011155.527	890437.2805	1556087.736	1478464.951	1292919.823	2178300.24	1908131.013	979856.0874	794109.8388	895446.4592	1403065.76	1808533.639	1647473.141	1301576.557	1316577.435	1191452.575	1447581.604	1368437.153	1318523.472
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+N-ICOSANOYLSPHINGOSINE				5283566
+C22 CER				5283567
+C24:1 CER				5283568
+METABOLITES_END
+#END

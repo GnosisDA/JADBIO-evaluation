@@ -1,0 +1,258 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170622_110410 DATATRACK_ID:1074 STUDY_ID:ST000655 ANALYSIS_ID:AN000999
+VERSION             	1
+CREATED_ON             	June 26, 2017, 10:23 am
+#PROJECT
+PR:PROJECT_TITLE                 	Omega-6 and omega-3 oxylipins are implicated in soybean oil-induced obesity in
+PR:PROJECT_TITLE                 	mice
+PR:PROJECT_SUMMARY               	In this study we have compared the metabolic effects of conventional soybean oil
+PR:PROJECT_SUMMARY               	to those of genetically modified Plenish soybean oil, that is low in linoleic
+PR:PROJECT_SUMMARY               	acid and high in oleic acid. This work builds on our previous study showing that
+PR:PROJECT_SUMMARY               	soybean oil, rich in polyunsaturated fats, is more obesogenic and diabetogenic
+PR:PROJECT_SUMMARY               	than coconut oil, rich in saturated fats (PMID: 26200659). Here, in order to
+PR:PROJECT_SUMMARY               	elucidate the mechanisms responsible for soybean oil induced obesity, we have
+PR:PROJECT_SUMMARY               	performed the first ever metabolomics (in plasma and liver) and proteomics on
+PR:PROJECT_SUMMARY               	the livers of mice fed the two soybean oil diets (plus those fed a high coconut
+PR:PROJECT_SUMMARY               	oil and Viv chow diet). Our results show that the new high oleic soybean oil
+PR:PROJECT_SUMMARY               	induces less obesity and adiposity than conventional soybean oil, but can cause
+PR:PROJECT_SUMMARY               	hepatomegaly and liver dysfunction. Metabolomic analysis reveals that the
+PR:PROJECT_SUMMARY               	hepatic and plasma metabolic profiles differ considerably between the two
+PR:PROJECT_SUMMARY               	soybean oils. Hepatic C18 oxylipin metabolites of omega-6 (ω6) and omega-3
+PR:PROJECT_SUMMARY               	(ω3) fatty acids (linoleic and α-linolenic acid, respectively) in the
+PR:PROJECT_SUMMARY               	cytochrome P450/soluble epoxide hydrolase pathway were found to correlate
+PR:PROJECT_SUMMARY               	positively with obesity.
+PR:INSTITUTE                     	University of California, Riverside
+PR:DEPARTMENT                    	Cell Biology and Neuroscience
+PR:LAST_NAME                     	Sladek
+PR:FIRST_NAME                    	Frances
+PR:ADDRESS                       	2115 Biological Sciences Building,University of California, Riverside, CA
+PR:ADDRESS                       	92521-0314
+PR:EMAIL                         	frances.sladek@ucr.edu
+PR:PHONE                         	951-827-2264
+#STUDY
+ST:STUDY_TITLE                   	Omega-6 and omega-3 oxylipins are implicated in soybean oil-induced obesity in
+ST:STUDY_TITLE                   	mice (part II)
+ST:STUDY_SUMMARY                 	In this study we have compared the metabolic effects of conventional soybean oil
+ST:STUDY_SUMMARY                 	to those of genetically modified Plenish soybean oil, that is low in linoleic
+ST:STUDY_SUMMARY                 	acid and high in oleic acid. This work builds on our previous study showing that
+ST:STUDY_SUMMARY                 	soybean oil, rich in polyunsaturated fats, is more obesogenic and diabetogenic
+ST:STUDY_SUMMARY                 	than coconut oil, rich in saturated fats (PMID: 26200659). Here, in order to
+ST:STUDY_SUMMARY                 	elucidate the mechanisms responsible for soybean oil induced obesity, we have
+ST:STUDY_SUMMARY                 	performed the first ever metabolomics (in plasma and liver) and proteomics on
+ST:STUDY_SUMMARY                 	the livers of mice fed the two soybean oil diets (plus those fed a high coconut
+ST:STUDY_SUMMARY                 	oil and Viv chow diet). Our results show that the new high oleic soybean oil
+ST:STUDY_SUMMARY                 	induces less obesity and adiposity than conventional soybean oil, but can cause
+ST:STUDY_SUMMARY                 	hepatomegaly and liver dysfunction. Metabolomic analysis reveals that the
+ST:STUDY_SUMMARY                 	hepatic and plasma metabolic profiles differ considerably between the two
+ST:STUDY_SUMMARY                 	soybean oils. Hepatic C18 oxylipin metabolites of omega-6 (ω6) and omega-3
+ST:STUDY_SUMMARY                 	(ω3) fatty acids (linoleic and α-linolenic acid, respectively) in the
+ST:STUDY_SUMMARY                 	cytochrome P450/soluble epoxide hydrolase pathway were found to correlate
+ST:STUDY_SUMMARY                 	positively with obesity.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Genome and Biomedical Sciences Facility
+ST:LABORATORY                    	WCMC Metabolomics Core
+ST:LAST_NAME                     	Fiehn
+ST:FIRST_NAME                    	Oliver
+ST:ADDRESS                       	1315 Genome and Biomedical Sciences Facility, 451 Health Sciences Drive, Davis,
+ST:ADDRESS                       	CA 95616
+ST:EMAIL                         	ofiehn@ucdavis.edu
+ST:PHONE                         	(530) 754-8258
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+SU:GENOTYPE_STRAIN               	C57/BL6N
+SU:GENDER                        	Male
+SU:ANIMAL_HOUSING                	SPF facility
+SU:ANIMAL_LIGHT_CYCLE            	12:12 h light-dark cycle
+SU:ANIMAL_FEED                   	Ad libitum
+SU:ANIMAL_WATER                  	Ad libitum
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	QC	QC001	GROUP_DESCRIPTION:N/A | TIME_POINT:N/A | Genotype:N/A	Tissue Weight (mg)=-
+SUBJECT_SAMPLE_FACTORS           	QC	QC002	GROUP_DESCRIPTION:N/A | TIME_POINT:N/A | Genotype:N/A	Tissue Weight (mg)=-
+SUBJECT_SAMPLE_FACTORS           	QC	QC003	GROUP_DESCRIPTION:N/A | TIME_POINT:N/A | Genotype:N/A	Tissue Weight (mg)=-
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-2 e1	CSH_PM a7 D4-2 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.64
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-2 e2	CSH_PM a7 D4-2 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.27
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-2 e3	CSH_PM a7 D4-2 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=4.66
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-2 e4	CSH_PM a7 D4-2 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.07
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-4 e1	CSH_PM a7 D4-4 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.21
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-4 e2	CSH_PM a7 D4-4 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.5
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-4 e3	CSH_PM a7 D4-4 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.61
+SUBJECT_SAMPLE_FACTORS           	PM a7 D4-4 e4	CSH_PM a7 D4-4 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.6
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-1 e3	CSH_PM a7 D3-1 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.33
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-4 e2	CSH_PM a7 D3-4 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.67
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-4 e4	CSH_PM a7 D3-4 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=4.67
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-5 e1	CSH_PM a7 D3-5 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.22
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-5 e2	CSH_PM a7 D3-5 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.33
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-5 e3	CSH_PM a7 D3-5 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=4.51
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-5 e4	CSH_PM a7 D3-5 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.54
+SUBJECT_SAMPLE_FACTORS           	PM a7 D3-5 e5	CSH_PM a7 D3-5 e5_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.6
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-1 e2	CSH_PM a7 V-1 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.3
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-1 e3	CSH_PM a7 V-1 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=6.37
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-1 e4	CSH_PM a7 V-1 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.08
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-2 e1	CSH_PM a7 V-2 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.91
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-2 e2	CSH_PM a7 V-2 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=4.47
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-3 e1	CSH_PM a7 V-3 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.15
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-3 e2	CSH_PM a7 V-3 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.05
+SUBJECT_SAMPLE_FACTORS           	PM a7 V-3 e3	CSH_PM a7 V-3 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:HMZ a7	Tissue Weight (mg)=5.99
+SUBJECT_SAMPLE_FACTORS           	PM D4-16 e1	CSH_PM D4-16 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4
+SUBJECT_SAMPLE_FACTORS           	PM D4-16 e2	CSH_PM D4-16 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.13
+SUBJECT_SAMPLE_FACTORS           	PM D4-16 e3	CSH_PM D4-16 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.4
+SUBJECT_SAMPLE_FACTORS           	PM D4-16 e4	CSH_PM D4-16 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.29
+SUBJECT_SAMPLE_FACTORS           	PM D4-18 e1	CSH_PM D4-18 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4
+SUBJECT_SAMPLE_FACTORS           	PM D4-18 e2	CSH_PM D4-18 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.2
+SUBJECT_SAMPLE_FACTORS           	PM D4-18 e3	CSH_PM D4-18 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.63
+SUBJECT_SAMPLE_FACTORS           	PM D4-18 e4	CSH_PM D4-18 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.77
+SUBJECT_SAMPLE_FACTORS           	PM D4-10 e1	CSH_PM D4-10 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.68
+SUBJECT_SAMPLE_FACTORS           	PM D4-10 e2	CSH_PM D4-10 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5
+SUBJECT_SAMPLE_FACTORS           	PM D4-10 e3	CSH_PM D4-10 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.65
+SUBJECT_SAMPLE_FACTORS           	PM D4-11 e1	CSH_PM D4-11 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.19
+SUBJECT_SAMPLE_FACTORS           	PM D4-11 e3	CSH_PM D4-11 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.38
+SUBJECT_SAMPLE_FACTORS           	PM D4-9 e1	CSH_PM D4-9 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.47
+SUBJECT_SAMPLE_FACTORS           	PM D4-9 e2	CSH_PM D4-9 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.34
+SUBJECT_SAMPLE_FACTORS           	PM D4-9 e3	CSH_PM D4-9 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.19
+SUBJECT_SAMPLE_FACTORS           	PM D3-17 e1	CSH_PM D3-17 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.37
+SUBJECT_SAMPLE_FACTORS           	PM D3-17 e2	CSH_PM D3-17 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.74
+SUBJECT_SAMPLE_FACTORS           	PM D3-17 e3	CSH_PM D3-17 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.87
+SUBJECT_SAMPLE_FACTORS           	PM D3-17 e4	CSH_PM D3-17 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.53
+SUBJECT_SAMPLE_FACTORS           	PM D3-18 e1	CSH_PM D3-18 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.66
+SUBJECT_SAMPLE_FACTORS           	PM D3-18 e2	CSH_PM D3-18 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.81
+SUBJECT_SAMPLE_FACTORS           	PM D3-18 e3	CSH_PM D3-18 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.5
+SUBJECT_SAMPLE_FACTORS           	PM D3-18 e4	CSH_PM D3-18 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.04
+SUBJECT_SAMPLE_FACTORS           	PM D3-10 e1	CSH_PM D3-10 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.83
+SUBJECT_SAMPLE_FACTORS           	PM D3-10 e4	CSH_PM D3-10 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.89
+SUBJECT_SAMPLE_FACTORS           	PM D3-11 e1	CSH_PM D3-11 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.29
+SUBJECT_SAMPLE_FACTORS           	PM D3-11 e2	CSH_PM D3-11 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.99
+SUBJECT_SAMPLE_FACTORS           	PM D3-11 e3	CSH_PM D3-11 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.22
+SUBJECT_SAMPLE_FACTORS           	PM D3-12 e1	CSH_PM D3-12 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.07
+SUBJECT_SAMPLE_FACTORS           	PM D3-12 e3	CSH_PM D3-12 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.27
+SUBJECT_SAMPLE_FACTORS           	PM D3-13 e3	CSH_PM D3-13 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:LA-HFD | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.89
+SUBJECT_SAMPLE_FACTORS           	PM PL-4 e1	CSH_PM PL-4 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.17
+SUBJECT_SAMPLE_FACTORS           	PM PL-4 e2	CSH_PM PL-4 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.06
+SUBJECT_SAMPLE_FACTORS           	PM PL-4 e3	CSH_PM PL-4 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.16
+SUBJECT_SAMPLE_FACTORS           	PM PL-4 e4	CSH_PM PL-4 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.43
+SUBJECT_SAMPLE_FACTORS           	PM PL-5 e1	CSH_PM PL-5 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.67
+SUBJECT_SAMPLE_FACTORS           	PM PL-5 e2	CSH_PM PL-5 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.02
+SUBJECT_SAMPLE_FACTORS           	PM PL-5 e3	CSH_PM PL-5 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.4
+SUBJECT_SAMPLE_FACTORS           	PM PL-5 e4	CSH_PM PL-5 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:PL-HFD | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.38
+SUBJECT_SAMPLE_FACTORS           	PM 14 e1	CSH_PM 14 e1 _pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=3.28
+SUBJECT_SAMPLE_FACTORS           	PM 14 e2	CSH_PM 14 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.96
+SUBJECT_SAMPLE_FACTORS           	PM 14 e3	CSH_PM 14 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.09
+SUBJECT_SAMPLE_FACTORS           	PM 14 e4	CSH_PM 14 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.2
+SUBJECT_SAMPLE_FACTORS           	PM 16 e1	CSH_PM 16 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=7.09
+SUBJECT_SAMPLE_FACTORS           	PM 16 e2	CSH_PM 16 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.03
+SUBJECT_SAMPLE_FACTORS           	PM 16 e4	CSH_PM 16 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.72
+SUBJECT_SAMPLE_FACTORS           	PM 10 e1	CSH_PM 10 e1_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:24 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.53
+SUBJECT_SAMPLE_FACTORS           	PM 10 e2	CSH_PM 10 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.47
+SUBJECT_SAMPLE_FACTORS           	PM 10 e3	CSH_PM 10 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.54
+SUBJECT_SAMPLE_FACTORS           	PM 10 e4	CSH_PM 10 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.74
+SUBJECT_SAMPLE_FACTORS           	PM 9 e1	CSH_PM 9 e1 _pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=6.21
+SUBJECT_SAMPLE_FACTORS           	PM 9 e2	CSH_PM 9 e2_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.8
+SUBJECT_SAMPLE_FACTORS           	PM 9 e3	CSH_PM 9 e3_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=4.26
+SUBJECT_SAMPLE_FACTORS           	PM 9 e4	CSH_PM 9 e4_pos_MS_1032014.d	GROUP_DESCRIPTION:Viv chow | TIME_POINT:35 weeks | Genotype:WT C57-Bl6	Tissue Weight (mg)=5.66
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Liver tissue from mice on the diets for 24 weeks for metabolomic analysis was
+CO:COLLECTION_SUMMARY            	collected, rinsed in cold PBS, excess fluid was blotted with a kim-wipe and
+CO:COLLECTION_SUMMARY            	tissue was immediately snap frozen in liquid nitrogen before storage at -80°C.
+CO:COLLECTION_SUMMARY            	Blood was collected by cardiac puncture and centrifuged at 9 rcf for 5 min at
+CO:COLLECTION_SUMMARY            	4°C. Plasma was stored immediately at -20°C.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	"Male C57/BL6N mice weaned at 3weeks of age were randomly assigned to one of the
+TR:TREATMENT_SUMMARY             	four diets: 1) VIV chow- normal rodent chow , low in fat and high in fiber 2)
+TR:TREATMENT_SUMMARY             	HFD (referred to as CO in the manuscript) -40 kcal% high fat diet with 36 kcal%
+TR:TREATMENT_SUMMARY             	from coconut oil and 4 kcal% from conventional soybean oil 3) LA-HFD (referred
+TR:TREATMENT_SUMMARY             	to as SO+CO in the manuscript) - 40 kcal% high fat diet with 21 kcal% fat
+TR:TREATMENT_SUMMARY             	calories from coconut oil and 19 kcal% from conventional soybean oil, of which
+TR:TREATMENT_SUMMARY             	10 kcal% were from LA 4) PL-HFD (referred to as PL+CO in the manuscript)
+TR:TREATMENT_SUMMARY             	-40kcal% high fat diet in which conventional soybean oil in LA-HFD was replaced
+TR:TREATMENT_SUMMARY             	on a per gram basis with the genetically modified (GM) High Oleic Soybean Oil ,
+TR:TREATMENT_SUMMARY             	Plenish "
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	"1) Keep Specimen on Dry Ice 2) Transfer Tissue Contents into a new 1.5mL
+SP:SAMPLEPREP_SUMMARY            	labeled eppendorf tube; keep on dry ice at all times 3) Add three (3) 3mm metal
+SP:SAMPLEPREP_SUMMARY            	grinding balls to each sample; store in -80C for 10minutes 4) Homogenize the
+SP:SAMPLEPREP_SUMMARY            	entire tissue to fine powder using genogrinder; make sure that the metal
+SP:SAMPLEPREP_SUMMARY            	grinding balls are ice-cold prior to homogenization (step 3) 5) Upon completion
+SP:SAMPLEPREP_SUMMARY            	of homogenization, keep samples on dry ice 6) Weight out two (2) aliquots: a
+SP:SAMPLEPREP_SUMMARY            	~5mg aliquot for CSH_lipidomics and a ~4mg aliquot for Primary Metabolites by
+SP:SAMPLEPREP_SUMMARY            	GCTOF a. Record the exact weight weighed out for each sample b. Keep all samples
+SP:SAMPLEPREP_SUMMARY            	on dry ice 7) KEEP remaining tissue specimen (>90mg) for analysis of Oxylipins
+SP:SAMPLEPREP_SUMMARY            	(store in -80C) 8) Analysis of Primary Metabolites (GCTOFMS) a. Add 1mL of
+SP:SAMPLEPREP_SUMMARY            	ice-cold “degassed” 3:3:2 ACN/IPA/H2O b. Vortex for 10seconds c. Shake on
+SP:SAMPLEPREP_SUMMARY            	shaker for 20min at -4C d. Centrifuge the samples for 2min at 14,000 rcf e.
+SP:SAMPLEPREP_SUMMARY            	Transfer two (2) 500μL aliquots to new 1.5mL eppendorf tubes; one for backup
+SP:SAMPLEPREP_SUMMARY            	the other to be dried to dryness using the SpeedVac f. IMPORTANT: The
+SP:SAMPLEPREP_SUMMARY            	precipitated protein will be used for analysis of the proteome, DO NOT DISCARD
+SP:SAMPLEPREP_SUMMARY            	THESE; Place these in a separate labeled box and store in -20C g. Keep all
+SP:SAMPLEPREP_SUMMARY            	samples on ice during extraction period h. Dry down one (1) 500μL aliquot to
+SP:SAMPLEPREP_SUMMARY            	complete dryness i. Perform cleanup on dried aliquot using 500μL of 50/50 v/v
+SP:SAMPLEPREP_SUMMARY            	ACN/H2O j. Transfer supernatant and dry to completeness k. Submit for
+SP:SAMPLEPREP_SUMMARY            	Derivatization 9) Analysis of Complex Lipids (LCQTOF) a. Add 225μL of ice-cold
+SP:SAMPLEPREP_SUMMARY            	“degassed” MeOH containing “ISTD mixture” to homogenized 5mg aliquot b.
+SP:SAMPLEPREP_SUMMARY            	Vortex for 10 seconds c. Add 750μL of ice-cold “degassed” MTBE containing
+SP:SAMPLEPREP_SUMMARY            	22:1 CE ISTD d. Vortex for 10 seconds e. Shake on Orbital Mixer for 6min at 4C
+SP:SAMPLEPREP_SUMMARY            	f. Add 188μL of room temperature H2O g. Vortex for 20 seconds h. Centrifuge for
+SP:SAMPLEPREP_SUMMARY            	2min at 14,000 rcf i. Transfer two (2) aliquots of 350μL of top layer, one for
+SP:SAMPLEPREP_SUMMARY            	backup stored in -20C, the other for analysis j. Keep bottom layer and store in
+SP:SAMPLEPREP_SUMMARY            	-20C k. Dry down one (1) 350μL aliquot to dryness using the Speedvac l.
+SP:SAMPLEPREP_SUMMARY            	Resuspend samples in 108.6μL of 50ng/mL CUDA m. Vortex and sonicate for
+SP:SAMPLEPREP_SUMMARY            	5minutes n. Centrifuge for 2min at 14,000 rcf o. Transfer 90μL to an amber vial
+SP:SAMPLEPREP_SUMMARY            	with micro-insert (non-diluted) p. Transfer 10μL to a new 1.5mL eppendorf tube,
+SP:SAMPLEPREP_SUMMARY            	dilute 20X with 50ng/mL CUDA in 90:10 MeOH:Toluene (10μL + 190μL CUDA) and
+SP:SAMPLEPREP_SUMMARY            	transfer 100μL to amber vial with micro-insert (diluted for TGs) i. The
+SP:SAMPLEPREP_SUMMARY            	dilution is based off previous experiences with liver samples"
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	SP_Extraction_Protocol_for_liver_multi-omic.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Lipidomics
+CH:INSTRUMENT_NAME            	Agilent 6530 Accurate Mass QTOF
+CH:COLUMN_NAME                	Waters Acquity CSH C-18 1.7um (2.1x100mm) and Waters Acquity VanGuard CSH C18
+CH:COLUMN_NAME                	1.7um Pre-Column
+CH:FLOW_GRADIENT              	15% B to 99% B
+CH:FLOW_RATE                  	0.6 mL/min
+CH:COLUMN_TEMPERATURE         	65 C
+CH:METHODS_FILENAME           	Data_Dictionary_Fiehn_laboratory_GCTOF_MS_primary_metabolism_10-15-2013_general.pdf
+CH:SOLVENT_A                  	60:40 Acetonitrile:Water +10mM Ammonium Formate +10mM Formic Acid
+CH:SOLVENT_B                  	9:1 Isopropanol:Acetonitrile +10mM Ammonium Formate +10mM Formic Acid
+CH:COLUMN_PRESSURE            	450-850 bar
+CH:INJECTION_TEMPERATURE      	4 C
+CH:INTERNAL_STANDARD          	See data dictionary
+CH:RETENTION_TIME             	See data dictionary
+CH:SAMPLE_INJECTION           	1.67 uL
+CH:ANALYTICAL_TIME            	13 min
+CH:CAPILLARY_VOLTAGE          	3500
+CH:TIME_PROGRAM               	15 min
+CH:WEAK_WASH_SOLVENT_NAME     	Isopropanol
+CH:STRONG_WASH_SOLVENT_NAME   	Isopropanol
+CH:TARGET_SAMPLE_TEMPERATURE  	Autosampler temp 4 C
+CH:RANDOMIZATION_ORDER        	Excel
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Agilent 6530 Accurate Mass QTOF LC/MS
+MS:INSTRUMENT_TYPE          	QTOF
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:CAPILLARY_VOLTAGE        	3500 eV
+MS:COLLISION_ENERGY         	25 eV
+MS:COLLISION_GAS            	Nitrogen
+MS:DRY_GAS_FLOW             	8L/min
+MS:DRY_GAS_TEMP             	325 C
+MS:FRAGMENT_VOLTAGE         	120 eV
+MS:FRAGMENTATION_METHOD     	Auto MS/MS
+MS:ION_SOURCE_TEMPERATURE   	325 C
+MS:ION_SPRAY_VOLTAGE        	1000
+MS:IONIZATION               	Pos
+MS:PRECURSOR_TYPE           	Intact Molecule
+MS:REAGENT_GAS              	Nitrogen
+MS:SOURCE_TEMPERATURE       	325 C
+MS:DATAFORMAT               	.d
+MS:DESOLVATION_GAS_FLOW     	11 L/min
+MS:DESOLVATION_TEMPERATURE  	350 C
+MS:NEBULIZER                	35 psig
+MS:OCTPOLE_VOLTAGE          	750
+MS:RESOLUTION_SETTING       	Exteded Dyamic Range
+MS:SCAN_RANGE_MOVERZ        	60-1700 Da
+MS:SCANNING_CYCLE           	2 Hz
+MS:SCANNING_RANGE           	60-1700 Da
+MS:SKIMMER_VOLTAGE          	65
+MS:MS_RESULTS_FILE          	ST000655_AN000999_Results.txt	UNITS:Counts
+#END

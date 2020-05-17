@@ -1,0 +1,305 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170809_131512_mwtab.txt DATATRACK_ID:1195 STUDY_ID:ST000844 ANALYSIS_ID:AN001366
+VERSION             	1
+CREATED_ON             	August 10, 2017, 2:47 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Statin Immuno-Metabolomics in Asthma
+PR:PROJECT_TYPE                  	Placebo-controled trial
+PR:PROJECT_SUMMARY               	Innovative and novel therapies are urgently needed for the treatment of patients
+PR:PROJECT_SUMMARY               	with severe asthma, especially those who are refractory to standard-of-care
+PR:PROJECT_SUMMARY               	bronchodilators and inhaled corticosteroids. The Zeki lab is investigating the
+PR:PROJECT_SUMMARY               	role of the mevalonate (MA) pathway, in the pathogenesis of airway inflammation
+PR:PROJECT_SUMMARY               	and remodeling. Although statins all inhibit HMGCR in the same manner in terms
+PR:PROJECT_SUMMARY               	of enzyme binding site, the statins’ varied physiochemical properties with
+PR:PROJECT_SUMMARY               	respect to their polarity (i.e. lipophilicity) result in very different immune
+PR:PROJECT_SUMMARY               	and lipid effects. The major significance of this work is to advance a new class
+PR:PROJECT_SUMMARY               	of inhaler therapies for asthma; the statins which work by an entirely different
+PR:PROJECT_SUMMARY               	mechanism than current ICS/LABA mainstays. Evidence suggests that statins may
+PR:PROJECT_SUMMARY               	have an additive benefit to corticosteroids in asthma, thereby confirming a
+PR:PROJECT_SUMMARY               	unique mechanism, namely via MVA pathway inhibition. This becomes particularly
+PR:PROJECT_SUMMARY               	important in the severe asthma population which is highly
+PR:PROJECT_SUMMARY               	corticosteroid-resistant, is poorly controlled with high exacerbation rates and
+PR:PROJECT_SUMMARY               	hospitalizations, and has the highest healthcare costs of all asthma phenotypes.
+PR:PROJECT_SUMMARY               	In essence, the potential public health impact of even an incremental
+PR:PROJECT_SUMMARY               	improvement in asthma symptom control cannot be underestimated. Even the
+PR:PROJECT_SUMMARY               	prevention of 1 asthma attack preserves lung function and reduces the adverse
+PR:PROJECT_SUMMARY               	personal and financial impact. This study aimed to determine if statin polarity
+PR:PROJECT_SUMMARY               	affects airway drug concentration and systemic drug absorption and to determine
+PR:PROJECT_SUMMARY               	the effect of inhaled statins on naïve airway immune cell populations and
+PR:PROJECT_SUMMARY               	alveolar-capillary membrane and epithelial barrier integrity in healthy rhesus
+PR:PROJECT_SUMMARY               	monkeys. In this particular component of the study, we investigated the
+PR:PROJECT_SUMMARY               	metabolic effects resulting from the use of statins in these healthy rhesus
+PR:PROJECT_SUMMARY               	monkeys. Specifically, the Newman lab analyzed for lipid mediator (oxylipin,
+PR:PROJECT_SUMMARY               	endocannabinoid, fatty acid, and nitro lipid) in lung and trachea tissue,
+PR:PROJECT_SUMMARY               	plasma, and BAL and bile acid changes in the lung and trachea tissue and plasma.
+PR:INSTITUTE                     	University of California, Davis
+PR:DEPARTMENT                    	Internal Medicine
+PR:LAST_NAME                     	Zeki
+PR:FIRST_NAME                    	Amir
+PR:ADDRESS                       	2825 J St. Suite 400 Sacramento, CA 95816
+PR:EMAIL                         	aazeki@ucdavis.edu
+PR:PHONE                         	(916) 734-8230
+#STUDY
+ST:STUDY_TITLE                   	Statin Immuno-Metabolomics in Asthma (part II)
+ST:STUDY_TYPE                    	Placebo-controled trial
+ST:STUDY_SUMMARY                 	Innovative and novel therapies are urgently needed for the treatment of patients
+ST:STUDY_SUMMARY                 	with severe asthma, especially those who are refractory to standard-of-care
+ST:STUDY_SUMMARY                 	bronchodilators and inhaled corticosteroids. The Zeki lab is investigating the
+ST:STUDY_SUMMARY                 	role of the mevalonate (MA) pathway, in the pathogenesis of airway inflammation
+ST:STUDY_SUMMARY                 	and remodeling. Although statins all inhibit HMGCR in the same manner in terms
+ST:STUDY_SUMMARY                 	of enzyme binding site, the statins’ varied physiochemical properties with
+ST:STUDY_SUMMARY                 	respect to their polarity (i.e. lipophilicity) result in very different immune
+ST:STUDY_SUMMARY                 	and lipid effects. The major significance of this work is to advance a new class
+ST:STUDY_SUMMARY                 	of inhaler therapies for asthma; the statins which work by an entirely different
+ST:STUDY_SUMMARY                 	mechanism than current ICS/LABA mainstays. Evidence suggests that statins may
+ST:STUDY_SUMMARY                 	have an additive benefit to corticosteroids in asthma, thereby confirming a
+ST:STUDY_SUMMARY                 	unique mechanism, namely via MVA pathway inhibition. This becomes particularly
+ST:STUDY_SUMMARY                 	important in the severe asthma population which is highly
+ST:STUDY_SUMMARY                 	corticosteroid-resistant, is poorly controlled with high exacerbation rates and
+ST:STUDY_SUMMARY                 	hospitalizations, and has the highest healthcare costs of all asthma phenotypes.
+ST:STUDY_SUMMARY                 	In essence, the potential public health impact of even an incremental
+ST:STUDY_SUMMARY                 	improvement in asthma symptom control cannot be underestimated. Even the
+ST:STUDY_SUMMARY                 	prevention of 1 asthma attack preserves lung function and reduces the adverse
+ST:STUDY_SUMMARY                 	personal and financial impact. This study aimed to determine if statin polarity
+ST:STUDY_SUMMARY                 	affects airway drug concentration and systemic drug absorption and to determine
+ST:STUDY_SUMMARY                 	the effect of inhaled statins on naïve airway immune cell populations and
+ST:STUDY_SUMMARY                 	alveolar-capillary membrane and epithelial barrier integrity in healthy rhesus
+ST:STUDY_SUMMARY                 	monkeys. In this particular component of the study, we investigated the
+ST:STUDY_SUMMARY                 	metabolic effects resulting from the use of statins in these healthy rhesus
+ST:STUDY_SUMMARY                 	monkeys. Specifically, the Newman lab analyzed for lipid mediator (oxylipin,
+ST:STUDY_SUMMARY                 	endocannabinoid, fatty acid, and nitro lipid) in lung and trachea tissue,
+ST:STUDY_SUMMARY                 	plasma, and BAL and bile acid changes in the lung and trachea tissue and plasma.
+ST:INSTITUTE                     	USDA
+ST:DEPARTMENT                    	Obesity and metabolism research unit
+ST:LABORATORY                    	Newman's Lab
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 West Health Sciences Dr. Davis, Ca, 95616
+ST:EMAIL                         	John.Newman@ars.usda.gov
+ST:PHONE                         	(530) 752-1009
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Rhesus Macaque
+SU:TAXONOMY_ID                   	9544
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-14	Treatment:Control | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-32	Treatment:Control | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-23	Treatment:Control | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-09	Treatment:Simvastatin | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-19	Treatment:Simvastatin | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-26	Treatment:Simvastatin | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-04	Treatment:Control | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-34	Treatment:Control | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-08	Treatment:Control | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-25	Treatment:Simvastatin | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-13	Treatment:Simvastatin | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-06 Rep Avg.	Treatment:Simvastatin | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-29	Treatment:Control | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-11	Treatment:Control | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-05	Treatment:Control | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-10	Treatment:Simvastatin | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-21	Treatment:Simvastatin | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-35	Treatment:Simvastatin | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-33	Treatment:Control | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-31	Treatment:Control | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-20	Treatment:Control | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-24	Treatment:Pravastatin | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-36	Treatment:Pravastatin | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-22	Treatment:Pravastatin | Day:Day 0	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-18	Treatment:Control | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-15	Treatment:Control | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-17	Treatment:Control | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-27	Treatment:Pravastatin | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-02	Treatment:Pravastatin | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-07 Rep Avg.	Treatment:Pravastatin | Day:Day 8	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-12	Treatment:Control | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-01	Treatment:Control | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-30	Treatment:Control | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-28	Treatment:Pravastatin | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-16	Treatment:Pravastatin | Day:Day 12	
+SUBJECT_SAMPLE_FACTORS           	-	PLAZ-03	Treatment:Pravastatin | Day:Day 12	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Monkeys were treated with placebo or Provastatin for 12 days. Further, after the
+CO:COLLECTION_SUMMARY            	wash out period animals were treated with Simvastatin for 12 days. Lung wash
+CO:COLLECTION_SUMMARY            	fluid was collected at day 0, 8 and 12 of each treatment.
+CO:SAMPLE_TYPE                   	Blood
+CO:BLOOD_SERUM_OR_PLASMA         	Plasma
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Monkeys were treated (by inhalation) with placebo or Provastatin for 12 days.
+TR:TREATMENT_SUMMARY             	Further, after the wash out period animals were treated with Simvastatin for 12
+TR:TREATMENT_SUMMARY             	days. Lung wash fluid was collected at day 0, 8 and 12 of each treatment.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Oxylipins, endocannabinoids, bile acids and fatty acids were isolated from an
+SP:SAMPLEPREP_SUMMARY            	aliquot of 20μl plasma in Eppendorf tubes. The tube was spiked was 5ul of
+SP:SAMPLEPREP_SUMMARY            	OxyEndo Fusion, 10μl spike of Bile Acid SSTD Solutions, and 5μl of BHT/EDTA
+SP:SAMPLEPREP_SUMMARY            	solution. A total of 100μl CUDA/PHAU in methanol was added to the tube, before
+SP:SAMPLEPREP_SUMMARY            	it was capped, vortexed, and centrifuged (3 min, 10,000 RCF, room temp). It was
+SP:SAMPLEPREP_SUMMARY            	then placed on wet ice for 5 min. Next it was spin filtered with Millapore spin
+SP:SAMPLEPREP_SUMMARY            	filters (0.1 µm, Millipore, Billerica, MA) at 8 ºC, 4500 RPM for 3 min, before
+SP:SAMPLEPREP_SUMMARY            	being transferred to 2 mL LC-MS amber vials. Extracts were stored at -20ºC
+SP:SAMPLEPREP_SUMMARY            	until analysis by UPLC-MS/MS. The internal standard was used to quantify the
+SP:SAMPLEPREP_SUMMARY            	recovery of surrogate standards.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity UPLC
+CH:COLUMN_NAME                	Acquity UPLC BEH C18 1.7μm 2.1 × 100 mm column
+CH:FLOW_GRADIENT              	See protocol/methods file
+CH:FLOW_RATE                  	0.25 mL/min
+CH:COLUMN_TEMPERATURE         	60 °C
+CH:SOLVENT_A                  	0.1% acetic acid
+CH:SOLVENT_B                  	90% ACN / 10% IPA
+CH:INTERNAL_STANDARD          	See protocol/methods file
+CH:RETENTION_TIME             	See protocol/methods file
+CH:SAMPLE_INJECTION           	5 µL
+CH:ANALYTICAL_TIME            	20 min
+CH:WEAK_WASH_SOLVENT_NAME     	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME           	600 µL
+CH:STRONG_WASH_SOLVENT_NAME   	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME         	600 µL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	API 6500 QTrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration (nM)
+MS_METABOLITE_DATA_START
+Samples	PLAZ-14	PLAZ-32	PLAZ-23	PLAZ-09	PLAZ-19	PLAZ-26	PLAZ-04	PLAZ-34	PLAZ-08	PLAZ-25	PLAZ-13	PLAZ-06 Rep Avg.	PLAZ-29	PLAZ-11	PLAZ-05	PLAZ-10	PLAZ-21	PLAZ-35	PLAZ-33	PLAZ-31	PLAZ-20	PLAZ-24	PLAZ-36	PLAZ-22	PLAZ-18	PLAZ-15	PLAZ-17	PLAZ-27	PLAZ-02	PLAZ-07 Rep Avg.	PLAZ-12	PLAZ-01	PLAZ-30	PLAZ-28	PLAZ-16	PLAZ-03
+Factors	Treatment:Control | Day:Day 0	Treatment:Control | Day:Day 0	Treatment:Control | Day:Day 0	Treatment:Simvastatin | Day:Day 0	Treatment:Simvastatin | Day:Day 0	Treatment:Simvastatin | Day:Day 0	Treatment:Control | Day:Day 8	Treatment:Control | Day:Day 8	Treatment:Control | Day:Day 8	Treatment:Simvastatin | Day:Day 8	Treatment:Simvastatin | Day:Day 8	Treatment:Simvastatin | Day:Day 8	Treatment:Control | Day:Day 12	Treatment:Control | Day:Day 12	Treatment:Control | Day:Day 12	Treatment:Simvastatin | Day:Day 12	Treatment:Simvastatin | Day:Day 12	Treatment:Simvastatin | Day:Day 12	Treatment:Control | Day:Day 0	Treatment:Control | Day:Day 0	Treatment:Control | Day:Day 0	Treatment:Pravastatin | Day:Day 0	Treatment:Pravastatin | Day:Day 0	Treatment:Pravastatin | Day:Day 0	Treatment:Control | Day:Day 8	Treatment:Control | Day:Day 8	Treatment:Control | Day:Day 8	Treatment:Pravastatin | Day:Day 8	Treatment:Pravastatin | Day:Day 8	Treatment:Pravastatin | Day:Day 8	Treatment:Control | Day:Day 12	Treatment:Control | Day:Day 12	Treatment:Control | Day:Day 12	Treatment:Pravastatin | Day:Day 12	Treatment:Pravastatin | Day:Day 12	Treatment:Pravastatin | Day:Day 12
+6-keto PGF1a	0.04	0.06	0.13	0.04	0.08	0.1	0.12	0.06	\N	0.03	\N	0.04	0.11	0.15	0.04	\N	0.04	0	0.05	\N	0.11	0.09	0.04	0.17	0.12	\N	0.12	0.13	0.03	0.03	0.03	0.07	0.06	0.07	0.05	0.05
+TXB2	5.36	14.2	31.5	26.4	21.7	9.39	4.42	2.56	8.99	\N	8.89	0.08	6.01	7.73	26.6	10.3	10.8	4.66	7.21	19.3	22.1	16.1	15.5	12.1	25.9	4.84	48.4	13.6	5.6	6.59	2.24	\N	6.86	3.82	2.71	\N
+PGE2	1.02	1.04	1.33	0.84	0.28	0.51	0.15	0.14	0.45	\N	0.14	0.1	0.39	0.83	0.64	0.27	0.24	0.23	0.12	0.63	0.86	0.33	0.73	0.34	0.86	0.13	0.69	0.29	0.22	0.07	0.2	\N	0.19	0.27	0.11	0.01
+PGD2	0.24	0.39	0.47	0.51	0.73	0.48	0.41	0.34	0.16	0.24	0.16	0.22	0.25	1.13	0.53	0.08	0.18	0.33	0.38	0.51	0.91	0.94	0.51	0.88	0.54	0.22	0.42	0.42	0.36	0.1	0.15	0.52	0.49	0.21	0.56	0.37
+15-deoxy PGJ2	0.43	\N	\N	0.37	0.25	0.44	0.44	0.08	0.38	0.41	0.65	0.3	0.2	0.92	0.48	0.36	0.34	0.01	\N	\N	0	0.28	0.14	\N	0.19	0.55	0.15	0.32	0.36	0.37	0.48	0.68	0.47	0.24	0.27	0.44
+PGF2a	0.64	1.09	3.01	0.79	0.72	1.47	0.34	1.2	0.47	0.26	0.72	0.45	0.6	0.9	1.74	0.54	0.45	0.01	0.67	1.25	1.94	0.81	0.88	1.23	0.62	0.36	1.33	0.42	0.49	0.36	0.62	0.5	0.7	0.2	0.55	0.31
+11-HETE	1.56	1.76	2.42	2.25	1.86	0.89	0.62	0.24	1.03	0.11	1.01	0.33	0.64	1.26	2.38	0.86	0.95	0.51	1.05	1.97	2.15	1.35	1.8	1.03	1.53	0.55	1.56	1.33	0.67	0.4	0.6	0.3	0.62	0.47	0.51	0.29
+6-trans-LTB4	0.08	0.07	\N	\N	\N	0.06	\N	\N	\N	\N	\N	0	1.25	0.8	\N	\N	\N	\N	\N	\N	0.33	\N	0.77	3.44	3.78	0.37	0.27	\N	0.17	0.19	0.39	\N	\N	\N	\N	\N
+SUM-TriHOME	17.7	8.72	6.94	5.33	10.7	7.57	4.93	6.37	4.76	2.02	6.24	6.58	25.1	18.2	18	6.75	5.12	5.57	6.14	4.7	10.7	6.43	14.2	21.1	37.5	9.06	11	3.26	8.58	6.15	12.1	6.61	4.1	4.04	3.64	4.76
+9_10-e-DiHO	7.08	2.94	2.03	3.07	2.37	3.9	2.2	1.56	1.43	0.64	2.46	5.16	6.25	6.2	1.77	3.59	2.21	1.78	2.57	3.14	1.32	5.32	3.17	4.86	2.77	2.46	3.08	4.54	3.14	1.07	8.03	5.84	1.9	1.65	3.86	2.21
+12_13-DiHOME	9.08	12.3	7.15	17.2	10.3	9.8	5.07	4.34	2.69	6.98	12.3	8.54	6.13	12.4	7.5	17.8	6.1	8.05	9.87	13.8	7.01	19.3	17.8	9.37	4.77	4.88	2.71	19.6	7.68	4.08	6.55	4.78	4.91	5.65	8.07	4.94
+9_10-DiHOME	22.9	21.2	8.86	26.2	19.5	19	15	8.07	7.19	31.6	38.2	17.2	13.5	15.8	14.6	35.4	9.53	14.8	24.4	33	9.68	32.1	20.2	18	15.1	6.48	4.41	78.4	21.4	12.7	17.9	8.74	13.1	12.3	17.1	12.1
+15_16-DiHODE	16.6	44.3	10.1	41.1	50.4	34.3	8.75	18.6	6.61	11.4	22.1	25.55	13.1	32.6	12.1	35.8	15	23.3	23.1	50.7	19.2	30.7	30.8	16.7	7.76	16.8	7.71	23.5	14.4	7.44	14.4	18	13.1	9.69	20.4	11.8
+9_10-DiHODE	1.18	1.31	0.41	1.71	1.38	1.11	0.32	0.46	0.15	0.62	0.95	0.81	0.55	0.89	0.34	1.46	0.53	0.96	1.23	1.5	0.55	1.47	1.26	0.95	0.23	0.5	0.18	1.34	0.48	0.28	0.63	0.47	0.4	0.32	0.76	0.5
+14_15-DiHETrE	1.11	0.94	1.57	1.72	0.91	0.94	0.75	0.35	1.14	0.52	1.24	0.83	0.75	0.99	1.19	1.64	0.77	0.79	1.28	0.91	1.27	1.91	0.65	1.41	0.67	0.8	0.98	1.29	0.81	0.75	0.96	0.97	1.3	1.19	0.98	0.94
+11_12-DiHETrE	1.3	0.66	1.23	1.86	0.96	0.82	0.67	0.26	0.99	0.41	1.19	0.79	0.69	0.8	1.15	1.63	0.77	0.72	1.16	0.63	1.21	2.12	0.29	1.35	0.54	0.46	0.6	1.28	0.77	0.54	0.88	0.61	0.82	0.95	0.87	0.95
+8_9-DiHETrE	0.82	0.56	0.65	0.7	0.56	0.33	0.54	0.22	0.6	0.29	0.7	0.53	0.46	1.24	0.75	0.9	0.64	0.57	0.53	0.5	1.09	1.71	0.33	1.08	0.58	0.39	0.3	0.75	0.71	0.3	0.81	0.58	0.91	0.56	0.73	0.48
+19_20-DiHDoPA	7.42	4.66	9.95	11.2	5.84	5.94	4.83	2.2	6.81	2.66	10	5.69	4.52	5.8	8.94	9.21	8.08	4.77	8.49	4.83	8.94	14.9	4.39	7.89	4.4	4.8	6.48	9.98	7.27	5.83	5.68	4.78	8.97	6.79	8.31	4.91
+13-HODE	420	225	143	242	299	203	60.9	60.7	26.8	68.1	140	56.9	256	132	109	119	46.9	68.5	156	87.5	79.8	135	178	478	580	59.3	51.2	162	135	74.65	397	33.5	41.6	40.3	69.3	41
+9-HODE	57.6	31.6	22.7	54.6	29.6	29.3	20.6	10.3	7.27	20	40.1	25.3	23	21	18.1	36.4	23.1	22.5	36.9	25.4	15.1	42.4	36.9	33.6	36.7	9.39	8.3	47	34.6	16.6	26.5	11.5	12.3	12.5	23	18.6
+13-HOTE	26	12.4	5.55	9.75	22.7	11.6	1.3	5.08	0.52	1.62	3.92	2.41	24.2	13.7	5	4.12	2.3	3.36	10.6	4.75	4.95	6.91	13	30.4	35.4	5.93	2.46	4.05	6.43	3.61	40.6	1.41	1.03	1.36	4.7	1.05
+15-HETE	3.72	2.62	3.25	1.91	2.81	3.35	0.42	1.47	0.93	0.17	1.02	0.68	5.55	4.65	3.17	1.09	1.1	1.17	2.19	1.56	4.3	1.6	2.32	7.26	12.5	1.24	2.42	1.25	1.74	1.08	7.09	0.8	0.47	0.69	1.04	0.09
+12-HETE	85.4	85.5	169	97.6	178	76.3	8.87	17.8	27	1.34	57.8	2.01	81.5	84.5	95.2	23.3	21.8	10.7	35.8	74.8	103	71.4	162	130	250	24.1	103	47.6	46.2	12.75	114	2.32	19.8	11.7	16.5	1.6
+8-HETE	0.65	0.39	0.52	0.71	0.53	0.32	0.18	\N	0.23	0.13	0.37	0.36	0.45	1.36	0.44	0.42	0.19	\N	0.35	0.35	0.54	0.6	0.26	0.83	0.97	0.29	0.59	0.5	0.46	0.45	0.81	0.56	0.18	0.07	0.07	0.3
+5-HETE	3.9	4.25	5.08	3.23	2.59	1.57	2.11	0.93	1.25	0.59	4.47	2.39	2.94	3.13	3.16	3.72	8.98	2.68	4.75	4.61	4.88	3.59	3.52	4.97	3.15	2.89	2.09	5.04	3.26	2.17	4.96	3.37	3.1	2.51	4.78	1.76
+15-HEPE	1.4	0.99	0.45	0.53	1.47	1.5	0.18	0.74	0.11	0.05	0.27	0.24	2.43	1.76	0.58	0.35	0.26	0.26	0.64	0.41	0.95	0.47	1.52	4.05	4.33	0.61	0.5	0.21	0.72	0.26	3.52	0.11	0.03	0.01	0.24	0.1
+12-HEPE	7.14	15.1	12.6	12.6	13.3	7.82	0.33	1.63	0.86	0.32	1.79	0.44	4.05	5.73	3.23	1.78	0.97	1.15	3.09	3.77	4.81	6.75	6.78	11	8.55	1.75	3.84	1.95	2.29	1.04	7.95	0.62	0.82	1.13	1.46	0.55
+5-HEPE	1.73	2.91	1.45	2.33	1.62	1.11	0.92	0.55	0.32	0.58	1.27	0.93	1.62	2.17	0.71	1.72	1.77	1.56	2.57	3.31	2.12	2.21	4.09	2.15	0.84	2.09	0.82	2.19	0.77	0.77	2.71	2.01	1.35	1.02	1.63	0.91
+17-HDoHE	17.2	10.3	2.84	2.14	18.4	19.1	0.96	12.5	\N	\N	2.11	0.33	52.4	31	3.13	\N	\N	2.44	6.43	0.52	6.2	4.35	13.4	68.5	156	10.4	3.83	\N	5.82	5.84	64.3	0.35	\N	\N	1.53	0.23
+14-HDoHE	88.3	93.8	70.5	62.7	93.5	64.1	2.57	33.3	3.59	0.47	8.8	0.44	119	72.5	28.2	4.63	4.03	7.36	27.3	13	29.1	27.3	33.8	198	386	21.7	21.8	5.98	30.6	18.9	159	1.92	3.37	6.67	10.2	0.49
+4-HDoHE	1.2	1.09	1.03	0.98	0.8	1.1	0.95	0.42	0.65	0.23	0.89	1.06	1.18	1.57	0.48	1.45	1.57	1.08	1.45	2.06	0.93	1.38	2.33	3.3	1.53	2.24	1.81	1.66	0.97	1.68	2.13	1.62	1.2	1.18	1.46	1.3
+9_10-EpO	2.37	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	1.35	70.9	\N	0.44	5.05	\N	\N	\N	20.9	\N	\N	3.08	\N	\N	\N	\N	\N	2.44	97	18.6	\N	\N	\N	9.03
+12(13)-EpOME	21	10.1	6.18	16	10.2	11.5	13.4	6.95	3.65	7.81	18.4	11	13.5	12.3	3.7	14.4	12.3	11.5	19.7	9.71	2.95	12.4	22.4	12.9	12.6	8.48	3.75	18.7	12.5	11.1	13.8	8.23	8.68	10	14.1	9.56
+9(10)-EpOME	10.5	2.73	2.06	4.98	2.87	5.56	7.08	2.94	2.88	3.89	8.03	5.87	5.52	4.08	2.78	5.45	2.95	4.52	8.6	2.91	1.97	3.51	9.3	7.41	8.71	1.99	2.49	6.88	7.88	6.57	7.59	3.47	2.17	3	4.95	5.48
+12(13)-Ep-9-KODE	5.24	2.2	2.15	0.83	0.95	2	0.55	2.11	0.28	0.88	0.93	0.44	1.58	1.01	0.81	0.63	0.58	0.76	1.53	0.86	1.41	1.73	1.58	3.46	6.55	0.61	1.15	1.94	1.24	3.09	5.39	0.83	0.86	1.24	0.96	1.11
+15(16)-EpODE	12.5	7.79	9.61	19.8	7.89	10.3	6	4.19	2.39	3.82	10.5	7.31	8.84	7.58	5.43	14.3	9.55	10.2	16.5	7.85	4.67	14.4	22.6	9.87	3.51	7.98	3.3	12.8	6.78	5.19	8.17	2.33	6.13	3.81	10.3	5.49
+12(13)-EpODE	0.8	0.39	0.09	0.9	0.42	0.5	0.49	0.25	0.13	0.32	0.32	0.4	0.66	0.36	0.1	0.61	0.24	0.39	0.9	0.56	0.27	0.69	1.13	0.78	0.18	0.5	0.1	0.53	0.37	0.27	0.66	0.63	0.25	0.19	0.28	0.48
+14(15)-EpETrE	0.42	0.39	0.85	0.22	0.15	0.11	0.28	0.19	0.03	0.31	0.49	0.68	0.75	2.89	0.42	0.46	0.25	0.36	0.54	0.16	0.77	0.55	0.22	0.46	0.78	\N	0	1.1	0.19	0.65	0.49	0.92	0.45	0.21	0.04	0.33
+11(12)-EpETrE	0.28	0.04	0.16	0.15	0.07	0.06	0.09	\N	0.03	\N	\N	0.1	0.02	0.37	0.18	0.17	0.05	0.09	0.03	0.05	0.1	0.25	0.02	0.12	0.04	0.04	0.11	0.15	0.24	0.24	0.05	0.53	0.01	0.08	0.13	0.19
+19(20)-EpDPE	0.71	1.06	1	1.51	0.17	0.2	0.47	\N	\N	0.12	0.27	0.41	\N	1.06	0.43	0.41	0.15	0.1	1.61	0.4	0.25	1.61	0.21	2.22	0.49	0	0.17	0.57	0.07	0.53	0.24	0.07	0.13	0.36	0.6	0.33
+9-KODE	9.65	4.86	2.84	3.45	4.98	3.64	4.1	4.4	3.07	4.05	2.85	3.81	7.67	2.14	2.17	2.12	3.91	1.27	7.03	4.93	1.95	1.18	12.1	7.68	16.7	5.12	2.62	5.03	6.4	5.17	8.07	4.34	3.74	1.56	2.06	1.72
+5-KETE	\N	0	0.25	0.14	0.03	\N	0.14	0.02	0.04	0.01	0.64	0.12	0.1	0.23	0.25	0.1	0.99	0.2	0.07	0.15	0.11	0.12	0.19	0.15	0.29	0.06	0.14	0.11	0.42	0.36	0.32	0.3	0.02	0.1	0.05	0.16
+15-Keto PGE2	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+Lipoxin A4	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+LTB4	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+LTB5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+5_15-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+8_15-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+Resolvin D1	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+12_13-DiHODE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+5_6-DiHETrE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+17_18-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+14_15-DiHETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9-HOTE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+20-HETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9-HETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9-HEPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9(10)-EpODE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+8(9)-EpETrE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+17(18)-EpETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+14(15)-EpETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+11(12)-EpETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+16(17)-EpDPE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+13-KODE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+15-KETE	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+6-keto PGF1a
+TXB2
+PGE2
+PGD2
+15-deoxy PGJ2
+PGF2a
+11-HETE
+6-trans-LTB4
+SUM-TriHOME
+9_10-e-DiHO
+12_13-DiHOME
+9_10-DiHOME
+15_16-DiHODE
+9_10-DiHODE
+14_15-DiHETrE
+11_12-DiHETrE
+8_9-DiHETrE
+19_20-DiHDoPA
+13-HODE
+9-HODE
+13-HOTE
+15-HETE
+12-HETE
+8-HETE
+5-HETE
+15-HEPE
+12-HEPE
+5-HEPE
+17-HDoHE
+14-HDoHE
+4-HDoHE
+9_10-EpO
+12(13)-EpOME
+9(10)-EpOME
+12(13)-Ep-9-KODE
+15(16)-EpODE
+12(13)-EpODE
+14(15)-EpETrE
+11(12)-EpETrE
+19(20)-EpDPE
+9-KODE
+5-KETE
+15-Keto PGE2
+Lipoxin A4
+LTB4
+LTB5
+5_15-DiHETE
+8_15-DiHETE
+Resolvin D1
+12_13-DiHODE
+5_6-DiHETrE
+17_18-DiHETE
+14_15-DiHETE
+9-HOTE
+20-HETE
+9-HETE
+9-HEPE
+9(10)-EpODE
+8(9)-EpETrE
+17(18)-EpETE
+14(15)-EpETE
+11(12)-EpETE
+16(17)-EpDPE
+13-KODE
+15-KETE
+METABOLITES_END
+#END

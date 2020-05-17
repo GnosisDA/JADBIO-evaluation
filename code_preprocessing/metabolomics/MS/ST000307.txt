@@ -1,0 +1,157 @@
+#METABOLOMICS WORKBENCH efahy_20160104_115042 STUDY_ID:ST000307 ANALYSIS_ID:AN000486
+VERSION             	1
+CREATED_ON             	January 4, 2016, 11:50 am
+#PROJECT
+PR:PROJECT_TITLE                 	CRBN's role in T cell activation
+PR:PROJECT_SUMMARY               	Targeting CRBN to alter CD8 T cell metabolism
+PR:INSTITUTE                     	Moffitt Cancer Center
+PR:DEPARTMENT                    	Immunology
+PR:LAST_NAME                     	Burnette
+PR:FIRST_NAME                    	Pearlie K.
+PR:ADDRESS                       	-
+PR:EMAIL                         	pearlie.burnette@moffitt.org
+PR:PHONE                         	-
+#STUDY
+ST:STUDY_TITLE                   	Targeting CRBN to alter CD8 T cell metabolism
+ST:STUDY_TYPE                    	T cell activation
+ST:STUDY_SUMMARY                 	The purpose of this study was to evaluate the metabolic profile of different
+ST:STUDY_SUMMARY                 	treatments of T-Cells among two separate mouse genotypes.
+ST:INSTITUTE                     	University of Florida
+ST:DEPARTMENT                    	SECIM
+ST:LABORATORY                    	Moffitt Cancer Center - Immunology
+ST:LAST_NAME                     	Swearingen
+ST:FIRST_NAME                    	Rebecca
+ST:ADDRESS                       	-
+ST:EMAIL                         	rebecca.swearingen@moffitt.org
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	12
+ST:TOTAL_SUBJECTS                	60
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:ANIMAL_ANIMAL_SUPPLIER        	WT (CRBN +/+) mice are from Jackson labs and CRBN -/- mice have been bred at
+SU:ANIMAL_ANIMAL_SUPPLIER        	Moffitt Cancer Center
+SU:ANIMAL_HOUSING                	Standard bedding + cotton pads, hepa filtered air
+SU:ANIMAL_LIGHT_CYCLE            	Dark 6pm-6am
+SU:ANIMAL_FEED                   	Feed from Harlan, not sterile
+SU:ANIMAL_WATER                  	autoclaved H2O
+SU:ANIMAL_INCLUSION_CRITERIA     	Animals used in this experiment were sex-matched and age matched. The ages were
+SU:ANIMAL_INCLUSION_CRITERIA     	8-12 weeks old in both sets of experiments
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	sbs_706	CD3 + CD28 KO1 042215	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_707	CD3 + CD28 KO2 042215	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_708	CD3 + CD28 KO3 042215	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_709	CD3 + CD28 KO4 042215	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_710	CD3 + CD28 KO5 042215	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_711	CD3 KO1 042215	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_712	CD3 KO2 042215	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_713	CD3 KO3 042215	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_714	CD3 KO4 042215	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_715	CD3 KO5 042215	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_716	Naive KO1 042215	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_717	Naive KO2 042215	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_718	Naive KO3 042215	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_719	Naive KO4 042215	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_720	Naive KO5 042215	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_721	CD3 + CD28 WT1 042215	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_722	CD3 + CD28 WT2 042215	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_723	CD3 + CD28 WT3 042215	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_724	CD3 + CD28 WT4 042215	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_725	CD3 + CD28 WT5 042215	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_726	CD3 WT1 042215	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_727	CD3 WT2 042215	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_728	CD3 WT3 042215	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_729	CD3 WT4 042215	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_730	CD3 WT5 042215	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_731	Naive WT 1 042215	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_732	Naive WT 2 042215	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_733	Naive WT 3 042215	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_734	Naive WT 4 042215	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_735	Naive WT 5 042215	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_736	CD3 + CD28 KO1	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_737	CD3 + CD28 KO2	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_738	CD3 + CD28 KO3	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_739	CD3 + CD28 KO4	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_740	CD3 + CD28 KO5	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_741	CD3 KO1	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_742	CD3 KO2	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_743	CD3 KO3	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_744	CD3 KO4	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_745	CD3 KO5	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_746	Naive KO1	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_747	Naive KO2	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_748	Naive KO3	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_749	Naive KO4	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_750	Naive KO5	Strain:CRBN -/- | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_751	CD3 + CD28 WT1	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_752	CD3 + CD28 WT2	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_753	CD3 + CD28 WT3	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_754	CD3 + CD28 WT4	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_755	CD3 + CD28 WT5	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_756	CD3 WT1	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_757	CD3 WT2	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_758	CD3 WT3	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_759	CD3 WT4	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_760	CD3 WT5	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_761	Naive WT 1	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_762	Naive WT 2	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_763	Naive WT 3	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_764	Naive WT 4	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+SUBJECT_SAMPLE_FACTORS           	sbs_765	Naive WT 5	Strain:CRBN +/+ | Treatment:unstimulated	Gender=M
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	cell
+CO:COLLECTION_METHOD             	centrifuged in ficoll-gradient to remove debris, then washed in PBS
+CO:COLLECTION_TIME               	0 or 24 hours after stimulation
+CO:STORAGE_CONDITIONS            	-80°C
+CO:COLLECTION_VIALS              	15mL conical tubes
+CO:STORAGE_VIALS                 	microfuge tubes
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+TR:ANIMAL_ANESTHESIA             	CO2 asphyxiation
+TR:ANIMAL_ACCLIMATION_DURATION   	Mice from Jackson are subjected to a week-long acclimation period in our
+TR:ANIMAL_ACCLIMATION_DURATION   	facility prior to experimental use.
+TR:ANIMAL_ENDP_TISSUE_COLL_LIST  	Spleen into cell culture media
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	Spleens were ground through a 100µm cell filter to create a single cell
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	suspension and rinsed in culture media (see below). Splenocytes were subjected
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	to RBC Lysis (Qiagen) and CD8+ T cells were isolated by negative immunomagnetic
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	selection in a special medium (PBS+ FBS + 2mM EDTA). Briefly, splenocytes were
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	labeled with biotinylated antibodies to cell surface markers not found on CD8+ T
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	cells, and secondary antibodies to biotin containing magnetic beads were added
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	to this single cell suspension (Kit from Miltenyi Biotech). Cells were passed
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	through a magnetic column following this labeling. CD8+ T cells were
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	re-suspended in culture media.
+TR:CELL_GROWTH_CONTAINER         	96-well round-bottom plate that was coated with anti-CD3 antibody
+TR:CELL_GROWTH_RATE              	Murine T cells generally divide after 48-72 hours of stimulation.
+TR:CELL_MEDIA                    	RPMI 1640 with 10% FBS, pen/strep, gentamycin, NEAA, Sodium pyruvate, fungizone
+TR:CELL_MEDIA                    	(Amphotericin B), 2-mercaptoethanol
+TR:CELL_ENVIR_COND               	37°C, normoxic conditions
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Consolidated Cellular Metabolomics with DNA quant.pdf
+SP:SAMPLE_SPIKING                	Appendix A - Internal Standard Prep GLCMS.pdf
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Thermo Scientific-Dionex Ultimate 3000
+CH:COLUMN_NAME                	ACE Excel 2 C18-PFP Column (100 x 2.1mm) 2.0 µm
+CH:METHODS_FILENAME           	Metabolomics_LCMSProtocol.pdf
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	Garrett Lab
+AN:ANALYSIS_PROTOCOL_FILE   	Metabolomics_LCMSProtocol.pdf
+#MS
+MS:INSTRUMENT_NAME          	Thermo Scientific- Q Exactive
+MS:INSTRUMENT_TYPE          	Orbitrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Peak area
+MS_METABOLITE_DATA_START
+Samples	CD3 KO4 042215	CD3 KO3	Naive KO1 042215	CD3 WT2	Naive KO3 042215	Naive KO5	CD3 WT3 042215	Naive WT 1	CD3 + CD28 KO2 042215	Naive KO1	Naive WT 5 042215	CD3 + CD28 KO1	Naive KO4 042215	CD3 + CD28 KO2	CD3 + CD28 KO4	CD3 + CD28 KO5	CD3 KO5 042215	CD3 WT2 042215	CD3 KO4	CD3 WT1	CD3 + CD28 WT2	CD3 KO3 042215	CD3 + CD28 KO3 042215	CD3 + CD28 WT4	CD3 + CD28 KO3	CD3 WT4 042215	CD3 WT4	CD3 WT5	CD3 KO2 042215	CD3 WT5 042215	Naive WT 1 042215	Naive WT 4 042215	CD3 + CD28 KO5 042215	Naive WT 4	CD3 + CD28 WT5 042215	Naive WT 3	Naive WT 2	Naive KO2	Naive WT 2 042215	Naive KO4	CD3 WT3	CD3 + CD28 WT3	CD3 KO1 042215	CD3 + CD28 WT3 042215	Naive KO3	CD3 + CD28 WT2 042215	CD3 + CD28 KO4 042215	Naive KO5 042215	CD3 WT1 042215	Naive WT 3 042215	CD3 + CD28 WT1 042215	CD3 + CD28 WT5	CD3 + CD28 WT1	CD3 KO2	CD3 KO1	Naive WT 5	CD3 + CD28 WT4 042215	CD3 KO5	Naive KO2 042215	CD3 + CD28 KO1 042215
+Factors	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN +/+ | Treatment:unstimulated	Strain:CRBN +/+ | Treatment:anti-CD3 & anti-CD28 stimulation	Strain:CRBN -/- | Treatment:anti-CD3 stimulation	Strain:CRBN -/- | Treatment:unstimulated	Strain:CRBN -/- | Treatment:anti-CD3 & anti-CD28 stimulation
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	Retention Index	quant_moverz
+METABOLITES_END
+#END

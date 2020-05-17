@@ -1,0 +1,70 @@
+Study ID,Class
+ST000005,Compactin
+ST000009,AFTER_MEAL_TIME
+ST000010,TGF
+ST000011,COLLECTION_COUNTRY
+ST000014,Compartment
+ST000015,Compartment
+ST000016,Material
+ST000017,Running Capacity
+ST000045,Treatment
+ST000047,multiclass
+ST000062,Source
+ST000063,Source
+ST000074,Diet
+ST000075,Diagnosis
+ST000081,Tissue type
+ST000087,Time Point
+ST000105,OSA
+ST000106,Sampling time
+ST000120,Treatment
+ST000135,Genotype
+ST000138,Gender
+ST000163,Species
+ST000168,Drug
+ST000191,Ang II
+ST000195,Genotype
+ST000196,Gender
+ST000198,treatment
+ST000209,Cell type
+ST000212,treatment
+ST000236,Gender
+ST000243,Experiment
+ST000244,Gender
+ST000252,Treatment
+ST000284,Patient group
+ST000286,Treatment
+ST000302,Cell line
+ST000336,Diagnosis
+ST000352,genotype
+ST000353,Nematode inoculation
+ST000355,Diagnosis
+ST000356,Diagnosis
+ST000362,Gender
+ST000385,Smoking Status
+ST000390,Tumor Present
+ST000391,Tumor Present
+ST000392,Disease State
+ST000393,Organ
+ST000396,Smoking Status
+ST000401,Organ
+ST000402,Glucose conc
+ST000405,Group
+ST000421,treatment
+ST000422,treatment
+ST000450,Disease
+ST000453,Additive 1
+ST000456,Adjuvant
+ST000477,group
+ST000483,Category
+ST000484,Category
+ST000485,Category
+ST000496,debridement
+ST000548,Sample Source
+ST000608,Factor
+ST000659,Blood Draw
+ST000805,Treatment
+ST000808,Treatment
+ST000843,Lung
+ST000872,Treatment group
+ST000884,SampleType

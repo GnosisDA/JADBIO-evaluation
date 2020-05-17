@@ -1,0 +1,337 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000149 ANALYSIS_ID:AN000236
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	High insulin combined with essential amino acids stimulates skeletal muscle
+PR:PROJECT_TITLE                 	protein synthesis while decreasing insulin sensitivity in healthy humans
+PR:PROJECT_TYPE                  	Targeted metabolomics
+PR:PROJECT_SUMMARY               	CONTEXT:Insulin and essential amino acids (EAAs) regulate skeletal muscle
+PR:PROJECT_SUMMARY               	synthesis, yet their independent effects on mitochondrial protein synthesis
+PR:PROJECT_SUMMARY               	and oxidative function remain to be clearly defined. OBJECTIVE:The purpose
+PR:PROJECT_SUMMARY               	this study was to determine the effects of high or low insulin with or without
+PR:PROJECT_SUMMARY               	on MiPS. DESIGN:Thirty participants were randomized to 3 groups of 10 each
+PR:PROJECT_SUMMARY               	each participant studied twice. Study groups comprised (1) low and high
+PR:PROJECT_SUMMARY               	(2) low insulin with and without EAAs, and (3) high insulin with and without
+PR:PROJECT_SUMMARY               	study was conducted in an in-patient clinical research
+PR:PROJECT_SUMMARY               	participants were 18 to 45 years old, had a body mass index of <25 kg/m(2), and
+PR:PROJECT_SUMMARY               	free of diseases and medications that might impair mitochondrial
+PR:PROJECT_SUMMARY               	(? 6 ?U/mL) and high (? 40 ?U/mL) insulin levels were maintained by iv insulin
+PR:PROJECT_SUMMARY               	during a somatostatin clamp while maintaining euglycemia (4.7-5.2 mM) and
+PR:PROJECT_SUMMARY               	GH and glucagon. The EAA infusion was 5.4% NephrAmine.
+PR:PROJECT_SUMMARY               	was infused, and muscle needle biopsies were performed. MAIN OUTCOMES:Muscle
+PR:PROJECT_SUMMARY               	oxidative enzymes, and plasma amino acid metabolites were
+PR:PROJECT_SUMMARY               	and oxidative enzyme activities did not differ between low and high insulin
+PR:PROJECT_SUMMARY               	0.07 ± 0.009 vs 0.07 ± 0.006%/h, P = .86) or between EAAs and saline during
+PR:PROJECT_SUMMARY               	insulin (MiPS: 0.05 ± 0.01 vs 0.07 ± 0.01, P = .5). During high insulin, EAAs
+PR:PROJECT_SUMMARY               	comparison with saline increased MiPS (0.1 ± 0.01 vs 0.06 ± 0.01, P < .05)
+PR:PROJECT_SUMMARY               	cytochrome c oxidase activity (P < .05) but not citrate synthase (P = .27). EAA
+PR:PROJECT_SUMMARY               	decreased (P < .05) the glucose infusion rates needed to maintain euglycemia
+PR:PROJECT_SUMMARY               	low (? 40%) and high insulin (? 24%). CONCLUSION:EAAs increased MiPS and
+PR:PROJECT_SUMMARY               	enzyme activity only with high insulin concentrations.
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Endocrinology
+PR:LABORATORY                    	Dr. Sreekumaran Nair's lab
+PR:LAST_NAME                     	Nair
+PR:FIRST_NAME                    	Sreekumaran
+PR:ADDRESS                       	Mayo Clinic, 200 First Street SW, Rochester, MN
+PR:EMAIL                         	Dasari.Surendra@mayo.edu
+PR:PHONE                         	-
+PR:FUNDING_SOURCE                	5T32DK007352, 5R01DK041973, UL1 TR000135, U24DK100469
+PR:PROJECT_COMMENTS              	25222757
+#STUDY
+ST:STUDY_TITLE                   	High Insulin Combined With Essential Amino Acids Stimulates Skeletal Muscle
+ST:STUDY_TITLE                   	Protein Synthesis While Decreasing Insulin Sensitivity in Healthy Humans
+ST:STUDY_TYPE                    	High and low insulin with and without essential amino acids
+ST:STUDY_SUMMARY                 	Thirty participants were randomized to 3 groups of 10 each with each
+ST:STUDY_SUMMARY                 	studied twice. Study groups comprised (1) low and high insulin, (2) low insulin
+ST:STUDY_SUMMARY                 	and without EAAs, and (3) high insulin with and without EAAs.
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Endocrinology
+ST:LAST_NAME                     	Nair
+ST:FIRST_NAME                    	Sreekumaran
+ST:ADDRESS                       	-
+ST:EMAIL                         	Dasari.Surendra@mayo.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	3
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	10	10C	Sample Group:High Insulin	Study Date=07/22/08
+SUBJECT_SAMPLE_FACTORS           	10	10D	Sample Group:High Insulin	Study Date=07/22/08
+SUBJECT_SAMPLE_FACTORS           	1	1C	Sample Group:High Insulin	Study Date=01/05/07
+SUBJECT_SAMPLE_FACTORS           	1	1D	Sample Group:High Insulin	Study Date=01/05/07
+SUBJECT_SAMPLE_FACTORS           	2	2C	Sample Group:High Insulin	Study Date=01/09/07
+SUBJECT_SAMPLE_FACTORS           	2	2D	Sample Group:High Insulin	Study Date=01/09/07
+SUBJECT_SAMPLE_FACTORS           	3	3C	Sample Group:High Insulin	Study Date=03/23/07
+SUBJECT_SAMPLE_FACTORS           	3	3D	Sample Group:High Insulin	Study Date=03/23/07
+SUBJECT_SAMPLE_FACTORS           	4	4C	Sample Group:High Insulin	Study Date=11/30/07
+SUBJECT_SAMPLE_FACTORS           	4	4D	Sample Group:High Insulin	Study Date=11/30/07
+SUBJECT_SAMPLE_FACTORS           	5	5C	Sample Group:High Insulin	Study Date=01/10/08
+SUBJECT_SAMPLE_FACTORS           	5	5D	Sample Group:High Insulin	Study Date=01/10/08
+SUBJECT_SAMPLE_FACTORS           	6	6C	Sample Group:High Insulin	Study Date=02/19/08
+SUBJECT_SAMPLE_FACTORS           	6	6D	Sample Group:High Insulin	Study Date=02/19/08
+SUBJECT_SAMPLE_FACTORS           	7	7C	Sample Group:High Insulin	Study Date=04/03/08
+SUBJECT_SAMPLE_FACTORS           	7	7D	Sample Group:High Insulin	Study Date=04/03/08
+SUBJECT_SAMPLE_FACTORS           	8	8C	Sample Group:High Insulin	Study Date=07/23/08
+SUBJECT_SAMPLE_FACTORS           	8	8D	Sample Group:High Insulin	Study Date=07/23/08
+SUBJECT_SAMPLE_FACTORS           	9	9C	Sample Group:High Insulin	Study Date=06/19/08
+SUBJECT_SAMPLE_FACTORS           	9	9D	Sample Group:High Insulin	Study Date=06/19/08
+SUBJECT_SAMPLE_FACTORS           	20	20C	Sample Group:High Insulin + EAA	Study Date=05/22/07
+SUBJECT_SAMPLE_FACTORS           	20	20D	Sample Group:High Insulin + EAA	Study Date=05/22/07
+SUBJECT_SAMPLE_FACTORS           	21	21C	Sample Group:High Insulin + EAA	Study Date=06/01/07
+SUBJECT_SAMPLE_FACTORS           	21	21D	Sample Group:High Insulin + EAA	Study Date=06/01/07
+SUBJECT_SAMPLE_FACTORS           	22	22C	Sample Group:High Insulin + EAA	Study Date=01/08/08
+SUBJECT_SAMPLE_FACTORS           	22	22D	Sample Group:High Insulin + EAA	Study Date=01/08/08
+SUBJECT_SAMPLE_FACTORS           	23	23C	Sample Group:High Insulin + EAA	Study Date=03/19/08
+SUBJECT_SAMPLE_FACTORS           	23	23D	Sample Group:High Insulin + EAA	Study Date=03/19/08
+SUBJECT_SAMPLE_FACTORS           	24	24C	Sample Group:High Insulin + EAA	Study Date=03/17/08
+SUBJECT_SAMPLE_FACTORS           	24	24D	Sample Group:High Insulin + EAA	Study Date=03/17/08
+SUBJECT_SAMPLE_FACTORS           	25	25C	Sample Group:High Insulin + EAA	Study Date=04/24/08
+SUBJECT_SAMPLE_FACTORS           	25	25D	Sample Group:High Insulin + EAA	Study Date=04/24/08
+SUBJECT_SAMPLE_FACTORS           	26	26C	Sample Group:High Insulin + EAA	Study Date=07/21/08
+SUBJECT_SAMPLE_FACTORS           	26	26D	Sample Group:High Insulin + EAA	Study Date=07/21/08
+SUBJECT_SAMPLE_FACTORS           	27	27C	Sample Group:High Insulin + EAA	Study Date=08/15/08
+SUBJECT_SAMPLE_FACTORS           	27	27D	Sample Group:High Insulin + EAA	Study Date=08/15/08
+SUBJECT_SAMPLE_FACTORS           	28	28C	Sample Group:High Insulin + EAA	Study Date=09/25/08
+SUBJECT_SAMPLE_FACTORS           	29	28D	Sample Group:High Insulin + EAA	Study Date=09/25/08
+SUBJECT_SAMPLE_FACTORS           	28	29A	Sample Group:High Insulin + EAA	Study Date=08/19/08
+SUBJECT_SAMPLE_FACTORS           	29	29D	Sample Group:High Insulin + EAA	Study Date=10/24/08
+SUBJECT_SAMPLE_FACTORS           	20	20A	Sample Group:High Insulin+Saline	Study Date=03/27/07
+SUBJECT_SAMPLE_FACTORS           	20	20B	Sample Group:High Insulin+Saline	Study Date=03/27/07
+SUBJECT_SAMPLE_FACTORS           	21	21A	Sample Group:High Insulin+Saline	Study Date=05/10/07
+SUBJECT_SAMPLE_FACTORS           	21	21B	Sample Group:High Insulin+Saline	Study Date=05/10/07
+SUBJECT_SAMPLE_FACTORS           	22	22A	Sample Group:High Insulin+Saline	Study Date=12/11/07
+SUBJECT_SAMPLE_FACTORS           	22	22B	Sample Group:High Insulin+Saline	Study Date=12/11/07
+SUBJECT_SAMPLE_FACTORS           	23	23A	Sample Group:High Insulin+Saline	Study Date=02/27/08
+SUBJECT_SAMPLE_FACTORS           	23	23B	Sample Group:High Insulin+Saline	Study Date=02/27/08
+SUBJECT_SAMPLE_FACTORS           	24	24A	Sample Group:High Insulin+Saline	Study Date=03/03/08
+SUBJECT_SAMPLE_FACTORS           	24	24B	Sample Group:High Insulin+Saline	Study Date=03/03/08
+SUBJECT_SAMPLE_FACTORS           	25	25A	Sample Group:High Insulin+Saline	Study Date=03/14/08
+SUBJECT_SAMPLE_FACTORS           	25	25B	Sample Group:High Insulin+Saline	Study Date=03/14/08
+SUBJECT_SAMPLE_FACTORS           	26	26A	Sample Group:High Insulin+Saline	Study Date=04/23/08
+SUBJECT_SAMPLE_FACTORS           	26	26B	Sample Group:High Insulin+Saline	Study Date=04/23/08
+SUBJECT_SAMPLE_FACTORS           	27	27A	Sample Group:High Insulin+Saline	Study Date=07/10/08
+SUBJECT_SAMPLE_FACTORS           	27	27B	Sample Group:High Insulin+Saline	Study Date=07/10/08
+SUBJECT_SAMPLE_FACTORS           	28	28A	Sample Group:High Insulin+Saline	Study Date=08/04/08
+SUBJECT_SAMPLE_FACTORS           	28	28B	Sample Group:High Insulin+Saline	Study Date=08/04/08
+SUBJECT_SAMPLE_FACTORS           	29	29B	Sample Group:High Insulin+Saline	Study Date=08/19/08
+SUBJECT_SAMPLE_FACTORS           	29	29C	Sample Group:High Insulin+Saline	Study Date=10/24/08
+SUBJECT_SAMPLE_FACTORS           	11	11C	Sample Group:Low Ins +EAA	Study Date=01/04/07
+SUBJECT_SAMPLE_FACTORS           	11	11D	Sample Group:Low Ins +EAA	Study Date=01/04/07
+SUBJECT_SAMPLE_FACTORS           	12	12C	Sample Group:Low Ins +EAA	Study Date=03/02/07
+SUBJECT_SAMPLE_FACTORS           	12	12D	Sample Group:Low Ins +EAA	Study Date=03/02/07
+SUBJECT_SAMPLE_FACTORS           	13	13C	Sample Group:Low Ins +EAA	Study Date=02/20/07
+SUBJECT_SAMPLE_FACTORS           	13	13D	Sample Group:Low Ins +EAA	Study Date=02/20/07
+SUBJECT_SAMPLE_FACTORS           	14	14C	Sample Group:Low Ins +EAA	Study Date=12/04/07
+SUBJECT_SAMPLE_FACTORS           	14	14D	Sample Group:Low Ins +EAA	Study Date=12/04/07
+SUBJECT_SAMPLE_FACTORS           	15	15C	Sample Group:Low Ins +EAA	Study Date=02/29/08
+SUBJECT_SAMPLE_FACTORS           	15	15D	Sample Group:Low Ins +EAA	Study Date=02/29/08
+SUBJECT_SAMPLE_FACTORS           	16	16C	Sample Group:Low Ins +EAA	Study Date=03/05/08
+SUBJECT_SAMPLE_FACTORS           	16	16D	Sample Group:Low Ins +EAA	Study Date=03/05/08
+SUBJECT_SAMPLE_FACTORS           	17	17C	Sample Group:Low Ins +EAA	Study Date=04/25/08
+SUBJECT_SAMPLE_FACTORS           	17	17D	Sample Group:Low Ins +EAA	Study Date=04/25/08
+SUBJECT_SAMPLE_FACTORS           	18	18C	Sample Group:Low Ins +EAA	Study Date=06/26/08
+SUBJECT_SAMPLE_FACTORS           	18	18D	Sample Group:Low Ins +EAA	Study Date=06/26/08
+SUBJECT_SAMPLE_FACTORS           	19	19C	Sample Group:Low Ins +EAA	Study Date=07/31/08
+SUBJECT_SAMPLE_FACTORS           	19	19D	Sample Group:Low Ins +EAA	Study Date=07/31/08
+SUBJECT_SAMPLE_FACTORS           	30	30C	Sample Group:Low Ins +EAA	Study Date=12/05/07
+SUBJECT_SAMPLE_FACTORS           	30	30D	Sample Group:Low Ins +EAA	Study Date=12/05/07
+SUBJECT_SAMPLE_FACTORS           	11	11A	Sample Group:Low Ins+ Saline	Study Date=12/06/06
+SUBJECT_SAMPLE_FACTORS           	11	11B	Sample Group:Low Ins+ Saline	Study Date=12/06/06
+SUBJECT_SAMPLE_FACTORS           	12	12A	Sample Group:Low Ins+ Saline	Study Date=01/26/07
+SUBJECT_SAMPLE_FACTORS           	12	12B	Sample Group:Low Ins+ Saline	Study Date=01/26/07
+SUBJECT_SAMPLE_FACTORS           	13	13A	Sample Group:Low Ins+ Saline	Study Date=01/30/07
+SUBJECT_SAMPLE_FACTORS           	13	13B	Sample Group:Low Ins+ Saline	Study Date=01/30/07
+SUBJECT_SAMPLE_FACTORS           	14	14A	Sample Group:Low Ins+ Saline	Study Date=11/15/07
+SUBJECT_SAMPLE_FACTORS           	14	14B	Sample Group:Low Ins+ Saline	Study Date=11/15/07
+SUBJECT_SAMPLE_FACTORS           	15	15A	Sample Group:Low Ins+ Saline	Study Date=12/06/07
+SUBJECT_SAMPLE_FACTORS           	15	15B	Sample Group:Low Ins+ Saline	Study Date=12/06/07
+SUBJECT_SAMPLE_FACTORS           	16	16A	Sample Group:Low Ins+ Saline	Study Date=02/13/08
+SUBJECT_SAMPLE_FACTORS           	16	16B	Sample Group:Low Ins+ Saline	Study Date=02/13/08
+SUBJECT_SAMPLE_FACTORS           	17	17A	Sample Group:Low Ins+ Saline	Study Date=03/12/08
+SUBJECT_SAMPLE_FACTORS           	17	17B	Sample Group:Low Ins+ Saline	Study Date=03/12/08
+SUBJECT_SAMPLE_FACTORS           	18	18A	Sample Group:Low Ins+ Saline	Study Date=04/22/08
+SUBJECT_SAMPLE_FACTORS           	18	18B	Sample Group:Low Ins+ Saline	Study Date=04/22/08
+SUBJECT_SAMPLE_FACTORS           	19	19A	Sample Group:Low Ins+ Saline	Study Date=07/09/08
+SUBJECT_SAMPLE_FACTORS           	19	19B	Sample Group:Low Ins+ Saline	Study Date=07/09/08
+SUBJECT_SAMPLE_FACTORS           	30	30A	Sample Group:Low Ins+ Saline	Study Date=11/07/07
+SUBJECT_SAMPLE_FACTORS           	30	30B	Sample Group:Low Ins+ Saline	Study Date=11/07/07
+SUBJECT_SAMPLE_FACTORS           	10	10A	Sample Group:Low Insulin	Study Date=07/02/08
+SUBJECT_SAMPLE_FACTORS           	10	10B	Sample Group:Low Insulin	Study Date=07/02/08
+SUBJECT_SAMPLE_FACTORS           	1	1A	Sample Group:Low Insulin	Study Date=12/13/06
+SUBJECT_SAMPLE_FACTORS           	1	1B	Sample Group:Low Insulin	Study Date=12/13/06
+SUBJECT_SAMPLE_FACTORS           	2	2A	Sample Group:Low Insulin	Study Date=12/20/06
+SUBJECT_SAMPLE_FACTORS           	2	2B	Sample Group:Low Insulin	Study Date=12/20/06
+SUBJECT_SAMPLE_FACTORS           	3	3A	Sample Group:Low Insulin	Study Date=01/26/07
+SUBJECT_SAMPLE_FACTORS           	3	3B	Sample Group:Low Insulin	Study Date=01/26/07
+SUBJECT_SAMPLE_FACTORS           	4	4A	Sample Group:Low Insulin	Study Date=11/09/07
+SUBJECT_SAMPLE_FACTORS           	4	4B	Sample Group:Low Insulin	Study Date=11/09/07
+SUBJECT_SAMPLE_FACTORS           	5	5A	Sample Group:Low Insulin	Study Date=12/21/07
+SUBJECT_SAMPLE_FACTORS           	5	5B	Sample Group:Low Insulin	Study Date=12/21/07
+SUBJECT_SAMPLE_FACTORS           	6	6A	Sample Group:Low Insulin	Study Date=01/28/08
+SUBJECT_SAMPLE_FACTORS           	6	6B	Sample Group:Low Insulin	Study Date=01/28/08
+SUBJECT_SAMPLE_FACTORS           	7	7A	Sample Group:Low Insulin	Study Date=03/13/08
+SUBJECT_SAMPLE_FACTORS           	7	7B	Sample Group:Low Insulin	Study Date=03/13/08
+SUBJECT_SAMPLE_FACTORS           	8	8A	Sample Group:Low Insulin	Study Date=06/25/08
+SUBJECT_SAMPLE_FACTORS           	8	8B	Sample Group:Low Insulin	Study Date=06/25/08
+SUBJECT_SAMPLE_FACTORS           	9	9A	Sample Group:Low Insulin	Study Date=05/02/08
+SUBJECT_SAMPLE_FACTORS           	9	9B	Sample Group:Low Insulin	Study Date=05/02/08
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Percutaneous muscle biopsy specimens of the vastus lateralis (?300 mg) were
+CO:COLLECTION_SUMMARY            	at 180 and 480 minutes under local anesthesia (2% lidocaine). Muscle samples
+CO:COLLECTION_SUMMARY            	blotted, were dissected free of fat and connective tissue, and then were
+CO:COLLECTION_SUMMARY            	Biopsy specimens were collected from the opposite legs on a single visit.
+CO:COLLECTION_SUMMARY            	calorimetry was performed at 11:00 am for 20 minutes using a ventilated hood
+CO:COLLECTION_SUMMARY            	Medics). The final 10 minutes of steady-state oxygen consumption (Vo2) and
+CO:COLLECTION_SUMMARY            	dioxide production (Vco2) determined the respiratory exchange ratio (RER =
+CO:COLLECTION_SUMMARY            	Urine was collected throughout the clamp and analyzed for urea content at a
+CO:COLLECTION_SUMMARY            	laboratory.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Low Insulin | High Insulin | Low Ins+ Saline | Low Ins +EAA | High
+TR:TREATMENT_SUMMARY             	| High Insulin + EAA
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	MMP and muscle fractions were isolated from frozen samples using differential
+SP:SAMPLEPREP_SUMMARY            	(18, 19). Biopsy samples were homogenized with protease and phosphatase
+SP:SAMPLEPREP_SUMMARY            	(Halt; Thermo Fisher Scientific) and centrifuged to pellet myofibrillar (MYO)
+SP:SAMPLEPREP_SUMMARY            	The supernatant was centrifuged to pellet mitochondrial (MITO) proteins, and
+SP:SAMPLEPREP_SUMMARY            	final supernatant was deproteinated with cold ethanol (1:9, v/v) and then
+SP:SAMPLEPREP_SUMMARY            	to pellet sarcoplasmic (SARC) proteins. Aliquots from MMP, MYO, SARC, and MITO
+SP:SAMPLEPREP_SUMMARY            	acid hydrolyzed, and free amino acids were purified using cation exchange
+SP:SAMPLEPREP_SUMMARY            	and then were dried. Plasma phenylalanine enrichment was determined using
+SP:SAMPLEPREP_SUMMARY            	chromatography (GC) and mass spectrometry (MS) as described previously (19).
+SP:SAMPLEPREP_SUMMARY            	were derivatized to a heptafluorobutyryl isobutyl ester and identified with a
+SP:SAMPLEPREP_SUMMARY            	Quattro Micro triple quadrupole GC-MS system (Waters) operating under negative
+SP:SAMPLEPREP_SUMMARY            	chemical ionization using isobutane as the reactant gas. Selected ion
+SP:SAMPLEPREP_SUMMARY            	of m/z 399.2 and 403.2 M + 2 and M + 6 fragments of phenylalanine and the
+SP:SAMPLEPREP_SUMMARY            	respectively, was performed.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+#MS
+MS:INSTRUMENT_NAME               	API 5000 QQQ
+MS:INSTRUMENT_TYPE               	Triple quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+MS:MS_COMMENTS                   	Dried amino acids were prepared as isobutyl ester derivatives, and the mass was
+MS:MS_COMMENTS                   	by an API 5000 triple quadrupole mass spectrometer with a TurboIonSpray source
+MS:MS_COMMENTS                   	Biosystems).
+MS:MS_COMMENTS                   	Muscle protein enrichment was determined using HPLC and tandem mass
+MS:MS_COMMENTS                   	(MS/MS) as described previously (19). HPLC-MS/MS has superior precision
+MS:MS_COMMENTS                   	to those of isotope ratio mass spectrometry and GC-MS and accuracy comparable
+MS:MS_COMMENTS                   	that of isotope ratio mass spectrometry (19). Dried amino acids were prepared
+MS:MS_COMMENTS                   	isobutyl ester derivatives, and the mass was determined by an API 5000 triple
+MS:MS_COMMENTS                   	mass spectrometer with a TurboIonSpray source (Applied Biosystems). Enrichment
+MS:MS_COMMENTS                   	calculated as molar percent excess (MPE) representing tracer content (13C) over
+MS:MS_COMMENTS                   	A calibration curve from 0 to 0.1 MPE was prepared using unlabeled
+MS:MS_COMMENTS                   	(Sigma-Aldrich) and l-[ring-13C6]phenylalanine. Selected reaction monitoring
+MS:MS_COMMENTS                   	performed for m/z 222.4 > 121.6 and 226.4 > 125.6 for the M + 2 and M + 6
+MS:MS_COMMENTS                   	of phenylalanine and l-[ring-13C6]phenylalanine, respectively. Muscle FSRs
+MS:MS_COMMENTS                   	calculated as FSR (percentage per hour) = [(E480 ? E180)/(EP · t)]*60 · 100,
+MS:MS_COMMENTS                   	protein enrichment of biopsy samples (E480 and E180), minutes between biopsies
+MS:MS_COMMENTS                   	and enrichment (EP) of plasma precursor (10). The phenylalanine rate of
+MS:MS_COMMENTS                   	(Phe Ra) was calculated as Phe Ra = [(FTracer/Ep) ? FEAA], with tracer infusion
+MS:MS_COMMENTS                   	(FTracer), plasma enrichment (Ep), and phenylalanine appearance from EAA
+MS:MS_COMMENTS                   	(FEAA). One participant showed decreased plasma enrichment (10.4%2.2%) during
+MS:MS_COMMENTS                   	insulin + saline for unknown reason and was removed from the protein turnover
+MS:MS_COMMENTS                   	The muscle tissue required for fractionation was not available for all
+MS:MS_COMMENTS                   	and group sizes were 8 to 10 per fraction.
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	uM
+MS_METABOLITE_DATA_START
+Samples	10C	10D	1C	1D	2C	2D	3C	3D	4C	4D	5C	5D	6C	6D	7C	7D	8C	8D	9C	9D	20C	20D	21C	21D	22C	22D	23C	23D	24C	24D	25C	25D	26C	26D	27C	27D	28C	28D	29A	29D	20A	20B	21A	21B	22A	22B	23A	23B	24A	24B	25A	25B	26A	26B	27A	27B	28A	28B	29B	29C	11C	11D	12C	12D	13C	13D	14C	14D	15C	15D	16C	16D	17C	17D	18C	18D	19C	19D	30C	30D	11A	11B	12A	12B	13A	13B	14A	14B	15A	15B	16A	16B	17A	17B	18A	18B	19A	19B	30A	30B	10A	10B	1A	1B	2A	2B	3A	3B	4A	4B	5A	5B	6A	6B	7A	7B	8A	8B	9A	9B
+Factors	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin + EAA	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:High Insulin+Saline	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins +EAA	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Ins+ Saline	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin	Sample Group:Low Insulin
+1-Methylhistidine	0.0000	0.0000	47.2929	29.0320	4.0370	2.2676	8.8792	4.3683	7.8247	4.0407	18.7500	7.2326	20.0647	10.9779	11.7638	5.9336	49.4524	18.7822	20.7286	9.9786	18.7851	16.1887	0.0000	13.0945	8.0034	5.3222	11.6717	9.6773	15.2346	11.6923	9.1263	4.5097	10.8963	0.0000	0.0000	7.5606	19.0704	10.6648	0.0000	14.3103	15.5059	8.1580	16.5564	13.1731	7.2325	3.9914	4.3250	2.2263	18.6153	8.1466	12.2627	8.1834	18.5124	10.7346	0.0000	0.0000	0.0000	0.0000	0.0000	14.7959	5.4809	2.7406	10.4355	5.9945	61.6930	80.4827	9.2613	7.3606	13.0056	9.5840	9.2549	6.4553	7.2690	4.9272	2.1745	0.9202	15.9744	13.6362	6.5582	5.1830	17.5726	4.3552	10.0086	7.9104	72.6238	79.2093	12.2495	6.4091	9.5295	9.1535	9.7950	7.1532	4.1423	2.6654	0.0000	0.0000	9.3292	5.9677	5.4069	0.0000	12.9040	12.5596	56.2903	37.0293	7.9352	3.4989	14.3573	9.2236	7.2938	3.2479	11.3415	9.1590	18.3009	11.8039	12.3137	7.4578	10.5742	8.5362	14.7617	6.8145
+3-Methylhistidine	0.0000	0.0000	6.7442	4.5272	4.9799	4.2331	5.5260	4.0843	5.2486	3.7162	4.8669	2.8641	3.6839	2.8929	6.9063	4.6488	6.3693	3.8398	6.2971	5.3038	7.9769	7.8953	0.0000	6.1589	6.9227	5.3816	5.5210	4.3781	6.3713	4.9770	4.2527	3.6876	8.6772	0.0000	0.0000	4.3378	4.8472	3.1266	0.0000	3.9192	7.7949	5.6392	7.5194	5.8421	6.8075	4.3555	5.1601	3.5350	8.0157	4.8073	4.0160	2.9796	6.6934	5.5562	6.4238	0.0000	0.0000	0.0000	0.0000	4.8193	6.7140	4.4651	5.2748	4.1748	10.0124	13.8559	4.8947	4.1724	5.1477	4.7620	4.8710	4.4158	4.5339	3.3893	3.4718	1.6879	6.6182	5.8976	5.3640	3.2849	6.3865	3.1517	5.6038	4.5585	12.1658	12.1322	6.3239	4.6602	4.7531	4.7236	4.8824	0.0000	4.7553	3.8987	3.2021	3.6933	5.3652	4.9597	5.7856	4.6382	5.4714	5.8412	8.5725	5.1352	7.5037	4.9287	5.8677	4.4621	4.6859	3.6029	4.6240	3.1613	4.1617	3.5341	6.8772	5.5366	6.0218	4.5186	5.8465	3.7457
+Alanine	299.8547	385.2816	266.1221	290.4619	226.5545	265.5815	229.2930	316.5119	233.5419	456.0523	205.1036	289.6133	311.5848	312.9199	237.7583	281.9088	297.6879	379.4424	309.3259	401.4587	236.7740	411.2258	209.1951	233.7259	320.1178	429.1329	220.5571	563.9297	285.5924	534.7492	186.4746	291.6530	249.5652	671.7950	274.9800	278.4976	269.2623	577.8587	201.5603	383.7269	163.7028	214.8210	207.1400	430.2982	232.8129	220.5661	251.0494	232.6193	279.2368	312.2150	221.6223	569.9892	190.3423	258.3468	283.0818	506.1384	188.5312	288.5775	237.6490	188.0408	236.3041	211.7325	240.0308	481.0969	305.0188	374.4024	211.1506	475.9907	190.4828	382.5184	328.4537	418.8831	303.8831	545.4155	333.4705	515.0757	232.4925	488.3549	310.9223	532.7009	265.5862	306.6668	227.2517	661.9233	239.7634	594.8233	285.1271	411.8618	151.5900	454.8708	291.5590	451.6938	329.8718	394.1671	328.5742	712.7785	250.9921	423.1716	249.6660	357.4131	187.7172	327.9635	262.4078	549.6357	171.1954	193.1296	236.1674	447.5074	205.3876	351.2427	269.6579	458.8431	415.1195	528.8773	243.1933	359.2557	275.4775	425.0807	329.2291	315.1816
+allo-Isoleucine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+alpha-Aminoadipic-acid	1.6859	1.0761	0.9442	0.4760	0.9530	0.8332	0.8495	0.5223	1.2979	1.1760	0.8941	0.5977	1.2219	0.9038	1.0026	0.7080	0.8754	0.6441	1.0198	0.9366	0.6632	2.2531	1.1038	0.7367	2.6714	4.5774	0.9949	2.6609	1.2360	6.9198	0.8128	0.6507	0.8911	5.4072	1.4599	0.6482	1.3517	4.4931	1.0016	4.8210	0.6481	0.6016	1.1124	3.1089	1.8450	0.7572	1.0268	0.6144	1.2424	0.9193	0.7894	2.2724	0.9217	0.6504	1.2137	4.6131	1.1233	0.8232	0.6938	0.9315	0.8821	0.7031	0.8290	0.9424	0.5575	0.5028	1.5604	9.1282	1.3020	1.5885	0.8365	0.9065	1.2625	7.2490	0.9404	2.5952	1.2092	4.6214	1.0154	3.2486	0.9138	3.9302	0.8613	4.8918	0.5825	2.9450	1.5369	1.2675	1.0126	5.6423	0.4008	2.4705	1.3677	1.1012	0.8593	0.9078	1.0379	0.9596	0.8163	0.5464	1.0619	0.9739	1.2950	0.9004	0.8771	0.5487	1.0399	0.8256	1.1571	0.9291	1.1681	0.9539	1.2203	1.2574	0.8744	0.9072	0.7300	0.9797	1.1072	0.8042
+alpha-Amino-N-butyric-acid	9.6377	13.4817	15.2897	8.1861	14.7043	11.5478	33.2397	11.6435	22.3671	27.3034	33.7752	16.1121	39.4414	22.6432	28.5825	10.2024	9.2857	6.5703	6.8945	5.7536	14.1274	14.7344	16.4844	7.9534	25.2334	29.2153	27.9171	31.9973	23.8258	29.7089	10.7552	6.1009	17.3017	14.0438	11.6427	8.7680	7.3263	9.9283	9.8277	8.5876	11.9859	6.8970	14.0224	19.9603	28.1185	9.6494	24.7230	6.3626	21.1304	9.8732	10.4529	15.9227	17.3468	6.9101	12.0871	9.8130	8.5489	4.8008	5.4902	8.3568	26.0665	23.9748	12.3212	16.7735	8.5485	7.4972	36.2585	54.4444	11.0911	22.5828	27.9387	24.6991	30.0404	37.4570	12.7051	13.5653	8.8008	17.5639	19.2268	60.6195	12.5911	23.6630	13.8003	27.6667	10.4254	23.4891	28.3087	30.6388	27.6630	45.9887	11.6153	36.8978	18.4046	16.2667	13.0183	16.9242	11.0110	11.4435	11.9253	17.3645	7.9256	7.5206	12.7978	20.8889	14.4790	7.8128	34.5304	34.2677	23.7811	10.6765	27.6153	28.5780	42.3634	47.1512	27.2293	28.9924	9.5301	14.2247	5.3619	2.9115
+Anserine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	1.1064	0.7636	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.3508	0.1773	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+Arginine	84.2264	79.7216	46.8853	32.9271	35.5416	36.0292	33.2101	28.2769	40.9886	30.1165	72.9011	59.0217	88.9942	52.7408	80.3242	55.4241	86.1421	62.7779	52.9569	55.1396	29.3723	22.2792	42.0647	33.6685	96.1263	36.3298	65.4162	37.5201	79.3642	54.6380	51.9989	40.9292	69.4952	22.6278	84.0593	41.9334	85.7048	42.7216	57.1577	23.0062	30.1154	26.5447	41.3414	37.4351	72.0863	40.4324	55.9048	34.9707	73.2952	40.5325	59.5317	46.7546	63.6455	30.4274	68.1291	37.4195	48.3632	45.5903	33.7287	65.2252	33.6555	24.7914	43.7960	34.4238	42.7625	39.4556	61.7388	95.9924	84.2823	96.8592	78.8187	110.1776	66.3603	43.0615	58.9523	28.8669	65.4214	64.2385	33.2176	36.6201	31.3886	26.6092	36.3500	40.8948	42.0433	40.8533	97.6362	68.1068	100.7187	90.9504	63.4093	83.4310	64.2259	55.6456	69.1649	62.1782	56.6835	76.9270	41.7085	39.9068	51.9451	40.8261	38.2262	39.5828	41.2813	39.3857	33.7178	39.8777	46.9739	30.8297	77.4723	95.4099	74.7742	130.5333	77.5672	91.0433	85.6006	136.6583	66.9351	28.1013
+Asparagine	112.8139	77.2016	70.6177	54.8989	67.4044	74.3748	61.9791	39.2338	77.0892	75.5990	75.6080	45.5826	57.2747	37.0454	62.1814	38.7085	74.3396	47.5220	73.3991	56.7245	101.5977	48.3363	65.7831	48.7616	71.5096	16.5957	67.3334	28.4617	68.0419	16.5410	53.6888	38.7391	107.7903	22.9199	58.2281	37.7817	82.3832	21.1783	77.1497	24.6486	79.4341	61.7060	66.0499	21.7558	75.1849	46.3148	67.8752	37.3011	66.5685	35.7256	51.8035	21.5132	68.9605	36.7913	69.0821	15.2126	73.8279	44.4526	40.6687	55.5988	108.5413	67.4203	86.1628	104.0102	125.8250	116.6788	49.5228	39.3777	55.2254	58.3572	65.9080	76.6779	69.5440	35.5008	71.1867	26.6433	68.9232	46.3232	80.4929	54.9055	129.3102	65.0984	82.1642	67.4954	122.8022	88.0931	65.3319	57.4677	48.0772	30.3523	81.9087	62.1475	68.9596	60.3575	74.5294	84.2415	71.0894	73.1947	60.8331	81.3965	67.3780	56.5637	57.1122	88.5342	77.9791	57.3714	65.9748	71.1535	71.9709	50.4781	64.4280	64.6522	54.6980	65.9162	65.9780	71.9050	58.8025	85.2795	75.9232	35.6648
+Aspartic Acid	9.5230	2.7339	3.4302	3.4985	3.9571	2.4120	2.8647	1.8374	4.3072	2.8962	2.9112	1.4865	2.8535	1.5822	3.4446	2.1726	2.3561	1.5477	5.2076	2.1563	5.2331	5.7384	3.1129	1.8554	3.1849	1.9537	2.3999	1.2996	3.6011	2.1734	2.3098	1.1972	1.9542	1.4761	4.9373	0.8908	6.5337	1.3023	1.8440	4.1021	5.9388	3.3549	3.0824	1.4858	4.9408	2.3730	2.3496	1.4620	3.4338	2.0995	0.8310	0.7875	3.5047	2.3164	1.7735	1.0087	1.6148	0.4809	5.9130	1.5670	5.3437	2.6339	5.0464	3.4132	4.1353	2.5901	2.5302	2.6603	3.3625	2.0477	1.6826	1.7732	2.3273	1.7073	2.1242	0.7314	2.5738	2.1618	7.7277	3.3196	4.9454	3.5170	4.7095	2.8363	3.9415	2.3420	3.0755	2.8104	3.5375	1.9581	1.7852	1.8249	3.7951	2.0552	1.4333	2.1363	1.9728	6.3581	2.9382	2.8586	11.3277	15.7986	3.9497	3.5521	2.6278	1.7742	4.4331	3.0909	4.4166	2.1560	2.6045	1.9823	2.5009	3.1272	3.6110	3.1126	5.1478	1.5413	1.4135	3.2869
+beta-Alanine	5.7969	6.4454	6.6264	4.9433	3.5311	3.1951	3.4776	2.9728	3.8173	2.7161	2.8358	3.0728	4.4795	2.4486	2.8221	2.0360	6.5342	5.9448	6.6186	5.1164	4.7643	3.9598	3.3614	3.5260	10.0223	8.7604	3.1231	4.1573	4.2767	5.0489	4.7519	4.7137	4.3127	7.1359	4.9651	3.7570	5.9953	6.1344	5.4161	6.5822	3.6051	4.2899	3.2251	4.2259	7.9531	4.9880	3.4972	2.7597	3.1700	3.0706	6.1490	5.1477	5.1766	5.3715	5.0230	5.0254	5.3211	5.4463	4.9260	5.2829	3.8937	2.9210	3.5418	3.4306	4.2945	4.0637	3.2336	3.8438	3.1564	2.8232	4.2225	4.1628	4.3793	5.3589	4.2083	3.1631	5.1041	6.6959	4.6220	4.9570	3.0276	3.1780	3.4616	3.9689	3.4537	3.8024	3.6002	2.9191	3.0268	3.7946	5.2105	4.6655	3.6235	3.7421	4.7592	4.9762	4.4169	5.0232	3.8726	3.5284	5.3688	6.6940	6.4915	4.9991	5.6456	5.0829	3.5192	3.3932	3.6778	3.5050	4.9824	4.6791	3.3305	3.0257	3.1434	2.7775	5.7425	5.6405	7.9064	4.8378
+beta-Aminoisobutyric-acid	1.6378	1.0941	2.1472	2.0488	1.4095	1.7976	2.0754	0.8568	0.8168	0.6842	1.2419	0.8791	0.3239	0.2970	0.7004	0.5788	2.7790	2.1464	1.5583	1.2120	1.2316	1.2169	1.3677	1.0717	1.8604	2.3241	0.7795	1.0449	0.8584	1.3122	1.1040	0.8785	2.7335	1.7315	0.8359	0.5564	0.8826	1.0272	2.3902	2.5809	1.4630	0.8343	1.4926	1.2463	1.6908	1.4538	0.6209	0.5045	0.9248	0.6611	1.0010	0.9798	1.6305	0.4659	0.7642	0.9439	1.1307	0.6922	2.1338	2.6817	1.8791	2.3481	2.4036	2.0938	1.2278	1.9155	1.3409	1.1864	1.4100	1.8148	1.0951	1.5575	0.8093	0.7894	1.5604	0.6951	1.4868	2.0526	1.1483	1.4809	1.4941	2.3280	1.9776	1.9765	1.5013	1.9192	1.3064	0.9545	1.7299	2.1345	1.9363	1.7402	0.5066	0.5374	1.9166	1.4915	1.5518	1.4571	0.7773	1.5403	1.4131	1.1258	1.8796	2.3113	2.2918	1.5023	1.7769	1.4133	0.9673	0.5574	0.9837	0.9841	0.3052	0.3829	0.7428	0.7580	2.4526	2.6594	1.3731	0.7032
+Carnosine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+Citrulline	32.5615	220.1524	38.3992	24.8107	26.4741	28.8589	29.4650	16.0642	22.1333	31.0507	44.7729	29.5103	38.2781	19.2136	53.4634	26.5518	33.9630	39.4279	269.2740	30.6447	21.1952	20.9214	29.5706	16.2600	59.6251	50.3246	32.8916	28.7072	49.4059	40.1460	214.7722	18.6645	52.5215	45.4498	342.0672	21.2356	207.1308	96.9330	32.6624	209.6395	19.7646	11.2646	28.3815	20.2693	66.1497	26.8098	31.0216	15.6892	47.1153	24.4056	45.5963	30.8152	172.4103	76.6780	40.5840	33.4025	29.6510	29.3611	215.4281	36.9647	19.8848	20.8377	32.3904	28.7103	21.4967	22.6570	35.5719	44.4452	43.0159	39.1351	40.1422	44.0635	37.3120	37.7080	171.8151	86.4320	37.7314	34.8873	33.4696	26.2843	19.1836	24.7729	32.3550	36.5359	25.7747	28.1653	39.7370	34.3766	33.6284	47.7930	32.0714	39.3518	40.7596	27.4596	186.5390	31.9909	34.1149	134.8958	22.9695	31.5015	219.7270	24.7588	32.4066	40.6719	29.7913	16.9117	28.6206	27.8373	27.6592	18.7683	40.3285	42.6734	33.2609	34.7607	51.8779	34.7670	222.0330	129.6090	85.0977	133.6874
+Cystathionine 1	1.3576	1.1921	0.9084	0.5517	0.6559	0.6760	0.5897	0.4629	0.6530	0.6278	0.5917	0.3754	0.4021	0.3091	0.5783	0.3723	1.2151	1.0513	1.1098	1.0399	0.5404	0.8323	0.6651	0.4742	0.6454	1.3527	0.4008	0.9567	0.5936	2.1124	1.1107	1.0295	1.1942	1.7967	1.1971	1.0493	1.1797	2.2561	1.1027	1.4306	0.5419	0.4459	0.6010	1.6182	0.7276	0.3659	0.4272	0.2848	0.4697	0.3337	1.0585	1.5101	1.1406	1.0405	1.2078	2.0211	1.1248	1.0229	1.0260	1.0926	0.6496	0.5823	0.5666	0.6280	0.6941	0.5291	0.4988	1.5787	0.4306	0.3680	0.4376	0.3185	0.5273	1.6661	1.2590	1.9344	1.1858	1.8605	0.8092	3.4732	0.7048	1.4127	0.5307	1.2759	0.6431	2.0406	0.6672	0.4260	0.4470	2.0902	0.3153	0.8392	0.5053	0.4120	1.1591	1.1143	1.1792	1.1031	0.7383	0.8693	1.1474	1.0439	0.9809	0.6882	0.5785	0.4759	0.6646	0.6546	0.5986	0.4359	0.5058	0.3556	0.5031	0.4780	0.5572	0.5029	1.2012	1.1066	1.2312	1.0227
+Cystathionine 2	0.0000	0.0000	0.9947	0.5203	0.7681	0.7862	0.5309	0.5227	0.7657	0.7430	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.5243	0.9274	0.5236	0.5172	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.5639	0.0000	0.0000	0.0000	1.0338	0.0000	0.1894	0.5191	0.5188	0.5225	1.6322	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.2727	0.0000	0.0000	0.0000	0.7933	0.0000	0.0000	0.0000	0.0000	0.7629	0.7022	0.5199	0.6578	0.8027	0.6583	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.7057	0.0000	0.6528	0.9057	3.2960	0.8129	1.4468	0.5208	1.3241	0.5254	2.0129	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.8425	0.9602	0.0000	0.0000	1.0596	0.5255	0.6987	0.6069	0.5551	0.5347	0.7165	0.5186	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0323	0.0000
+Cystine	78.9912	84.2005	21.6769	40.1850	43.9692	44.0640	49.6144	45.7801	45.2520	47.3706	47.8841	59.2165	69.0889	56.3728	101.4837	85.6355	92.5073	84.8747	84.1012	79.3786	46.1344	24.9278	57.9933	57.6266	49.2929	32.6493	64.9827	29.4592	68.9498	36.7237	73.7724	57.5122	104.6048	47.1492	108.7866	76.1602	87.7633	49.5206	72.1679	37.1094	38.4257	38.3476	44.9036	25.3381	74.2184	62.1675	50.3012	47.2016	77.5501	68.5398	64.6650	40.0601	97.0193	73.5274	100.4149	38.9171	68.5896	62.2731	79.5831	96.0577	30.4345	35.8808	57.8071	73.5983	43.9988	45.4845	65.2849	46.4704	61.4565	73.0698	92.9303	100.9928	70.1232	44.0788	57.3741	19.5928	99.2545	53.7368	23.6540	21.0444	18.0198	13.2595	55.4232	33.3467	37.7312	29.3118	78.7240	82.5535	54.5974	47.6013	61.1501	59.0853	79.8773	78.4364	74.9329	52.0634	102.7129	98.8437	24.5486	41.4990	83.8633	100.1761	31.4227	51.6933	26.3687	28.4961	58.7873	67.8220	41.0124	41.5693	53.0397	68.9863	60.0187	72.7772	102.4370	98.8802	85.6804	89.6461	84.9076	77.0700
+Ethanolamine	6.2282	4.6648	8.5178	7.7971	7.4510	7.1143	8.1991	7.6915	7.5097	6.9829	5.1723	5.4585	5.5944	5.8256	4.6950	4.9254	4.1376	3.5086	5.3861	7.7983	10.9223	10.6238	6.9050	8.1810	5.5937	5.5603	5.0924	6.3591	5.2561	5.9643	2.9073	4.7171	7.5348	6.6452	3.8067	6.0395	2.6322	3.3470	6.3487	4.1848	7.6612	10.1651	6.4343	8.0261	4.9805	5.6392	5.1910	4.6047	5.7242	5.9460	2.9517	4.1182	3.9215	5.4622	6.0184	5.8594	3.8600	3.0025	4.3671	4.4425	6.0589	5.3301	8.1264	8.4840	6.3391	7.9006	5.9689	5.6397	4.9787	4.7502	6.6505	5.8503	6.7274	6.1041	4.5406	2.1355	3.9223	7.0797	7.7025	9.1821	6.6253	4.8830	8.2684	8.9941	7.6846	8.3748	7.2182	6.5692	4.4291	4.3806	9.5351	5.4070	6.7386	6.5258	4.5551	9.7574	5.0503	4.7005	8.8089	11.8714	2.9231	6.2107	7.8377	7.3625	8.7374	9.5185	8.3349	8.5735	8.5553	9.5518	6.3312	5.0397	5.7592	6.0870	4.9740	5.9550	3.3679	3.8907	6.5461	5.2914
+gamma-Amino-N-butyric-acid	0.0000	0.0000	0.5529	0.5267	0.5296	0.5081	0.5085	0.4864	0.5614	0.5457	0.2379	0.2357	0.2383	0.2281	0.2608	0.2393	0.0000	2.5433	0.0000	0.0000	0.5199	0.5029	0.5061	0.5048	0.2641	0.2439	0.2585	0.2579	0.2517	0.2370	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	2.0744	0.0000	0.0000	0.5060	0.5121	0.5175	0.5136	0.2816	0.2622	0.2660	0.2282	0.2609	0.2384	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.4918	0.4825	0.4842	0.5042	0.5199	0.5696	0.2433	0.2249	0.2511	0.2720	0.2368	0.2490	0.2572	0.2456	0.0000	0.0000	0.0000	0.0000	0.5166	0.5340	0.4934	0.4680	0.4893	0.4979	0.5433	0.5603	0.2453	0.2449	0.2453	0.2526	0.2570	0.2345	0.2648	0.2496	0.0000	0.0000	0.0000	0.0000	0.5237	0.5514	0.0000	0.0000	0.5464	0.5542	0.5491	0.4957	0.5060	0.5108	0.5350	0.5314	0.2778	0.2776	0.2339	0.2299	0.2631	0.2821	0.0000	3.9315	0.0000	0.0000
+Glutamic acid	50.4393	21.1800	31.5634	12.7191	30.0881	15.5732	23.9734	12.8931	28.6189	18.6478	23.8438	11.1953	33.5762	17.5796	27.4630	13.5123	37.4862	25.5557	7.5245	10.1613	12.2246	13.8632	30.9333	17.1866	22.9272	14.9247	15.6013	5.2506	34.8131	19.7731	26.9190	10.1448	40.5046	26.4630	45.3519	22.2747	49.2776	20.8463	36.0378	25.7555	18.1450	9.8406	27.1644	16.8850	27.7154	10.8701	10.3244	7.0124	30.9349	14.9379	21.2273	19.2446	45.8279	22.2961	39.0403	38.6921	33.4894	16.0614	21.5318	44.7937	30.9292	16.6102	24.7321	16.2485	16.8671	10.9784	32.8156	28.6078	25.5824	15.2583	6.0794	10.0416	13.4293	21.0122	31.8033	14.9967	59.3451	55.7095	28.3121	18.7154	22.1025	19.2689	21.4918	20.1331	15.4261	10.6225	16.5428	16.8139	24.0626	17.9756	4.3471	13.4017	18.5425	12.3534	31.1488	40.9175	58.3017	28.6664	19.1065	10.1296	55.2006	32.4619	22.9275	15.3445	30.2922	13.9681	27.9748	16.0639	28.1615	12.2662	19.4969	14.2946	21.9100	17.0062	25.1403	17.2854	28.8182	25.5916	12.9313	4.4193
+Glutamine	308.7157	313.2285	434.3178	408.6568	411.7404	437.2945	388.6537	305.3708	400.5164	442.3960	277.5778	253.0154	224.6220	174.4598	241.1618	198.4704	371.1061	359.6703	301.8559	287.7415	350.9940	440.5140	381.8600	378.1689	288.2235	341.4212	199.4674	283.9951	299.3694	362.8259	291.0492	287.3525	393.6859	497.9962	354.6783	264.9623	300.2354	361.2767	248.5328	306.6246	297.0922	273.7428	381.9911	586.3563	215.4198	184.1882	180.5063	152.4407	287.6328	243.7527	302.0001	464.2851	341.4012	270.4930	303.3186	423.8652	236.3862	235.6181	197.1006	228.3872	453.3373	408.4142	405.5125	484.4521	398.2525	415.3297	234.3633	298.2094	212.2777	233.7398	259.9441	284.3995	317.8654	371.1372	357.6234	215.1138	277.3098	328.3408	421.4044	622.5618	332.1113	420.7796	404.8706	552.9890	347.1736	528.5812	279.8586	248.5645	208.0028	257.7203	236.2099	279.3220	275.0258	270.0024	390.7637	386.5244	287.9883	353.7238	319.9530	477.2548	270.2477	295.9160	401.4829	692.6701	495.3486	395.8580	379.3680	412.0461	403.2033	361.2041	280.3621	280.4062	196.5207	220.2186	239.8925	247.8880	362.2432	487.1477	309.4367	258.4834
+Glycine	263.4757	360.8846	197.4351	230.2547	252.3152	328.1708	219.6542	238.3892	187.6521	240.9393	249.3690	320.9205	302.0285	287.5107	214.3502	205.7812	786.8664	872.7588	311.7519	360.6424	181.2534	160.6063	324.3022	369.5673	213.4226	157.0298	155.8607	150.5801	279.1677	192.5170	251.3329	294.9468	332.3906	253.7881	320.3379	308.8490	346.9321	229.8686	238.4096	219.8249	164.2929	186.1370	253.5812	223.3783	191.2911	203.9728	145.3185	143.0238	251.0203	220.5783	248.2272	222.6620	278.4719	276.2828	282.8291	245.5437	268.7088	333.0897	291.7797	229.1104	367.8912	345.4106	193.9117	292.5032	197.0646	266.4806	209.7528	212.4098	298.3712	441.6936	374.2225	532.3773	238.4130	199.6353	342.2581	168.0171	221.3941	177.0286	401.3345	290.1767	235.0327	140.2692	176.2385	195.7090	207.8383	221.9849	252.2337	288.4062	289.9651	293.7408	337.8455	301.9550	248.7812	297.8127	438.9614	726.9703	211.9142	360.2472	300.8987	385.4083	207.7240	354.2242	137.1050	234.7841	260.6268	275.4388	204.6970	303.5213	192.8674	225.3727	267.0169	342.6584	256.3883	316.1073	240.1865	335.5152	744.3922	834.2188	322.9173	273.7859
+Histidine	93.2330	93.6598	109.4613	106.3509	99.9809	112.8827	87.9333	77.0799	150.6342	149.0266	99.3138	87.1616	69.8871	58.9374	85.0701	70.1756	96.8652	92.8652	104.6914	105.1328	156.7234	305.2095	59.8584	91.4762	174.9162	170.4323	102.7570	187.3641	100.4725	198.0001	97.3047	91.6024	106.6852	213.8618	117.5993	84.4377	100.3535	235.2708	107.0158	245.0338	134.4465	124.6323	90.8526	253.2468	88.5002	70.7078	98.9194	80.8703	114.9150	91.8255	102.4348	203.2984	88.3523	81.8858	111.9795	210.1556	91.9968	84.7981	100.1326	100.2877	121.6824	99.1665	114.8495	116.2828	74.5571	119.8455	62.4657	166.2997	70.4140	71.7139	86.0031	84.6806	92.9119	227.3155	80.9762	114.7313	97.9823	205.5333	107.0179	255.7198	131.0459	254.2927	105.7056	286.1746	124.4532	290.1836	83.8335	74.8618	67.0418	153.0898	67.4732	167.4196	95.7976	99.8961	89.8013	105.2895	96.7074	109.5092	120.0328	143.5296	77.1693	101.3396	102.0994	130.0097	134.0861	115.0670	94.3228	87.6374	157.7440	143.2830	95.4124	94.2962	77.2017	79.4556	95.2913	85.6508	89.6010	98.8726	97.9202	81.3840
+Homocystine	0.2676	0.2037	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.2025	0.1441	0.2742	0.2583	0.0000	0.0000	0.0000	0.0000	0.1835	0.2034	0.0000	0.1292	0.1896	0.3354	0.2187	0.1565	0.2573	0.9262	0.2668	0.1763	0.2256	0.7982	0.2178	1.7864	0.0000	0.0000	0.0000	0.0000	0.0384	0.0000	0.0000	0.0000	0.0034	0.0000	0.2654	0.7034	0.2294	0.1546	0.2897	4.6395	0.2138	0.1549	0.1577	0.2352	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0044	0.3277	0.0000	0.0000	0.0000	0.0000	0.0094	0.3558	0.2273	0.5716	0.2445	0.7334	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0404	0.0000	0.0000	0.2424	0.0000	0.4857	0.0161	0.0000	0.2150	0.1968	0.2271	0.2153	0.0000	0.0000	0.2546	0.2108	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0042	0.0000	0.0000	0.0000	0.0000	0.0000	0.1701	0.2188	1.3645	0.2258
+Hydroxylysine 1	0.0786	0.0703	0.3807	0.3594	0.3705	0.3702	0.3935	0.3517	0.3339	0.3413	0.2390	0.2310	0.2101	0.1744	0.2091	0.1703	0.0391	0.0270	0.0397	0.0427	0.3479	0.3645	0.3735	0.3462	0.1693	0.1684	0.2031	0.2331	0.2669	0.2441	0.0420	0.0236	0.1005	0.0758	0.0542	0.0081	0.0376	0.0553	0.0380	0.0690	0.3468	0.3371	0.3720	0.3825	0.1926	0.1485	0.1928	0.1513	0.1834	0.1622	0.0387	0.0672	0.0584	0.0115	0.0195	0.0742	0.0465	0.0131	0.0284	0.0578	0.3945	0.3908	0.3868	0.6393	0.3715	0.4018	0.1933	0.2349	0.2059	0.2073	0.1951	0.2109	0.1838	0.2111	0.0738	0.0289	0.0631	0.1037	0.3653	0.3955	0.3789	0.4498	0.3582	0.4131	0.3734	0.4358	0.1725	0.1854	0.1917	0.2474	0.1654	0.2549	0.1844	0.1660	0.0747	0.0679	0.0680	0.0674	0.3409	0.7536	0.0795	0.0551	0.3678	0.3836	0.3609	0.3401	0.4207	0.3917	0.3320	0.3103	0.2072	0.2097	0.2030	0.2033	0.1903	0.2083	0.0399	0.0466	0.3027	0.0348
+Hydroxylysine 2	0.5400	0.4677	0.9283	0.8505	0.8758	0.9439	0.9666	0.8178	0.5978	0.7006	0.9926	1.0041	0.5391	0.4640	0.6454	0.5794	0.4299	0.3994	0.3752	0.4065	0.7321	0.8729	0.7504	0.7091	0.5053	0.5300	0.6767	0.8407	0.7969	0.9726	0.3175	0.3214	0.3192	0.4466	0.4040	0.2000	0.2814	0.4507	0.3829	0.5602	0.7343	0.7019	0.7300	0.8640	0.5852	0.4126	0.6310	0.4902	0.6767	0.6404	0.2908	0.4332	0.2832	0.2151	0.3110	0.4769	0.2670	0.2475	0.3125	0.3775	1.0248	1.0650	1.0929	1.6471	0.7769	0.8711	0.4970	0.7376	0.6072	0.7345	0.6584	0.8659	0.5052	0.6331	0.2899	0.2008	0.3763	0.6323	0.7757	0.9907	0.8885	1.1607	1.0610	1.5598	0.8455	1.2657	0.4431	0.5604	0.5544	0.8358	0.5798	0.9406	0.5394	0.5145	0.2962	0.3829	0.4202	0.4942	0.6910	0.8028	0.4133	0.4205	0.8784	1.0843	0.7845	0.7460	0.9604	1.0509	0.5743	0.5422	0.9340	0.9509	0.5104	0.6070	0.5724	0.7849	0.4297	0.5891	0.6986	0.3191
+Hydroxyproline	10.7882	7.3312	14.7728	12.0515	10.0697	10.6994	12.0800	10.4067	6.5051	5.8795	7.3697	4.4101	4.1326	3.5180	5.6668	4.6441	13.1321	8.2814	10.3904	9.5680	11.8509	12.9063	0.1837	6.2280	6.4255	5.8384	5.1062	5.3730	5.8944	5.8489	7.1481	7.0917	11.7452	8.6272	6.1916	5.8302	9.2107	8.2698	12.7148	10.4028	10.8148	9.2641	6.4098	8.0241	6.4570	5.1370	4.7710	3.6176	6.9006	4.8545	8.3694	9.8525	9.0572	6.9346	8.4754	7.5456	9.3207	6.0570	6.2545	9.6374	12.0222	8.9115	13.2878	14.4238	14.1221	17.1371	4.5766	4.7075	4.3555	4.5062	5.3563	6.1748	5.5009	4.8644	4.6433	2.8986	6.5415	9.9467	8.3254	9.6309	9.7724	8.4278	12.8576	17.6029	16.6909	20.9572	5.9094	4.7036	4.1902	5.0908	8.5980	5.9436	5.8923	5.3411	4.3429	6.1111	7.1684	6.2107	11.5211	10.9975	7.2754	9.2078	13.7884	12.7945	12.9332	10.9568	11.5926	12.9399	7.3048	6.6417	0.6361	5.7772	4.7761	4.3106	5.7146	5.4162	10.5700	9.9498	9.3573	6.7388
+Isoleucine	133.6738	45.8083	105.9345	39.4349	62.8163	49.4931	87.0729	16.0027	107.9844	67.8429	90.8093	28.5692	75.4943	19.2792	74.7959	17.2091	73.8701	27.9469	79.8600	39.9780	68.4499	173.7835	66.0473	15.2253	242.2491	184.7408	83.3970	162.7235	89.0820	226.5695	80.4340	22.3734	125.6047	264.9220	121.2389	19.3211	96.3933	195.8761	108.0945	233.0898	57.8921	16.0957	63.7843	191.5844	112.5423	16.7055	68.7783	13.9643	81.2378	21.0067	63.5360	192.3656	111.3795	11.0842	109.5355	321.8275	68.4297	16.0047	16.6972	88.4021	106.0803	62.0399	82.2408	49.9940	48.7965	34.3574	90.7893	337.5715	64.5310	41.7499	61.9709	53.5034	95.5271	310.2277	106.3114	168.9605	99.0689	392.4787	80.3194	281.3185	84.6206	327.4983	68.3631	300.0209	46.3915	243.5424	114.0488	61.1015	54.2718	233.1425	67.5384	222.2734	89.5122	40.7496	91.9610	51.3653	87.7405	51.2582	62.2721	54.3014	95.6386	20.3224	118.6427	105.7505	68.9890	14.5684	92.5441	49.7797	96.7381	20.4105	94.7233	56.5200	61.5676	51.8086	69.0917	39.7949	60.3536	83.2301	72.8857	11.0037
+Leucine	162.8621	99.4099	164.9949	90.1571	131.6611	127.8217	163.4744	56.0387	167.4174	136.7188	148.8214	64.4131	137.9465	61.8082	139.4514	48.8914	91.0989	47.0923	124.6873	77.8526	125.6467	286.4212	120.2349	54.5560	387.3490	310.8133	141.8050	267.0488	165.8177	373.3292	103.9201	46.2908	188.7184	316.9236	167.6525	52.9481	137.7678	277.3807	161.9343	350.3508	108.4681	54.0439	120.4710	322.1170	193.3266	54.9837	119.9545	45.1787	156.1993	68.3227	84.8180	226.0865	158.6891	51.2008	157.3780	383.7746	113.6195	45.0702	62.4812	141.7108	161.3327	114.2196	144.7600	112.6868	75.8662	69.8435	178.5739	563.3987	120.3141	98.0375	114.1540	115.0559	170.1747	522.2497	159.1474	215.4920	158.9470	561.8893	124.7746	450.6448	129.6730	528.8455	132.0522	502.1863	78.2218	401.8924	211.4348	139.5585	98.5909	387.3518	124.6285	378.1762	168.0130	113.5240	132.7853	96.8217	138.8024	119.7131	113.9700	133.5769	143.9304	81.5528	190.5534	204.5837	144.4170	67.1322	169.5180	117.9647	165.6826	60.7722	156.6931	114.4229	128.5988	124.8557	132.2470	98.7208	75.0340	117.1581	118.3198	40.9122
+Lysine	339.5560	223.7828	217.4691	200.1702	296.2927	248.6711	236.4373	137.7701	257.0731	289.8394	262.9761	238.6442	346.8804	294.3554	220.0683	160.6625	167.4224	171.7285	172.3229	123.0797	251.1491	577.3312	241.9330	201.6023	520.6150	493.8442	262.4455	704.1866	247.8400	660.6844	106.0113	95.2404	220.0326	1529.3855	288.5289	137.3774	196.3007	1279.9384	159.6697	1222.4793	199.0618	215.6042	223.9622	650.9905	188.0655	143.8546	243.5928	145.2999	189.4054	141.1489	98.6237	973.8264	240.6218	113.1694	212.2313	1564.2400	167.7024	137.2796	96.4502	150.2533	240.3102	218.8650	141.3048	214.4972	248.6113	222.6616	304.1958	888.4544	297.4072	317.0870	247.0346	285.4466	259.0431	768.1188	133.1683	365.9284	154.2480	1603.8399	243.7809	875.5568	213.8939	517.1606	137.9541	611.3000	213.9379	864.0454	220.4046	261.3323	246.1639	651.7717	291.0832	651.4248	265.6885	236.5673	152.3586	169.3366	217.6579	722.2340	176.7040	273.0964	164.0084	127.2004	194.2875	345.9852	242.4759	201.5305	239.0725	261.4840	185.3915	139.6721	301.0113	269.4822	296.2178	425.8083	216.1991	370.0155	154.7223	269.2692	214.9086	72.1035
+Methionine	34.4995	25.6437	28.0001	19.8530	24.8135	28.5168	25.7345	11.2661	26.2440	29.3683	34.3775	16.5626	28.0930	11.5739	29.1466	11.0813	27.0260	15.0002	34.0405	22.1920	28.0175	686.5381	20.9181	9.1497	362.5843	743.9722	29.4858	614.3500	36.1996	726.6021	23.1588	11.2624	31.3439	752.0826	31.1251	8.0097	32.2146	663.6292	25.9583	743.5385	22.5334	12.8683	20.4391	565.2458	39.5940	9.1317	28.4610	10.1570	34.7704	10.9944	21.3524	631.1703	23.8839	5.8637	27.5264	637.8377	23.1080	10.3322	9.9426	23.3365	33.7435	23.0941	28.9790	28.3593	24.1297	18.1053	26.9119	807.1774	28.5426	28.8409	34.3003	36.8926	38.9454	856.5073	31.8179	410.1566	26.0672	786.2301	27.8009	663.1625	27.5756	967.1060	27.4585	1064.1691	20.5696	865.0723	42.4639	36.4437	20.4388	632.4487	28.1400	515.9293	38.9927	26.7440	30.0041	25.9747	23.5546	23.8070	19.6392	28.7083	24.6858	10.0684	24.8023	38.5031	22.4458	9.5256	29.5157	31.5886	24.7781	10.9942	38.2020	34.7855	31.5911	34.0878	30.5986	25.3143	27.0245	34.8763	34.1283	7.7379
+Ornithine	48.0338	22.0946	88.2521	47.9566	81.5734	31.4800	56.4084	20.2697	52.1038	46.7691	83.3916	47.0178	124.1658	75.3878	64.3823	32.1868	21.2586	11.4200	20.8342	15.9085	25.8374	8.4302	98.8381	55.8836	41.7523	14.9390	63.7541	32.6879	68.5611	31.6732	22.7319	12.1655	44.8809	11.1194	37.4794	17.8334	35.5701	11.2378	32.7817	9.7659	24.2965	19.4817	73.3572	46.6735	71.2731	30.7750	60.2157	19.9668	51.4993	33.2250	17.5770	11.0566	43.5342	14.9989	34.3283	16.5258	15.8872	8.8738	12.8477	22.0306	60.8921	38.0841	37.6856	46.0165	50.6328	27.4494	89.7075	46.6324	93.4330	65.5917	67.4224	54.3968	90.3889	29.5444	36.9927	6.5394	26.7177	12.9707	89.7946	52.4118	38.0247	15.9865	33.0109	27.4680	43.7732	23.7569	64.5566	63.8899	73.4612	40.5447	22.1207	33.7042	84.9701	44.0223	38.5320	43.3613	31.9132	30.0542	51.9250	51.6846	30.3513	22.3750	68.2177	78.9617	41.7498	19.9499	80.0253	49.1316	39.1988	16.0949	87.1899	49.3509	98.6505	105.6883	62.9907	85.3551	15.1022	17.1921	19.0882	9.7296
+Phenylalanine	82.1842	50.7062	62.4486	47.6374	50.0670	44.4171	55.7509	34.6067	62.8857	46.6345	60.4879	39.7535	51.0747	36.5775	61.9702	41.4333	48.2443	36.4694	53.1160	41.9261	65.2038	272.3942	49.2962	37.7954	228.7697	298.4344	51.2199	238.2464	59.5585	330.3486	42.3605	34.9108	72.9464	336.1041	56.2146	36.9911	56.6751	374.4393	67.6028	345.2555	50.7681	45.6709	47.3243	263.0411	62.1794	38.5736	48.7965	34.6802	58.7372	39.1362	34.4398	234.6251	50.3189	35.7601	51.6802	312.9131	49.4446	38.4997	39.5453	56.6470	63.5040	44.1469	57.1193	43.8336	50.7145	36.4352	66.0728	418.8770	54.1673	49.7359	61.6835	57.6951	69.5340	358.8052	49.6182	192.0701	55.4201	322.7481	47.3682	296.9068	53.0601	286.9696	53.5696	306.8174	43.2279	321.6852	85.4582	58.3301	43.3319	285.7472	66.8546	278.4367	73.7344	50.3034	45.1980	44.4222	53.7714	45.7098	43.8202	47.8134	49.2786	49.0598	64.4350	65.2507	50.1266	35.8287	64.6850	50.0057	58.6183	39.7173	60.1599	45.5206	56.8525	51.3833	61.4964	52.6002	44.4795	46.2906	52.1120	33.0277
+Phosphoethanolamine	1.4936	0.6925	1.0019	0.9166	1.0206	0.9831	1.0729	1.0028	1.4104	1.0935	1.0602	0.7973	0.7902	0.7318	0.8232	0.7763	0.2323	0.4733	1.6126	1.0074	1.4232	1.1720	1.0468	1.0674	0.6143	0.6488	0.8333	0.6546	0.8155	0.6348	0.5391	0.5975	0.7497	0.6681	1.4371	0.9846	1.1149	0.4584	1.2289	0.6998	1.2865	1.2777	1.0465	1.0009	0.6587	0.6205	0.8412	0.6558	0.8087	0.7974	0.7880	0.5753	0.8233	0.5915	1.5574	0.7951	1.0279	0.7377	0.4558	0.9240	1.3775	1.1014	0.8735	1.4858	1.6121	1.4958	0.8822	0.6222	0.7337	0.5567	0.7532	0.5265	0.9382	0.6243	0.6540	0.1215	0.7438	0.8132	1.1020	1.0045	1.3193	1.0054	0.8638	0.0000	1.7491	1.5665	0.9880	0.8249	0.6968	0.5256	0.6587	0.5258	1.0109	0.7993	0.5399	0.1249	0.8688	0.6618	1.1005	1.0978	0.7639	0.8850	0.9689	0.9145	1.0648	1.1063	1.1505	1.0604	1.2311	1.1557	1.4235	0.8421	0.5155	0.5481	0.9828	1.1308	0.1659	0.0643	3.1727	0.5313
+Proline	202.5259	152.1420	207.7086	147.3107	167.6404	143.3917	195.9627	128.8497	189.3691	175.3973	206.4400	127.3710	213.2856	128.6060	253.1675	140.5022	205.7347	154.3153	162.3398	119.1012	134.7561	80.3745	163.9147	86.5095	162.3764	107.5247	140.5874	83.1963	242.8683	137.7476	231.2221	149.5745	232.5018	122.5541	194.3306	106.9270	203.6362	105.0926	162.1712	93.4967	115.2579	71.4702	152.6582	79.8573	186.1004	107.6949	126.8363	70.9423	227.5265	140.1655	217.1340	140.1691	179.8543	106.4411	179.8894	105.9880	146.8897	94.5499	100.6501	133.1875	166.9553	105.7345	204.1623	198.6335	155.8442	106.9586	172.8981	152.5065	120.8711	114.7492	168.7403	155.0274	238.4370	164.0794	292.2097	106.1722	163.8764	114.8964	177.5309	131.3303	131.1808	85.9542	160.8854	139.0637	107.2211	70.9680	189.5450	160.7550	102.9582	86.3744	155.9811	121.6341	236.6083	185.6098	294.6169	239.4952	152.2732	139.8669	135.3545	142.3967	155.4966	134.9433	182.3022	230.0112	155.4578	97.0911	199.9043	186.9724	173.3285	123.8071	217.2111	183.0607	212.4963	204.6910	253.1507	190.0210	179.9963	199.6429	160.4773	91.0036
+Sarcosine	2.4616	18.4028	1.1991	0.8453	1.5509	1.5179	1.1622	0.6920	1.0970	0.8853	1.8363	1.1590	1.1450	0.7548	1.9510	1.0883	1.8377	2.7152	22.9934	1.4710	0.6494	2.8556	1.0659	0.5171	4.0897	4.6687	1.2825	3.2942	2.8627	6.8541	10.0054	0.7444	3.1241	6.6269	20.7086	1.1581	18.0522	22.5509	2.7207	70.4730	0.4715	0.1867	0.8867	5.7376	2.5845	1.5238	1.1759	0.6555	2.5552	1.6957	1.6157	3.8710	9.1425	4.9949	1.9524	6.6196	1.3658	1.4514	27.4851	2.6571	1.3159	0.8240	1.1265	1.0610	0.4669	0.2955	2.3055	5.7544	1.0253	0.8880	2.5243	2.0995	1.9223	5.0827	8.2290	20.8681	1.5716	5.0954	1.1650	7.3709	0.5401	2.4756	1.0828	4.6696	0.4909	4.0459	2.8585	2.3055	0.7855	4.2290	1.9710	8.6669	1.8034	1.3242	9.7813	1.5503	1.4442	7.9526	0.8197	0.7163	18.3416	1.7573	1.1506	1.1217	1.3326	0.8782	1.3003	1.1091	1.2497	0.8186	1.7589	1.3207	1.1999	0.9858	1.9079	1.3477	17.2500	7.3442	5.6652	9.8089
+Serine	114.2469	89.0741	143.4613	133.9903	98.2191	105.7718	123.0119	84.3859	120.2730	121.8753	133.7597	98.8483	131.2260	84.4925	103.1325	76.7421	136.9573	111.5756	94.5445	91.1238	101.2039	111.1036	107.6016	82.9138	99.9619	56.4568	110.0257	75.3424	117.6360	71.7728	92.6043	65.7547	123.2551	41.5697	118.8445	63.2962	136.2303	71.8818	90.7432	52.4221	103.6636	80.1545	95.5553	74.7698	113.3703	65.6479	98.1848	63.1683	96.2580	59.0848	89.7670	68.1762	106.4005	51.3368	102.7883	60.5351	109.1103	76.9371	62.1980	82.5617	171.4879	114.5569	103.1211	122.7468	116.4952	102.8429	109.4607	97.1469	115.7687	117.7486	114.8018	144.1189	98.2980	73.1676	94.6750	32.8569	98.3730	87.9372	180.7659	133.8657	118.8641	84.4469	99.8311	92.2572	106.3059	113.6251	110.9351	114.0374	124.4521	95.4910	100.1537	106.8897	91.9908	87.6236	109.4465	106.1504	92.1413	106.8805	98.7722	147.4374	97.3667	143.8866	123.2892	192.2128	107.8112	78.0864	128.5523	143.7895	127.1031	80.3035	117.6301	127.5911	113.6305	138.6167	104.8410	130.1516	136.2708	193.7701	100.6614	56.7054
+Taurine	54.2220	43.8542	79.8894	133.9338	55.8774	82.4030	67.1704	40.2377	70.5103	68.0849	45.5660	38.5364	40.1239	31.7408	49.1459	44.2129	58.8350	57.2986	50.3531	45.0837	96.7060	101.8758	73.2290	52.1810	54.2329	57.0412	43.1993	42.2788	35.7067	33.5187	51.5116	43.8988	54.7112	53.6156	51.9673	33.6456	57.3752	45.6575	39.6791	53.5236	71.7822	49.1011	59.8134	54.0131	57.0106	53.6628	37.4221	36.3397	41.3048	35.8122	50.2508	43.7399	47.1845	42.6424	47.2874	36.4257	46.8594	41.5852	33.1044	48.0148	128.6594	75.0939	94.3470	87.9188	79.0253	46.7514	48.6201	52.4405	42.0890	41.7542	51.6398	45.6323	44.3409	40.0372	48.6482	24.9800	77.6638	60.4505	75.2433	99.9119	88.3621	94.3568	91.3305	91.4114	45.7903	55.6946	60.7094	50.1142	36.8811	46.1714	53.7032	52.4425	51.8283	46.5284	36.7278	42.9898	62.3581	55.3952	50.8679	96.2380	42.4807	45.4248	69.4147	189.0938	66.9734	35.6465	78.1543	92.0088	62.8824	32.9621	54.8767	40.4355	32.3811	35.3615	59.7687	52.5009	49.9678	52.7996	66.0063	43.9501
+Threonine	161.8132	139.6460	143.1773	106.0724	100.1157	113.6343	126.2779	73.0369	141.0415	144.3603	163.9054	109.0713	120.0432	72.9972	109.0576	58.6006	148.1770	110.3715	134.1146	105.3329	171.6723	426.6934	108.6981	62.7401	249.6777	314.4524	182.4576	419.3831	148.3661	381.8944	108.6520	59.5126	149.7275	428.9492	124.0860	64.8450	131.2482	391.3091	109.4034	342.5119	171.3426	115.6137	113.4229	373.0270	127.8655	63.3311	185.5233	103.4914	125.0096	66.4827	127.6889	354.2261	115.1688	58.6576	109.1920	367.2757	118.0318	71.6491	72.1827	101.0604	192.2574	136.0707	126.1052	147.9058	202.0054	184.2927	85.9000	388.7923	151.1924	152.8718	135.9025	158.9154	127.1697	421.1610	156.1455	285.5671	100.4515	444.0870	165.5744	477.4526	233.8523	557.3670	104.0931	486.2311	182.9793	749.8330	107.6761	101.2405	117.6112	462.3849	108.8708	371.9868	120.1746	104.7059	153.8976	146.1056	98.4026	111.2206	84.1573	111.7778	105.9803	93.8789	142.0773	188.6415	89.5402	58.9362	126.9113	148.1414	111.9562	66.1253	180.0971	180.9148	115.9675	134.2130	111.3507	114.7481	148.5445	201.2725	140.0885	75.6748
+Tryptophan	59.8037	35.5206	65.4267	36.1210	52.7513	38.2386	54.5934	28.0337	51.8932	28.6018	84.2882	40.2664	69.5515	32.8469	56.6904	26.6886	54.3775	31.8677	77.8350	40.1854	64.1911	93.8418	58.6512	29.6185	112.2981	106.1806	62.7870	97.4316	68.5691	102.9887	56.3240	27.7508	78.1298	111.5785	57.8626	25.8419	71.9736	117.3721	80.7977	151.0205	57.0455	40.3820	52.5631	92.9824	72.1383	26.7941	59.1577	28.4500	78.5654	30.2025	49.5025	99.1106	53.0614	26.7777	56.2798	100.5931	58.9986	34.7491	33.6686	72.4355	68.9091	45.8829	61.1941	36.2610	58.6792	40.9652	67.2346	115.4865	59.7976	47.2491	55.1503	41.8388	71.9995	142.8879	74.5928	85.1054	74.9811	131.0192	52.1920	98.3295	66.4743	104.5772	58.3786	117.1024	58.2497	114.1396	77.6130	41.3587	41.4473	120.9138	51.9100	108.1147	83.2441	40.3574	53.1261	42.9450	59.2762	42.6491	57.5877	37.7167	56.7256	34.4494	76.2203	42.2447	59.6230	29.6342	60.9758	42.5968	45.8590	22.3072	91.2335	49.2838	76.2255	44.9064	60.6584	38.0078	53.5003	33.2416	75.2030	30.7951
+Tyrosine	70.3129	50.3782	78.8608	49.9735	48.3614	51.9320	59.2224	43.1955	63.4183	55.8085	77.3496	61.7936	85.0365	53.3894	59.1889	35.4605	49.2403	29.7966	76.0609	54.0706	55.5312	80.2679	66.2252	35.5342	65.7673	113.1419	45.3775	71.7362	78.1887	135.3001	53.3613	37.4820	57.6122	149.5061	75.5140	35.7202	70.3727	141.9424	79.4368	163.3516	47.9077	30.0769	55.2821	82.7119	57.5252	29.0454	39.9521	18.1977	62.6464	32.9930	45.7591	88.7746	48.4207	27.8042	69.9242	140.2081	54.4823	34.1722	55.2372	70.5624	73.2420	39.1180	50.6355	60.0943	39.0717	26.8952	71.0041	95.0910	65.4361	58.5957	76.2803	69.2343	71.9494	95.1344	62.8686	53.5355	54.5883	113.8196	62.9509	90.2239	41.4986	54.5741	56.4062	140.1748	33.0441	82.6766	82.6591	61.1647	47.5050	100.7530	76.7441	93.5825	73.1491	57.6476	57.4366	50.3104	52.1911	58.8242	50.7299	55.0946	50.8413	49.5635	92.2943	103.4786	43.6274	37.1821	73.2063	74.1678	53.7761	40.5252	79.8087	80.8696	92.1036	86.1705	62.1383	58.9936	49.5319	49.6650	70.4665	34.6358
+Valine	347.1732	216.5445	346.3283	200.6000	225.6599	199.9230	257.0028	114.7812	294.4031	237.1038	292.9948	153.1485	264.7459	143.6255	272.9200	120.4916	194.6066	100.7149	257.5418	158.2389	214.2989	482.4277	246.2435	127.6124	583.2190	558.7978	269.4309	491.1309	322.2088	625.7736	225.4470	99.7072	353.0291	596.8665	344.8907	146.3282	283.2522	584.4180	316.9523	690.9904	206.5850	106.9459	245.9309	551.2496	349.3389	142.5409	255.5079	109.1456	294.7380	156.6719	207.9655	439.2393	289.8256	130.1696	323.8757	717.0036	227.2758	103.3738	171.2863	281.1003	271.0790	204.9436	234.6524	184.0205	188.5520	135.1047	308.0558	805.9557	235.3750	184.6797	239.5412	212.3911	319.0871	814.6324	300.8271	367.8563	319.0017	928.2012	244.3703	703.9573	256.8548	840.9989	216.8191	732.6385	173.7029	712.3858	346.6306	239.6470	189.4600	655.7145	242.4180	619.9128	298.3795	208.6237	258.8581	174.9483	304.5467	231.1474	230.5156	212.7757	300.2963	207.9323	388.2600	327.9886	233.8137	135.9938	284.2943	196.4257	296.9085	139.9930	293.3013	212.3524	251.6495	220.3006	259.9569	184.8064	181.6754	214.0054	245.9480	106.0549
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+1-Methylhistidine								MAYO_ID
+3-Methylhistidine								MAYO_ID
+Alanine								MAYO_ID
+allo-Isoleucine								MAYO_ID
+alpha-Aminoadipic-acid								MAYO_ID
+alpha-Amino-N-butyric-acid								MAYO_ID
+Anserine								MAYO_ID
+Arginine								MAYO_ID
+Asparagine								MAYO_ID
+Aspartic Acid								MAYO_ID
+beta-Alanine								MAYO_ID
+beta-Aminoisobutyric-acid								MAYO_ID
+Carnosine								MAYO_ID
+Citrulline								MAYO_ID
+Cystathionine 1								MAYO_ID
+Cystathionine 2								MAYO_ID
+Cystine								MAYO_ID
+Ethanolamine								MAYO_ID
+gamma-Amino-N-butyric-acid								MAYO_ID
+Glutamic acid								MAYO_ID
+Glutamine								MAYO_ID
+Glycine								MAYO_ID
+Histidine								MAYO_ID
+Homocystine								MAYO_ID
+Hydroxylysine 1								MAYO_ID
+Hydroxylysine 2								MAYO_ID
+Hydroxyproline								MAYO_ID
+Isoleucine								MAYO_ID
+Leucine								MAYO_ID
+Lysine								MAYO_ID
+Methionine								MAYO_ID
+Ornithine								MAYO_ID
+Phenylalanine								MAYO_ID
+Phosphoethanolamine								MAYO_ID
+Proline								MAYO_ID
+Sarcosine								MAYO_ID
+Serine								MAYO_ID
+Taurine								MAYO_ID
+Threonine								MAYO_ID
+Tryptophan								MAYO_ID
+Tyrosine								MAYO_ID
+Valine								MAYO_ID
+METABOLITES_END
+#END

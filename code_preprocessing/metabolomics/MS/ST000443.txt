@@ -1,0 +1,185 @@
+#METABOLOMICS WORKBENCH hormel101_20160720_143619_mwtab.txt DATATRACK_ID:683 STUDY_ID:ST000443 ANALYSIS_ID:AN000694
+VERSION             	1
+CREATED_ON             	August 5, 2016, 10:26 am
+#PROJECT
+PR:PROJECT_TITLE                 	Impact of Long-Term Poor and Good Glycemic Control on Metabolomics Alterations
+PR:PROJECT_TITLE                 	in Type 1 Diabetic People.
+PR:PROJECT_TYPE                  	Targeted GC-MS of plasma levels of tricarboxylic acid (TCA) cycle metabolites
+PR:PROJECT_SUMMARY               	The objective of the study was to determine whether T1D with good glycemic
+PR:PROJECT_SUMMARY               	control have persistent abnormalities of metabolites and pathways that exist in
+PR:PROJECT_SUMMARY               	T1D with poor glycemic control.
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Endocrinology
+PR:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+PR:LAST_NAME                     	Nair
+PR:FIRST_NAME                    	Sreekumaran
+PR:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+PR:EMAIL                         	Nair.K@mayo.edu
+PR:PHONE                         	507-285-2415
+#STUDY
+ST:STUDY_TITLE                   	Quantitative measurements of TCA cycle metabolites in T1D poor control, good
+ST:STUDY_TITLE                   	control, and controls.
+ST:STUDY_TYPE                    	Quantitative measurements of plasma levels of tricarboxylic acid (TCA) cycle
+ST:STUDY_TYPE                    	metabolites
+ST:STUDY_SUMMARY                 	The objective of the study was to determine whether T1D with good glycemic
+ST:STUDY_SUMMARY                 	control have persistent abnormalities of metabolites and pathways that exist in
+ST:STUDY_SUMMARY                 	T1D with poor glycemic control.
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Endocrinology
+ST:LABORATORY                    	Mayo Clinic Metabolomics Resource Core
+ST:LAST_NAME                     	Nair
+ST:FIRST_NAME                    	Sreekumaran
+ST:ADDRESS                       	200 First Street SW, Rochester, MN 55905
+ST:EMAIL                         	Nair.K@mayo.edu
+ST:PHONE                         	507-285-2415
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	ms3332-1	sample1	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-2	sample2	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-3	sample3	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-4	sample4	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-5	sample5	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-6	sample6	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-7	sample7	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-8	sample8	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-9	sample9	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-10	sample10	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-19	sample11	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-20	sample12	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-21	sample13	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-22	sample14	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-23	sample15	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-20	sample16	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-11	sample17	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-12	sample18	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-13	sample19	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-14	sample20	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-15	sample21	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-16	sample22	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-24	sample23	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-25	sample24	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-26	sample25	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-16	sample26	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-17	sample27	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-18	sample28	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-27	sample29	treatment:T1D good glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3332-28	sample30	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-25	sample31	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-14	sample32	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-27	sample33	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-4	sample34	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-6	sample35	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-36	sample36	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-50	sample37	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-20	sample38	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-28	sample39	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-8	sample40	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-14	sample41	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-10	sample42	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-12	sample43	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3332-54	sample44	treatment:ND	
+SUBJECT_SAMPLE_FACTORS           	ms3333-1	sample45	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-21	sample46	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-7	sample47	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-22	sample48	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-9	sample49	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-11	sample50	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-23	sample51	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-13	sample52	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-15	sample53	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-3	sample54	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-5	sample55	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-16	sample56	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-18	sample57	treatment:T1D poor glycemic control	
+SUBJECT_SAMPLE_FACTORS           	ms3333-19	sample58	treatment:T1D poor glycemic control	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	At 5:00 AM after an overnight fast, baseline blood samples were collected from
+CO:COLLECTION_SUMMARY            	study participants. Plasma samples were stored at 80°C until analysis.
+CO:SAMPLE_TYPE                   	Blood. Plasma was isolated for MS analysis.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Participants were admitted to the Clinical Research Unit at St Mary’s Hospital
+TR:TREATMENT_SUMMARY             	(Rochester, Minnesota) the evening before the study and spent overnight in the
+TR:TREATMENT_SUMMARY             	Clinical Research Unit. The participants were given a standard meal on the
+TR:TREATMENT_SUMMARY             	evening of the admission after which they fasted overnight. Participants with
+TR:TREATMENT_SUMMARY             	T1D were treated with insulin as per their usual individual programs. At 5:00 AM
+TR:TREATMENT_SUMMARY             	after an overnight fast, baseline blood samples were collected from study
+TR:TREATMENT_SUMMARY             	participants. Plasma samples were stored at 80°C until analysis.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Plasma quality-control samples used in the study were prepared from pooled
+SP:SAMPLEPREP_SUMMARY            	plasma spiked with a selection of metabolites to mimic elevated levels of
+SP:SAMPLEPREP_SUMMARY            	metabolites during I− (insulin withdrawn) condition. Plasma was spiked with a
+SP:SAMPLEPREP_SUMMARY            	standard mixture (3:1 ratio of plasma to spiking solution) containing 100 μg/mL
+SP:SAMPLEPREP_SUMMARY            	niacin, hypoxanthine, leucine, isoleucine, phenylalanine, tryptophan, citric
+SP:SAMPLEPREP_SUMMARY            	acid, glucose, hippuric acid, and taurocholic acid dissolved in 1:1
+SP:SAMPLEPREP_SUMMARY            	acetonitrile/water. All plasma samples (200 μL) were thawed on ice at 4°C
+SP:SAMPLEPREP_SUMMARY            	followed by deproteinization with methanol (1:4 ratio of plasma to methanol) and
+SP:SAMPLEPREP_SUMMARY            	vortexed for 10 s, followed by incubation at −20°C for 2 h. The samples were
+SP:SAMPLEPREP_SUMMARY            	then centrifuged at 15,871g for 30 min at 4°C. The supernatants were
+SP:SAMPLEPREP_SUMMARY            	lyophilized (Savant, Holbrook, NY) and stored at −20°C prior to analysis. The
+SP:SAMPLEPREP_SUMMARY            	samples were reconstituted in 50% H2O/acetonitrile and passed through a Microcon
+SP:SAMPLEPREP_SUMMARY            	YM3 filter (Millipore Corporation). The supernatants were transferred to
+SP:SAMPLEPREP_SUMMARY            	analytical vials, stored in the autosampler at 4°C, and analyzed within 48 h of
+SP:SAMPLEPREP_SUMMARY            	reconstitution in buffer.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	The derivatized extracts were analyzed with an Agilent 6890 gas chromatograph
+CH:CHROMATOGRAPHY_SUMMARY     	coupled with an Agilent 5973 mass selective detector. The 1-μL aliquots of the
+CH:CHROMATOGRAPHY_SUMMARY     	extracts were injected into a DB5-MS capillary column (30 m × 250 μm i.d.,
+CH:CHROMATOGRAPHY_SUMMARY     	0.25-μm film thickness; J&W Scientific, Folson, CA) using PTV injection
+CH:CHROMATOGRAPHY_SUMMARY     	(Gerstel CIS4 injector) in the splitless mode. The temperature of the PTV was 70
+CH:CHROMATOGRAPHY_SUMMARY     	°C during injection, and 0.6 min after injection, the temperature was raised to
+CH:CHROMATOGRAPHY_SUMMARY     	300 °C at a rate of 2 °C/s and held at 300 °C for 20 min. The initial GC oven
+CH:CHROMATOGRAPHY_SUMMARY     	temperature was 70 °C, 5 min after injection the GC oven temperature was
+CH:CHROMATOGRAPHY_SUMMARY     	increased with 5 °C/min to 320 °C and held for 5 min at 320 °C. Helium was
+CH:CHROMATOGRAPHY_SUMMARY     	used as a carrier gas and pressure programmed such that the helium flow was kept
+CH:CHROMATOGRAPHY_SUMMARY     	constant at a flow rate of 1.7 mL/min. Detection was achieved using MS detection
+CH:CHROMATOGRAPHY_SUMMARY     	in electron impact mode and full scan monitoring mode (m/z 15−800). The
+CH:CHROMATOGRAPHY_SUMMARY     	temperature of the ion source was set at 250 °C and that of the quadrupole at
+CH:CHROMATOGRAPHY_SUMMARY     	200 °C.
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent 6890 gas chromatograph
+CH:COLUMN_NAME                	None
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	TSQ Ultra Quantum from Thermo Finnigan
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	UNSPECIFIED
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	micromolar
+MS_METABOLITE_DATA_START
+Samples	sample1	sample2	sample3	sample4	sample5	sample6	sample7	sample8	sample9	sample10	sample11	sample12	sample13	sample14	sample15	sample16	sample17	sample18	sample19	sample20	sample21	sample22	sample23	sample24	sample25	sample26	sample27	sample28	sample29	sample30	sample31	sample32	sample33	sample34	sample35	sample36	sample37	sample38	sample39	sample40	sample41	sample42	sample43	sample44	sample45	sample46	sample47	sample48	sample49	sample50	sample51	sample52	sample53	sample54	sample55	sample56	sample57	sample58
+Factors	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:T1D good glycemic control	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:ND	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control	treatment:T1D poor glycemic control
+Citrate	129.409	151.45	132.09	160.582	139.822	240.655	150.787	161.508	206.101	111.822	151.149	161.742	121.657	128.015	212.104	161.439	140.06	155.595	154.462	137.393	97.643	154.683	156.613	146.307	159.329	153.502	128.017	158.248	169.83	121.615	165.4	134.54	101.11	182.76	146.54	151.19	135.915	120.29	121.44	160.7	138.44	151	143.61	176.203	140.49	146.08	145.09	146.63	143.91	106.71	137.517	139.24	120.96	125.09	171.23	130.4	111.603	106.19
+cis.Aconitate	7.016	6.715	8.198	6.811	8.733	8.616	8.088	7.312	10.19	6.864	9.68	11.902	11.789	8.937	11.614	12.388	9.276	9.012	10.06	8.776	9.095	9.349	10.314	9.595	9.435	9.371	9.847	8.88	12.047	10.757	NA	9.71	8.35	8.23	8.49	7.71	3.824	8.37	7.61	9.43	8.84	9.69	8.93	4.636	8.26	8.81	7.22	9.26	9.95	9.46	4.447	8.01	9.4	8.89	11.61	6.42	4.853	8.53
+Isocitrate	5.174	4.823	3.193	4.693	3.529	8.331	5.241	6.378	6.651	5.752	2.368	5.993	1.16	5.479	9.255	6.631	6.755	6.608	5.65	7.009	NA	3.999	5.607	2.916	4.518	6.191	4.886	5.016	NA	5.537	5.37	5.39	3.81	5.85	6.1	4.66	5.568	3.71	6.2	6.81	6.75	6.08	5.79	6.512	4.26	5.89	6.07	4.53	1.98	5.48	5.69	7.85	1.56	2.28	4.65	1.51	3.653	2.56
+Ketoglutarate	17.043	7.759	9.32	8.77	12.235	14.028	10.882	13.581	13.709	7.695	12.939	15.085	9.809	12.485	11.337	15.079	8.577	12.148	12.049	10.911	10.316	14.67	21.656	10.782	11.113	14.517	11.444	13.338	12.055	9.916	8.65	8.25	11.11	11.4	9.77	13.78	9.407	12.68	9.93	9.19	10.91	9.69	9.96	10.064	10.56	12.71	10.59	8.67	13.38	11.06	9.434	13.44	11.26	9.7	13.28	12.43	7.275	8.7
+succinate	4.163	2.579	2.817	2.607	3.253	4.951	3.258	3.821	3.809	2.495	3.749	4.896	4.6	3.405	4.523	4.874	2.616	3.459	3.437	2.896	2.739	5.719	4.683	3.454	4.082	5.88	4.388	5.7	5.643	3.055	4.59	2.43	5.14	4.08	2.82	5.26	3.773	4.12	NA	3.08	2.94	3.25	2.72	4.711	3.84	5.18	3.72	4.61	4.03	3.74	1.802	3.28	4.66	3.21	4.14	4.54	1.17	3.91
+fummarate	1.927	0.997	1.553	1.046	1.445	2.322	1.728	1.753	1.834	1.174	2.099	2.54	1.837	1.738	2.468	2.561	1.47	1.737	1.762	2.033	1.394	2.908	3.674	1.954	2.231	2.98	2.133	3.127	2.214	2.172	1.77	1.21	2.09	2.21	1.2	1.78	1.518	2.78	1.49	2.04	2.11	1.63	1.72	2.429	1.32	2.15	1.49	2.04	2.18	2.04	1.288	1.81	1.8	1.38	1.81	1.94	0.929	1.59
+Malate	4.83	2.246	4.431	2.865	3.739	7.132	4.769	4.479	4.598	2.52	3.831	4.183	3.627	3.35	6.496	4.154	4.136	3.927	4.839	4.02	2.469	5.412	6.337	3.521	4.308	5.365	4.661	5.004	4.339	3.083	4.39	2.09	4.56	4.68	2.55	3.84	2.683	6.23	3.16	4.42	3.98	3.67	3.84	8.92	3.61	4.79	4.2	3.45	4.74	3.51	2.603	4.43	4.51	3.5	5.56	3.54	2.74	2.41
+Oxaloacetate	0.988	0.685	0.638	0.449	1.094	0.198	0.471	1.539	0.455	0.862	1.306	1.434	1.372	1.562	1.494	1.417	0.832	0.541	0.673	0.764	1.139	1.04	1.437	1.334	1.406	1.602	1.425	1.774	1.439	1.448	NA	0.63	1.27	2.19	0.74	1.28	0.357	1.42	1.45	1.31	0.79	2.22	0.98	0.655	0.78	1.41	1.54	1.26	0.39	1.38	1.033	0.73	1.38	0.85	0.87	1.51	0.988	1.26
+Aspartate	0.426	0.882	2.113	0.291	1.509	0.24	0.832	2.505	0.157	1.076	1.518	1.743	2.61	0.924	0.969	1.718	2.751	0.731	2.614	1.378	1.893	2.393	1.21	1.313	1.546	2.34	2.617	1.173	0.648	1.544	NA	0.79	0.81	1.25	0.92	0.76	0.69	1.22	1.55	2.18	1.43	0.79	0.91	1.303	3.66	1.1	1.25	2.06	1.57	1.71	1.364	1.33	1.41	1.88	1.11	1	0.54	1.26
+Glutamate	119.374	86.447	118.767	74.218	120.377	23.964	39.453	369.402	31.138	133.69	288.466	261.847	234.399	155.741	99.413	273.395	195.569	157.737	180.506	170.106	435.011	332.078	422.406	346.439	300.114	382.792	214.579	234.834	60.201	593.966	NA	212.32	58.94	76.25	124.62	85.99	56.348	133.94	402.74	341.29	180.65	156.21	247.71	127.927	273.56	123.93	305.62	257.66	182.52	263.24	241.339	135.19	166.74	273.12	131.69	71.24	98.966	280.48
+Lacatate	80.199	59.895	27.472	73.667	44.132	70.29	50.013	85.155	56.179	64.61	172.298	133.209	72.363	114.601	127.77	134.176	53.29	99.514	208.27	44.562	98.247	NA	83.018	121.839	71.672	NA	88.389	17.251	120.304	162.041	82.6	97.11	247.64	188.32	152.55	123.54	102.913	NA	171.37	63.66	47.18	52.41	61.51	212.425	49.99	188.48	42.37	62.51	90.09	126.8	77.364	123.04	133.02	47.79	156.93	103.32	80.37	51.88
+Alanine	383.673	356.072	399.334	385.052	405.646	434.298	357.49	440.415	381.397	311.723	386.988	392.706	333.001	347.981	432.635	393.753	419.033	428.607	383.098	398.638	385.287	422.021	314.328	375.073	380.41	428.762	345.497	353.356	348.808	416.794	68.74	431.45	395.21	465.32	410.93	399.83	362.082	427.84	420.21	376.5	408.15	371.21	316.97	384.216	389.61	413.54	372.58	373.2	439.15	430.95	359.997	453.24	440.81	350.66	457.72	355.98	251.086	331.75
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name
+Citrate
+cis.Aconitate
+Isocitrate
+Ketoglutarate
+succinate
+fummarate
+Malate
+Oxaloacetate
+Aspartate
+Glutamate
+Lacatate
+Alanine
+METABOLITES_END
+#END

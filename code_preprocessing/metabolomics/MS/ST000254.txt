@@ -1,0 +1,166 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000254 ANALYSIS_ID:AN000402
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	The role of microbial metabolites in experimental liver disease
+PR:PROJECT_TYPE                  	Targeted Metabolomics
+PR:PROJECT_SUMMARY               	Liver fibrosis is the result of chronic liver damage from various etiologies
+PR:PROJECT_SUMMARY               	toxins, alcohol abuse, obesity, or viral hepatitis. Chronic liver disease may
+PR:PROJECT_SUMMARY               	to cirrhosis, an end stage organ disease, and liver cancer. Patients with
+PR:PROJECT_SUMMARY               	liver disease show intestinal bacterial overgrowth and dysbiosis. They also
+PR:PROJECT_SUMMARY               	increased intestinal permeability, and disease severity correlates with
+PR:PROJECT_SUMMARY               	levels of bacterial products. Although experimental liver fibrosis is dependent
+PR:PROJECT_SUMMARY               	gut derived bacterial products, the exact contribution of the commensal
+PR:PROJECT_SUMMARY               	to chronic liver disease in unknown. Since the interaction of bacterial
+PR:PROJECT_SUMMARY               	with the innate immune system can also confer protection to the host, we
+PR:PROJECT_SUMMARY               	germfree mice to experimental models of liver fibrosis. Results from our
+PR:PROJECT_SUMMARY               	demonstrate that germfree mice show exacerbated liver fibrosis as compared to
+PR:PROJECT_SUMMARY               	mice. Our previous studies also have indicated that a bacterial metabolite of
+PR:PROJECT_SUMMARY               	Indole-3-propionic Acid (IPA), is absent in germ free mice. In this study we
+PR:PROJECT_SUMMARY               	investigating the role of IPA in acute and chronic models of liver fibrosis.
+PR:INSTITUTE                     	University of California, San Diego
+PR:LAST_NAME                     	Schnabl
+PR:FIRST_NAME                    	Bernd
+PR:ADDRESS                       	9500 Gilman Drive, MC0063 La Jolla, CA 92093
+PR:EMAIL                         	beschnabl@ucsd.edu
+PR:PHONE                         	858-822-5311
+#STUDY
+ST:STUDY_TITLE                   	The role of microbial metabolites in experimental liver disease
+ST:STUDY_TYPE                    	Targeted Metabolomic Analysis of plasma samples
+ST:STUDY_SUMMARY                 	Aim 1: Our experimental approach is to understand the effect of drinking water
+ST:STUDY_SUMMARY                 	bacterial metabolite, Indole-3-propionic Acid (IPA), in liver disease in an
+ST:STUDY_SUMMARY                 	alcohol model. Aim 2: Determine the levels of IPA in plasma of conventional
+ST:STUDY_SUMMARY                 	in a chronic alcohol model.Aim 3: Determine the levels of IPA in plasma of
+ST:STUDY_SUMMARY                 	WT (C57BL/6) and mutant SL (sublytic, which is a mouse with a point mutation in
+ST:STUDY_SUMMARY                 	mice.
+ST:INSTITUTE                     	RTI International
+ST:DEPARTMENT                    	Discovery Science Technology
+ST:LABORATORY                    	NIH Eastern Regional Comprehensive Metabolomics Resource Core (RTI RCMRC)
+ST:LAST_NAME                     	Sumner
+ST:FIRST_NAME                    	Susan
+ST:ADDRESS                       	3040 E. Cornwallis Road, Research Triangle Park, NC 27709, USA
+ST:EMAIL                         	ssumner@rti.org
+ST:PHONE                         	919-541-7479
+ST:NUM_GROUPS                    	2
+ST:TOTAL_SUBJECTS                	31
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+SU:GENOTYPE_STRAIN               	C57BL/6
+SU:SPECIES_GROUP                 	Mammal
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	P7	Groups:Acute Alcohol Model | Treatment:0 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P8	Groups:Acute Alcohol Model | Treatment:0 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P13	Groups:Acute Alcohol Model | Treatment:10 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P14	Groups:Acute Alcohol Model | Treatment:10 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P15	Groups:Acute Alcohol Model | Treatment:10 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P10	Groups:Acute Alcohol Model | Treatment:1 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P11	Groups:Acute Alcohol Model | Treatment:1 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P12	Groups:Acute Alcohol Model | Treatment:1 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P9	Groups:Acute Alcohol Model | Treatment:1 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	STD10	Groups:Calibration Standard 10 | Treatment:2000 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD11	Groups:Calibration Standard 11 | Treatment:2500 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD12	Groups:Calibration Standard 12 | Treatment:3000 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD1	Groups:Calibration Standard 1 | Treatment:10 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD2	Groups:Calibration Standard 2 | Treatment:20 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD3	Groups:Calibration Standard 3 | Treatment:40 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD4	Groups:Calibration Standard 4 | Treatment:80 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD5	Groups:Calibration Standard 5 | Treatment:160 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD6	Groups:Calibration Standard 6 | Treatment:320 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD7	Groups:Calibration Standard 7 | Treatment:650 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD8	Groups:Calibration Standard 8 | Treatment:1000 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	STD9	Groups:Calibration Standard 9 | Treatment:1500 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	P28	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:SL	
+SUBJECT_SAMPLE_FACTORS           	-	P29	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:SL	
+SUBJECT_SAMPLE_FACTORS           	-	P30	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:SL	
+SUBJECT_SAMPLE_FACTORS           	-	P31	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:SL	
+SUBJECT_SAMPLE_FACTORS           	-	P20	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P21	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P22	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P23	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P24	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P25	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P26	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P27	Groups:Chronic Alcohol Model | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P1	Groups:Control | Treatment:0 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P2	Groups:Control | Treatment:0 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P5	Groups:Control | Treatment:10 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P6	Groups:Control | Treatment:10 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P3	Groups:Control | Treatment:1 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P4	Groups:Control | Treatment:1 mM IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P16	Groups:Control | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P17	Groups:Control | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P18	Groups:Control | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	P19	Groups:Control | Treatment:No IPA | Strain:WT	
+SUBJECT_SAMPLE_FACTORS           	-	QC1	Groups:Quality Control Sample 1 | Treatment:30 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	QC2	Groups:Quality Control Sample 2 | Treatment:200 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	QC3	Groups:Quality Control Sample 3 | Treatment:600 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	QC4	Groups:Quality Control Sample 4 | Treatment:1800 ng/ml of IPA | Strain:N/A	
+SUBJECT_SAMPLE_FACTORS           	-	QC5	Groups:Quality Control Sample 5 | Treatment:2400 ng/ml of IPA | Strain:N/A	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Control vs IPA Supplemented Wild Type and SL Mice
+TR:TREATMENT                     	Indole-3-propionic Acid (IPA) Supplemention
+TR:TREATMENT_COMPOUND            	Indole-3-propionic Acid (IPA)
+TR:TREATMENT_ROUTE               	Drinking Water
+TR:TREATMENT_DOSE                	0, 1, and 10 mM IPA
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Aliquots of plasma samples (20 µL) were transferred into pre-labeled 2.0 mL
+SP:SAMPLEPREP_SUMMARY            	Eppendorf tubes for experimental samples. For all samples 100 µL Protein
+SP:SAMPLEPREP_SUMMARY            	Buffer with internal standard [2.5 ng/ml of 2-methyl-4-chlorophenyl-acetic acid
+SP:SAMPLEPREP_SUMMARY            	in methanol] was added to each tube and were vortexed for 2 min at 5000 rpm.
+SP:SAMPLEPREP_SUMMARY            	samples were centrifuged at 16,000 rcf for 4 min. A 90 µL of the supernatant
+SP:SAMPLEPREP_SUMMARY            	into pre-labeled auto-sampler vials and diluted by adding 90 µL of water with
+SP:SAMPLEPREP_SUMMARY            	Formic Acid. Samples were then mixed on a multiple tube vortexer for 5 min at
+SP:SAMPLEPREP_SUMMARY            	rpm. 10 µL of samples were injected onto API-4000 Q-trap.
+SP:PROCESSING_STORAGE_CONDITIONS 	4°C
+SP:EXTRACT_STORAGE               	-80C
+SP:SAMPLE_RESUSPENSION           	Methanol, H2O, formic acid
+SP:SAMPLE_SPIKING                	2-methyl-4-chlorophenyl-acetic acid (MCPA)
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Reversed-Phase Gradient Seperation
+CH:CHROMATOGRAPHY_TYPE           	Reversed phase
+CH:INSTRUMENT_NAME               	Waters Acquity UPLC
+CH:COLUMN_NAME                   	Acquity BEH C18 (50 mm x1.7 m)
+CH:METHODS_ID                    	RTI-RCMRC-IPA-Analysis
+CH:METHODS_FILENAME              	RTI-RCMRC-IPA-Analysis
+CH:COLUMN_PRESSURE               	6000-10000
+CH:COLUMN_TEMPERATURE            	50 C
+CH:FLOW_GRADIENT                 	Time(min) Flow Rate %A %B Curve  Initial 0.600 99.0 1.0 6 0.75 0.600 99.0
+CH:FLOW_GRADIENT                 	6  2.75 0.600 1.0 99.0 6  3.00 0.600 1.0 99.0 6  3.10 0.600 99.0 1.0 6
+CH:FLOW_GRADIENT                 	0.600 99.0 1.0 6
+CH:FLOW_RATE                     	0.6 ml/min
+CH:INJECTION_TEMPERATURE         	8 C
+CH:INTERNAL_STANDARD             	2-methyl-4-chlorophenyl-acetic acid (MCPA)
+CH:SOLVENT_A                     	95:5 Water:ACN with 0.15% Acetic Acid
+CH:SOLVENT_B                     	95:5 ACN:Water with 0.15% Acetic Acid
+CH:ANALYTICAL_TIME               	3.5 mins
+CH:WEAK_WASH_SOLVENT_NAME        	95:5 Water:ACN with 0.15% Acetic Acid
+CH:WEAK_WASH_VOLUME              	600 uL
+CH:STRONG_WASH_SOLVENT_NAME      	95:5 ACN:Water with 0.15% Acetic Acid
+CH:STRONG_WASH_VOLUME            	600 uL
+CH:TARGET_SAMPLE_TEMPERATURE     	8 C
+CH:SAMPLE_LOOP_SIZE              	10 uL
+CH:SAMPLE_SYRINGE_SIZE           	100 uL
+CH:RANDOMIZATION_ORDER           	Yes
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	RTI
+AN:ACQUISITION_DATE              	42166
+AN:ACQUISITION_PARAMETERS_FILE   	RTI-RCMRC-IPA-Analysis
+AN:SOFTWARE_VERSION              	Analyst 1.6.2
+AN:OPERATOR_NAME                 	Suraj Dhungana
+AN:PROCESSING_PARAMETERS_FILE    	RTI-RCMRC-IPA-Analysis
+AN:DETECTOR_TYPE                 	TOF
+#MS
+MS:INSTRUMENT_NAME               	ABI Sciex API 4000 QTrap
+MS:INSTRUMENT_TYPE               	Triple quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+MS:COLLISION_ENERGY              	-20
+MS:COLLISION_GAS                 	6
+MS:ION_SOURCE_TEMPERATURE        	450 C
+MS:ION_SPRAY_VOLTAGE             	-4500 volts
+#END

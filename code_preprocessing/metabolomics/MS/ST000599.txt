@@ -1,0 +1,522 @@
+#METABOLOMICS WORKBENCH mahpic_infodepo_20170323_081418 DATATRACK_ID:866 STUDY_ID:ST000599 ANALYSIS_ID:AN000917
+VERSION             	1
+CREATED_ON             	May 5, 2017, 4:57 pm
+#PROJECT
+PR:PROJECT_TITLE                 	The Malaria Host-Pathogen Interaction Center (MaHPIC)
+PR:PROJECT_TYPE                  	Systems Biology
+PR:PROJECT_SUMMARY               	The Malaria Host-Pathogen Interaction Center (MaHPIC) is a transdisciplinary
+PR:PROJECT_SUMMARY               	malaria systems biology research program supported by an NIH/NIAID contract (#
+PR:PROJECT_SUMMARY               	HHSN272201200031C; see http://www.systemsbiology.emory.edu). The MaHPIC
+PR:PROJECT_SUMMARY               	generates many data types (e.g., clinical, parasitological, metabolomics,
+PR:PROJECT_SUMMARY               	functional genomics, lipidomics, proteomics, immune response) and mathematical
+PR:PROJECT_SUMMARY               	models, to iteratively test and develop hypotheses related to the complex
+PR:PROJECT_SUMMARY               	host-parasite dynamics in the course of malaria in non-human primates, and
+PR:PROJECT_SUMMARY               	metabolomics data via collaborations with investigators conducting clinical
+PR:PROJECT_SUMMARY               	studies in malaria endemic countries, with the overarching goal of better
+PR:PROJECT_SUMMARY               	understanding human disease, pathogenesis, and immunity. Curation and
+PR:PROJECT_SUMMARY               	maintenance of all data and metadata are the responsibility of the MaHPIC.
+PR:INSTITUTE                     	Emory University
+PR:DEPARTMENT                    	School of Medicine, Vaccine Center at Yerkes
+PR:LAST_NAME                     	Galinski
+PR:FIRST_NAME                    	Mary
+PR:ADDRESS                       	Emory University, 954 Gatewood Rd, Room 208, Atlanta, GA 30329
+PR:EMAIL                         	mahpic@emory.edu
+PR:PHONE                         	N/A
+PR:FUNDING_SOURCE                	NIAID Contract: # HHSN272201200031C
+#STUDY
+ST:STUDY_TITLE                   	Metabolomics measures of Macaca mulatta infected with Plasmodium coatneyi
+ST:STUDY_TITLE                   	Hackeri strain to produce and integrate clinical, hematological,
+ST:STUDY_TITLE                   	parasitological, and omics measures of acute, recrudescent, and chronic
+ST:STUDY_TITLE                   	infections.
+ST:STUDY_TYPE                    	Longitudinal parasite infection and treatment of multiple individuals
+ST:STUDY_SUMMARY                 	Malaria-naive male rhesus macaques (Macaca mulatta), approximately four years of
+ST:STUDY_SUMMARY                 	age, were inoculated intravenously with salivary gland sporozoites produced and
+ST:STUDY_SUMMARY                 	isolated at the Centers for Disease Control and Prevention from multiple
+ST:STUDY_SUMMARY                 	Anopheles species (An. dirus, An. gambiae, and An. stephensi) and then profiled
+ST:STUDY_SUMMARY                 	for clinical, hematological, parasitological, immunological, functional genomic,
+ST:STUDY_SUMMARY                 	lipidomic, proteomic, and metabolomic measurements. The experiment was designed
+ST:STUDY_SUMMARY                 	for 100 days, and pre- and post-100 day periods to prepare subjects and
+ST:STUDY_SUMMARY                 	administer curative treatments respectively. The anti-malarial drug artemether
+ST:STUDY_SUMMARY                 	was subcuratively administered to all subjects at the initial peak of infection,
+ST:STUDY_SUMMARY                 	one out of the five macaques received four additional subcurative treatments for
+ST:STUDY_SUMMARY                 	subsequent recrudescence peaks. The experimental infection in one subject was
+ST:STUDY_SUMMARY                 	ineffective but the macaque was followed-up for the same period of 100 days. The
+ST:STUDY_SUMMARY                 	different clinical phases of the infection were clinically determined for each
+ST:STUDY_SUMMARY                 	subject. Blood-stage curative doses of artemether were administered to all
+ST:STUDY_SUMMARY                 	subjects at the end of the study. Capillary blood samples were collected daily
+ST:STUDY_SUMMARY                 	for the measurement of CBCs, reticulocytes, and parasitemias. Capillary blood
+ST:STUDY_SUMMARY                 	samples were collected every other day to obtain plasma for metabolomic
+ST:STUDY_SUMMARY                 	analysis. Venous blood and bone marrow samples were collected at seven time
+ST:STUDY_SUMMARY                 	points for functional genomic, proteomic, lipidomic, and immunological analyses.
+ST:STUDY_SUMMARY                 	Within the MaHPIC, this project is known as ‘Experiment 03’. This dataset
+ST:STUDY_SUMMARY                 	was produced by Dean Jones at Emory University. The experimental design and
+ST:STUDY_SUMMARY                 	protocols for this study were approved by the Emory University Institutional
+ST:STUDY_SUMMARY                 	Animal Care and Use Committee (IACUC).
+ST:INSTITUTE                     	Emory University
+ST:DEPARTMENT                    	School of Medicine, Vaccine Center at Yerkes
+ST:LAST_NAME                     	Galinski
+ST:FIRST_NAME                    	Mary
+ST:ADDRESS                       	Emory University, Yerkes National Primate Research Center, 954 Gatewood Rd, Room
+ST:ADDRESS                       	003, Atlanta, GA 30329
+ST:EMAIL                         	mahpic@emory.edu
+ST:PHONE                         	N/A
+ST:NUM_GROUPS                    	6
+ST:TOTAL_SUBJECTS                	331
+ST:STUDY_COMMENTS                	The experimental design and protocols for this study were approved by the
+ST:STUDY_COMMENTS                	Emory University Institutional Animal Care and Use Committee (IACUC). These
+ST:STUDY_COMMENTS                	results are a product of a consortium of researchers known as the Malaria Host
+ST:STUDY_COMMENTS                	Pathogen Interaction Center (MaHPIC). Contributors include: Monica Cabrera,
+ST:STUDY_COMMENTS                	Jeremy D. DeBarry, Mary G. Galinski, Jay Humphrey, Dean Jones, Ebru Karpuzoglu,
+ST:STUDY_COMMENTS                	Jessica C. Kissinger, Regina Joice, Esmeralda Meyer, Vishal Nayak, Mustafa
+ST:STUDY_COMMENTS                	Nural, Suman Pakala, ViLinh Tran, Karan Uppal, Loukia Williams. For more
+ST:STUDY_COMMENTS                	information on the MaHPIC, please visit http://www.systemsbiology.emory.edu/ .
+ST:STUDY_COMMENTS                	Within the MaHPIC, these data were collected as part of 'Experiment 03' (E03).
+ST:STUDY_COMMENTS                	To access other publicly available results from E03 and other MaHPIC
+ST:STUDY_COMMENTS                	Experiments, including clinical results (specifics on drugs administered, diet,
+ST:STUDY_COMMENTS                	and veterinary interventions), and other omics, visit
+ST:STUDY_COMMENTS                	http://plasmodb.org/plasmo/mahpic.jsp . This page will be updated as datasets
+ST:STUDY_COMMENTS                	are released to the public.
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Macaca mulatta
+SU:TAXONOMY_ID                   	9544
+SU:WEIGHT_OR_WEIGHT_RANGE        	NA|6.94kg|9.04kg|8.03kg|8.83kg|8.68kg
+SU:GENDER                        	Male|Male|Male|Male|Male|Male
+SU:ANIMAL_ANIMAL_SUPPLIER        	Yerkes Field Station|Yerkes Field Station|Yerkes Primate Research Center|Yerkes
+SU:ANIMAL_ANIMAL_SUPPLIER        	Primate Research Center||Yerkes Primate Research Center
+SU:ANIMAL_HOUSING                	Metallic|Metallic|Metallic|Metallic|Metallic|Metallic
+SU:ANIMAL_LIGHT_CYCLE            	12/12|12/12|12/12|12/12|12/12|12/12
+SU:ANIMAL_FEED                   	Monkey Jumbo Diet 5037 and 5038|Monkey Jumbo Diet 5037 and 5038|Monkey Jumbo
+SU:ANIMAL_FEED                   	Diet 5037 and 5038|Monkey Jumbo Diet 5037 and 5038|Monkey Jumbo Diet 5037 and
+SU:ANIMAL_FEED                   	5038|Monkey Jumbo Diet 5037 and 5038
+SU:ANIMAL_WATER                  	tap in bottle|tap in bottle|tap in bottle|tap in bottle|tap in bottle|tap in
+SU:ANIMAL_WATER                  	bottle
+SU:ANIMAL_INCLUSION_CRITERIA     	Weight|Weight|Weight|Weight|Weight|Weight
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	RCs13	2119302	Gender:Male | Prior Infection:None | Days since Inoculation:-5 | Collection Type:Time Point 1	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2124843	Gender:Male | Prior Infection:None | Days since Inoculation:2 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2124909	Gender:Male | Prior Infection:None | Days since Inoculation:4 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2125644	Gender:Male | Prior Infection:None | Days since Inoculation:6 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2127685	Gender:Male | Prior Infection:None | Days since Inoculation:8 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2129577	Gender:Male | Prior Infection:None | Days since Inoculation:10 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2129986	Gender:Male | Prior Infection:None | Days since Inoculation:12 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2131245	Gender:Male | Prior Infection:None | Days since Inoculation:14 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2133243	Gender:Male | Prior Infection:None | Days since Inoculation:16 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2134962	Gender:Male | Prior Infection:None | Days since Inoculation:18 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2135343	Gender:Male | Prior Infection:None | Days since Inoculation:20 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2137690	Gender:Male | Prior Infection:None | Days since Inoculation:22 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2139946	Gender:Male | Prior Infection:None | Days since Inoculation:24 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2140057	Gender:Male | Prior Infection:None | Days since Inoculation:26 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2140904	Gender:Male | Prior Infection:None | Days since Inoculation:28 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2140769	Gender:Male | Prior Infection:None | Days since Inoculation:29 | Collection Type:Time Point 2	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2143346	Gender:Male | Prior Infection:None | Days since Inoculation:30 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2144072	Gender:Male | Prior Infection:None | Days since Inoculation:32 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2145332	Gender:Male | Prior Infection:None | Days since Inoculation:34 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2147299	Gender:Male | Prior Infection:None | Days since Inoculation:36 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2146735	Gender:Male | Prior Infection:None | Days since Inoculation:37 | Collection Type:Time Point 3	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2148896	Gender:Male | Prior Infection:None | Days since Inoculation:38 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2150482	Gender:Male | Prior Infection:None | Days since Inoculation:40 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2150970	Gender:Male | Prior Infection:None | Days since Inoculation:42 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2151035	Gender:Male | Prior Infection:None | Days since Inoculation:44 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2157871	Gender:Male | Prior Infection:None | Days since Inoculation:46 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2158674	Gender:Male | Prior Infection:None | Days since Inoculation:48 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2161103	Gender:Male | Prior Infection:None | Days since Inoculation:50 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2163813	Gender:Male | Prior Infection:None | Days since Inoculation:52 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2163867	Gender:Male | Prior Infection:None | Days since Inoculation:54 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2165483	Gender:Male | Prior Infection:None | Days since Inoculation:56 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2167240	Gender:Male | Prior Infection:None | Days since Inoculation:58 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2168469	Gender:Male | Prior Infection:None | Days since Inoculation:60 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2169397	Gender:Male | Prior Infection:None | Days since Inoculation:62 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2172157	Gender:Male | Prior Infection:None | Days since Inoculation:64 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2169537	Gender:Male | Prior Infection:None | Days since Inoculation:65 | Collection Type:Time Point 4	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2173396	Gender:Male | Prior Infection:None | Days since Inoculation:66 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2173458	Gender:Male | Prior Infection:None | Days since Inoculation:68 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2175899	Gender:Male | Prior Infection:None | Days since Inoculation:70 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2178462	Gender:Male | Prior Infection:None | Days since Inoculation:72 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2179500	Gender:Male | Prior Infection:None | Days since Inoculation:74 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2179554	Gender:Male | Prior Infection:None | Days since Inoculation:76 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2181240	Gender:Male | Prior Infection:None | Days since Inoculation:78 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2181261	Gender:Male | Prior Infection:None | Days since Inoculation:79 | Collection Type:Time Point 5	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2185850	Gender:Male | Prior Infection:None | Days since Inoculation:80 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2185904	Gender:Male | Prior Infection:None | Days since Inoculation:82 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2187616	Gender:Male | Prior Infection:None | Days since Inoculation:84 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2189740	Gender:Male | Prior Infection:None | Days since Inoculation:86 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2190631	Gender:Male | Prior Infection:None | Days since Inoculation:88 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2191579	Gender:Male | Prior Infection:None | Days since Inoculation:90 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2189997	Gender:Male | Prior Infection:None | Days since Inoculation:91 | Collection Type:Time Point 6	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2193662	Gender:Male | Prior Infection:None | Days since Inoculation:92 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2195816	Gender:Male | Prior Infection:None | Days since Inoculation:94 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2195870	Gender:Male | Prior Infection:None | Days since Inoculation:96 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2195435	Gender:Male | Prior Infection:None | Days since Inoculation:98 | Collection Type:Time Point 7	
+SUBJECT_SAMPLE_FACTORS           	RCs13	2206585	Gender:Male | Prior Infection:None | Days since Inoculation:100 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	REe6	2182540	Gender:Male | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:Reference	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2119303	Gender:Male | Prior Infection:None | Days since Inoculation:-5 | Collection Type:Time Point 1	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2124863	Gender:Male | Prior Infection:None | Days since Inoculation:2 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2124929	Gender:Male | Prior Infection:None | Days since Inoculation:4 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2125664	Gender:Male | Prior Infection:None | Days since Inoculation:6 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2127705	Gender:Male | Prior Infection:None | Days since Inoculation:8 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2129597	Gender:Male | Prior Infection:None | Days since Inoculation:10 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2130006	Gender:Male | Prior Infection:None | Days since Inoculation:12 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2131265	Gender:Male | Prior Infection:None | Days since Inoculation:14 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2133263	Gender:Male | Prior Infection:None | Days since Inoculation:16 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2134982	Gender:Male | Prior Infection:None | Days since Inoculation:18 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2135363	Gender:Male | Prior Infection:None | Days since Inoculation:20 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2137919	Gender:Male | Prior Infection:None | Days since Inoculation:22 | Collection Type:Time Point 2	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2139951	Gender:Male | Prior Infection:None | Days since Inoculation:24 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2140077	Gender:Male | Prior Infection:None | Days since Inoculation:26 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2140924	Gender:Male | Prior Infection:None | Days since Inoculation:28 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2143366	Gender:Male | Prior Infection:None | Days since Inoculation:30 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2142160	Gender:Male | Prior Infection:None | Days since Inoculation:31 | Collection Type:Time Point 3	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2144092	Gender:Male | Prior Infection:None | Days since Inoculation:32 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2145352	Gender:Male | Prior Infection:None | Days since Inoculation:34 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2147319	Gender:Male | Prior Infection:None | Days since Inoculation:36 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2148916	Gender:Male | Prior Infection:None | Days since Inoculation:38 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2148974	Gender:Male | Prior Infection:None | Days since Inoculation:39 | Collection Type:Time Point 4	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2150502	Gender:Male | Prior Infection:None | Days since Inoculation:40 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2150990	Gender:Male | Prior Infection:None | Days since Inoculation:42 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2151055	Gender:Male | Prior Infection:None | Days since Inoculation:44 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2157891	Gender:Male | Prior Infection:None | Days since Inoculation:46 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2158694	Gender:Male | Prior Infection:None | Days since Inoculation:48 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2161108	Gender:Male | Prior Infection:None | Days since Inoculation:50 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2163833	Gender:Male | Prior Infection:None | Days since Inoculation:52 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2163887	Gender:Male | Prior Infection:None | Days since Inoculation:54 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2165503	Gender:Male | Prior Infection:None | Days since Inoculation:56 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2167260	Gender:Male | Prior Infection:None | Days since Inoculation:58 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2168489	Gender:Male | Prior Infection:None | Days since Inoculation:60 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2169417	Gender:Male | Prior Infection:None | Days since Inoculation:62 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2172177	Gender:Male | Prior Infection:None | Days since Inoculation:64 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2173416	Gender:Male | Prior Infection:None | Days since Inoculation:66 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2173478	Gender:Male | Prior Infection:None | Days since Inoculation:68 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2175919	Gender:Male | Prior Infection:None | Days since Inoculation:70 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2178482	Gender:Male | Prior Infection:None | Days since Inoculation:72 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2179520	Gender:Male | Prior Infection:None | Days since Inoculation:74 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2179574	Gender:Male | Prior Infection:None | Days since Inoculation:76 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2181260	Gender:Male | Prior Infection:None | Days since Inoculation:78 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2181263	Gender:Male | Prior Infection:None | Days since Inoculation:79 | Collection Type:Time Point 5	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2185870	Gender:Male | Prior Infection:None | Days since Inoculation:80 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2185924	Gender:Male | Prior Infection:None | Days since Inoculation:82 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2187636	Gender:Male | Prior Infection:None | Days since Inoculation:84 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2189760	Gender:Male | Prior Infection:None | Days since Inoculation:86 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2190651	Gender:Male | Prior Infection:None | Days since Inoculation:88 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2191599	Gender:Male | Prior Infection:None | Days since Inoculation:90 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2189999	Gender:Male | Prior Infection:None | Days since Inoculation:91 | Collection Type:Time Point 6	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2193682	Gender:Male | Prior Infection:None | Days since Inoculation:92 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2195836	Gender:Male | Prior Infection:None | Days since Inoculation:94 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2195890	Gender:Male | Prior Infection:None | Days since Inoculation:96 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2195437	Gender:Male | Prior Infection:None | Days since Inoculation:98 | Collection Type:Time Point 7	
+SUBJECT_SAMPLE_FACTORS           	RTi13	2206605	Gender:Male | Prior Infection:None | Days since Inoculation:100 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2119304	Gender:Male | Prior Infection:None | Days since Inoculation:-5 | Collection Type:Time Point 1	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2124853	Gender:Male | Prior Infection:None | Days since Inoculation:2 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2124919	Gender:Male | Prior Infection:None | Days since Inoculation:4 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2125654	Gender:Male | Prior Infection:None | Days since Inoculation:6 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2127695	Gender:Male | Prior Infection:None | Days since Inoculation:8 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2129996	Gender:Male | Prior Infection:None | Days since Inoculation:12 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2131255	Gender:Male | Prior Infection:None | Days since Inoculation:14 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2133253	Gender:Male | Prior Infection:None | Days since Inoculation:16 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2134972	Gender:Male | Prior Infection:None | Days since Inoculation:18 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2135353	Gender:Male | Prior Infection:None | Days since Inoculation:20 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2139058	Gender:Male | Prior Infection:None | Days since Inoculation:22 | Collection Type:Time Point 2	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2137695	Gender:Male | Prior Infection:None | Days since Inoculation:22 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2139966	Gender:Male | Prior Infection:None | Days since Inoculation:24 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2140067	Gender:Male | Prior Infection:None | Days since Inoculation:26 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2140914	Gender:Male | Prior Infection:None | Days since Inoculation:28 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2143356	Gender:Male | Prior Infection:None | Days since Inoculation:30 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2142181	Gender:Male | Prior Infection:None | Days since Inoculation:31 | Collection Type:Time Point 3	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2144082	Gender:Male | Prior Infection:None | Days since Inoculation:32 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2145342	Gender:Male | Prior Infection:None | Days since Inoculation:34 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2147309	Gender:Male | Prior Infection:None | Days since Inoculation:36 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2148906	Gender:Male | Prior Infection:None | Days since Inoculation:38 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2150492	Gender:Male | Prior Infection:None | Days since Inoculation:40 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2150980	Gender:Male | Prior Infection:None | Days since Inoculation:42 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2151730	Gender:Male | Prior Infection:None | Days since Inoculation:43 | Collection Type:Time Point 4	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2151045	Gender:Male | Prior Infection:None | Days since Inoculation:44 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2157881	Gender:Male | Prior Infection:None | Days since Inoculation:46 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2158684	Gender:Male | Prior Infection:None | Days since Inoculation:48 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2161113	Gender:Male | Prior Infection:None | Days since Inoculation:50 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2163823	Gender:Male | Prior Infection:None | Days since Inoculation:52 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2163877	Gender:Male | Prior Infection:None | Days since Inoculation:54 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2165493	Gender:Male | Prior Infection:None | Days since Inoculation:56 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2167250	Gender:Male | Prior Infection:None | Days since Inoculation:58 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2168479	Gender:Male | Prior Infection:None | Days since Inoculation:60 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2169407	Gender:Male | Prior Infection:None | Days since Inoculation:62 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2172167	Gender:Male | Prior Infection:None | Days since Inoculation:64 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2173406	Gender:Male | Prior Infection:None | Days since Inoculation:66 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2173468	Gender:Male | Prior Infection:None | Days since Inoculation:68 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2175909	Gender:Male | Prior Infection:None | Days since Inoculation:70 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2178472	Gender:Male | Prior Infection:None | Days since Inoculation:72 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2179510	Gender:Male | Prior Infection:None | Days since Inoculation:74 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2179564	Gender:Male | Prior Infection:None | Days since Inoculation:76 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2181250	Gender:Male | Prior Infection:None | Days since Inoculation:78 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2181264	Gender:Male | Prior Infection:None | Days since Inoculation:79 | Collection Type:Time Point 5	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2185860	Gender:Male | Prior Infection:None | Days since Inoculation:80 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2185914	Gender:Male | Prior Infection:None | Days since Inoculation:82 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2187626	Gender:Male | Prior Infection:None | Days since Inoculation:84 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2189750	Gender:Male | Prior Infection:None | Days since Inoculation:86 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2190641	Gender:Male | Prior Infection:None | Days since Inoculation:88 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2191589	Gender:Male | Prior Infection:None | Days since Inoculation:90 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2190000	Gender:Male | Prior Infection:None | Days since Inoculation:91 | Collection Type:Time Point 6	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2193672	Gender:Male | Prior Infection:None | Days since Inoculation:92 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2195826	Gender:Male | Prior Infection:None | Days since Inoculation:94 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2195880	Gender:Male | Prior Infection:None | Days since Inoculation:96 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2195438	Gender:Male | Prior Infection:None | Days since Inoculation:98 | Collection Type:Time Point 7	
+SUBJECT_SAMPLE_FACTORS           	RUn13	2206595	Gender:Male | Prior Infection:None | Days since Inoculation:100 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2119305	Gender:Male | Prior Infection:None | Days since Inoculation:-5 | Collection Type:Time Point 1	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2124848	Gender:Male | Prior Infection:None | Days since Inoculation:2 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2124914	Gender:Male | Prior Infection:None | Days since Inoculation:4 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2125649	Gender:Male | Prior Infection:None | Days since Inoculation:6 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2127690	Gender:Male | Prior Infection:None | Days since Inoculation:8 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2129582	Gender:Male | Prior Infection:None | Days since Inoculation:10 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2129991	Gender:Male | Prior Infection:None | Days since Inoculation:12 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2131250	Gender:Male | Prior Infection:None | Days since Inoculation:14 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2133248	Gender:Male | Prior Infection:None | Days since Inoculation:16 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2134967	Gender:Male | Prior Infection:None | Days since Inoculation:18 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2135348	Gender:Male | Prior Infection:None | Days since Inoculation:20 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2137920	Gender:Male | Prior Infection:None | Days since Inoculation:22 | Collection Type:Time Point 2	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2139956	Gender:Male | Prior Infection:None | Days since Inoculation:24 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2140062	Gender:Male | Prior Infection:None | Days since Inoculation:26 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2140909	Gender:Male | Prior Infection:None | Days since Inoculation:28 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2142008	Gender:Male | Prior Infection:None | Days since Inoculation:29 | Collection Type:Time Point 3	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2143351	Gender:Male | Prior Infection:None | Days since Inoculation:30 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2144077	Gender:Male | Prior Infection:None | Days since Inoculation:32 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2145337	Gender:Male | Prior Infection:None | Days since Inoculation:34 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2147304	Gender:Male | Prior Infection:None | Days since Inoculation:36 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2148901	Gender:Male | Prior Infection:None | Days since Inoculation:38 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2150487	Gender:Male | Prior Infection:None | Days since Inoculation:40 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2150975	Gender:Male | Prior Infection:None | Days since Inoculation:42 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2151040	Gender:Male | Prior Infection:None | Days since Inoculation:44 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2157876	Gender:Male | Prior Infection:None | Days since Inoculation:46 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2158679	Gender:Male | Prior Infection:None | Days since Inoculation:48 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2161196	Gender:Male | Prior Infection:None | Days since Inoculation:50 | Collection Type:Time Point 4	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2163818	Gender:Male | Prior Infection:None | Days since Inoculation:52 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2163872	Gender:Male | Prior Infection:None | Days since Inoculation:54 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2165488	Gender:Male | Prior Infection:None | Days since Inoculation:56 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2167245	Gender:Male | Prior Infection:None | Days since Inoculation:58 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2168474	Gender:Male | Prior Infection:None | Days since Inoculation:60 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2169402	Gender:Male | Prior Infection:None | Days since Inoculation:62 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2172162	Gender:Male | Prior Infection:None | Days since Inoculation:64 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2173401	Gender:Male | Prior Infection:None | Days since Inoculation:66 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2173463	Gender:Male | Prior Infection:None | Days since Inoculation:68 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2175904	Gender:Male | Prior Infection:None | Days since Inoculation:70 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2178467	Gender:Male | Prior Infection:None | Days since Inoculation:72 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2179505	Gender:Male | Prior Infection:None | Days since Inoculation:74 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2179559	Gender:Male | Prior Infection:None | Days since Inoculation:76 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2181245	Gender:Male | Prior Infection:None | Days since Inoculation:78 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2181265	Gender:Male | Prior Infection:None | Days since Inoculation:79 | Collection Type:Time Point 5	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2185855	Gender:Male | Prior Infection:None | Days since Inoculation:80 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2185909	Gender:Male | Prior Infection:None | Days since Inoculation:82 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2187621	Gender:Male | Prior Infection:None | Days since Inoculation:84 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2189745	Gender:Male | Prior Infection:None | Days since Inoculation:86 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2190636	Gender:Male | Prior Infection:None | Days since Inoculation:88 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2191584	Gender:Male | Prior Infection:None | Days since Inoculation:90 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2190001	Gender:Male | Prior Infection:None | Days since Inoculation:91 | Collection Type:Time Point 6	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2193667	Gender:Male | Prior Infection:None | Days since Inoculation:92 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2195821	Gender:Male | Prior Infection:None | Days since Inoculation:94 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2195875	Gender:Male | Prior Infection:None | Days since Inoculation:96 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2195439	Gender:Male | Prior Infection:None | Days since Inoculation:98 | Collection Type:Time Point 7	
+SUBJECT_SAMPLE_FACTORS           	RWr13	2206590	Gender:Male | Prior Infection:None | Days since Inoculation:100 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2119306	Gender:Male | Prior Infection:None | Days since Inoculation:-5 | Collection Type:Time Point 1	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2124858	Gender:Male | Prior Infection:None | Days since Inoculation:2 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2124924	Gender:Male | Prior Infection:None | Days since Inoculation:4 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2125659	Gender:Male | Prior Infection:None | Days since Inoculation:6 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2127700	Gender:Male | Prior Infection:None | Days since Inoculation:8 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2129592	Gender:Male | Prior Infection:None | Days since Inoculation:10 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2130001	Gender:Male | Prior Infection:None | Days since Inoculation:12 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2131260	Gender:Male | Prior Infection:None | Days since Inoculation:14 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2133258	Gender:Male | Prior Infection:None | Days since Inoculation:16 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2134977	Gender:Male | Prior Infection:None | Days since Inoculation:18 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2135358	Gender:Male | Prior Infection:None | Days since Inoculation:20 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2137921	Gender:Male | Prior Infection:None | Days since Inoculation:22 | Collection Type:Time Point 2	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2139961	Gender:Male | Prior Infection:None | Days since Inoculation:24 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2140072	Gender:Male | Prior Infection:None | Days since Inoculation:26 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2140919	Gender:Male | Prior Infection:None | Days since Inoculation:28 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2142020	Gender:Male | Prior Infection:None | Days since Inoculation:29 | Collection Type:Time Point 3	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2143361	Gender:Male | Prior Infection:None | Days since Inoculation:30 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2144087	Gender:Male | Prior Infection:None | Days since Inoculation:32 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2145347	Gender:Male | Prior Infection:None | Days since Inoculation:34 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2147314	Gender:Male | Prior Infection:None | Days since Inoculation:36 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2148911	Gender:Male | Prior Infection:None | Days since Inoculation:38 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2150497	Gender:Male | Prior Infection:None | Days since Inoculation:40 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2150985	Gender:Male | Prior Infection:None | Days since Inoculation:42 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2153953	Gender:Male | Prior Infection:None | Days since Inoculation:44 | Collection Type:Time Point 4	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2157886	Gender:Male | Prior Infection:None | Days since Inoculation:46 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2158689	Gender:Male | Prior Infection:None | Days since Inoculation:48 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2161118	Gender:Male | Prior Infection:None | Days since Inoculation:50 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2163828	Gender:Male | Prior Infection:None | Days since Inoculation:52 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2163882	Gender:Male | Prior Infection:None | Days since Inoculation:54 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2165498	Gender:Male | Prior Infection:None | Days since Inoculation:56 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2167255	Gender:Male | Prior Infection:None | Days since Inoculation:58 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2168484	Gender:Male | Prior Infection:None | Days since Inoculation:60 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2169412	Gender:Male | Prior Infection:None | Days since Inoculation:62 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2172172	Gender:Male | Prior Infection:None | Days since Inoculation:64 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2173411	Gender:Male | Prior Infection:None | Days since Inoculation:66 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2173473	Gender:Male | Prior Infection:None | Days since Inoculation:68 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2175914	Gender:Male | Prior Infection:None | Days since Inoculation:70 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2178477	Gender:Male | Prior Infection:None | Days since Inoculation:72 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2179515	Gender:Male | Prior Infection:None | Days since Inoculation:74 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2179569	Gender:Male | Prior Infection:None | Days since Inoculation:76 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2181255	Gender:Male | Prior Infection:None | Days since Inoculation:78 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2181266	Gender:Male | Prior Infection:None | Days since Inoculation:79 | Collection Type:Time Point 5	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2185865	Gender:Male | Prior Infection:None | Days since Inoculation:80 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2185919	Gender:Male | Prior Infection:None | Days since Inoculation:82 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2187631	Gender:Male | Prior Infection:None | Days since Inoculation:84 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2189755	Gender:Male | Prior Infection:None | Days since Inoculation:86 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2190646	Gender:Male | Prior Infection:None | Days since Inoculation:88 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2191594	Gender:Male | Prior Infection:None | Days since Inoculation:90 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2190002	Gender:Male | Prior Infection:None | Days since Inoculation:91 | Collection Type:Time Point 6	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2193677	Gender:Male | Prior Infection:None | Days since Inoculation:92 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2195831	Gender:Male | Prior Infection:None | Days since Inoculation:94 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2195885	Gender:Male | Prior Infection:None | Days since Inoculation:96 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2195440	Gender:Male | Prior Infection:None | Days since Inoculation:98 | Collection Type:Time Point 7	
+SUBJECT_SAMPLE_FACTORS           	RZe13	2206600	Gender:Male | Prior Infection:None | Days since Inoculation:100 | Collection Type:Every Other Day	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200104	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200129	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100044	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, from NIST	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200122	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200107	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200111	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200109	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200128	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200095	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200099	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200091	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200132	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200118	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200120	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200085	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200083	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100041	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, from NIST	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200093	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200102	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200116	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200125	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200119	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200127	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200115	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200105	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200100	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200081	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200090	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200086	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200123	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200124	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200114	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200103	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200084	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200126	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200082	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200088	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200096	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200113	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100043	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, from NIST	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200131	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200121	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200089	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200097	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991100042	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, from NIST	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200094	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200110	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200112	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200108	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200130	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200101	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200092	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200106	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200098	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200117	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+SUBJECT_SAMPLE_FACTORS           	N/A	9991200087	Gender:N/A | Prior Infection:N/A | Days since Inoculation:N/A | Collection Type:QC Sample, in-lab prepared	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Every Other Day Collection | Time Point 1 Baseline: Uninfected control for each
+CO:COLLECTION_SUMMARY            	Non-Human Primate (NHP). | Time Point 2 Peak of infection: Peak of infection
+CO:COLLECTION_SUMMARY            	determined by clinical and parasitological assessment for each NHP. The time
+CO:COLLECTION_SUMMARY            	point is intended to characterize the host immune response and capture
+CO:COLLECTION_SUMMARY            	multi-omics data during the peak of parasitemias when the NHP is experiencing
+CO:COLLECTION_SUMMARY            	clinical signs of disease that are commonly severe in P. coatneyi infections.
+CO:COLLECTION_SUMMARY            	NHPs were monitored based on clinical and hematological parameters, and clinical
+CO:COLLECTION_SUMMARY            	interventions with artemether were performed as necessary. | Time Point 3
+CO:COLLECTION_SUMMARY            	Post-peak: Observations 7 days after peak infection and sub-curative treatment.
+CO:COLLECTION_SUMMARY            	| Time Point 4 Recrudescence Peak: This time point tested expectations of a drop
+CO:COLLECTION_SUMMARY            	in hemoglobin levels and increase in parasitemias due to recrudescence from a
+CO:COLLECTION_SUMMARY            	chronic infection. After sample collection, NHPs received sub-curative treatment
+CO:COLLECTION_SUMMARY            	with artemether based on clinical and hematological parameters. | Time Point 5
+CO:COLLECTION_SUMMARY            	Post-peak: Chronic infection with low levels of persistent parasitemia that may
+CO:COLLECTION_SUMMARY            	be below detectable levels. | Time Point 6 Recrudescence Peak: Same goal as time
+CO:COLLECTION_SUMMARY            	point 4 for 2nd second recrudescence peak. | Time Point 7 Post-peak:
+CO:COLLECTION_SUMMARY            	Observations of NHP response after a second recrudescence in a chronic phase
+CO:COLLECTION_SUMMARY            	with low levels of persistent parasitemia.
+CO:SAMPLE_TYPE                   	Whole blood|Whole blood|Whole blood|Whole blood|Whole blood|Whole blood|Whole
+CO:SAMPLE_TYPE                   	blood|Whole blood
+CO:COLLECTION_METHOD             	Ear
+CO:COLLECTION_METHOD             	Prick|Intravenous|Intravenous|Intravenous|Intravenous|Intravenous|Intravenous|Intravenous
+CO:COLLECTION_FREQUENCY          	Every Other Day|Once|Once|Once|Once|Once|Once|Once
+CO:BLOOD_SERUM_OR_PLASMA         	Plasma|Plasma|Plasma|Plasma|Plasma|Plasma|Plasma|Plasma
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Plasmodium Coatneyi Hackeri Strain Sporozoites Inoculation
+TR:TREATMENT                     	Biotic
+TR:TREATMENT_ROUTE               	Injection
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	aliquots of 30ul sample were mixed with 100ul acetonitrile and 2.5ul internal
+SP:SAMPLEPREP_SUMMARY            	standard. Keep on ice for 30 minutes and vortex every 15 minutes. Centrifuge for
+SP:SAMPLEPREP_SUMMARY            	10 minutes at 13.2rpm and 4C. Using a pipette, 100ul of supernatant was removed
+SP:SAMPLEPREP_SUMMARY            	and placed into autosampler vials for the mass spectrometer.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	E03_MB_Sample_Preparations_Plasma_serum_HFQE_V1_3282016.docx,
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	E4_E3_E18_E23_E24_E25_MalariaCore_Metabolomics SOP_v1_6October2016.docx
+SP:PROCESSING_METHOD             	Precipitation of protein, centrifuge, and remove supernatant
+SP:PROCESSING_STORAGE_CONDITIONS 	On ice
+SP:EXTRACTION_METHOD             	1:2 sample:acetonitrile
+SP:EXTRACT_STORAGE               	Pipette supernatant into autosampler vials for mass spectrometer
+SP:SAMPLE_SPIKING                	C18 Standards: Caffeine, Diethyl-toluamide. Internal Standards/Stable Isotopes:
+SP:SAMPLE_SPIKING                	[13C6]-D-glucose, [15N]-indole, [15N,13C5]-L-methionine, [2-15N]-L-lysine
+SP:SAMPLE_SPIKING                	dihydrochloride, [13C5]-L-glutamic acid, [15N]-L-tyrosine, [15N2]-uracil,
+SP:SAMPLE_SPIKING                	[3,3-13C2]-cystine, [trimethyl-13C3]-caffeine, [U-13C5, U-15N2]-L-glutamine
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	C18 120k resolution method with C18 positive and negative wash
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Dionex Ultimate 3000 LC coupled with High Field Qexactive
+CH:COLUMN_NAME                	Accucore C18 HPLC Columns, 100x2.1, 2.6µm, Thermo Fisher
+CH:FLOW_GRADIENT              	A: 0-2mins = 80%, 2-7mins = gradient to 0%, 7-10mins = 0%. B: 0-2mins = 15%,
+CH:FLOW_GRADIENT              	2-7mins = gradient to 95%, 7-10mins = 95%. C: 0-10mins = 5%
+CH:FLOW_RATE                  	350μL/min
+CH:COLUMN_TEMPERATURE         	30
+CH:METHODS_FILENAME           	E3_MB_HFQE Setup_V1_3282016.docx
+CH:SOLVENT_A                  	LCMS H20
+CH:SOLVENT_B                  	LCMS Acetonitrile
+CH:COLUMN_PRESSURE            	200 Bar (max)
+CH:INTERNAL_STANDARD          	Cystine; cysteine-glutathione disulfide; carboxymethyl-cysteine (very low);
+CH:INTERNAL_STANDARD          	glutathione disulfide (+1 and +2); carboxymethyl-glutathione
+CH:INTERNAL_STANDARD_MT       	1.5 min, 6-6.6 min
+CH:SAMPLE_INJECTION           	10μL
+CH:SAMPLING_CONE              	HESI probe with S-lens combination for ESI
+CH:ANALYTICAL_TIME            	10 minutes
+CH:CAPILLARY_VOLTAGE          	4.6 kV
+CH:OVEN_TEMPERATURE           	45C
+CH:WEAK_WASH_SOLVENT_NAME     	H20 with 10% methanol
+CH:SAMPLE_SYRINGE_SIZE        	20μL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	Clinical Biomarkers Laboratory, Emory University
+AN:OPERATOR_NAME            	ViLinh Tran and Karan Uppal
+AN:DETECTOR_TYPE            	Orbitrap
+AN:SOFTWARE_VERSION         	Thermo Excalibur 2.2 SP1
+AN:ACQUISITION_DATE         	4/17/15-5/1/15
+AN:DATA_FORMAT              	.raw, .cdf
+#MS
+MS:INSTRUMENT_NAME          	Thermo Scientific Q-Exactive Orbitrap
+MS:INSTRUMENT_TYPE          	Orbitrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+MS:MS_COMMENTS              	Technical triplicates for each sample
+MS:CAPILLARY_TEMPERATURE    	300
+MS:CAPILLARY_VOLTAGE        	4.45
+MS:COLLISION_GAS            	N2
+MS:GAS_PRESSURE             	50 psi
+MS:IONIZATION               	electrospray ionization
+MS:MASS_ACCURACY            	5ppm
+MS:SOURCE_TEMPERATURE       	48
+MS:SPRAY_VOLTAGE            	3.5
+MS:ATOM_GUN_CURRENT         	1000000
+MS:DATAFORMAT               	.raw, .cdf
+MS:PROBE_TIP                	HESI
+MS:RESOLUTION_SETTING       	120000
+MS:SCAN_RANGE_MOVERZ        	85-1275
+MS:MS_RESULTS_FILE          	ST000599_AN000917_Results.txt	UNITS:Ion Intensity
+#END

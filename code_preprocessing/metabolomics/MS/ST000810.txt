@@ -1,0 +1,304 @@
+#METABOLOMICS WORKBENCH michaelsa93_20170720_100654_mwtab.txt DATATRACK_ID:1165 STUDY_ID:ST000810 ANALYSIS_ID:AN001283
+VERSION             	1
+CREATED_ON             	July 24, 2017, 12:13 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Etiologies of preterm delivery among obese women
+PR:PROJECT_SUMMARY               	Here we propose a pilot project to examine the contribution of lipid mediators
+PR:PROJECT_SUMMARY               	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+PR:PROJECT_SUMMARY               	the top causes of infant morbidity and mortality. Our specific interests are in
+PR:PROJECT_SUMMARY               	understanding risks of preterm delivery among obese women, and in particular the
+PR:PROJECT_SUMMARY               	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+PR:PROJECT_SUMMARY               	among obese women. The inflammatory response is a known contributor to preterm
+PR:PROJECT_SUMMARY               	delivery, and obesity is associated with inflammation and an increased risk of
+PR:PROJECT_SUMMARY               	early preterm delivery, but the distinct contribution of aberrations in the
+PR:PROJECT_SUMMARY               	inflammatory response to preterm delivery among obese women has not been
+PR:PROJECT_SUMMARY               	examined previously. Most previous studies of preterm delivery and the
+PR:PROJECT_SUMMARY               	inflammatory response have examined one or only a few of its components at once,
+PR:PROJECT_SUMMARY               	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+PR:PROJECT_SUMMARY               	extend these types of investigations by examining lipid mediators and conducting
+PR:PROJECT_SUMMARY               	global lipid profiling. Lipid mediators are key regulators of inflammation and
+PR:PROJECT_SUMMARY               	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+PR:PROJECT_SUMMARY               	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+PR:PROJECT_SUMMARY               	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+PR:PROJECT_SUMMARY               	Examination of lipid mediators and lipid profiling is particularly relevant to
+PR:PROJECT_SUMMARY               	understanding distinct risks among obese women, given the known
+PR:PROJECT_SUMMARY               	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+PR:PROJECT_SUMMARY               	hypothesis is that the inflammatory response impacts risk of preterm delivery
+PR:PROJECT_SUMMARY               	and that its impact is distinct among obese versus non-obese women. Here we
+PR:PROJECT_SUMMARY               	propose a pilot project that compares mid-pregnancy measurements of lipid
+PR:PROJECT_SUMMARY               	mediators and lipid profiling among obese pregnant women. Findings from this
+PR:PROJECT_SUMMARY               	pilot will provide critical preliminary data to inform larger-scope grant
+PR:PROJECT_SUMMARY               	proposals that will comprehensively address our overarching hypothesis.
+PR:PROJECT_SUMMARY               	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+PR:PROJECT_SUMMARY               	deliver preterm compared to those who deliver at term. In addition, we will use
+PR:PROJECT_SUMMARY               	untargeted global profiling of complex lipids to determine whether obese women
+PR:PROJECT_SUMMARY               	who deliver preterm have a distinct lipidomic signature, relative to obese women
+PR:PROJECT_SUMMARY               	who deliver at term. We propose a nested case-control study that utilizes
+PR:PROJECT_SUMMARY               	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+PR:PROJECT_SUMMARY               	represents over one million deliveries in California from 2007-2012. We propose
+PR:PROJECT_SUMMARY               	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+PR:PROJECT_SUMMARY               	This will provide adequate preliminary data for a larger-scale grant proposal.
+PR:INSTITUTE                     	Stanford University
+PR:DEPARTMENT                    	Pediatrics - Neonatology
+PR:LAST_NAME                     	Carmichael
+PR:FIRST_NAME                    	Suzan
+PR:ADDRESS                       	450 Serra Mall, Stanford, CA 94305
+PR:EMAIL                         	scarmichael@stanford.edu
+PR:PHONE                         	(650) 736-0735
+#STUDY
+ST:STUDY_TITLE                   	Etiologies of preterm delivery among obese women (part II)
+ST:STUDY_TYPE                    	Case-control study
+ST:STUDY_SUMMARY                 	Here we propose a pilot project to examine the contribution of lipid mediators
+ST:STUDY_SUMMARY                 	and lipidomics to preterm delivery among obese women. Preterm delivery is one of
+ST:STUDY_SUMMARY                 	the top causes of infant morbidity and mortality. Our specific interests are in
+ST:STUDY_SUMMARY                 	understanding risks of preterm delivery among obese women, and in particular the
+ST:STUDY_SUMMARY                 	contribution of the inflammatory response to early preterm delivery (<32 weeks)
+ST:STUDY_SUMMARY                 	among obese women. The inflammatory response is a known contributor to preterm
+ST:STUDY_SUMMARY                 	delivery, and obesity is associated with inflammation and an increased risk of
+ST:STUDY_SUMMARY                 	early preterm delivery, but the distinct contribution of aberrations in the
+ST:STUDY_SUMMARY                 	inflammatory response to preterm delivery among obese women has not been
+ST:STUDY_SUMMARY                 	examined previously. Most previous studies of preterm delivery and the
+ST:STUDY_SUMMARY                 	inflammatory response have examined one or only a few of its components at once,
+ST:STUDY_SUMMARY                 	primarily cytokines, and a few studies have examined dyslipidemia. We propose to
+ST:STUDY_SUMMARY                 	extend these types of investigations by examining lipid mediators and conducting
+ST:STUDY_SUMMARY                 	global lipid profiling. Lipid mediators are key regulators of inflammation and
+ST:STUDY_SUMMARY                 	include fatty acids and their oxygenated bioactive metabolites such as oxylipins
+ST:STUDY_SUMMARY                 	(e.g., prostaglandins, HETEs or hydroxyeicosatetraenoic acids, and other
+ST:STUDY_SUMMARY                 	eicosanoids), ceramides and sphingoid bases including sphingosine-1-phosphate.
+ST:STUDY_SUMMARY                 	Examination of lipid mediators and lipid profiling is particularly relevant to
+ST:STUDY_SUMMARY                 	understanding distinct risks among obese women, given the known
+ST:STUDY_SUMMARY                 	inter-relatedness of obesity, dyslipidemia, and inflammation. Our overarching
+ST:STUDY_SUMMARY                 	hypothesis is that the inflammatory response impacts risk of preterm delivery
+ST:STUDY_SUMMARY                 	and that its impact is distinct among obese versus non-obese women. Here we
+ST:STUDY_SUMMARY                 	propose a pilot project that compares mid-pregnancy measurements of lipid
+ST:STUDY_SUMMARY                 	mediators and lipid profiling among obese pregnant women. Findings from this
+ST:STUDY_SUMMARY                 	pilot will provide critical preliminary data to inform larger-scope grant
+ST:STUDY_SUMMARY                 	proposals that will comprehensively address our overarching hypothesis.
+ST:STUDY_SUMMARY                 	Specifically, we will examine mid-pregnancy lipid mediators in obese women who
+ST:STUDY_SUMMARY                 	deliver preterm compared to those who deliver at term. In addition, we will use
+ST:STUDY_SUMMARY                 	untargeted global profiling of complex lipids to determine whether obese women
+ST:STUDY_SUMMARY                 	who deliver preterm have a distinct lipidomic signature, relative to obese women
+ST:STUDY_SUMMARY                 	who deliver at term. We propose a nested case-control study that utilizes
+ST:STUDY_SUMMARY                 	maternal mid-pregnancy (15-20 weeks gestation) serum samples from a biobank that
+ST:STUDY_SUMMARY                 	represents over one million deliveries in California from 2007-2012. We propose
+ST:STUDY_SUMMARY                 	to examine 50 obese women who delivered preterm and 50 who delivered at term.
+ST:STUDY_SUMMARY                 	This will provide adequate preliminary data for a larger-scale grant proposal.
+ST:INSTITUTE                     	USDA
+ST:DEPARTMENT                    	Obesity and metabolism research unit
+ST:LAST_NAME                     	Newman
+ST:FIRST_NAME                    	John
+ST:ADDRESS                       	430 West Health Sciences Dr. Davis, Ca, 95616
+ST:EMAIL                         	John.Newman@ars.usda.gov
+ST:PHONE                         	(530) 752-1009
+ST:STUDY_COMMENTS                	Case status was blinded by collaborator
+#SUBJECT
+SU:SUBJECT_TYPE                  	Human
+SU:SUBJECT_SPECIES               	Homo sapiens
+SU:TAXONOMY_ID                   	9606
+SU:GENDER                        	Female
+SU:SUBJECT_COMMENTS              	Obese pregnant femals
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer001	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer002	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer003	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer004	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer005	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer006	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer007	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer008	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer009	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer010	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer011	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer012	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer013	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer014	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer015	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer016	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer017	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer018	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer019	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer020	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer021	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer022	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer024	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer025	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer026	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer027	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer028	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer029	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer030	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer031	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer032	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer033	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer034	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer035	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer036	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer037	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer038	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer039	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer040	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer041	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer042	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer043	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer044	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer045	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer046	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer047	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer048	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer049	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer050	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer051	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer052	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer053	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer054	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer055	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer056	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer057	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer058	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer059	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer060	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer061	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer062	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer063	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer064	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer065	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer066	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer067	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer068	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer069	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer070	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer071	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer072	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer073	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer074	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer075	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer076	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer077	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer078	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer079	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer081	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer082	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer083	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer084	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer085	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer086	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer087	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer088	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer089	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer090	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer091	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer092	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer093	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer094	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer095	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer096	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer097	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer098	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer099	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer100	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer101	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer102	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer103	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer104	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer105	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer106	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer107	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer108	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer109	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer110	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer111	Test_sample:test	
+SUBJECT_SAMPLE_FACTORS           	-	CM Cer112	Test_sample:test	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	"The collection and processing of specimens was as follows: 1) samples were
+CO:COLLECTION_SUMMARY            	taken at draw stations using BDTM Vacutainer 3.5 mL serum separator tubes with
+CO:COLLECTION_SUMMARY            	no anticoagulants or preservatives and centrifuged 2) samples were received by
+CO:COLLECTION_SUMMARY            	designated clinical laboratories from draw stations at room temperature, on
+CO:COLLECTION_SUMMARY            	average 3.0 days after draw 3) AFP assays were run on samples usually on the day
+CO:COLLECTION_SUMMARY            	received 4) samples were refrigerated up to 7 days, in case further testing was
+CO:COLLECTION_SUMMARY            	necessary 5) samples were sent on cold packs via overnight mail to the serum
+CO:COLLECTION_SUMMARY            	storage bank 6) samples were aliquoted, labeled with barcodes, and frozen at
+CO:COLLECTION_SUMMARY            	−70° C."
+CO:COLLECTION_PROTOCOL_FILENAME  	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+CO:SAMPLE_TYPE                   	Blood
+CO:BLOOD_SERUM_OR_PLASMA         	Serum
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Among the more than 100,000 pregnancy specimens collected for testing in 2003
+TR:TREATMENT_SUMMARY             	and that resulted in a liveborn delivery in 2003, we identified 63 cases with
+TR:TREATMENT_SUMMARY             	hypospadias. Among the 29 cases for which two serum specimens were available, we
+TR:TREATMENT_SUMMARY             	selected all 16 for whom the degree of severity was not specified and the four
+TR:TREATMENT_SUMMARY             	that were coronal, to give a total of 20 cases. As controls, we randomly
+TR:TREATMENT_SUMMARY             	selected 28 specimens that were collected at the same lab during the same time
+TR:TREATMENT_SUMMARY             	period and corresponded to non-malformed, liveborn male infants delivered in
+TR:TREATMENT_SUMMARY             	2003. Thus, this was a nested case-control study. The selection of samples was
+TR:TREATMENT_SUMMARY             	limited to singletons. All samples were obtained with approval from the
+TR:TREATMENT_SUMMARY             	California Health and Welfare Agency Committee for the Protection of Human
+TR:TREATMENT_SUMMARY             	Subjects.
+TR:TREATMENT_PROTOCOL_FILENAME   	Carmichael_2010_hypospadias_and_pollutants_in_serum.pdf
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Non-esterified oxylipins, endocannabinoids, polyunsaturated fatty acids and bile
+SP:SAMPLEPREP_SUMMARY            	acids extraction: Oxylipins, endocannabinoids, fatty acids and bile acids were
+SP:SAMPLEPREP_SUMMARY            	isolated by liquid extraction protocol using methanol/acetonitrile mixture (1:1
+SP:SAMPLEPREP_SUMMARY            	v/v] from 40 µL of serum and quantified by UPLC-MS/MS using internal standard
+SP:SAMPLEPREP_SUMMARY            	methods. Procedure shortly: 40 µL of serum was mixed with 5 µL BHT/EDTA (1:1
+SP:SAMPLEPREP_SUMMARY            	MeOH:water), 10 µL of 0.5 µM deuterated oxylipins and endocannabinoids
+SP:SAMPLEPREP_SUMMARY            	surrogates and 20 µL of 1 µM deuterated bile acids surrogates in methanol.
+SP:SAMPLEPREP_SUMMARY            	Next, serum was homogenized by addition of 200 µL of 1-cyclohexyl ureido,
+SP:SAMPLEPREP_SUMMARY            	3-dodecanoic acid (CUDA) and 1-phenyl ureido 3-hexanoic acid (PUHA) at 100 nM in
+SP:SAMPLEPREP_SUMMARY            	1:1 methanol:acetonitrile. Next, homogenate was centrifuge at 15000 rcf for 10
+SP:SAMPLEPREP_SUMMARY            	min and the methanol/acetonitrile supernatant was collected for mass
+SP:SAMPLEPREP_SUMMARY            	spectrometry analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Waters Acquity
+CH:COLUMN_NAME                	Aquity C18 BEH 1.7μm 100mm x 2.1mm column
+CH:FLOW_GRADIENT              	See protocol/methods file
+CH:FLOW_RATE                  	0.25 mL/min
+CH:COLUMN_TEMPERATURE         	60 °C
+CH:SOLVENT_A                  	5 mm NH4COO 0.2% formic acid
+CH:SOLVENT_B                  	5 mm NH4COO 0.2% formic acid in MeOH
+CH:INTERNAL_STANDARD          	See protocol/methods file
+CH:RETENTION_TIME             	See protocol/methods file
+CH:SAMPLE_INJECTION           	5 µL
+CH:ANALYTICAL_TIME            	15 min
+CH:WEAK_WASH_SOLVENT_NAME     	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME           	600 µL
+CH:STRONG_WASH_SOLVENT_NAME   	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME         	600 µL
+CH:SAMPLE_LOOP_SIZE           	17 µL
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	Newman
+AN:OPERATOR_NAME            	Kamil Borkowski
+AN:DETECTOR_TYPE            	API 4000 QTrap (AB Sciex, Framingham, MA, USA)
+AN:SOFTWARE_VERSION         	AB Sciex MultiQuant version 3.0.1
+AN:DATA_FORMAT              	.mzML
+#MS
+MS:INSTRUMENT_NAME          	Waters Acquity UPLC
+MS:INSTRUMENT_TYPE          	API 6500 QTrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Concentration pmol/g
+MS_METABOLITE_DATA_START
+Samples	CM Cer001	CM Cer002	CM Cer003	CM Cer004	CM Cer005	CM Cer006	CM Cer007	CM Cer008	CM Cer009	CM Cer010	CM Cer011	CM Cer012	CM Cer013	CM Cer014	CM Cer015	CM Cer016	CM Cer017	CM Cer018	CM Cer019	CM Cer020	CM Cer021	CM Cer024	CM Cer025	CM Cer026	CM Cer027	CM Cer028	CM Cer029	CM Cer030	CM Cer031	CM Cer032	CM Cer033	CM Cer034	CM Cer035	CM Cer036	CM Cer037	CM Cer038	CM Cer039	CM Cer040	CM Cer041	CM Cer042	CM Cer043	CM Cer044	CM Cer045	CM Cer048	CM Cer049	CM Cer050	CM Cer051	CM Cer052	CM Cer053	CM Cer054	CM Cer055	CM Cer056	CM Cer057	CM Cer058	CM Cer059	CM Cer060	CM Cer061	CM Cer062	CM Cer063	CM Cer064	CM Cer065	CM Cer066	CM Cer067	CM Cer068	CM Cer071	CM Cer072	CM Cer073	CM Cer074	CM Cer075	CM Cer076	CM Cer078	CM Cer079	CM Cer081	CM Cer082	CM Cer083	CM Cer084	CM Cer085	CM Cer086	CM Cer087	CM Cer088	CM Cer089	CM Cer090	CM Cer091	CM Cer094	CM Cer095	CM Cer096	CM Cer097	CM Cer098	CM Cer099	CM Cer100	CM Cer101	CM Cer102	CM Cer103	CM Cer104	CM Cer105	CM Cer106	CM Cer107	CM Cer108	CM Cer109	CM Cer110
+Factors	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test	Test_sample:test
+18:1 Sphingosine	99.5	341	302	153	96.6	40.6	351	254	428	130	111	156	362	233	241	301	242	138	516	114	235	95.4	123	119	138	369	99.8	182	406	224	201	218	172	220	43.8	28	102	117	57	247	166	121	151	118	447	254	166	122	147	135	152	75.6	172	272	58.9	300	376	139	158	63.7	384	756	303	324	30.2	105	34.8	134	143	169	230	46.3	172	50	93	183	125	247	138	198	22.3	134	247	252	92.8	154	124	85.2	251	252	96.6	219	130	41.9	269	145	37.5	53.6	227	31.1
+C14 Ceramide	155	189	325	132	225	129	218	259	250	96.2	106	237	248	263	180	392	157	230	107	236	197	249	139	82.9	164	109	552	176	340	151	161	310	251	82	329	243	211	282	173	118	232	112	135	138	321	84.1	229	262	235	128	232	147	209	144	179	129	258	150	220	183	318	244	188	192	185	247	184	221	164	89.7	173	227	322	188	121	209	124	475	115	204	200	227	320	91	275	110	157	694	184	126	159	88.6	204	234	161	197	225	151	323	188
+C16 Ceramide	1340	1580	1870	1580	1810	1020	1460	1400	2230	1010	1310	1360	1080	1400	2030	1430	1580	1310	907	1420	1140	2160	885	953	1370	1250	2120	1540	1480	1720	980	1960	1180	1380	1550	1490	1540	1440	1700	878	1020	1390	1230	1280	1680	1380	1650	1250	1240	1180	1380	960	1440	1100	1890	1390	1420	977	1030	723	1660	1740	1220	1110	1320	1280	1710	2350	1120	816	1190	1630	1320	1040	1030	1390	1300	1680	855	1180	1340	1330	1200	832	1630	960	1330	2280	1490	1240	954	939	1200	1330	807	1310	940	1400	1550	1340
+C18 Ceramide	318	117	173	132	147	96.6	359	200	247	184	113	304	198	119	437	229	90.3	113	100	207	53.4	295	85.6	74.8	195	168	153	215	154	185	93.9	242	76.1	219	156	343	240	131	296	86.4	93.4	116	139	157	116	221	167	177	142	151	172	137	213	185	248	137	199	217	159	86.9	234	310	90.5	204	92.5	186	207	313	91.9	63.9	156	278	59.9	98.6	73.3	267	109	137	75.7	104	191	159	109	103	130	184	196	381	354	145	174	171	102	160	116	141	83.7	243	219	147
+C18 dihydroceramide	108	12.9	21.7	20.1	16.3	6.52	166	31	26.7	47.2	8.87	49.6	89.9	15.4	81	46.1	16.8	35	30.4	65.4	6.7	34.2	16.1	9.94	20.2	52.4	12.9	39.5	18.5	19	22	59.9	16.6	31.8	14	69.3	58.9	28.8	24.5	31.1	24	14.6	29.3	28.8	21.9	37.3	32	48.5	56.2	12.8	34.9	36.5	53.9	12.7	25.9	23.2	54.5	73.7	38.3	20.8	41	72.1	9.92	72.3	9.29	24.9	33.3	68.9	12.1	8.68	32.4	70.5	11.3	16	6.61	67.2	23.1	28	11.2	10.8	32.3	16.9	20.4	13.4	18.2	43.3	45.2	134	84.4	27.7	19.9	56.4	24.7	30.2	37.2	38	11.7	34.3	23.1	26.2
+C20 Ceramide	110	78.4	129	79.9	127	53.6	224	104	120	97.4	36.6	115	80.9	55.5	164	90.5	49.4	138	62	124	123	145	52	74	98.9	71.2	38.8	98.7	123	117	78.1	134	47.6	119	163	148	131	77.6	198	46.8	45.8	89.6	68.7	103	111	118	113	96.6	89.1	121	154	86.5	124	112	146	67.9	140	137	91.2	59.6	124	217	39.6	136	20.5	99.4	131	138	59.8	37.8	72.2	114	72.1	84.6	51	139	46.4	125	64.4	89.9	102	101	105	76.6	91	103	130	228	151	108	96.6	102	99.3	120	50.7	83.7	47.4	111	128	83.4
+C24 dihydroceramide	1510	49.7	1080	1200	1120	486	2540	1060	468	1170	61.8	1450	3250	190	888	1850	156	2960	1550	5100	1570	894	1480	836	819	7030	418	2650	1230	417	957	6200	186	824	1100	962	3110	4750	543	300	325	249	457	3360	1640	703	950	1070	1600	2940	1400	1800	2450	758	213	1040	5330	5700	5070	535	5210	5090	315	4370	37.1	1250	707	2600	318	245	436	1380	2130	1170	136	3820	194	3410	461	517	192	484	2100	1170	1010	1760	614	8400	3710	1130	1380	1080	2450	2490	1830	1560	147	2390	2230	2030
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	HMDB ID	InChIKey
+18:1 Sphingosine	HMDB00252	WWUZIQQURGPMPG-CCEZHUSRSA-N
+C14 Ceramide
+C16 Ceramide	HMDB04949	YDNKGFDKKRUKPY-TURZORIXSA-N
+C18 Ceramide	HMDB04950	VODZWWMEJITOND-NXCSZAMKSA-N
+C18 dihydroceramide
+C20 Ceramide	HMDB04951	XWBWIAOWSABHFI-NUKVNZTCSA-N
+C24 dihydroceramide	HMDB11768	BPLYVSYSBPLDOA-WVILEFPPSA-N
+METABOLITES_END
+#END

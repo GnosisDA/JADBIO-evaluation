@@ -1,0 +1,125 @@
+#METABOLOMICS WORKBENCH araskind_20160413_085210 DATATRACK_ID:582 STUDY_ID:ST000371 ANALYSIS_ID:AN000605
+VERSION             	1
+CREATED_ON             	April 18, 2016, 5:27 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Bacterial Regulators of Tumorigenesis
+PR:PROJECT_SUMMARY               	identify bacterial products associated with reduced tumorigenesis
+PR:INSTITUTE                     	University of Michigan
+PR:DEPARTMENT                    	Surgery
+PR:LABORATORY                    	Lubman, David Lab
+PR:LAST_NAME                     	Lubman
+PR:FIRST_NAME                    	David
+PR:ADDRESS                       	Ann Arbor, MI
+PR:EMAIL                         	dmlubman@umich.edu
+PR:PHONE                         	734-647-8834
+#STUDY
+ST:STUDY_TITLE                   	Colon cancer
+ST:STUDY_TYPE                    	Regular
+ST:STUDY_SUMMARY                 	There are 4 germfree controls and 4 germfree with bacteria. After treatment, the
+ST:STUDY_SUMMARY                 	mouse stool samples were collected at different timepoints: day 0, day 10, day
+ST:STUDY_SUMMARY                 	26, day 47, and day 61 or 70. Place the stool samples into liquid nitrogen after
+ST:STUDY_SUMMARY                 	they were collected, then stored in -80oC.
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@med.umich.edu
+ST:PHONE                         	(734) 232-8175
+ST:NUM_GROUPS                    	11
+ST:TOTAL_SUBJECTS                	41
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0012170	S00018140	Time (day):- | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012170	S00018141	Time (day):10 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012170	S00018142	Time (day):26 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012170	S00018143	Time (day):47 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012170	S00018144	Time (day):61 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012171	S00018145	Time (day):- | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012171	S00018146	Time (day):10 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012171	S00018147	Time (day):26 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012171	S00018148	Time (day):47 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012171	S00018149	Time (day):61 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012172	S00018150	Time (day):- | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012173	S00018151	Time (day):10 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012173	S00018152	Time (day):26 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012173	S00018153	Time (day):47 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012173	S00018154	Time (day):61 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012174	S00018155	Time (day):- | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012174	S00018156	Time (day):10 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012174	S00018157	Time (day):26 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012174	S00018158	Time (day):47 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012174	S00018159	Time (day):61 | Treatment:GF bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012175	S00018160	Time (day):- | Treatment:none	
+SUBJECT_SAMPLE_FACTORS           	SU0012176	S00018161	Time (day):10 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012176	S00018162	Time (day):26 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012176	S00018163	Time (day):47 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012176	S00018164	Time (day):70 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012175	S00018165	Time (day):- | Treatment:none	
+SUBJECT_SAMPLE_FACTORS           	SU0012177	S00018166	Time (day):10 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012177	S00018167	Time (day):26 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012177	S00018168	Time (day):47 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012177	S00018169	Time (day):70 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012175	S00018170	Time (day):- | Treatment:none	
+SUBJECT_SAMPLE_FACTORS           	SU0012178	S00018171	Time (day):10 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012178	S00018172	Time (day):26 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012178	S00018173	Time (day):47 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012178	S00018174	Time (day):70 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012179	S00018175	Time (day):- | Treatment:none	
+SUBJECT_SAMPLE_FACTORS           	SU0012180	S00018176	Time (day):10 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012180	S00018177	Time (day):26 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012180	S00018178	Time (day):47 | Treatment:GF no bacteria	
+SUBJECT_SAMPLE_FACTORS           	SU0012180	S00018179	Time (day):70 | Treatment:GF no bacteria	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	None
+CO:SAMPLE_TYPE                   	Pooled sample
+#TREATMENT
+TR:TREATMENT_SUMMARY             	none
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	none
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	ShortChainFattyAcids-20150305.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	GC
+CH:INSTRUMENT_NAME            	Agilent 7890A GC/Agilent MSD 5975C MS
+CH:COLUMN_NAME                	ZB-WAXplus, 30m x0.25mmx0.25µm
+CH:COLUMN_TEMPERATURE         	WAXPLUS_100-200C_2_SIM.M.zip
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:ACQUISITION_PARAMETERS_FILE	WAXPLUS_100-200C_2_SIM.M.zip
+AN:PROCESSING_PARAMETERS_FILE	EX00432-SCFA-QUANT-method.m.zip
+#MS
+MS:INSTRUMENT_NAME          	Agilent 7890A GC/Agilent MSD 5975C MS
+MS:INSTRUMENT_TYPE          	Single quadrupole
+MS:MS_TYPE                  	EI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	nmol/mg sample
+MS_METABOLITE_DATA_START
+Samples	S00018140	S00018141	S00018142	S00018143	S00018144	S00018145	S00018146	S00018147	S00018148	S00018149	S00018150	S00018151	S00018152	S00018153	S00018154	S00018155	S00018156	S00018157	S00018158	S00018159	S00018160	S00018161	S00018162	S00018163	S00018164	S00018165	S00018166	S00018167	S00018168	S00018169	S00018170	S00018171	S00018172	S00018173	S00018174	S00018175	S00018176	S00018177	S00018178	S00018179
+Factors	Time (day):- | Treatment:GF bacteria	Time (day):10 | Treatment:GF bacteria	Time (day):26 | Treatment:GF bacteria	Time (day):47 | Treatment:GF bacteria	Time (day):61 | Treatment:GF bacteria	Time (day):- | Treatment:GF bacteria	Time (day):10 | Treatment:GF bacteria	Time (day):26 | Treatment:GF bacteria	Time (day):47 | Treatment:GF bacteria	Time (day):61 | Treatment:GF bacteria	Time (day):- | Treatment:GF bacteria	Time (day):10 | Treatment:GF bacteria	Time (day):26 | Treatment:GF bacteria	Time (day):47 | Treatment:GF bacteria	Time (day):61 | Treatment:GF bacteria	Time (day):- | Treatment:GF bacteria	Time (day):10 | Treatment:GF bacteria	Time (day):26 | Treatment:GF bacteria	Time (day):47 | Treatment:GF bacteria	Time (day):61 | Treatment:GF bacteria	Time (day):- | Treatment:none	Time (day):10 | Treatment:GF no bacteria	Time (day):26 | Treatment:GF no bacteria	Time (day):47 | Treatment:GF no bacteria	Time (day):70 | Treatment:GF no bacteria	Time (day):- | Treatment:none	Time (day):10 | Treatment:GF no bacteria	Time (day):26 | Treatment:GF no bacteria	Time (day):47 | Treatment:GF no bacteria	Time (day):70 | Treatment:GF no bacteria	Time (day):- | Treatment:none	Time (day):10 | Treatment:GF no bacteria	Time (day):26 | Treatment:GF no bacteria	Time (day):47 | Treatment:GF no bacteria	Time (day):70 | Treatment:GF no bacteria	Time (day):- | Treatment:none	Time (day):10 | Treatment:GF no bacteria	Time (day):26 | Treatment:GF no bacteria	Time (day):47 | Treatment:GF no bacteria	Time (day):70 | Treatment:GF no bacteria
+acetic acid	5.67	3.93	4.72	4.71	6.57	4.55	3.88	3.40	3.46	5.68	5.26	3.90	4.33	4.04	4.90	5.24	3.37	4.19	4.53	6.11	1.87	2.07	2.21	1.90	1.96	1.98	1.92	1.85	1.93	1.85	1.73	1.84	2.00	2.07	1.85	1.80	1.80	1.80	1.92	1.73
+propionic acid	7.51	5.83	6.70	6.42	8.31	6.21	5.97	5.69	5.79	7.39	7.00	6.05	6.44	6.37	6.62	6.97	5.96	6.62	6.79	8.15	4.47	4.65	4.79	4.60	4.55	4.76	4.81	4.63	4.66	4.58	4.49	4.52	4.67	4.90	4.63	4.55	4.61	4.64	4.64	4.48
+iso-butyric acid	4.56	4.49	4.46	4.57	4.57	4.33	4.52	4.60	4.44	4.58	4.62	4.75	4.93	4.62	4.89	4.47	4.67	4.89	4.64	4.67	4.07	4.11	4.10	4.09	4.08	4.10	4.09	4.08	4.07	4.07	\N	4.07	\N	4.10	4.09	4.07	4.08	4.07	\N	4.07
+butyric acid	2.42	2.40	2.38	2.36	2.60	2.34	2.43	2.34	2.39	2.55	2.40	2.41	2.36	2.47	2.44	2.42	2.36	2.35	2.73	2.67	2.25	2.26	2.27	2.25	2.26	2.26	2.26	2.25	2.26	2.26	2.25	2.21	2.27	2.26	2.26	2.25	2.25	2.25	2.26	2.25
+isovaleric acid	2.42	2.40	2.38	2.36	2.60	2.34	2.43	2.34	2.39	2.55	2.40	2.41	2.36	2.47	2.44	2.42	2.36	2.35	2.73	2.67	2.25	2.26	2.27	2.25	2.26	2.26	2.26	2.25	2.26	2.26	2.25	2.21	2.27	2.26	2.26	2.25	2.25	2.25	2.26	2.25
+valeric acid	2.05	2.01	2.03	2.03	2.03	2.00	1.99	2.01	1.99	2.03	2.03	2.02	2.08	2.01	2.05	2.05	2.02	2.04	2.00	2.03	1.93	1.93	1.93	1.93	1.93	1.93	1.93	1.93	1.94	1.93	1.93	1.93	1.93	1.94	1.93	1.93	1.93	1.93	1.95	1.93
+hexanoic acid	3.00	3.00	3.00	3.01	3.01	3.00	3.00	3.00	3.00	3.01	3.00	3.00	3.00	3.00	3.00	3.00	3.00	3.00	3.01	3.02	2.99	2.99	3.00	3.00	2.99	3.00	3.00	2.99	2.99	2.99	2.99	2.99	3.00	2.99	2.99	2.99	2.99	2.99	2.99	2.99
+heptanoic acid	3.09	3.15	3.19	3.24	3.14	3.13	3.12	3.12	3.15	3.10	3.15	3.11	3.11	3.13	3.11	3.13	3.13	3.10	3.13	3.10	3.11	3.18	3.14	3.10	3.14	3.11	3.11	3.09	3.10	3.11	3.11	3.11	3.12	3.12	3.10	3.13	3.14	3.14	3.11	3.12
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	retention index	quantified m/z	PubChem ID	KEGG ID
+acetic acid			176
+propionic acid			1032
+iso-butyric acid			6590
+butyric acid			20975673
+isovaleric acid			10430
+valeric acid			7991
+hexanoic acid			8892
+heptanoic acid			8094
+METABOLITES_END
+#END

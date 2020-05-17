@@ -1,0 +1,157 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000209 ANALYSIS_ID:AN000311
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Wt and KO macrophage studies
+PR:PROJECT_SUMMARY               	Temperol metabolites profile of Wt and KO macrophage in response to LPS
+PR:INSTITUTE                     	Henry Ford Health System
+PR:DEPARTMENT                    	Neurology
+PR:LABORATORY                    	Giri Lab
+PR:LAST_NAME                     	Giri
+PR:FIRST_NAME                    	Shailendra
+PR:ADDRESS                       	Detroit, MI
+PR:EMAIL                         	sgiri1@hfhs.org
+PR:PHONE                         	313-916-7725
+#STUDY
+ST:STUDY_TITLE                   	Glycolysis/TCA/Nucleotide_Wt_KO_TimeCourse_LPS
+ST:STUDY_TYPE                    	Wild type and AMPK KO bone marrow derived macrophage were stimulated with LPS
+ST:STUDY_TYPE                    	for various time period and plates were frozen in liquid nitrogen after washing
+ST:STUDY_TYPE                    	sodium acetate (200uM) solution and kept in deep freezer for further analysis.
+ST:STUDY_SUMMARY                 	Wild type and AMPK KO bone marrow derived macrophage were stimulated with LPS
+ST:STUDY_SUMMARY                 	for various time period and plates were frozen in liquid nitrogen after washing
+ST:STUDY_SUMMARY                 	sodium acetate (200uM) solution and kept in deep freezer for further analysis.
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@umich.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	12
+ST:TOTAL_SUBJECTS                	48
+#SUBJECT
+SU:SUBJECT_TYPE                  	-
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0012202	S00018219	time course:0h | Cell type:KO macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012202	S00018220	time course:0h | Cell type:KO macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012202	S00018221	time course:0h | Cell type:KO macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012202	S00018222	time course:0h | Cell type:KO macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012196	S00018195	time course:0h | Cell type:Wt macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012196	S00018196	time course:0h | Cell type:Wt macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012196	S00018197	time course:0h | Cell type:Wt macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012196	S00018198	time course:0h | Cell type:Wt macrophage | Treatment:untreated	
+SUBJECT_SAMPLE_FACTORS           	SU0012205	S00018231	time course:12h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012205	S00018232	time course:12h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012205	S00018233	time course:12h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012205	S00018234	time course:12h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012199	S00018207	time course:12h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012199	S00018208	time course:12h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012199	S00018209	time course:12h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012199	S00018210	time course:12h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012206	S00018235	time course:18h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012206	S00018236	time course:18h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012206	S00018237	time course:18h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012206	S00018238	time course:18h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012200	S00018211	time course:18h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012200	S00018212	time course:18h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012200	S00018213	time course:18h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012200	S00018214	time course:18h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012207	S00018239	time course:24h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012207	S00018240	time course:24h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012207	S00018241	time course:24h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012207	S00018242	time course:24h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012201	S00018215	time course:24h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012201	S00018216	time course:24h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012201	S00018217	time course:24h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012201	S00018218	time course:24h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012203	S00018223	time course:3h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012203	S00018224	time course:3h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012203	S00018225	time course:3h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012203	S00018226	time course:3h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012197	S00018199	time course:3h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012197	S00018200	time course:3h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012197	S00018201	time course:3h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012197	S00018202	time course:3h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012204	S00018227	time course:6h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012204	S00018228	time course:6h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012204	S00018229	time course:6h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012204	S00018230	time course:6h | Cell type:KO macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012198	S00018203	time course:6h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012198	S00018204	time course:6h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012198	S00018205	time course:6h | Cell type:Wt macrophage | Treatment:LPS	
+SUBJECT_SAMPLE_FACTORS           	SU0012198	S00018206	time course:6h | Cell type:Wt macrophage | Treatment:LPS	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Macrophages
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Gly-TCA-nucleotides_analysis_protocol-2015-03-09.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	Luna 3 m NH2 100 , LC Column 150 x 1 mm, Ea (Phenomenex Inc.)
+CH:METHODS_ID                    	AQM021
+CH:METHODS_FILENAME              	QTOF-002-HILIC-35min-1mm_bottompheater.m.zip
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	MRC2 (University of Michigan)
+AN:ACQUISITION_PARAMETERS_FILE   	QTOF-002-HILIC-35min-1mm_bottompheater.m.zip
+#MS
+MS:INSTRUMENT_NAME               	Agilent 6520 QTOF
+MS:INSTRUMENT_TYPE               	Q-TOF
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	pmol/µg protein
+MS_METABOLITE_DATA_START
+Samples	S00018219	S00018220	S00018221	S00018222	S00018195	S00018196	S00018197	S00018198	S00018231	S00018232	S00018233	S00018234	S00018207	S00018208	S00018209	S00018210	S00018235	S00018236	S00018237	S00018238	S00018211	S00018212	S00018213	S00018214	S00018239	S00018240	S00018241	S00018242	S00018215	S00018216	S00018217	S00018218	S00018223	S00018224	S00018225	S00018226	S00018199	S00018200	S00018201	S00018202	S00018227	S00018228	S00018229	S00018230	S00018203	S00018204	S00018205	S00018206
+Factors	time course:0h | Cell type:KO macrophage | Treatment:untreated	time course:0h | Cell type:KO macrophage | Treatment:untreated	time course:0h | Cell type:KO macrophage | Treatment:untreated	time course:0h | Cell type:KO macrophage | Treatment:untreated	time course:0h | Cell type:Wt macrophage | Treatment:untreated	time course:0h | Cell type:Wt macrophage | Treatment:untreated	time course:0h | Cell type:Wt macrophage | Treatment:untreated	time course:0h | Cell type:Wt macrophage | Treatment:untreated	time course:12h | Cell type:KO macrophage | Treatment:LPS	time course:12h | Cell type:KO macrophage | Treatment:LPS	time course:12h | Cell type:KO macrophage | Treatment:LPS	time course:12h | Cell type:KO macrophage | Treatment:LPS	time course:12h | Cell type:Wt macrophage | Treatment:LPS	time course:12h | Cell type:Wt macrophage | Treatment:LPS	time course:12h | Cell type:Wt macrophage | Treatment:LPS	time course:12h | Cell type:Wt macrophage | Treatment:LPS	time course:18h | Cell type:KO macrophage | Treatment:LPS	time course:18h | Cell type:KO macrophage | Treatment:LPS	time course:18h | Cell type:KO macrophage | Treatment:LPS	time course:18h | Cell type:KO macrophage | Treatment:LPS	time course:18h | Cell type:Wt macrophage | Treatment:LPS	time course:18h | Cell type:Wt macrophage | Treatment:LPS	time course:18h | Cell type:Wt macrophage | Treatment:LPS	time course:18h | Cell type:Wt macrophage | Treatment:LPS	time course:24h | Cell type:KO macrophage | Treatment:LPS	time course:24h | Cell type:KO macrophage | Treatment:LPS	time course:24h | Cell type:KO macrophage | Treatment:LPS	time course:24h | Cell type:KO macrophage | Treatment:LPS	time course:24h | Cell type:Wt macrophage | Treatment:LPS	time course:24h | Cell type:Wt macrophage | Treatment:LPS	time course:24h | Cell type:Wt macrophage | Treatment:LPS	time course:24h | Cell type:Wt macrophage | Treatment:LPS	time course:3h | Cell type:KO macrophage | Treatment:LPS	time course:3h | Cell type:KO macrophage | Treatment:LPS	time course:3h | Cell type:KO macrophage | Treatment:LPS	time course:3h | Cell type:KO macrophage | Treatment:LPS	time course:3h | Cell type:Wt macrophage | Treatment:LPS	time course:3h | Cell type:Wt macrophage | Treatment:LPS	time course:3h | Cell type:Wt macrophage | Treatment:LPS	time course:3h | Cell type:Wt macrophage | Treatment:LPS	time course:6h | Cell type:KO macrophage | Treatment:LPS	time course:6h | Cell type:KO macrophage | Treatment:LPS	time course:6h | Cell type:KO macrophage | Treatment:LPS	time course:6h | Cell type:KO macrophage | Treatment:LPS	time course:6h | Cell type:Wt macrophage | Treatment:LPS	time course:6h | Cell type:Wt macrophage | Treatment:LPS	time course:6h | Cell type:Wt macrophage | Treatment:LPS	time course:6h | Cell type:Wt macrophage | Treatment:LPS
+2 or 3-phosphoglycerate_2PG/3PG	2.0313	2.3383	1.3824	1.1620	1.2591	1.8266	1.6250	2.0545	5.0507	7.5231	7.0339	6.8192	7.9065	7.9930	12.8418	9.5313	7.7386	7.3480	10.3678	8.1278	5.4326	10.9419	8.5504	6.8156	13.0123	7.0450	7.5830	4.9675	3.8059	11.9279	15.7872	18.3459	4.0851	5.4886	4.4529	4.6235	9.5993	12.3964	9.2486	7.0699	11.1149	4.6582	3.5313	4.3747	12.5597	9.2326	12.9907	5.2001
+Acetyl-CoA	2.3838	2.7738	2.9103	2.6630	2.2098	2.6803	2.9470	1.6190	6.5120	4.7746	3.6157	4.7958	7.7330	6.7585	6.5009	5.1159	6.5476	7.9328	3.7125	7.1989	6.1488	11.1199	9.3356	5.8494	7.8127	11.4517	12.0889	11.6186	2.4758	10.2966	8.3978	8.6841	2.4362	2.2306	2.5734	3.3032	4.1303	2.8899	3.5463	4.1129	1.1550	2.9146	4.0479	4.0510	5.6740	4.1030	3.2140	4.2161
+ADP	152.3826	134.2395	128.7785	185.8292	92.9795	108.8358	128.1439	245.2496	154.7992	180.1136	189.4136	184.4987	162.2213	193.7140	276.6600	216.3599	188.7692	229.5247	224.6675	205.9316	104.4537	202.8646	175.3313	117.7262	273.0464	216.1936	189.1339	164.9492	42.9768	167.1898	185.8470	200.6534	145.0654	187.4861	133.8297	146.3939	220.6500	294.5269	171.4763	161.9069	153.7490	209.8440	139.9549	156.5009	231.5528	211.2857	258.8136	79.6409
+AMP	626.8554	541.1315	613.6219	1077.5019	199.0852	213.2463	308.1001	1343.8333	257.1675	320.2699	493.7602	470.3385	223.6339	400.4584	546.9840	444.9067	476.0139	527.0089	923.9821	439.7783	170.4950	338.2901	275.3009	328.8573	727.9358	466.0038	309.2321	245.8773	59.6097	214.9121	280.9155	335.3084	837.4908	1384.0639	718.2197	732.5884	493.7114	803.5587	380.6434	310.8194	1853.0807	1212.8314	451.2891	554.0701	489.4194	768.1655	757.7076	92.7436
+ATP	1358.3061	1139.8235	1185.1945	971.4524	1258.5231	1302.3602	1800.6781	1125.9627	1305.6249	1229.4363	954.2544	1141.7190	1355.8519	1225.0553	1337.9055	1148.3488	1175.8369	1153.2871	676.0896	1243.1470	790.6899	1863.9744	1220.0477	610.0254	1289.9422	1404.3352	1586.3127	1470.0947	325.3365	1359.8592	1207.7762	1489.8915	798.8335	664.7395	1077.3523	1118.3631	1705.4321	1180.8959	1302.0642	1579.8007	400.7768	963.6757	1265.5774	1245.6835	1884.2094	1251.3914	1127.6515	1529.3608
+Citrate or Isocitrate	481.4215	402.1493	363.4131	349.2164	238.7348	322.9085	310.7889	377.3650	492.1969	549.4885	516.8471	415.2135	333.9993	394.5170	473.8937	395.6316	580.1818	528.6670	440.6098	432.9756	248.2324	433.1736	381.0182	291.2502	512.6832	466.0305	479.3289	416.8673	127.9897	528.2646	497.1621	502.3672	381.9163	483.6570	405.3479	416.0720	611.7728	698.4947	640.7382	681.6162	370.8032	401.8821	461.8868	389.5469	603.3597	463.4612	443.3429	299.2793
+Erythrose 4-phosphate	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+flavin adenine dinucleotide	3.8055	2.6009	3.2754	3.1509	3.3546	4.3216	4.5469	4.0517	3.2903	3.6461	3.5276	3.5452	3.6388	2.6546	4.0578	3.6416	3.8571	4.4371	2.8455	3.7649	2.2509	4.4308	3.4737	1.9957	3.9724	4.2202	3.8892	3.9462	0.8888	3.5065	3.0089	3.0322	2.6023	3.1361	3.6379	3.5660	5.0915	3.7442	3.1106	4.2174	2.8475	2.9956	2.3979	3.0337	5.5690	3.5481	3.4683	3.1514
+Fructose 1_6-bisphosphate	106.5849	89.4889	99.2587	103.0284	66.0515	101.6498	122.1035	94.5820	143.2415	153.4752	144.0665	140.7738	209.9371	229.5188	257.1692	154.4575	144.4231	165.6695	145.7280	143.4722	138.4162	201.3698	147.3725	118.3832	172.2270	181.6609	173.1353	136.9489	50.5297	294.7689	207.9287	205.5987	104.1477	114.4242	123.5864	149.8075	228.0575	192.4280	194.9320	211.3544	106.7057	137.7197	131.8268	127.8112	292.7342	138.1037	202.3541	112.2038
+Glucose 6-phosphate or fructose-6-phosphate	59.0714	48.1139	56.4764	83.7087	46.4096	62.6788	69.9410	97.1633	82.3991	98.5383	84.0592	93.8109	162.1255	142.9464	164.2834	118.3394	100.2795	134.0149	133.5169	150.1227	99.9763	172.8938	155.9948	120.9652	202.1324	145.5053	144.0056	106.0527	54.5862	209.4476	215.5836	221.1443	74.6371	95.6352	89.5068	107.2526	199.5429	146.3593	113.1254	119.8179	136.2496	97.0102	61.9245	74.2743	174.1959	132.9977	150.5968	145.6016
+Malate	292.1321	272.6142	277.8995	271.8544	177.8768	228.9093	281.7704	320.3063	388.8331	402.2203	402.7813	376.5459	287.0781	315.6896	353.2510	290.0674	430.9977	433.7752	376.4030	406.0726	193.1785	349.2094	312.4181	232.2638	434.7442	395.7906	391.3508	359.1197	80.9338	314.0209	283.1078	304.1767	366.6489	414.5097	402.7565	457.6950	671.9871	664.5636	627.2342	701.3438	410.5272	432.1128	437.9711	411.0363	522.1032	396.0693	379.2683	290.1398
+Nicotinamide Adenine Dinucleotide oxidized	16.6312	29.3546	30.8351	33.4495	25.8207	38.9466	28.1142	23.6989	39.3541	30.6566	21.8994	32.4091	37.3520	36.7315	30.9267	17.7945	17.9913	34.7260	11.7445	27.5744	21.8713	34.6697	34.3219	21.4350	14.0298	34.5333	28.2302	26.8678	7.1512	42.4737	27.9976	19.4775	28.2553	34.2560	21.9821	29.0584	57.7788	50.3228	54.9035	56.2433	8.7865	30.0673	32.8369	33.6947	40.6998	28.2315	29.3993	22.2530
+nicotinamide adenine dinucleotide phosphate oxidized	96.2928	88.2458	96.4692	97.1416	66.5125	84.4922	89.4694	100.3661	88.5665	96.9109	94.5907	90.8347	86.3669	95.5184	106.7468	89.9138	95.4605	101.3392	87.9914	96.8491	57.5966	103.5428	94.4766	65.8608	111.5817	107.0669	103.4371	92.7248	25.3309	98.9024	92.1595	100.0041	78.5771	88.8863	86.8681	93.1603	107.3867	98.7886	86.3504	97.2790	93.1442	98.9329	87.4833	89.6269	123.8732	100.3645	92.5824	74.4189
+nicotinamide adenine dinucleotide phosphate reduced	196.1526	205.5745	243.4719	162.8835	178.3487	246.0128	229.2866	113.2634	232.2621	190.3503	144.3541	183.8783	231.0253	176.7392	150.6969	140.5060	186.1628	156.7459	86.3620	166.6544	118.8332	222.9504	181.1923	111.8942	152.2791	211.7574	237.3747	241.2525	49.5976	193.4605	134.1107	157.7579	144.8015	124.7776	188.3602	219.9096	260.8369	151.8035	213.3392	299.0782	84.6155	163.0556	243.7016	232.6764	305.9816	194.1214	125.8221	255.2228
+Nicotinamide Adenine Dinucleotide reduced	190.1455	218.3800	236.9078	179.5582	269.4894	289.4033	290.7587	159.0479	477.2889	404.5002	261.8182	435.6389	515.2815	416.5062	443.2250	369.4115	368.8787	314.6666	178.4903	339.1812	277.2383	454.9491	401.5908	207.1252	252.1329	396.1510	369.3273	406.5553	115.0653	577.1719	406.8504	394.7276	264.6009	240.6386	377.7189	422.3022	930.0375	508.0261	710.5041	1022.0454	202.2466	324.7709	532.7326	465.0680	1014.6860	601.9466	504.0570	634.8510
+Phosphoenolpyruvate	5.0155	3.3532	3.6850	2.7434	4.8533	7.3520	7.2362	6.8511	150.7441	138.9271	124.0012	155.3293	210.8507	185.2176	204.0265	154.3148	209.5328	238.7793	195.1981	218.9425	175.7657	286.2329	273.3249	203.7692	325.5811	318.7577	308.2430	267.7554	108.5222	408.6433	381.2572	383.9223	8.6624	11.0381	8.7188	9.3403	31.3881	26.7206	24.7606	28.6877	43.7375	49.1263	48.3628	50.6868	101.2800	70.8769	77.8597	56.8359
+Ribose-5-phosphate or xylulose 5-phosphate	18.6834	18.0070	1.0586	29.4322	7.4745	7.8788	10.5163	33.8177	25.3936	33.6087	57.5052	52.6065	23.5625	25.7070	32.2908	32.9667	65.9727	80.7469	135.8776	76.0513	16.9986	37.6817	30.2864	34.3459	108.2051	56.8534	44.2306	34.5367	13.3968	46.3680	47.6884	57.0803	32.6054	65.4849	26.7059	26.6972	25.6176	21.7825	20.8853	23.1750	169.7747	50.9013	19.5560	20.9844	32.8531	27.4253	38.5017	19.6807
+Sedoheptulose 7-phosphate	10.0029	6.8765	10.0571	11.5008	10.1251	12.4385	11.9522	12.1316	18.6710	23.2105	17.2669	19.0192	50.2269	39.2055	54.9103	42.7148	29.2227	30.2998	26.2009	31.4115	35.2829	60.7937	57.7928	43.8864	41.8083	36.6781	40.2102	32.9891	17.8491	67.3873	71.0993	72.5752	12.0560	8.0721	13.9670	13.3190	30.6092	24.2563	24.2191	25.7984	21.3470	13.3235	9.6807	9.6714	34.8898	27.9529	26.2572	24.9095
+Sucrose	62.8114	42.6430	52.7896	47.5433	52.6070	57.9512	72.0820	73.2232	527.9358	566.0865	519.9814	510.1476	838.6126	746.5676	872.8780	680.4971	837.8689	694.7565	672.9883	892.1928	673.2179	1304.6548	1055.4521	732.2673	1238.9471	1088.6365	1188.1158	1078.2214	426.7970	1488.5225	1481.3223	1499.7991	54.7379	57.0739	67.2114	76.8442	175.4532	122.5700	117.5808	142.2317	211.8350	226.9859	210.2997	213.8725	465.8449	348.1402	344.7708	312.8895
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+2 or 3-phosphoglycerate_2PG/3PG				724			2PG/3PG	UM_Target_ID
+Acetyl-CoA				444493			aCoA	UM_Target_ID
+ADP				6022			ADP	UM_Target_ID
+AMP				6083			AMP	UM_Target_ID
+ATP				5957			ATP	UM_Target_ID
+Citrate or Isocitrate				311			CIT/ICIT	UM_Target_ID
+Erythrose 4-phosphate				122357			E4P	UM_Target_ID
+flavin adenine dinucleotide				46906035			FAD	UM_Target_ID
+Fructose 1,6-bisphosphate				21125049			FBP	UM_Target_ID
+Glucose 6-phosphate or fructose-6-phosphate				5958			G6P/F6P	UM_Target_ID
+Malate				525			MAL	UM_Target_ID
+Nicotinamide Adenine Dinucleotide oxidized				15938971			NAD	UM_Target_ID
+nicotinamide adenine dinucleotide phosphate oxidized				15938972			NADP	UM_Target_ID
+nicotinamide adenine dinucleotide phosphate reduced				22833512			NADPH	UM_Target_ID
+Nicotinamide Adenine Dinucleotide reduced				439153			NADH	UM_Target_ID
+Phosphoenolpyruvate				1005			PEP	UM_Target_ID
+Ribose-5-phosphate or xylulose 5-phosphate				77982			R5P/X5P	UM_Target_ID
+Sedoheptulose 7-phosphate				165007			S7P	UM_Target_ID
+Sucrose				5988			SUC	UM_Target_ID
+METABOLITES_END
+#END

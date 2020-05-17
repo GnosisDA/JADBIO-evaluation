@@ -1,0 +1,185 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000167 ANALYSIS_ID:AN000261
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Cold Storage of Rat Hepatocyte Spheroids
+PR:PROJECT_SUMMARY               	Cell-based therapies for liver disease rely on a high-quality supply of
+PR:PROJECT_SUMMARY               	and a means for storage during transportation from site of isolation to site of
+PR:PROJECT_SUMMARY               	Unfortunately, frozen cryopreservation is associated with unacceptable loss of
+PR:PROJECT_SUMMARY               	viability after thawing. The purpose of this study was to optimize conditions
+PR:PROJECT_SUMMARY               	cold storage of rat hepatocyte spheroids without freezing. Rat hepatocytes were
+PR:PROJECT_SUMMARY               	by a two-step perfusion method; hepatocyte spheroids were formed during 48 h of
+PR:PROJECT_SUMMARY               	culture in serum-free medium (SFM). Spheroids were then maintained in rocked
+PR:PROJECT_SUMMARY               	at 37 °C (control condition) or cold stored at 4 °C for 24 or 48 h in six
+PR:PROJECT_SUMMARY               	cold storage solutions: SFM alone; SFM + 1 mM deferoxamine (Def); SFM + 1 ?M
+PR:PROJECT_SUMMARY               	A (CsA); SFM + 1 mM Def + 1 ?M CsA, University of Wisconsin (UW) solution
+PR:PROJECT_SUMMARY               	UW + 1 mM Def. Performance metrics after cold storage included viability, gene
+PR:PROJECT_SUMMARY               	albumin production, and functional activity of cytochrome P450 enzymes and urea
+PR:PROJECT_SUMMARY               	proteins. We observed that cold-induced injury was reduced significantly by the
+PR:PROJECT_SUMMARY               	of the iron chelator (Def) to both SFM and UW solution. Performance metrics
+PR:PROJECT_SUMMARY               	detoxification, albumin production) of rat hepatocyte spheroids stored in SFM +
+PR:PROJECT_SUMMARY               	for 24 h were significantly increased from SFM alone and approached those in
+PR:PROJECT_SUMMARY               	conditions, while performance metrics after cold storage in SFM alone or cold
+PR:PROJECT_SUMMARY               	for 48 h were both significantly reduced. A serum-free medium supplemented with
+PR:PROJECT_SUMMARY               	allowed hepatocyte spheroids to tolerate 24 h of cold storage with less than
+PR:PROJECT_SUMMARY               	loss in viability and functionality. Further research is warranted to optimize
+PR:PROJECT_SUMMARY               	solution for extended cold storage of hepatocyte spheroids.
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Division of Experimental Surgery
+PR:LAST_NAME                     	Nyberg
+PR:FIRST_NAME                    	Scott
+PR:ADDRESS                       	-
+PR:EMAIL                         	Nyberg.scott@mayo.edu
+PR:PHONE                         	-
+PR:FUNDING_SOURCE                	This work was funded by grants from NIH (RO1-DK56733), the Marriott Foundation,
+PR:FUNDING_SOURCE                	Wallace H. Coulter Foundation, the 12th Five-Year National Science and
+PR:FUNDING_SOURCE                	Major Project for Infectious Diseases, China (No. 2012 ZX 10002004-005,
+PR:FUNDING_SOURCE                	Liu), and Jiangsu province government, China (Yue Yu). The authors declare no
+PR:FUNDING_SOURCE                	of interest.
+#STUDY
+ST:STUDY_TITLE                   	Cold Storage of Rat Hepatocyte Spheroids
+ST:STUDY_TYPE                    	Storage condition testing
+ST:STUDY_SUMMARY                 	The purpose of this study was to optimize conditions for cold storage of rat
+ST:STUDY_SUMMARY                 	spheroids without freezing. Rat hepatocytes were isolated by a two-step
+ST:STUDY_SUMMARY                 	method; hepatocyte spheroids were formed during 48 h of rocked culture in
+ST:STUDY_SUMMARY                 	medium (SFM). Spheroids were then maintained in rocked culture at 37°C
+ST:STUDY_SUMMARY                 	condition) or cold stored at 4°C for 24 or 48 h in six different cold storage
+ST:STUDY_SUMMARY                 	SFM alone; SFM + 1 mM deferoxamine (Def); SFM + 1 ?M cyclosporin A (CsA); SFM +
+ST:STUDY_SUMMARY                 	mM Def + 1 ?M CsA, University of Wisconsin (UW) solution alone, UW + 1 mM Def.
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Division of Experimental Surgery
+ST:LAST_NAME                     	Nyberg
+ST:FIRST_NAME                    	Scott
+ST:ADDRESS                       	-
+ST:EMAIL                         	Nyberg.scott@mayo.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	9
+ST:TOTAL_SUBJECTS                	45
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animals
+SU:SUBJECT_SPECIES               	Rattus norvegicus
+SU:TAXONOMY_ID                   	10114
+SU:GENOTYPE_STRAIN               	SpragueDawley rats
+SU:WEIGHT_OR_WEIGHT_RANGE        	300400 g
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	1	Treatment:20uM diazepam	Replicate=2; factor description=20uM diazepam, 6-13-2012, Time 0
+SUBJECT_SAMPLE_FACTORS           	-	17	Treatment:20uM diazepam	Replicate=3; factor description=20uM diazepam, 6-20-2012, Time 0
+SUBJECT_SAMPLE_FACTORS           	-	33	Treatment:20uM diazepam	Replicate=1; factor description=20uM diazepam, 5-31-2012, Time 0
+SUBJECT_SAMPLE_FACTORS           	-	20	Treatment:Control group 120h	Replicate=2; factor description=Control group 120h 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	36	Treatment:Control group 120h	Replicate=3; factor description=Control group 120h 6-3-2012
+SUBJECT_SAMPLE_FACTORS           	-	4	Treatment:Control group 120h	Replicate=1; factor description=Control group 120h 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	18	Treatment:Control group 72h	Replicate=3; factor description=Control group 72h 6-21-2012
+SUBJECT_SAMPLE_FACTORS           	-	2	Treatment:Control group 72h	Replicate=2; factor description=Control group 72h 6-14-2012
+SUBJECT_SAMPLE_FACTORS           	-	34	Treatment:Control group 72h	Replicate=1; factor description=Control group 72h 6-1-2012
+SUBJECT_SAMPLE_FACTORS           	-	19	Treatment:Control group 96h	Replicate=3; factor description=Control group 96h 6-22-2012
+SUBJECT_SAMPLE_FACTORS           	-	3	Treatment:Control group 96h	Replicate=1; factor description=Control group 96h 6-15-2012
+SUBJECT_SAMPLE_FACTORS           	-	35	Treatment:Control group 96h	Replicate=2; factor description=Control group 96h 6-2-2012
+SUBJECT_SAMPLE_FACTORS           	-	25	Treatment:SFM cold 24-120h	Replicate=2; factor description=A  SFM  cold 24-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	9	Treatment:SFM cold 24-120h	Replicate=1; factor description=A  SFM  cold 24-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	21	Treatment:SFM cold 24-96h	Replicate=2; factor description=A  SFM  cold 24-96h; 6-22-2012
+SUBJECT_SAMPLE_FACTORS           	-	5	Treatment:SFM cold 24-96h	Replicate=1; factor description=A  SFM  cold 24-96h; 6-15-2012
+SUBJECT_SAMPLE_FACTORS           	-	13	Treatment:SFM cold 48-120h	Replicate=1; factor description=A  SFM  cold 48-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	29	Treatment:SFM cold 48-120h	Replicate=2; factor description=A  SFM  cold 48-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	12	Treatment:SFM +CsA cold 24-120h	Replicate=1; factor description=D  SFM +CsA cold 24-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	28	Treatment:SFM +CsA cold 24-120h	Replicate=2; factor description=D  SFM +CsA cold 24-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	24	Treatment:SFM +CsA cold 24-96h	Replicate=2; factor description=D  SFM +CsA cold 24-96h; 6-22-2012
+SUBJECT_SAMPLE_FACTORS           	-	8	Treatment:SFM +CsA cold 24-96h	Replicate=1; factor description=D  SFM +CsA cold 24-96h; 6-15-2012
+SUBJECT_SAMPLE_FACTORS           	-	16	Treatment:SFM +CsA cold 48-120h	Replicate=1; factor description=D  SFM +CsA cold 48-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	32	Treatment:SFM +CsA cold 48-120h	Replicate=2; factor description=D  SFM +CsA cold 48-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	42	Treatment:SFM +CsA+Gly cold 24-120h	Replicate=1; factor description=D  SFM +CsA+Gly  cold 24-120h; 6-3-2012
+SUBJECT_SAMPLE_FACTORS           	-	39	Treatment:SFM +CsA+Gly cold 24-96h	Replicate=1; factor description=D  SFM +CsA+Gly  cold 24-96h; 6-2-2012
+SUBJECT_SAMPLE_FACTORS           	-	45	Treatment:SFM +CsA+Gly cold 48-120h	Replicate=1; factor description=D  SFM +CsA+Gly  cold 48-120h; 6-3-2012
+SUBJECT_SAMPLE_FACTORS           	-	10	Treatment:SFM+Def cold 24-120h	Replicate=2; factor description=B  SFM+Def  cold 24-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	26	Treatment:SFM+Def cold 24-120h	Replicate=3; factor description=B  SFM+Def  cold 24-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	40	Treatment:SFM+Def cold 24-120h	Replicate=1; factor description=A  SFM+Def  cold 24-120h; 6-3-2012
+SUBJECT_SAMPLE_FACTORS           	-	22	Treatment:SFM+Def cold 24-96h	Replicate=3; factor description=B  SFM+Def  cold 24-96h; 6-22-2012
+SUBJECT_SAMPLE_FACTORS           	-	37	Treatment:SFM+Def cold 24-96h	Replicate=1; factor description=A  SFM+Def  cold 24-96h; 6-2-2012
+SUBJECT_SAMPLE_FACTORS           	-	6	Treatment:SFM+Def cold 24-96h	Replicate=2; factor description=B  SFM+Def  cold 24-96h; 6-15-2012
+SUBJECT_SAMPLE_FACTORS           	-	14	Treatment:SFM+Def cold 48-120h	Replicate=2; factor description=B  SFM+Def  cold 48-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	30	Treatment:SFM+Def cold 48-120h	Replicate=3; factor description=B  SFM+Def  cold 48-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	43	Treatment:SFM+Def cold 48-120h	Replicate=1; factor description=A  SFM+Def  cold 48-120h; 6-3-2012
+SUBJECT_SAMPLE_FACTORS           	-	11	Treatment:SFM +Def +CsA cold 24-120h	Replicate=2; factor description=C  SFM +Def  +CsA cold 24-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	27	Treatment:SFM +Def +CsA cold 24-120h	Replicate=3; factor description=C  SFM +Def  +CsA cold 24-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	41	Treatment:SFM +Def +CsA cold 24-120h	Replicate=1; factor description=B  SFM +Def  +CsA cold 24-120h; 6-3-2012
+SUBJECT_SAMPLE_FACTORS           	-	23	Treatment:SFM +Def +CsA cold 24-96h	Replicate=3; factor description=C  SFM +Def  +CsA cold 24-96h; 6-22-2012
+SUBJECT_SAMPLE_FACTORS           	-	38	Treatment:SFM +Def +CsA cold 24-96h	Replicate=1; factor description=B  SFM +Def  +CsA cold 24-96h; 6-2-2012
+SUBJECT_SAMPLE_FACTORS           	-	7	Treatment:SFM +Def +CsA cold 24-96h	Replicate=2; factor description=C  SFM +Def  +CsA cold 24-96h; 6-15-2012
+SUBJECT_SAMPLE_FACTORS           	-	15	Treatment:SFM +Def +CsA cold 48-120h	Replicate=2; factor description=C  SFM +Def  +CsA cold 48-120h; 6-16-2012
+SUBJECT_SAMPLE_FACTORS           	-	31	Treatment:SFM +Def +CsA cold 48-120h	Replicate=3; factor description=C  SFM +Def  +CsA cold 48-120h; 6-23-2012
+SUBJECT_SAMPLE_FACTORS           	-	44	Treatment:SFM +Def +CsA cold 48-120h	Replicate=1; factor description=B  SFM +Def  +CsA cold 48-120h; 6-3-2012
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Hepatocytes were isolated from male SpragueDawley rats (300400 g; Harlan,
+CO:COLLECTION_SUMMARY            	IN, USA) by a two-step perfusion method as previously described (33). All
+CO:COLLECTION_SUMMARY            	yielded hepatocytes with viability exceeding 95% by trypan blue dye
+CO:COLLECTION_SUMMARY            	isolated hepatocytes were suspended in SFM, composed of Williams E
+CO:COLLECTION_SUMMARY            	with 0.2 U/ml insulin, 6 ?g/ml transferrin, 100 U/ml penicillin G, 100 mg/ml
+CO:COLLECTION_SUMMARY            	3 g/L human albumin, 2.2 g/L sodium bicarbonate, 1 g/L L-carnitine, 2.0 mM
+CO:COLLECTION_SUMMARY            	100 nM dexamethasone, 40 ng/ml glucagon, 20 ng/ml Gly-His-Lys, 1,000 U/L
+CO:COLLECTION_SUMMARY            	1 mg/L warfarin, and 5 ng/ml of mouse epidermal growth factor (EGF) (3). The
+CO:COLLECTION_SUMMARY            	suspended in SFM, were placed in a spheroid box (33 × 28 × 6 cm) custom-made
+CO:COLLECTION_SUMMARY            	polycarbonate by Mayo Division of Engineering and siliconized with Sigmacote
+CO:COLLECTION_SUMMARY            	30 min (20) and gently rocked continuously at a frequency of 10 cycles per
+CO:COLLECTION_SUMMARY            	(0.17 Hz) to induce spheroid formation and to maintain spheroids in suspension.
+CO:COLLECTION_SUMMARY            	hepatocyte concentration was 5 × 105 cells/ml per spheroid box. All culture
+CO:COLLECTION_SUMMARY            	were maintained in a 5% CO2, 37°C incubator as previously described (20).
+CO:COLLECTION_SUMMARY            	were centrifuged and resuspended in fresh culture media every 24 h.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	UW alone|UW + 1 mM Def|SFM alone|SFM + 1 mM Def|SFM + 1 mM Def + 1 µM CsA|SFM
+TR:TREATMENT_SUMMARY             	1 µM CsA
+TR:TREATMENT_PROTOCOL_FILENAME   	PMID-23507348-Liu-Nydberg-CellTrans-2014.pdf
+TR:TREATMENT_PROTOCOL_COMMENTS   	Treatment annotation  Cold 24 Indicates 24 hours cold storate prior to
+TR:TREATMENT_PROTOCOL_COMMENTS   	48 Indicates 48 hours cold storate prior to treatment -96h Indicates treated
+TR:TREATMENT_PROTOCOL_COMMENTS   	96 hours after cold storage -120h Indicates treated for 120 hours after cold
+TR:TREATMENT_COMPOUND            	University of Wisconsin (UW) solution|UW + deferoxamine (Def)| serum-free
+TR:TREATMENT_COMPOUND            	Sigma-Aldrich (St. Louis, MO, USA)|SFM + Def|SFM + Def + cyclosporin A
+TR:TREATMENT_COMPOUND            	+ CsA
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	After 48 h of continuous rocking, the spheroids were washed with SFM at room
+SP:SAMPLEPREP_SUMMARY            	The culture medium was changed to the cold storage medium (UW alone, UW + 1 mM
+SP:SAMPLEPREP_SUMMARY            	SFM alone; SFM + 1 mM Def; SFM + 1 mM Def + 1 ?M CsA; SFM + 1 ?M CsA) at room
+SP:SAMPLEPREP_SUMMARY            	Spheroids were left in rocked culture without cold storage as control.
+SP:SAMPLEPREP_SUMMARY            	intended for cold storage were rocked in glass dishes (10 × 8 × 2 cm)
+SP:SAMPLEPREP_SUMMARY            	by Mayo Division of Engineering and siliconized with Sigmacote for 30 min and
+SP:SAMPLEPREP_SUMMARY            	transferred into 50-ml conical tubes (BD Falcon; 1 × 106cells/ml, 20 ml in
+SP:SAMPLEPREP_SUMMARY            	and put on ice for 1 h. Of note, spheroid box and glass dishes differ in size
+SP:SAMPLEPREP_SUMMARY            	volume capacity) but possess similar properties of spheroid formation and
+SP:SAMPLEPREP_SUMMARY            	Finally, tubes of spheroids were placed in a refrigerator to be cold stored at
+SP:SAMPLEPREP_SUMMARY            	After 24 or 48 h of cold storage treatment, the spheroids were centrifuged at
+SP:SAMPLEPREP_SUMMARY            	× g for 5 min, and the supernatant fluid was removed. Warm SFM (20 ml) at
+SP:SAMPLEPREP_SUMMARY            	was added to each tube. The tubes were mixed gently prior to adding 20 ml of
+SP:SAMPLEPREP_SUMMARY            	suspension to each glass culture dish and continued to rocking culture.
+SP:SAMPLEPREP_SUMMARY            	were maintained in a humidified incubator at 37°C with a 5% CO2 atmosphere.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Concentrations of diazepam and its two major metabolites (nordiazepam and
+CH:CHROMATOGRAPHY_SUMMARY        	were determined by high-performance liquid chromatography (HPLC) with mass
+CH:CHROMATOGRAPHY_SUMMARY        	detection in the CTSA Metabolomics Core lab at Mayo Clinic.
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Mayo Clinic Metabolomics Core
+#MS
+MS:INSTRUMENT_NAME               	Triplequad/Thermo
+MS:INSTRUMENT_TYPE               	Triple quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	ng/ml
+MS_METABOLITE_DATA_START
+Samples	1	17	33	20	36	4	18	2	34	19	3	35	25	9	21	5	13	29	12	28	24	8	16	32	42	39	45	10	26	40	22	37	6	14	30	43	11	27	41	23	38	7	15	31	44
+Factors	Treatment:20uM diazepam	Treatment:20uM diazepam	Treatment:20uM diazepam	Treatment:Control group 120h	Treatment:Control group 120h	Treatment:Control group 120h	Treatment:Control group 72h	Treatment:Control group 72h	Treatment:Control group 72h	Treatment:Control group 96h	Treatment:Control group 96h	Treatment:Control group 96h	Treatment:SFM cold 24-120h	Treatment:SFM cold 24-120h	Treatment:SFM cold 24-96h	Treatment:SFM cold 24-96h	Treatment:SFM cold 48-120h	Treatment:SFM cold 48-120h	Treatment:SFM +CsA cold 24-120h	Treatment:SFM +CsA cold 24-120h	Treatment:SFM +CsA cold 24-96h	Treatment:SFM +CsA cold 24-96h	Treatment:SFM +CsA cold 48-120h	Treatment:SFM +CsA cold 48-120h	Treatment:SFM +CsA+Gly cold 24-120h	Treatment:SFM +CsA+Gly cold 24-96h	Treatment:SFM +CsA+Gly cold 48-120h	Treatment:SFM+Def cold 24-120h	Treatment:SFM+Def cold 24-120h	Treatment:SFM+Def cold 24-120h	Treatment:SFM+Def cold 24-96h	Treatment:SFM+Def cold 24-96h	Treatment:SFM+Def cold 24-96h	Treatment:SFM+Def cold 48-120h	Treatment:SFM+Def cold 48-120h	Treatment:SFM+Def cold 48-120h	Treatment:SFM +Def +CsA cold 24-120h	Treatment:SFM +Def +CsA cold 24-120h	Treatment:SFM +Def +CsA cold 24-120h	Treatment:SFM +Def +CsA cold 24-96h	Treatment:SFM +Def +CsA cold 24-96h	Treatment:SFM +Def +CsA cold 24-96h	Treatment:SFM +Def +CsA cold 48-120h	Treatment:SFM +Def +CsA cold 48-120h	Treatment:SFM +Def +CsA cold 48-120h
+diazepam	4481.5725	5736.6630	5623.3315	1624.1825	956.1976	726.7814	1633.6693	1621.7624	1264.7138	1897.2045	1045.1085	1328.6425	2411.7352	2148.4238	1810.5472	1908.3052	2474.8026	2351.5498	2776.9633	2073.6053	2116.1659	2116.6115	2727.2512	2099.1453	1318.7897	1900.1499	2066.6119	662.5650	2781.7872	2529.0427	2011.8566	1396.4370	1444.2694	2114.3240	2328.9302	1788.3991	1685.9612	2494.7350	1947.2209	2389.4712	1697.0849	1699.9506	1649.3030	1956.9368	2769.8399
+nordiazepam				120.4401	320.1140	331.5166	144.0672	426.4867	188.2435	111.2503	565.4192	469.4874	3.5452	23.2656	23.8233	19.4455	5.4840	7.5175	6.5456	2.4504	27.2201	8.9072	4.3846	3.6653	183.1366	152.2262	45.5407	256.2231	62.0669	419.4401	102.7936	127.1815	239.4604	82.5938	47.6665	40.2152	669.9298	47.8024	227.3917	105.4923	119.4808	302.1144	69.3379	50.0816	57.3156
+oxazepam				33.3808	329.6473	529.4960	13.1518	263.3279	93.3722	18.0641	696.8769	365.7868		2.2263		0.4201							0.0000		76.7970	23.1458	0.9956	289.0782	6.3126	165.7055	1.6718	36.1355	136.4053	6.6902	0.1394	0.8202	354.0988	4.5315	88.7497	1.6816	21.7052	180.4597	5.1440	0.3173	1.4070
+temezepam				313.1072	309.0023	247.3904	84.5079	268.8166	157.2228	209.4556	314.0752	388.5075	2.4173	85.1736	6.1321	17.2721	2.0203	2.1027	21.6403	0.8599	7.1088	6.6813	1.7196	1.1660	283.6135	119.1452	20.6709	231.7318	145.8304	517.8487	33.7706	94.2949	223.2863	71.1168	15.7583	16.5374	463.0140	105.2445	431.0494	36.8710	108.4368	277.1309	50.7277	16.1774	26.7043
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+diazepam								MAYO_ID
+nordiazepam								MAYO_ID
+oxazepam								MAYO_ID
+temezepam								MAYO_ID
+METABOLITES_END
+#END

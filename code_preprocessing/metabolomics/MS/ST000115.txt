@@ -1,0 +1,254 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000115 ANALYSIS_ID:AN000195
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Impact of insulin deprivation and treatment on sphingolipid distribution in
+PR:PROJECT_TITLE                 	muscle subcellular compartments of streptozotocin-diabetic C57Bl/6 mice.
+PR:PROJECT_TYPE                  	Targeted metabolomics
+PR:PROJECT_SUMMARY               	Insulin deprivation in type 1 diabetes (T1D) individuals increases lipolysis
+PR:PROJECT_SUMMARY               	plasma free fatty acids (FFA) concentration, which can stimulate synthesis of
+PR:PROJECT_SUMMARY               	bioactive lipids such as ceramides (Cer) and long-chain fatty acid-CoAs
+PR:PROJECT_SUMMARY               	Ceramide was shown to decrease muscle insulin sensitivity, and at mitochondrial
+PR:PROJECT_SUMMARY               	it stimulates reactive oxygen species production. Here, we show that insulin
+PR:PROJECT_SUMMARY               	in streptozotocin diabetic C57BL/6 mice increases quadriceps muscle Cer
+PR:PROJECT_SUMMARY               	which was correlated with a concomitant decrease in the body fat and increased
+PR:PROJECT_SUMMARY               	FFA, glycosylated hemoglobin level (%Hb A1c), and muscular LCFa-CoA content.
+PR:PROJECT_SUMMARY               	alternations were accompanied by an increase in protein expression in LCFa-CoA
+PR:PROJECT_SUMMARY               	Cer synthesis (FATP1/ACSVL5, CerS1, CerS5), a decrease in the expression of
+PR:PROJECT_SUMMARY               	implicated in muscle insulin sensitivity (GLUT4, GYS1), and inhibition of
+PR:PROJECT_SUMMARY               	signaling cascade by Akt? and GYS3? phosphorylation under acute insulin
+PR:PROJECT_SUMMARY               	Both the content and composition of sarcoplasmic fraction sphingolipids were
+PR:PROJECT_SUMMARY               	affected by insulin deprivation, whereas mitochondrial fraction sphingolipids
+PR:PROJECT_SUMMARY               	stable. The observed effects of insulin deprivation were reversed, except for
+PR:PROJECT_SUMMARY               	and composition of LCFa-CoA, CerS protein expression, GYS1 gene expression, and
+PR:PROJECT_SUMMARY               	status of Akt and GYS3? when exogenous insulin was provided by subcutaneous
+PR:PROJECT_SUMMARY               	implants. Principal component analysis and Pearson's correlation analysis
+PR:PROJECT_SUMMARY               	close relationships between the features of the diabetic phenotype, the content
+PR:PROJECT_SUMMARY               	LCFa-CoAs and Cers containing C18-fatty acids in sarcoplasm, but not in
+PR:PROJECT_SUMMARY               	Insulin replacement did not completely rescue the phenotype, especially
+PR:PROJECT_SUMMARY               	the content of LCFa-CoA, or proteins implicated in Cer synthesis and muscle
+PR:PROJECT_SUMMARY               	sensitivity. These persistent changes might contribute to muscle insulin
+PR:PROJECT_SUMMARY               	observed in T1D individuals.
+PR:INSTITUTE                     	Mayo Clinic
+PR:DEPARTMENT                    	Endocrinology
+PR:LABORATORY                    	Dr. Sreekumaran Nair's lab
+PR:LAST_NAME                     	Nair
+PR:FIRST_NAME                    	Sreekumaran
+PR:ADDRESS                       	-
+PR:EMAIL                         	Dasari.Surendra@mayo.edu
+PR:PHONE                         	-
+PR:FUNDING_SOURCE                	R01-DK-41973, UL1 TR000135, the David Murdock Dole Professorship (K. S. Nair),
+PR:FUNDING_SOURCE                	the Stephenson Fellowship (P. Zabielski).
+PR:PROJECT_COMMENTS              	24368672
+#STUDY
+ST:STUDY_TITLE                   	Impact of insulin deprivation and treatment on sphingolipid distribution in
+ST:STUDY_TITLE                   	muscle subcellular compartments of streptozotocin-diabetic C57Bl/6 mice
+ST:STUDY_TYPE                    	Insulin depravation
+ST:STUDY_SUMMARY                 	Experiments were conducted using 13-wk-old male C57BL/6J mice (Jackson
+ST:STUDY_SUMMARY                 	Bar Harbor, ME). Mice were housed individually with free access to water and
+ST:STUDY_SUMMARY                 	(TD.10112; Harlan Laboratories, Indianapolis, IN), with a 12:12-h light-dark
+ST:STUDY_SUMMARY                 	and temperature and humidity control. Mice were acclimated for 1 wk prior to
+ST:STUDY_SUMMARY                 	beginning of the experiment. The protocol was approved by the Mayo Clinic
+ST:STUDY_SUMMARY                 	Animal Care and Use Committee. Following a 6-h fast, mice were given
+ST:STUDY_SUMMARY                 	injections of STZ (125 mg/kg; in sodium acetate buffer, pH = 4.5) (67).
+ST:STUDY_SUMMARY                 	were repeated on the following day. Control animals received intraperitoneal
+ST:STUDY_SUMMARY                 	of vehicle. Only mice that displayed blood glucose ?300 mg/dl and an increase
+ST:STUDY_SUMMARY                 	blood ketones (both values by Precision Xtra glucometer; Abbott Laboratories,
+ST:STUDY_SUMMARY                 	Park, IL), hyperphagia, and polyuria and were positive for urine glucose
+ST:STUDY_SUMMARY                 	via dipstick (Uristix, Bayer, Pittsburgh, PA) on day 7 after the first STZ dose
+ST:STUDY_SUMMARY                 	included in the experiment. Animals that were positive for STZ diabetes
+ST:STUDY_SUMMARY                 	LinBit subcutaneous insulin implant (LinShin Canada, Toronto, ON, Canada) (79)
+ST:STUDY_SUMMARY                 	pentobarbital sodium anesthesia (Nebutal, 40 mg/kg of body wt) according to the
+ST:STUDY_SUMMARY                 	protocol. Each animal received two subcutaneous implants (total dose: 0.2 U/24
+ST:STUDY_SUMMARY                 	for >30 days, 10 U/kg for 20-g mice). Insulin treatment was continued for 3 wk.
+ST:STUDY_SUMMARY                 	animals (C; n = 13) received blank implants. Diabetic control was confirmed by
+ST:STUDY_SUMMARY                 	measurements of blood and urinary glucose. In some cases, when urine glucose
+ST:STUDY_SUMMARY                 	present and blood glucose was >288 mg/dl, the animal received a third implant.
+ST:STUDY_SUMMARY                 	insulin treatment was continued until initially lower plasma glucose content in
+ST:STUDY_SUMMARY                 	animals reached control values. Three weeks following implantation, diabetic
+ST:STUDY_SUMMARY                 	were divided randomly into diabetic-treated (D + I; n = 13) and
+ST:STUDY_SUMMARY                 	(D ? I; n = 13) groups. Insulin implants were removed from the D ? I group
+ST:STUDY_SUMMARY                 	pentobarbital anesthesia, which led to the return of the diabetic phenotype
+ST:STUDY_SUMMARY                 	24 h. Animals from the D + I group continued on insulin treatment (Fig. 1). At
+ST:STUDY_SUMMARY                 	age of 18 wk, animals from all groups were analyzed for body composition by an
+ST:STUDY_SUMMARY                 	Body Composition Analyzer (EchoMRI, Houston, TX) and euthanized by decapitation
+ST:STUDY_SUMMARY                 	wk after the initial STZ or vehicle dose. Figure 1 depicts the timeline of the
+ST:STUDY_SUMMARY                 	and blood glucose profiles for each experimental group. Additional animals were
+ST:STUDY_SUMMARY                 	for estimation of skeletal muscle insulin sensitivity by acute insulin
+ST:STUDY_SUMMARY                 	The mice were divided into the C (n = 6), D ? I (n = 7), and D + I (n = 7)
+ST:STUDY_SUMMARY                 	and followed appropriate experimental treatment, except for acute insulin
+ST:STUDY_SUMMARY                 	10 min prior to euthanization by pentobarbital overdose. Figure 1 of the
+ST:STUDY_SUMMARY                 	PDF of the article summarizes the study design
+ST:INSTITUTE                     	Mayo Clinic
+ST:DEPARTMENT                    	Endocrinology
+ST:LAST_NAME                     	Nair
+ST:FIRST_NAME                    	Sreekumaran
+ST:ADDRESS                       	-
+ST:EMAIL                         	Dasari.Surendra@mayo.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	3
+ST:TOTAL_SUBJECTS                	39
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+SU:GENOTYPE_STRAIN               	C57BL/6J
+SU:AGE_OR_AGE_RANGE              	13-wk-old
+SU:GENDER                        	Male
+SU:SPECIES_GROUP                 	Mammal
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	C2	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C3	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C35	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C38	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C4	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C44	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C45	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C47	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C48	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C49	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C5	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C50	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C51	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	C6	Treatment:control	
+SUBJECT_SAMPLE_FACTORS           	-	D+14	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+21	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+23	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+24	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+32	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+52	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+53	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+54	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+55	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+56	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+57	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+58	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D+70	Treatment:diabetic treated	
+SUBJECT_SAMPLE_FACTORS           	-	D-25	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-28	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-31	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-33	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-36	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-39	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-40	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-41	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-42	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-43	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-60	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-61	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-63	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-64	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-67	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-68	Treatment:diabetic untreated	
+SUBJECT_SAMPLE_FACTORS           	-	D-69	Treatment:diabetic untreated	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Mitochondria were isolated from quadriceps muscle by differential
+CO:COLLECTION_SUMMARY            	as described previously (38). Briefly, quadriceps muscle samples were
+CO:COLLECTION_SUMMARY            	on ice using a motor-driven Potter-Elvehjem tissue grinder. After initial
+CO:COLLECTION_SUMMARY            	the supernatant containing the mitochondrial and sarcoplasmic fraction was
+CO:COLLECTION_SUMMARY            	to a chilled microcentrifuge tube and centrifuged at 10,000 g for 2 min to
+CO:COLLECTION_SUMMARY            	mitochondria. The supernatant containing sarcoplasmic fraction was frozen for
+CO:COLLECTION_SUMMARY            	analysis. Mitochondrial pellet was washed twice by resuspending/centrifugation
+CO:COLLECTION_SUMMARY            	finally suspended in a mitochondrial storage buffer. The levels of both the
+CO:COLLECTION_SUMMARY            	and sphingolipids in homogenates and various muscle fractions were normalized
+CO:COLLECTION_SUMMARY            	total protein content, as measured by 660 nm Protein Assay (Thermo Scientific;
+CO:COLLECTION_SUMMARY            	Protein Biology Products, Rockford, IL).
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Control/Diabetic; insulin treated/Diabetic; insulin deprived
+TR:TREATMENT_COMPOUND            	blank/Insulin/Insulin
+TR:TREATMENT_ROUTE               	Skin implants
+TR:ANIMAL_ANESTHESIA             	phenobarbital
+TR:ANIMAL_ENDP_EUTHANASIA        	5 weeks after treatment
+TR:ANIMAL_ENDP_TISSUE_COLL_LIST  	plasma, muscle, liver and skin
+TR:ANIMAL_ENDP_TISSUE_PROC_METHOD	see attached reference publication PDF
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Mitochondria were isolated from quadriceps muscle by differential
+SP:SAMPLEPREP_SUMMARY            	as described previously (38). Briefly, quadriceps muscle samples were
+SP:SAMPLEPREP_SUMMARY            	on ice using a motor-driven Potter-Elvehjem tissue grinder. After initial
+SP:SAMPLEPREP_SUMMARY            	the supernatant containing the mitochondrial and sarcoplasmic fraction was
+SP:SAMPLEPREP_SUMMARY            	to a chilled microcentrifuge tube and centrifuged at 10,000 g for 2 min to
+SP:SAMPLEPREP_SUMMARY            	mitochondria. The supernatant containing sarcoplasmic fraction was frozen for
+SP:SAMPLEPREP_SUMMARY            	analysis. Mitochondrial pellet was washed twice by resuspending/centrifugation
+SP:SAMPLEPREP_SUMMARY            	finally suspended in a mitochondrial storage buffer. The levels of both the
+SP:SAMPLEPREP_SUMMARY            	and sphingolipids in homogenates and various muscle fractions were normalized
+SP:SAMPLEPREP_SUMMARY            	total protein content, as measured by 660 nm Protein Assay (Thermo Scientific;
+SP:SAMPLEPREP_SUMMARY            	Protein Biology Products, Rockford, IL). / Plasma free fatty acid
+SP:SAMPLEPREP_SUMMARY            	were measured by liquid chromatography/mass spectrometry (LC/MS), as described
+SP:SAMPLEPREP_SUMMARY            	(51). Briefly, 50 ?l of plasma was spiked with heptadecanoate internal standard
+SP:SAMPLEPREP_SUMMARY            	and analyzed with Applied Biosystems (Foster City, CA) API5000 mass
+SP:SAMPLEPREP_SUMMARY            	coupled with a Cohesive (Franklin, MA) TX2 liquid chromatography system.
+SP:SAMPLEPREP_SUMMARY            	of individual FFA was measured against a six-point standard curve prepared for
+SP:SAMPLEPREP_SUMMARY            	analyte. Both the ISTD and individual FFA standard curves were prepared in 2%
+SP:SAMPLEPREP_SUMMARY            	acid-free human albumin solution. All analytes were monitored as their [M ? H]?
+SP:SAMPLEPREP_SUMMARY            	plasma LCFa-CoA esters were estimated using the LC-MS/MS method (9). After
+SP:SAMPLEPREP_SUMMARY            	in the presence of internal standard (20 ng of heptadecanoyl-CoA), samples were
+SP:SAMPLEPREP_SUMMARY            	by UHPLC-ESI-MS/MS operating in multiple reaction monitoring mode [Waters
+SP:SAMPLEPREP_SUMMARY            	UHPLC, C8 UPLC BEH column 2.1 × 150 mm, 1.7 ?m (Waters, Milford, MA) and TSQ
+SP:SAMPLEPREP_SUMMARY            	Ultra triple-quad mass spectrometer (Thermo Fisher Scientific, Waltham, MA)].
+SP:SAMPLEPREP_SUMMARY            	standard curves were prepared using chemicals from Avanti Polar Lipids.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	PMID-24368672-Zabielski-Nair-AJPEM-2014.pdf
+SP:SAMPLEPREP_PROTOCOL_COMMENTS  	Pubmed ID: 24368672
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Plasma free fatty acid concentrations were measured by liquid
+CH:CHROMATOGRAPHY_SUMMARY        	spectrometry (LC/MS), as described previously (51). Briefly, 50 ?l of plasma
+CH:CHROMATOGRAPHY_SUMMARY        	spiked with heptadecanoate internal standard (ISTD) and analyzed with Applied
+CH:CHROMATOGRAPHY_SUMMARY        	(Foster City, CA) API5000 mass spectrometer coupled with a Cohesive (Franklin,
+CH:CHROMATOGRAPHY_SUMMARY        	TX2 liquid chromatography system. Concentration of individual FFA was measured
+CH:CHROMATOGRAPHY_SUMMARY        	a six-point standard curve prepared for each analyte. Both the ISTD and
+CH:CHROMATOGRAPHY_SUMMARY        	FFA standard curves were prepared in 2% fatty acid-free human albumin solution.
+CH:CHROMATOGRAPHY_SUMMARY        	analytes were monitored as their [M ? H]? ions. LCFa-CoA esters were estimated
+CH:CHROMATOGRAPHY_SUMMARY        	the LC-MS/MS method (9). After extraction in the presence of internal standard
+CH:CHROMATOGRAPHY_SUMMARY        	ng of heptadecanoyl-CoA), samples were analyzed by UHPLC-ESI-MS/MS operating in
+CH:CHROMATOGRAPHY_SUMMARY        	reaction monitoring mode [Waters Acquity UHPLC, C8 UPLC BEH column 2.1 150 mm,
+CH:CHROMATOGRAPHY_SUMMARY        	?m (Waters, Milford, MA) and TSQ Quantum Ultra triple-quad mass spectrometer
+CH:CHROMATOGRAPHY_SUMMARY        	Fisher Scientific, Waltham, MA)]. All standard curves were prepared using
+CH:CHROMATOGRAPHY_SUMMARY        	from Avanti Polar Lipids.
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+CH:METHODS_FILENAME              	PMID-24368672-Zabielski-Nair-AJPEM-2014.pdf
+CH:CHROMATOGRAPHY_COMMENTS       	Pubmed ID: 24368672
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+#MS
+MS:INSTRUMENT_NAME               	API 5000 QQQ
+MS:INSTRUMENT_TYPE               	Q-TOF
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	NEGATIVE
+MS:MS_COMMENTS                   	Briefly, 50 ul of plasma was spiked with heptadecanoate internal standard
+MS:MS_COMMENTS                   	and analyzed with Applied Biosystems (Foster City, CA) API5000 mass
+MS:MS_COMMENTS                   	coupled with a Cohesive (Franklin, MA) TX2 liquid chromatography system.
+MS:MS_COMMENTS                   	of individual FFA was measured against a six-point standard curve prepared for
+MS:MS_COMMENTS                   	analyte. Both the ISTD and individual FFA standard curves were prepared in 2%
+MS:MS_COMMENTS                   	acid-free human albumin solution. All analytes were monitored as their [M - H]-
+MS:MS_COMMENTS                   	API5000 mass spectrometer coupled with a Cohesive (Franklin, MA) TX2 liquid
+MS:MS_COMMENTS                   	system
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	uM
+MS_METABOLITE_DATA_START
+Samples	C3	C44	C45	C47	C48	C49	C5	C50	C51	D+14	D+24	D+52	D+53	D+54	D+55	D+56	D+57	D+58	D+70	D-25	D-28	D-31	D-36	D-41	D-42	D-43	D-60	D-61	D-63	D-67	D-69
+Factors	Treatment:control	Treatment:control	Treatment:control	Treatment:control	Treatment:control	Treatment:control	Treatment:control	Treatment:control	Treatment:control	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic treated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated	Treatment:diabetic untreated
+arachidonic acid	13.8504	13.3339	12.2160	10.8482	13.5054	10.5501	13.6533	12.4493	16.2113	16.9930	6.5686	16.2419	15.1135	1.9693	15.2873	13.3541	12.1273	12.4994	11.5342	4.8251	5.0795	2.9801	12.2394	12.5714	4.2261	18.6938	13.0847	18.0556	14.9386	16.0896	19.1486
+elaidic acid	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+linoleic acid	244.2618	327.4403	258.2500	223.4178	182.9635	219.3733	205.8335	167.4312	304.2726	320.8385	59.9321	240.1323	287.1508	71.1733	269.3981	290.5246	204.0629	157.3808	215.2354	131.2519	82.2469	47.0276	303.1033	335.5392	40.2195	487.7377	337.3508	624.8732	287.2641	889.4591	666.0784
+linolenic acid	42.8341	47.4301	35.7795	30.7379	25.2128	33.4660	30.5086	23.3406	52.6265	48.5876	6.9452	28.8091	34.2258	9.9814	33.4688	38.1802	27.2320	20.7955	23.3257	12.8187	12.3449	5.7998	44.0953	49.4155	4.5180	79.3517	46.6674	91.7382	37.2213	186.7068	110.7009
+myristic acid	9.6376	26.6749	24.2911	7.6783	7.2832	9.7653	5.5657	3.0074	11.4413	5.8021	1.0127	6.8653	5.1248	1.4879	5.3674	4.9654	1.1711	2.0724	3.5402	4.7377	3.3782	0.0000	2.0652	2.2932	1.0198	3.9620	1.2086	9.3920	2.2836	7.9058	9.5126
+oleic acid	119.4748	158.7289	131.8964	86.2526	76.7325	84.2217	93.8793	61.3628	139.5115	122.3238	33.0740	104.8827	116.5999	30.9407	119.4648	133.6590	78.0439	66.4842	78.0066	57.8008	38.3290	13.4841	99.5273	114.8568	11.2064	161.4988	116.7647	246.1194	100.9013	402.8514	295.9707
+palmitic acid	162.0090	275.5816	240.5376	180.6636	176.5379	180.0336	149.5223	142.6934	258.6914	194.4096	47.5372	168.0452	205.7764	65.4579	192.6724	168.6953	109.3017	114.9930	130.9655	74.5386	53.4533	22.6754	148.6053	172.5051	22.8115	242.7654	167.0698	267.7250	165.0202	358.1991	307.5975
+palmitoleic acid	19.4875	44.7234	49.2704	19.5544	18.8268	19.4963	17.7176	10.5233	37.1961	12.9088	4.1597	17.5860	15.0425	6.7232	16.6555	14.8441	9.6335	7.8033	11.0202	9.9724	5.9078	1.3072	6.0997	7.7542	1.4335	9.4432	6.8006	20.3802	8.9928	13.5492	22.7240
+stearic acid	56.5978	76.7075	59.7160	54.3215	53.1829	48.6920	41.3317	47.7264	65.3180	91.9387	17.9384	52.8159	82.2845	25.4363	63.0850	52.0892	42.3182	43.7023	51.9152	20.9702	18.3048	6.2993	73.0351	75.2052	6.6917	112.6918	81.1077	115.1512	79.3176	133.6531	113.3471
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+arachidonic acid								MAYO_ID
+elaidic acid								MAYO_ID
+linoleic acid								MAYO_ID
+linolenic acid								MAYO_ID
+myristic acid								MAYO_ID
+oleic acid								MAYO_ID
+palmitic acid								MAYO_ID
+palmitoleic acid								MAYO_ID
+stearic acid								MAYO_ID
+METABOLITES_END
+#END

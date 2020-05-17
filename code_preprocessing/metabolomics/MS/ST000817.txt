@@ -1,0 +1,232 @@
+#METABOLOMICS WORKBENCH d_shanmugam_20170722_191429 DATATRACK_ID:1169 STUDY_ID:ST000817 ANALYSIS_ID:AN001295
+VERSION             	1
+CREATED_ON             	July 31, 2017, 4:47 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Toxoplasma metabolomics
+PR:PROJECT_TYPE                  	Metabolic alterations in wild type vs glycolytic and gluconeogenesis mutants
+PR:PROJECT_SUMMARY               	The focus of this study was to profile the metabolic fates of glucose and
+PR:PROJECT_SUMMARY               	glutamine in wild type, glycolytic mutant (hexokinase KO) and gluconeogenesis
+PR:PROJECT_SUMMARY               	mutant (PEPCK1 KO) tachyzoite stage T. gondii parasites. 13C6-glucose and
+PR:PROJECT_SUMMARY               	13C5-15N1-glutamine were used as metabolic tracers. Metabolites from glycolysis,
+PR:PROJECT_SUMMARY               	pentosephosphate pathway and Kerbs cycle were identified and their isotopomer
+PR:PROJECT_SUMMARY               	abundance was quantified in order to visualize metabolic flux across the
+PR:PROJECT_SUMMARY               	indicated pathways. A time course (from 0 minutes to 120 minutes) analysis was
+PR:PROJECT_SUMMARY               	carried out in the labeling experiments. Here, host cell free extracellular
+PR:PROJECT_SUMMARY               	tachyzoite stage T. gondii parasites were used.
+PR:INSTITUTE                     	CSIR-National Chemical Laboratory
+PR:DEPARTMENT                    	Biochemical Sciences Division
+PR:LABORATORY                    	Molecular Parasitology Laboratory
+PR:LAST_NAME                     	Dhanasekaran
+PR:FIRST_NAME                    	Shanmugam
+PR:ADDRESS                       	Dr. Homi Bhabha Road, Pune, 411008, Maharashtra, India
+PR:EMAIL                         	d.shanmugam@ncl.res.in
+PR:PHONE                         	+91-20-25902719
+#STUDY
+ST:STUDY_TITLE                   	Dynamics of metabolism, proliferation and differentiation in Toxoplasma gondii
+ST:STUDY_TITLE                   	mutants deficient in glycolysis and gluconeogenesis
+ST:STUDY_TYPE                    	Time course 13C labeling of Toxoplasma gondii using glucose and glutamine
+ST:STUDY_SUMMARY                 	The focus of this study was to profile the metabolic fates of glucose and
+ST:STUDY_SUMMARY                 	glutamine in wild type, glycolytic mutant (hexokinase KO) and gluconeogenesis
+ST:STUDY_SUMMARY                 	mutant (PEPCK1 KO) tachyzoite stage T. gondii parasites. 13C6-glucose and
+ST:STUDY_SUMMARY                 	13C5-15N1-glutamine were used as metabolic tracers. Metabolites from glycolysis,
+ST:STUDY_SUMMARY                 	pentosephosphate pathway and Kerbs cycle were identified and their isotopomer
+ST:STUDY_SUMMARY                 	abundance was quantified in order to visualize metabolic flux across the
+ST:STUDY_SUMMARY                 	indicated pathways. A time course (from 0 minutes to 120 minutes) analysis was
+ST:STUDY_SUMMARY                 	carried out in the labeling experiments. Here, host cell free extracellular
+ST:STUDY_SUMMARY                 	tachyzoite stage T. gondii parasites were used.
+ST:INSTITUTE                     	CSIR-National Chemical Laboratory
+ST:DEPARTMENT                    	Biochemical Sciences Division
+ST:LABORATORY                    	Molecular Parasitology Laboratory
+ST:LAST_NAME                     	Shanmugam
+ST:FIRST_NAME                    	Dhanasekaran
+ST:ADDRESS                       	Dr. Homi Bhabha Road, Pune, 411008, Maharashtra, India
+ST:EMAIL                         	d.shanmugam@ncl.res.in
+ST:PHONE                         	+91-20-25902719
+#SUBJECT
+SU:SUBJECT_TYPE                  	Cells (protozoan parasite)
+SU:SUBJECT_SPECIES               	Toxoplasma gondii
+SU:TAXONOMY_ID                   	5811
+SU:GENOTYPE_STRAIN               	RH (Type I strain)
+SU:CELL_BIOSOURCE_OR_SUPPLIER    	ATCC
+SU:SUBJECT_COMMENTS              	Asexual stage (Tachyzoite)
+SU:CELL_PASSAGE_NUMBER           	In continuous culture
+SU:CELL_COUNTS                   	10^8 cells per sample
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t000_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t000_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t005_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t005_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t010_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t010_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t030_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t030_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t060_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t060_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t120_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglucose_t120_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t000_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t000_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t005_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t005_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t010_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t010_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t030_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t030_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t060_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t060_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t120_A	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_RH_13Cglutamine_t120_B	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t000_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t000_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t005_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t005_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t010_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t010_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t030_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t030_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t060_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t060_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t120_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglucose_t120_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t000_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t000_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t005_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t005_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t010_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t010_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t030_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t030_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t060_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t060_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t120_A	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_HKKO_13Cglutamine_t120_B	Cell line:T. gondii RH HKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_PEPCKwt_minusglucose_13Cglutamine_1	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_PEPCKwt_minusglucose_13Cglutamine_2	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_PEPCKwt_minusglucose_13Cglutamine_3	Cell line:T. gondii RH wt	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_PEPCKKO_minusglucose_13Cglutamine_4	Cell line:T. gondii RH PEPCKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_PEPCKKO_minusglucose_13Cglutamine_5	Cell line:T. gondii RH PEPCKKO	
+SUBJECT_SAMPLE_FACTORS           	-	Tgon_PEPCKKO_minusglucose_13Cglutamine_6	Cell line:T. gondii RH PEPCKKO	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Extracellular tachyzoite stage Toxoplasma gondii parasites incubated in either
+CO:COLLECTION_SUMMARY            	+13C6-glucose or +13C5-15N2-glutamine containing DMEM medium for 0, 5, 10, 30,
+CO:COLLECTION_SUMMARY            	60 & 120 minutes were collected by centrifugation and immediately extracted with
+CO:COLLECTION_SUMMARY            	chilled acetonitrile:water (80:20) mixture and further process for LC-MS
+CO:COLLECTION_SUMMARY            	analysis.
+CO:SAMPLE_TYPE                   	Cells
+CO:COLLECTION_METHOD             	Centrifuging cell suspension at 5000 rpm for 5 min at 4 deg. Cel.
+CO:COLLECTION_TIME               	At 0, 5, 10, 30, 60 & 120 minutes post labeling with either +13C6-glucose or
+CO:COLLECTION_TIME               	+13C5-15N2-glutamine.
+CO:VOLUMEORAMOUNT_COLLECTED      	10^8 cells per sample
+CO:STORAGE_CONDITIONS            	-80 deg. Cel. Freezer post extraction until LC-MS analysis can be carried out.
+CO:COLLECTION_VIALS              	1.5 ml capped tubes
+CO:STORAGE_VIALS                 	1.5 ml capped tubes
+CO:COLLECTION_TUBE_TEMP          	4 deg. Cel.
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Tachyzoite stage Toxoplasma gondii parasites were freshly isolated from infected
+TR:TREATMENT_SUMMARY             	Human Foreskin Fibroblast monolayers and the extracellular parasites were
+TR:TREATMENT_SUMMARY             	incubated in DMEM medium supplemented with either +13C6-glucose or
+TR:TREATMENT_SUMMARY             	+13C5-15N2-glutamine. Treatment with labeled substrates was done for 0, 5, 10,
+TR:TREATMENT_SUMMARY             	30, 60 & 120 minutes before harvesting and processing the cells for LC-MS
+TR:TREATMENT_SUMMARY             	analysis.
+TR:CELL_STORAGE                  	Liquid nitrogen cell storage system
+TR:CELL_GROWTH_CONTAINER         	Standard incubator maintaining 37 deg. Cel. & 5% CO2
+TR:CELL_MEDIA                    	DMEM minus glucose medium (cat. No. 11966; Gibco, ThermoFisher Scientific)
+TR:CELL_MEDIA                    	supplemented with +13C6-glucose. DMEM minus glutamine medium (cat. No. 11960;
+TR:CELL_MEDIA                    	Gibco, ThermoFisher Scientific) supplemented with +13C5-15N2-glutamine.
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Metabolic labeling, metabolite extraction, and LC-MS profiling – DMEM minus
+SP:SAMPLEPREP_SUMMARY            	glucose media supplemented with +613C glucose (5.5 mM) and MEM minus glutamine
+SP:SAMPLEPREP_SUMMARY            	media supplemented with +513C-+213N glutamine (4 mM) were used as culture
+SP:SAMPLEPREP_SUMMARY            	mediums for metabolic labeling studies using RH wt, RH ∆ku80, RH ∆hk, and RH
+SP:SAMPLEPREP_SUMMARY            	∆pepck1 parasites. Freshly isolated extracellular (host cell free) tachyzoites
+SP:SAMPLEPREP_SUMMARY            	stage parasites were washed once in complete medium and resuspended in either
+SP:SAMPLEPREP_SUMMARY            	13C labeled glucose or glutamine (Cambridge Isotope Laboratories, Inc.)
+SP:SAMPLEPREP_SUMMARY            	containing medium at a density of 108 parasites per milliliter. Labeling was
+SP:SAMPLEPREP_SUMMARY            	allowed to proceed over a time period of 5, 10, 15, 30, 60 and 120 minutes in 1
+SP:SAMPLEPREP_SUMMARY            	ml culture suspension. At each time point, metabolites were extracted from
+SP:SAMPLEPREP_SUMMARY            	replicate parasite samples using a modified version of a previously reported
+SP:SAMPLEPREP_SUMMARY            	protocol. Briefly, host cell free parasites were collected by centrifugation at
+SP:SAMPLEPREP_SUMMARY            	3000 rpm for 5 minutes in cold and then immediately resuspended in 200 µls of
+SP:SAMPLEPREP_SUMMARY            	ice cold 80% acetonitrile (Chem-Impex; JT Bakers) in water and incubated in ice
+SP:SAMPLEPREP_SUMMARY            	for 15 minutes with intermittent vortexing. The supernatant was then collected
+SP:SAMPLEPREP_SUMMARY            	after centrifuging at 13,000 rpm for 5 minutes and the pellet was further
+SP:SAMPLEPREP_SUMMARY            	extracted twice with 100 µls of the same solvent using ultrasound in a
+SP:SAMPLEPREP_SUMMARY            	sonicating iced water bath for 15 minutes. All the extracts were pooled (total
+SP:SAMPLEPREP_SUMMARY            	400 µls) and stored in -80°C until further processing for liquid
+SP:SAMPLEPREP_SUMMARY            	chromatography coupled mass spectrometry (LC-MS) analysis.
+SP:EXTRACTION_METHOD             	Hydrophilic organic extract
+SP:EXTRACT_STORAGE               	-80 deg. Cel. until LC-MS analysis is done
+SP:SAMPLE_RESUSPENSION           	The acetonitrile:water extracts from parasites were dried under nitrogen flow
+SP:SAMPLE_RESUSPENSION           	and resuspended in 200 µls of water:methanol (97:3) containing 10 mM
+SP:SAMPLE_RESUSPENSION           	tributylamine and 15 mM acetic acid.
+SP:SAMPLE_DERIVATIZATION         	n/a
+SP:SAMPLE_SPIKING                	PIPES @ 100ng/ml final concentration
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY     	The acetonitrile:water extracts from parasites were dried under nitrogen flow
+CH:CHROMATOGRAPHY_SUMMARY     	and resuspended in 200 µls of water:methanol (97:3) containing 10 mM
+CH:CHROMATOGRAPHY_SUMMARY     	tributylamine and 15 mM acetic acid. This solvent was also used as buffer A and
+CH:CHROMATOGRAPHY_SUMMARY     	methanol as buffer B for liquid chromatography using a Synergy Hydro-RP column
+CH:CHROMATOGRAPHY_SUMMARY     	(Phenomenex) with a bed volume of 100 mm x 2 mm and particle size of 2.5 µ. For
+CH:CHROMATOGRAPHY_SUMMARY     	some samples, an alternate method, using a Thermo Accucore C18 column with a bed
+CH:CHROMATOGRAPHY_SUMMARY     	volume of 150 mm x 2.1 mm and 2.6 µ particle size. A solvent system composed of
+CH:CHROMATOGRAPHY_SUMMARY     	water buffered with 0.1 % formic acid (buffer A) and acetonitrile (buffer B),
+CH:CHROMATOGRAPHY_SUMMARY     	was used on a 20 minute gradient run with a flow rate of 200 µl/min as follows-
+CH:CHROMATOGRAPHY_SUMMARY     	hold at 10% acetonitrile for 30 seconds and gradually ramp up to 15%, 20%, 50%,
+CH:CHROMATOGRAPHY_SUMMARY     	60% and 90% acetonitrile by 3, 6, 10, 12, 13 minutes, hold at 90% acetonitrile
+CH:CHROMATOGRAPHY_SUMMARY     	till 15 minutes, ramp down to 10% acetonitrile by 15.5 minutes and hold till 20
+CH:CHROMATOGRAPHY_SUMMARY     	minutes. LC-MS analysis was done using a Exactive Orbitrap mass spectrometer,
+CH:CHROMATOGRAPHY_SUMMARY     	coupled to an Accela U-HPLC (Thermo Fisher Scientific) and HTC PAL autosampler
+CH:CHROMATOGRAPHY_SUMMARY     	(CTC Analytics AG). The mass spectrometer was run in negative mode, scanning a
+CH:CHROMATOGRAPHY_SUMMARY     	mass-charge ratio (m/z) range of 85-1000. All other parameters used for LC-MS
+CH:CHROMATOGRAPHY_SUMMARY     	instrumentation in this study were similar to published protocols.
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	Accela U-HPLC (Thermo Fisher Scientific) and HTC PAL autosampler (CTC Analytics
+CH:INSTRUMENT_NAME            	AG)
+CH:COLUMN_NAME                	Synergy Hydro-RP column (Phenomenex) and Accucore C18 column (Thermo)
+CH:FLOW_GRADIENT              	A solvent system composed of water buffered with 0.1 % formic acid (buffer A)
+CH:FLOW_GRADIENT              	and acetonitrile (buffer B), was used on a 20 minute gradient run with a flow
+CH:FLOW_GRADIENT              	rate of 200 µl/min as follows- hold at 10% acetonitrile for 30 seconds and
+CH:FLOW_GRADIENT              	gradually ramp up to 15%, 20%, 50%, 60% and 90% acetonitrile by 3, 6, 10, 12, 13
+CH:FLOW_GRADIENT              	minutes, hold at 90% acetonitrile till 15 minutes, ramp down to 10% acetonitrile
+CH:FLOW_GRADIENT              	by 15.5 minutes and hold till 20 minutes.
+CH:FLOW_RATE                  	200 µl/min
+CH:COLUMN_TEMPERATURE         	22 deg. Cel.
+CH:SOLVENT_A                  	Water:methanol (97:3) containing 10 mM tributylamine and 15 mM acetic acid for
+CH:SOLVENT_A                  	Synergy Hydro-RP column. Water buffered with 0.1 % formic acid for accucore C18
+CH:SOLVENT_A                  	column.
+CH:SOLVENT_B                  	Methanol for Synergy Hydro-RP column. Acetonitril for accucore C18 column.
+CH:COLUMN_PRESSURE            	250 to 400 bar
+CH:INJECTION_TEMPERATURE      	22 deg. Cel.
+CH:INTERNAL_STANDARD          	PIPES @ 100ng/ml final concentration
+CH:SAMPLE_INJECTION           	10 µl
+CH:ANALYTICAL_TIME            	20 minutes
+CH:PRECONDITIONING            	5-10 minutes
+CH:TIME_PROGRAM               	20 minutes
+CH:TRANSFERLINE_TEMPERATURE   	22 deg. Cel.
+CH:WASHING_BUFFER             	Methanol
+CH:SAMPLE_LOOP_SIZE           	10 µl
+CH:SAMPLE_SYRINGE_SIZE        	100 µl
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+AN:LABORATORY_NAME          	Molecular Parasitology Laboratory
+AN:OPERATOR_NAME            	Dr. Kellen L. Olszewski & Mr. Anurag Shukla
+AN:DETECTOR_TYPE            	Orbitrap
+AN:SOFTWARE_VERSION         	Xcaliber Ver. 2.2
+AN:DATA_FORMAT              	.RAW
+#MS
+MS:INSTRUMENT_NAME          	Q Exactive Orbitrap mass spectrometer (Thermo)
+MS:INSTRUMENT_TYPE          	Orbitrap
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	NEGATIVE
+MS:CAPILLARY_TEMPERATURE    	320 deg. Cel.
+MS:CAPILLARY_VOLTAGE        	-3.0 kv
+MS:ION_SOURCE_TEMPERATURE   	250 deg. Cel.
+MS:IONIZATION               	Negative
+MS:MASS_ACCURACY            	<1 ppm
+MS:REAGENT_GAS              	Nitrogen
+MS:DATAFORMAT               	.RAW
+MS:RESOLUTION_SETTING       	70,000
+MS:SCAN_RANGE_MOVERZ        	100 to 1000 Da
+MS:SCANNING_RANGE           	Full MS
+MS:MS_RESULTS_FILE          	ST000817_AN001295_Results.xlsx	UNITS:NA
+#END

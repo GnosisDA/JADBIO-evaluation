@@ -1,0 +1,285 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000107 ANALYSIS_ID:AN000177
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Metabolomic & lipidomic profiles in response to exogenous insulin & GLP-1
+PR:PROJECT_TITLE                 	during prolonged fasting
+PR:PROJECT_TYPE                  	Timecourse
+PR:PROJECT_SUMMARY               	This application requests funding to access state-of-the-art metabolomics and
+PR:PROJECT_SUMMARY               	platforms at the NIH West Coast Metabolomics Center to analyze plasma samples
+PR:PROJECT_SUMMARY               	recent insulin and glucagon-like peptide-1 (GLP-1) infusion experiments
+PR:PROJECT_SUMMARY               	in prolong-fasted elephant seals. This suite of studies was designed to better
+PR:PROJECT_SUMMARY               	the mechanisms contributing to the onset of an insulin resistantlike condition
+PR:PROJECT_SUMMARY               	by prolonged food deprivation/starvation in mammals. Because elephant seals
+PR:PROJECT_SUMMARY               	evolved robust physiological mechanisms that have allowed them to naturally
+PR:PROJECT_SUMMARY               	such protracted bouts of fasting, they provide an ideal model to address our
+PR:PROJECT_SUMMARY               	hypothesis that increased lipid utilization late in the fast contributes to
+PR:PROJECT_SUMMARY               	resistance in elephant seals. Insulin resistance is a common consequence of
+PR:PROJECT_SUMMARY               	in mammals and, while the mechanisms by which it manifests are still unclear, a
+PR:PROJECT_SUMMARY               	shift favoring increased mobilization and utilization of lipids during
+PR:PROJECT_SUMMARY               	food deprivation may be a principal causative factor. Insulin resistance has a
+PR:PROJECT_SUMMARY               	connotation due to its association with obesity and diabetes among humans, but
+PR:PROJECT_SUMMARY               	has been suggested to be an adaptive response to food deprivation.
+PR:INSTITUTE                     	University of California, Merced
+PR:DEPARTMENT                    	School of Natural Sciences
+PR:LABORATORY                    	Molecular  and Cellular Biology, Natural Sciences
+PR:LAST_NAME                     	Ortiz
+PR:FIRST_NAME                    	Rudy
+PR:ADDRESS                       	5200 N. Lake Rd.; Merced, CA 95343
+PR:EMAIL                         	rortiz@ucmerced.edu
+PR:PHONE                         	209.228.2964
+#STUDY
+ST:STUDY_TITLE                   	Metabolomic and lipidomic profiles in response to exogenous insulin and GLP-1
+ST:STUDY_TITLE                   	during prolonged fasting
+ST:STUDY_TYPE                    	Timecourse
+ST:STUDY_SUMMARY                 	Seventeen northern elephant seal pups constituting four different cohorts at
+ST:STUDY_SUMMARY                 	Nuevo State Reserve were studied at two post-weaning periods: early (1-2 wk
+ST:STUDY_SUMMARY                 	weaning; n=5) and late (6-7 weeks post weaning; n=12). Study #1: Prior to each
+ST:STUDY_SUMMARY                 	protocol, plasma U/kg). Following the infusion, blood samples were collected at
+ST:STUDY_SUMMARY                 	determine the effects of prolonged fasting on peripheral insulin activity and
+ST:STUDY_SUMMARY                 	samples were collected. Ten fasting seal pups (n=5 early, n=5 late) were
+ST:STUDY_SUMMARY                 	(i.v.) with a mass-specific dose of insulin (0.065 U/kg). Following the
+ST:STUDY_SUMMARY                 	blood samples were collected at 10, 30, 60, 90, and 120 minutes. Study #2:
+ST:STUDY_SUMMARY                 	late-fasted seal pups were administered either a low (LDG; 10 pmol/kg; n=3) or
+ST:STUDY_SUMMARY                 	(HDG; 100 pmol/kg; n=4) dose of GLP-1 immediately following a glucose bolus
+ST:STUDY_SUMMARY                 	g/kg) (i.v.) infused within 2 mins. the infusions, blood samples were collected
+ST:STUDY_SUMMARY                 	10, 30, 60, 90, 120, and 150 minutes.
+ST:INSTITUTE                     	University of California, Davis
+ST:DEPARTMENT                    	Nutrition
+ST:LABORATORY                    	Newman
+ST:LAST_NAME                     	John
+ST:FIRST_NAME                    	Newman
+ST:ADDRESS                       	430 W. Health Sciences Dr., Davis, CA 95616
+ST:EMAIL                         	john.newman@ars.usda.gov
+ST:PHONE                         	+1-530-752-1009
+ST:NUM_GROUPS                    	4
+ST:TOTAL_SUBJECTS                	5
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mirounga angustirostris
+SU:TAXONOMY_ID                   	9716
+SU:SPECIES_GROUP                 	Mammal
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	IE01-0	Treatment:Early ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE02-0	Treatment:Early ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE03-0	Treatment:Early ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE04-0	Treatment:Early ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE05-0	Treatment:Early ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE01-10	Treatment:Early ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE02-10	Treatment:Early ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE03-10	Treatment:Early ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE04-10	Treatment:Early ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE05-10	Treatment:Early ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE01-120	Treatment:Early ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE02-120	Treatment:Early ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE03-120	Treatment:Early ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE04-120	Treatment:Early ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE05-120	Treatment:Early ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE01-30	Treatment:Early ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE02-30	Treatment:Early ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE03-30	Treatment:Early ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE04-30	Treatment:Early ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE05-30	Treatment:Early ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE01-60	Treatment:Early ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE02-60	Treatment:Early ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE03-60	Treatment:Early ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IE04-60	Treatment:Early ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A01-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A02-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A03-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A04-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A05-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B01-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B02-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B03-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C01-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C02-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C03-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C04-0	Treatment:GLP1/Late GTT | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A01-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A02-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A03-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A04-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A05-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B01-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B02-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B03-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C01-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C02-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C03-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C04-10	Treatment:GLP1/Late GTT | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A01-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A02-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A03-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A04-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A05-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B01-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B02-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B03-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C01-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C02-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C03-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C04-120	Treatment:GLP1/Late GTT | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A01-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A02-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A03-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A04-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A05-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B01-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B02-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B03-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C01-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C02-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C03-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C04-30	Treatment:GLP1/Late GTT | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A01-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A02-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A03-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A04-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	A05-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B01-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B02-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	B03-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C01-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C02-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C03-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	C04-60	Treatment:GLP1/Late GTT | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL01-0	Treatment:Late ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL02-0	Treatment:Late ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL03-0	Treatment:Late ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL04-0	Treatment:Late ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL05-0	Treatment:Late ITT Infusion Study | Timepoint:0 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL01-10	Treatment:Late ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL02-10	Treatment:Late ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL03-10	Treatment:Late ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL04-10	Treatment:Late ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL05-10	Treatment:Late ITT Infusion Study | Timepoint:10 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL01-120	Treatment:Late ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL02-120	Treatment:Late ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL03-120	Treatment:Late ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL04-120	Treatment:Late ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL05-120	Treatment:Late ITT Infusion Study | Timepoint:120 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL01-30	Treatment:Late ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL02-30	Treatment:Late ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL03-30	Treatment:Late ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL04-30	Treatment:Late ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL05-30	Treatment:Late ITT Infusion Study | Timepoint:30 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL01-60	Treatment:Late ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL02-60	Treatment:Late ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL03-60	Treatment:Late ITT Infusion Study | Timepoint:60 mins	
+SUBJECT_SAMPLE_FACTORS           	-	IL04-60	Treatment:Late ITT Infusion Study | Timepoint:60 mins	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Following the GLP-1 or insulin infusion, blood samples were collected at 10,
+CO:COLLECTION_SUMMARY            	60, 90, and 120 minutes.
+CO:COLLECTION_PROTOCOL_FILENAME  	Newman_Lab-Endocannabinoid_Extraction_Analysis_Protocol-Ortiz_WCMC.pdf;Newman_Lab_NEFA_SOPs-Ortiz_WCMC_Pilot.pdf
+CO:SAMPLE_TYPE                   	Blood
+CO:COLLECTION_TIME               	10, 30, 60, 90, and 120 minutes postprandial
+CO:STORAGE_CONDITIONS            	-80 C
+CO:BLOOD_SERUM_OR_PLASMA         	Plasma
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Seventeen northern elephant seal pups constituting four different cohorts at
+TR:TREATMENT_SUMMARY             	Nuevo State Reserve were studied at two post-weaning periods: early (1-2 wk
+TR:TREATMENT_SUMMARY             	weaning; n=5) and late (6-7 weeks post weaning; n=12). Study #1: Prior to each
+TR:TREATMENT_SUMMARY             	protocol, plasma U/kg). Following the infusion, blood samples were collected at
+TR:TREATMENT_SUMMARY             	determine the effects of prolonged fasting on peripheral insulin activity and
+TR:TREATMENT_SUMMARY             	samples were collected. Ten fasting seal pups (n=5 early, n=5 late) were
+TR:TREATMENT_SUMMARY             	(i.v.) with a mass-specific dose of insulin (0.065 U/kg). Following the
+TR:TREATMENT_SUMMARY             	blood samples were collected at 10, 30, 60, 90, and 120 minutes. Study #2:
+TR:TREATMENT_SUMMARY             	late-fasted seal pups were administered either a low (LDG; 10 pmol/kg; n=3) or
+TR:TREATMENT_SUMMARY             	(HDG; 100 pmol/kg; n=4) dose of GLP-1 immediately following a glucose bolus
+TR:TREATMENT_SUMMARY             	g/kg) (i.v.) infused within 2 mins. the infusions, blood samples were collected
+TR:TREATMENT_SUMMARY             	10, 30, 60, 90, 120, and 150 minutes.
+TR:TREATMENT_PROTOCOL_FILENAME   	Newman_Lab-Endocannabinoid_Extraction_Analysis_Protocol-Ortiz_WCMC.pdf;Newman_Lab_NEFA_SOPs-Ortiz_WCMC_Pilot.pdf
+TR:TREATMENT_COMPOUND            	GLP-1 or Insulin
+TR:TREATMENT_ROUTE               	Infusion
+TR:TREATMENT_DOSE                	low (10 pmol/kg) or high (100 pmol/kg) dose of GLP-1, insulin (0.065 U/kg)
+TR:ANIMAL_FASTING                	Yes, for insulin study
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Newman_Lab-Endocannabinoid_Extraction_Analysis_Protocol-Ortiz_WCMC.pdf;Newman_Lab_NEFA_SOPs-Ortiz_WCMC_Pilot.pdf
+SP:PROCESSING_STORAGE_CONDITIONS 	- 20 °C
+SP:EXTRACTION_METHOD             	SPE
+SP:EXTRACT_CONCENTRATION_DILUTION	250 µL
+SP:EXTRACT_CLEANUP               	SPE
+SP:EXTRACT_STORAGE               	- 20 °C
+SP:SAMPLE_RESUSPENSION           	100 µL
+SP:SAMPLE_SPIKING                	See sample prep protocol file
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	-
+CH:METHODS_FILENAME              	Newman_Lab-Endocannabinoid_Extraction_Analysis_Protocol-Ortiz_WCMC.pdf;Newman_Lab_NEFA_SOPs-Ortiz_WCMC_Pilot.pdf
+CH:COLUMN_TEMPERATURE            	60 C
+CH:FLOW_GRADIENT                 	See protocol/methods file
+CH:FLOW_RATE                     	0.25
+CH:INTERNAL_STANDARD             	See protocol/methods file
+CH:RETENTION_TIME                	See protocol/methods file
+CH:SAMPLE_INJECTION              	5 L
+CH:SOLVENT_A                     	0.1% acetic acid
+CH:SOLVENT_B                     	90% ACN / 10% IPA
+CH:ANALYTICAL_TIME               	11 min
+CH:WEAK_WASH_SOLVENT_NAME        	20% methanol, 10% isopropanol
+CH:WEAK_WASH_VOLUME              	600 L
+CH:STRONG_WASH_SOLVENT_NAME      	50:50 Acetonitrile:Methanol
+CH:STRONG_WASH_VOLUME            	600 L
+CH:SAMPLE_LOOP_SIZE              	17 L
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	Newman
+AN:ACQUISITION_DATE              	1/27/14, 1/29/14, 1/31/14, 2/4/14, 2/5/14, 2/7/14,
+AN:SOFTWARE_VERSION              	AB Sciex Analyst version 1.6.2
+AN:OPERATOR_NAME                 	Michael La Frano
+AN:DETECTOR_TYPE                 	API 4000 QTrap (AB Sciex, Framingham, MA, USA)
+AN:DATA_FORMAT                   	.mzML
+#MS
+MS:INSTRUMENT_NAME               	Waters Acquity UPLC (Waters)
+MS:INSTRUMENT_TYPE               	Q-TRAP
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+MS:MS_COMMENTS                   	LC/MS
+MS:ION_SOURCE_TEMPERATURE        	See protocol/methods file
+MS:ION_SPRAY_VOLTAGE             	See protocol/methods file
+MS:MS_COMMENTS                   	LC/MS
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	nM
+MS_METABOLITE_DATA_START
+Samples	IE01-0	IE02-0	IE03-0	IE04-0	IE05-0	IE01-10	IE02-10	IE03-10	IE04-10	IE05-10	IE01-120	IE02-120	IE03-120	IE04-120	IE05-120	IE01-30	IE02-30	IE03-30	IE04-30	IE05-30	IE01-60	IE02-60	IE03-60	IE04-60	A01-0	A02-0	A03-0	A04-0	A05-0	B01-0	B02-0	B03-0	C01-0	C02-0	C03-0	C04-0	A01-10	A02-10	A03-10	A04-10	A05-10	B01-10	B02-10	B03-10	C01-10	C02-10	C03-10	C04-10	A01-120	A02-120	A03-120	A04-120	A05-120	B01-120	B02-120	B03-120	C01-120	C02-120	C03-120	C04-120	A01-30	A02-30	A03-30	A04-30	A05-30	B01-30	B02-30	B03-30	C01-30	C02-30	C03-30	C04-30	A01-60	A02-60	A03-60	A04-60	A05-60	B01-60	B02-60	B03-60	C01-60	C02-60	C03-60	C04-60	IL01-0	IL02-0	IL03-0	IL04-0	IL05-0	IL01-10	IL02-10	IL03-10	IL04-10	IL05-10	IL01-120	IL02-120	IL03-120	IL04-120	IL05-120	IL01-30	IL02-30	IL03-30	IL04-30	IL05-30	IL01-60	IL02-60	IL03-60	IL04-60
+Factors	Treatment:Early ITT Infusion Study | Timepoint:0 mins	Treatment:Early ITT Infusion Study | Timepoint:0 mins	Treatment:Early ITT Infusion Study | Timepoint:0 mins	Treatment:Early ITT Infusion Study | Timepoint:0 mins	Treatment:Early ITT Infusion Study | Timepoint:0 mins	Treatment:Early ITT Infusion Study | Timepoint:10 mins	Treatment:Early ITT Infusion Study | Timepoint:10 mins	Treatment:Early ITT Infusion Study | Timepoint:10 mins	Treatment:Early ITT Infusion Study | Timepoint:10 mins	Treatment:Early ITT Infusion Study | Timepoint:10 mins	Treatment:Early ITT Infusion Study | Timepoint:120 mins	Treatment:Early ITT Infusion Study | Timepoint:120 mins	Treatment:Early ITT Infusion Study | Timepoint:120 mins	Treatment:Early ITT Infusion Study | Timepoint:120 mins	Treatment:Early ITT Infusion Study | Timepoint:120 mins	Treatment:Early ITT Infusion Study | Timepoint:30 mins	Treatment:Early ITT Infusion Study | Timepoint:30 mins	Treatment:Early ITT Infusion Study | Timepoint:30 mins	Treatment:Early ITT Infusion Study | Timepoint:30 mins	Treatment:Early ITT Infusion Study | Timepoint:30 mins	Treatment:Early ITT Infusion Study | Timepoint:60 mins	Treatment:Early ITT Infusion Study | Timepoint:60 mins	Treatment:Early ITT Infusion Study | Timepoint:60 mins	Treatment:Early ITT Infusion Study | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:0 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:10 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:120 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:30 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:GLP1/Late GTT | Timepoint:60 mins	Treatment:Late ITT Infusion Study | Timepoint:0 mins	Treatment:Late ITT Infusion Study | Timepoint:0 mins	Treatment:Late ITT Infusion Study | Timepoint:0 mins	Treatment:Late ITT Infusion Study | Timepoint:0 mins	Treatment:Late ITT Infusion Study | Timepoint:0 mins	Treatment:Late ITT Infusion Study | Timepoint:10 mins	Treatment:Late ITT Infusion Study | Timepoint:10 mins	Treatment:Late ITT Infusion Study | Timepoint:10 mins	Treatment:Late ITT Infusion Study | Timepoint:10 mins	Treatment:Late ITT Infusion Study | Timepoint:10 mins	Treatment:Late ITT Infusion Study | Timepoint:120 mins	Treatment:Late ITT Infusion Study | Timepoint:120 mins	Treatment:Late ITT Infusion Study | Timepoint:120 mins	Treatment:Late ITT Infusion Study | Timepoint:120 mins	Treatment:Late ITT Infusion Study | Timepoint:120 mins	Treatment:Late ITT Infusion Study | Timepoint:30 mins	Treatment:Late ITT Infusion Study | Timepoint:30 mins	Treatment:Late ITT Infusion Study | Timepoint:30 mins	Treatment:Late ITT Infusion Study | Timepoint:30 mins	Treatment:Late ITT Infusion Study | Timepoint:30 mins	Treatment:Late ITT Infusion Study | Timepoint:60 mins	Treatment:Late ITT Infusion Study | Timepoint:60 mins	Treatment:Late ITT Infusion Study | Timepoint:60 mins	Treatment:Late ITT Infusion Study | Timepoint:60 mins
+1-Arachidonoyl Glycerol	12.0000	5.8700	8.1800	29.6000	13.9000	12.1000	7.7300	6.3700	12.9000	8.2800	7.6400	4.5000	21.6000	27.9000	23.4500	12.2000	5.5800	5.4000	21.3000	31.7000	14.5000	8.8900	24.9000	20.1000	21.7000	15.6000	9.3800	39.9000	5.4600	8.0700	4.0200	4.4100	9.1400	12.2000	14.1000	16.4000	6.9300	7.5500	9.7100	6.5000	11.9000	3.7400	2.5000	3.2500	9.4700	5.6700	18.8000	1.4000	6.4300	8.3400	6.5600	8.4850	15.9000	15.8000	7.2400	3.2300	6.5600	19.4000	5.5500	13.3000	5.2800	10.1000	3.3500	3.9300	6.4100	4.0000	9.2000	2.5300	4.6000	10.8000	5.2300	16.8000	7.7700	10.5000	6.6300	5.9800	6.0200	5.7200	7.3500	7.7100	5.2400	3.8600	6.7200	9.2900	14.7000	31.6000	5.0200	13.0000	23.3000	3.7500	9.3700	8.7600	13.0000	14.7000	11.5000	23.8000	9.1000	41.5000	20.1000	7.9600	10.0000	6.1700	13.9000	14.2000	12.3000	7.8800	10.0000	8.8800
+1-Linoleoyl Glycerol	2.0800	0.4890	1.1000	7.2400	0.3000	0.7540	1.3700	1.0600			1.1200	0.9690	0.2080	2.0100	5.8500	1.5500	1.4800	1.3350	3.7000	8.3100	0.7130	0.4790	7.2900	0.0802	2.6600	9.4500	0.6000	36.2000	1.2100	2.6800	0.8370	1.6600		0.4850	0.2160	2.7500		5.3500	7.3500	0.1670	3.4000	2.4600	0.1910	1.3900	2.9600	4.9100	15.1000		1.3000	10.1000	7.1200	0.5250	5.1000	5.9300	1.7200	0.5040	1.8200	21.8000	0.9110	14.1000	4.5800	4.9200	0.2630	2.0900	1.6300	2.4500	1.5700	1.0800	0.5850	9.8000	1.5600	31.3000	3.5000	4.0000	1.3200	4.3200	1.3000	2.8900	1.3200	1.7900		0.8330	3.3100	8.4250	0.8800		2.2200	1.4300	1.0500	0.8040	2.6600	3.5700	1.6100	1.2600	1.3400	2.9900	1.4400	1.5100	0.7230	2.3700	3.6900	1.1900	4.8100	1.4100	8.9200	0.6750	1.8100	0.8970
+1-Oleoyl Glycerol	25.0000	14.6000	31.4000	191.0000	91.7000	19.4000	19.2000	20.8000	60.0000	19.2000	17.9000	17.9000	93.9000	110.0000	173.5000	28.2000	20.8000	18.5000	82.8000	476.0000	35.7000	10.0000	149.0000	98.3000	72.2000	151.0000	114.0000	935.0000	18.8000	15.3000	20.5000	22.5000	47.6000	42.6000	111.0000	115.0000	85.2000	101.0000	105.0000	35.3000	40.3000	29.8000	18.1000	13.3000	119.0000	53.7000	492.0000	10.2000	74.1000	114.0000	104.0000	51.5000	70.0000	67.0000	34.5000	25.9000	40.1000	285.0000	49.7000	189.0000	39.3000	105.0000	32.4000	59.7000	24.5000	12.5000	33.8000	22.0000	24.0000	119.0000	13.3000	198.0000	90.9000	126.0000	45.2000	109.0000	30.4000	26.2000	34.9000	45.2000	35.2000	46.2000	62.3000	151.0000	42.1000	74.3000	81.1000	65.2000	32.8000	37.2000	56.4000	100.0000	75.6000	30.6000	69.5000	79.8000	119.0000	20.0000	47.1000	51.8000	72.2000	54.7000	149.0000	24.6000	206.0000	56.3000	238.0000	21.2000
+2-Arachidonoyl Glycerol	16.5000	13.8000	16.0000	33.0000	15.4000	44.2000	28.7000	7.5000	37.2000	24.9000	20.7000	10.6000	52.0000	22.5000	15.2000	23.0000	21.4000	10.3750	27.9000	28.5000	21.4000	39.7000	40.2000	49.6000	12.5000	32.1000	10.4000	69.3000	11.6000	13.5000	7.7200	6.5100	9.5400	12.5000	9.5500	10.5000	6.6700	7.1500	9.2800	10.1000	41.7000	4.7500	2.1200	3.6000	3.6600	6.0700	8.9500	0.9480	6.0200	9.4500	15.4000	18.6000	11.0000	4.7800	3.9800	4.5100	5.3900	9.5700	2.1600	15.1000	5.7400	9.3200	5.0400	8.1500	26.5000	4.1800	2.3200	3.2800	4.6600	10.6000	2.2900	10.6000	5.7000	7.2800	11.6000	10.1000	11.9000	5.4500	3.5300	3.7500	5.8600	3.7500	2.1200	6.0700	44.1000	128.0000	20.6000	17.1000	80.0000	13.2000	33.0000	7.7400	38.6000	42.4000	39.6000	92.8000	11.8000	164.0000	134.0000	18.8000	28.7000	15.4000	35.9000	56.4000	21.9000	9.5900	17.4000	13.5000
+2-Linoleoyl Glycerol	9.9000	9.2600	5.8100	36.3000	11.9000	10.2000	15.2000	6.9600	26.9000	7.1200	7.9900	7.6200	6.0800	19.4000	9.0850	9.2000	13.0000	6.8900	39.4000	44.9000	15.3000	10.8000	35.8000	11.7000	11.1000	39.0000	14.4000	228.0000	10.0000	16.9000	10.5000	10.6000	22.0000	18.1000	15.7000	28.5000	12.4000	21.1000	21.2000	8.6700	19.4000	7.4500	2.7600	5.9800	6.6800	15.6000	20.9000	1.0400	13.6000	29.5000	8.9600	7.5150	22.7000	8.4100	6.6800	7.0150	10.5000	24.8000	2.8500	20.3000	10.3000	23.9000	10.7000	6.6200	11.4000	9.1700	2.0600	5.1800	8.8100	41.6000	1.4100	29.6000	11.9000	22.0000	7.7500	6.9400	10.5000	8.0600	2.8300	4.4900	10.1000	9.4100	4.2900	14.2000	8.1700	21.3000	5.3900	0.2660	10.3000	3.4000	13.7000	9.7100	3.5000	7.3300	4.1900	9.2600	4.3400	8.2600	11.5000	16.3000	10.7000	8.2100	2.5900	9.1700	63.2000	1.8100	46.5000	7.9800
+2-Oleoyl Glycerol	41.7000	33.6000	32.4000	129.0000	67.5000	56.2000	77.0000	25.5000	85.4000	39.1000	34.5000	26.6000	54.6000	78.5000	59.8000	47.9000	51.9000	34.4500	110.0000	277.0000	74.8000	42.5000	150.0000	107.0000	76.1000	138.0000	88.4000	1340.0000	33.8000	44.8000	57.6000	44.9000	101.0000	109.0000	109.0000	238.0000	87.2000	89.9000	87.0000	38.7000	62.2000	22.5000	11.9000	20.9000	29.8000	75.7000	175.0000	10.0000	71.5000	104.0000	41.2000	54.1000	82.8000	20.1000	32.9000	41.3000	73.6000	146.0000	22.2000	159.0000	38.1000	109.0000	30.8000	31.5000	34.4000	20.0000	11.7000	20.3000	45.3000	250.0000	18.6000	165.0000	40.8000	108.0000	46.6000	49.6000	42.3000	27.5000	12.8000	19.1000	52.9000	66.5000	36.6000	99.5000	74.9000	139.0000	28.1000	30.3000	61.7000	24.3000	121.0000	64.4000	98.6000	70.4000	49.7000	118.0000	64.3000	47.9000	75.0000	92.3000	116.0000	49.4000	73.4000	61.8000	502.0000	17.2000	417.0000	41.3000
+a-Linolenoyl Ethanolamide	0.0478	0.0582	0.0601	0.0899	0.0668	0.0543	0.0554	0.0420	0.0601	0.0580	0.0912	0.0576	0.0309	0.0528	0.0379	0.0219	0.0345	0.0208	0.0778	0.0270	0.0225	0.0472	0.0497	0.0420	0.1230	0.1210	0.0951	0.0497	0.1110	0.0668	0.0629	0.0383	0.0564	0.0821	0.0637	0.0410	0.0453	0.0376	0.0572	0.0367	0.0687	0.0414	0.0401	0.0459	0.0320	0.0377	0.0421	0.0265	0.0299	0.0269	0.0511	0.0284	0.0514	0.0522	0.0425	0.0383	0.0470	0.0513	0.0260	0.0357	0.0593	0.0321	0.0396	0.0206	0.0599	0.0479	0.0509	0.0390	0.0333	0.0432	0.0608	0.0301	0.0338	0.0343	0.0312	0.0464	0.0501	0.0570	0.0428	0.0383	0.0437	0.0229	0.0287	0.0253	0.0583	0.0388	0.0851	0.0606	0.0645	0.0509	0.0484	0.0571	0.0354	0.0362	0.0923	0.0439	0.0961	0.0503	0.0312	0.0284	0.0363	0.0386	0.0228	0.0257	0.0349	0.0595	0.0349	0.0531
+Arachidonoyl Ethanolamide	1.6600	1.8000	1.4700	2.1400	1.9100	1.4200	0.4510	1.6900	1.7800	1.5400	2.2600	1.9400	1.2100	1.7400	1.4200	0.9360	0.5350	0.9980	1.9500	1.2700	0.4670	0.4090	0.8940	0.6190	1.8400	2.1400	2.0400	1.8000	2.0000	1.6300	1.9000	1.9500	1.4000	2.0300	1.1500	1.6400	2.0500	1.2800	1.7200	1.0600	1.6400	0.9700	1.0700	2.3000	1.6800	1.3100	1.4100	0.7640	1.1200	1.1000	1.1700	1.2000	1.3300	1.5900	1.0400	1.9600	1.3700	1.6800	1.0100	1.9400	1.7200	1.4800	1.6900	0.7830	1.2700	1.2400	1.2900	2.0900	1.3200	1.3700	1.0100	1.1200	1.2500	1.1600	0.9480	1.1500	1.1900	1.4400	1.2400	1.9300	1.2500	1.2000	1.1100	1.4400	1.0200	0.3830	1.5300	1.4900	0.7260	1.1700	0.9670	1.4900	1.1200	0.7840	1.4200	1.0000	1.7700	0.8040	0.5740	0.9800	0.7210	1.1300	1.0900	0.6850	1.6500	2.7400	1.7400	1.3000
+Dihomo-g-Linolenoyl Ethanolamide	0.2920	0.3150	0.1400	0.2950	0.2020	0.2530	0.0929	0.2650	0.2990	0.2820	0.6440	0.4150	0.2290	0.3030	0.2325	0.2890	0.1840	0.1114	0.4650	0.2600	0.1010	0.1430	0.2690	0.2140	0.4430	0.1790	0.3920	0.1890	0.4730	0.1870	0.5190	0.2740	0.3330	0.1840	0.3140	0.1800	0.4370	0.1530	0.2350	0.1200	0.3530	0.1160	0.1430	0.2160	0.2850	0.1190	0.2160	0.0973	0.1370	0.1590	0.1680	0.1160	0.1920	0.2500	0.1280	0.2660	0.1570	0.1240	0.1580	0.3730	0.2140	0.1680	0.2460	0.0542	0.2030	0.1080	0.2000	0.2410	0.2370	0.1490	0.4260	0.1020	0.2000	0.1330	0.1590	0.0959	0.2810	0.1940	0.2550	0.3750	0.1830	0.1300	0.1320	0.1935	0.3400	0.2380	0.4950	0.1820	0.2390	0.1720	0.1810	0.4620	0.2680	0.1880	0.2120	0.1910	0.2530	0.2110	0.1330	0.1860	0.2870	0.2100	0.1890	0.1800	0.3140	0.4930	0.2180	0.3230
+Docosahexaenoyl Ethanolamide	3.0000	3.0100	2.5700	3.8300	3.0600	2.9400	3.0500	3.1400	3.0100	3.1500	3.9400	3.2000	2.3800	3.5000	2.4300	2.1500	3.7900	2.5000	3.7900	1.8800	3.2700	5.0800	4.8200	3.5400	3.7200	4.1100	2.4100	3.2100	3.8400	3.7900	3.0700	3.4100	2.4500	2.6400	1.2400	1.9400	2.1600	2.1100	2.5000	1.5800	2.5100	2.5700	1.9700	3.5000	2.4000	2.0200	1.9400	1.2200	2.0500	2.0200	2.1800	2.1000	2.4700	3.4400	1.5000	2.6750	2.8600	3.0800	1.9200	2.6400	2.8600	2.5200	2.1600	1.5200	2.2300	3.1300	1.8500	3.1500	2.6200	2.1500	2.0000	1.7000	1.8800	1.9000	1.7400	2.1000	2.1600	3.2300	1.8700	3.1300	2.6700	2.0300	1.7900	1.7050	4.3100	2.7700	5.4000	4.4400	4.1100	6.0500	4.7200	6.0000	3.7800	3.5500	8.0600	5.2000	7.8100	2.7200	2.8500	6.4300	5.9300	5.2700	3.7600	4.0400	3.1100	5.0900	3.0100	2.4100
+Docosatetraenoyl Ethanolamide	0.6480	0.8580	0.6900	0.5150	0.4240	0.4520	0.1160	0.7480	0.0822	0.2030	1.3900	0.6860	0.4660	0.3770	0.2278	0.5460	0.0876	0.3840	0.7500	0.4220	0.1400	0.0400	0.2040	0.7150	0.7470	0.4640	1.0500	0.4580	1.6100	0.7810	1.4000	0.6290	1.3100	1.2000	0.9100	1.1700	1.5600	0.3260	0.5330	0.0898	0.6400	0.4730	0.6120	0.5310	0.8640	0.3870	0.6540	0.4670	0.4750	0.3120	0.3670	0.0877	0.4470	0.9910	0.3450	0.6710	0.5720	0.4080	0.4230	1.2700	0.3520	0.2150	0.5720	0.1890	0.4870	0.3050	0.5760	0.5880	0.8880	0.4120	0.4230	0.2770	0.4610	0.2180	0.1740	0.1410	0.9350	0.7730	0.7210	0.7380	0.7940	0.4130	0.4320	0.7030	0.9740	0.0974	1.3100	0.8770	0.4820	0.8930	0.5630	1.8500	0.9700	0.1820	0.9580	0.5950	1.0700	0.3410	0.0585	0.7610	0.6210	0.8300	1.0300	0.1200	0.9440	1.4400	1.1300	1.3500
+Linoleoyl Ethanolamide	0.7600	0.8320	0.5570	1.1800	1.0000	0.7460	0.5630	0.7480	1.1300	0.7990	1.0900	1.0100	0.5840	0.9220	0.7950	0.4670	0.6640	0.4535	1.1900	0.5510	0.4120	0.7060	0.9260	0.8180	0.9620	1.7700	1.3100	1.2700	0.7930	1.1900	1.0800	0.9900	0.9150	1.0200	0.9890	0.7070	1.0200	0.8760	1.3000	1.1000	0.7960	0.6940	0.7400	1.1900	1.0800	0.5780	0.6970	0.4340	0.7770	0.9480	1.5000	0.6490	1.1200	1.0800	0.6350	0.8590	0.8230	1.0400	0.5390	0.8500	0.8960	1.0300	0.9130	0.7690	0.8510	0.8650	0.6530	1.0400	0.7880	0.7320	0.6370	0.5520	1.0100	0.7530	0.7840	1.1600	0.7230	0.9280	0.7390	1.0300	0.7760	0.6150	0.6300	0.5655	0.9530	0.8220	1.4100	1.4900	0.8630	0.9810	1.0500	1.8100	1.1800	0.9660	1.3300	1.2500	1.7400	1.0900	0.9210	0.9510	0.9580	1.0300	1.4400	0.8630	0.9900	1.1200	1.2900	0.5660
+Oleoyl Ethanolamide	28.1000	28.5000	21.7000	35.9000	30.2000	27.8000	13.0000	26.8000	26.2000	19.9000	40.4000	28.6000	29.7000	31.0000	24.6500	25.1000	15.2000	17.5000	37.1000	27.3000	10.2000	16.5000	19.1000	18.4000	16.9000	34.3000	42.8000	35.3000	34.5000	26.1000	53.5000	31.9000	31.5000	37.8000	28.8000	34.3000	52.3000	18.7000	32.1000	20.8000	27.6000	15.8000	21.0000	33.0000	24.4000	11.2000	19.1000	12.9000	19.8000	24.0000	29.9000	18.2500	23.3000	29.0000	26.0000	40.1000	20.7000	14.4000	12.4000	31.9000	14.6000	21.2000	24.7000	17.0000	22.3000	14.6000	26.6000	35.3000	21.0000	17.9000	12.9000	9.9400	26.5000	16.8000	22.1000	22.5000	28.0000	27.8000	31.9000	44.7000	23.7000	16.4000	12.8000	20.9500	25.4000	26.2000	26.7000	30.6000	18.8000	23.0000	25.7000	36.4000	34.3000	16.5000	29.4000	22.6000	34.3000	29.1000	13.0000	16.8000	26.3000	22.0000	34.8000	9.5900	31.5000	43.8000	43.5000	35.0000
+Palmitoyl Ethanolamide	13.3000	14.6000	13.1000	18.1000	15.0000	18.5000	9.0000	13.3000	20.5000	12.0000	18.4000	15.1000	15.8000	13.3000	15.4000	9.5200	15.0000	11.9500	22.1000	12.3000	11.0000	13.4000	14.3000	10.6000	15.9000	65.0000	22.1000	21.0000	15.6000	17.9000	16.0000	22.3000	4.8100	8.9600	6.6500	6.0100	11.1000	13.7000	36.9000	10.2000	14.8000	12.4000	12.6000	21.8000	8.9300	4.7900	7.2000	4.5400	15.1000	17.9000	51.3000	14.8500	14.7000	12.6000	17.7000	19.1000	8.2000	5.6700	5.8700	12.4000	23.4000	11.5000	35.6000	30.5000	12.9000	13.3000	9.9000	20.8000	6.0700	5.1900	4.5600	7.4200	32.7000	10.3000	10.4000	48.0000	15.2000	15.5000	10.8000	26.4000	7.5500	4.5500	6.4600	6.5050	20.5000	15.7000	17.1000	14.2000	12.3000	14.4000	14.0000	14.3000	15.6000	15.2000	19.4000	14.6000	16.6000	18.3000	9.5300	15.6000	33.6000	14.6000	16.2000	10.2000	12.9000	13.3000	15.4000	12.5000
+PGF2a Ethanolamide	0.1220	0.0771	0.0884		0.0521	0.0785	0.0713	0.0982	0.0270	0.0623	0.0721	0.0730	0.0124	0.0870	0.0851	0.1040		0.0303	0.0866	0.0278	0.0440	0.0848	0.0443	0.0130	0.2540	0.1300	0.0916	0.1300	0.2260	0.1590	0.1580	0.1960	0.0592	0.0277	0.0578	0.1200	0.1610	0.1260	0.1830	0.1360	0.2060	0.1850	0.1570	0.1660	0.0952	0.1090	0.0940	0.0413	0.1040	0.1540	0.1900	0.1084	0.1760	0.1410	0.1570	0.1735	0.0722	0.0466	0.1370	0.0098	0.0107	0.0775	0.1620	0.1620	0.1360	0.1730	0.1720	0.2020	0.0760	0.0403	0.0608	0.0139	0.0574	0.0882	0.1300	0.1420	0.1990	0.1690	0.1480	0.1570	0.0524	0.0366	0.0427	0.0659		0.0206	0.1140	0.0651	0.0756	0.0167	0.0814	0.0586	0.0349	0.0995	0.0844	0.0026	0.0450	0.1560	0.0894			0.1110	0.0673	0.0820	0.0766	0.0833	0.0804	0.1330
+Stearoyl Ethanolamide	14.5000	27.2000	17.9000	17.1000	13.0000	15.7000	11.6000	20.0000	19.5000	7.9700	42.1000	18.9000	17.5000	18.3000	18.4500	12.8000	22.9000	15.5000	43.0000	19.2000	18.7000	22.4000	18.7000	59.5000	18.5000	105.0000	45.9000	34.2000	23.0000	18.6000	47.0000	30.4000	73.0000	36.6000	49.0000	55.5000	61.9000	18.7000	84.8000	8.2300	14.3000	13.2000	21.5000	23.7000	48.4000	12.1000	28.8000	23.1000	41.0000	29.1000	78.1000	16.6500	18.4000	16.7000	31.6000	35.9000	32.8000	21.8000	20.5000	21.0000	22.6000	13.3000	59.2000	43.6000	12.3000	13.1000	16.4000	26.1000	51.7000	19.6000	15.1000	17.2000	71.8000	15.4000	11.3000	59.6000	25.4000	21.4000	22.3000	50.4000	40.9000	22.0000	17.4000	30.6000	34.7000	42.5000	38.3000	30.2000	16.5000	24.3000	22.7000	56.1000	30.1000	15.0000	30.9000	31.6000	31.5000	27.1000	18.6000	27.7000	85.3000	43.4000	50.7000	9.9000	24.2000	33.5000	45.7000	29.8000
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+1-Arachidonoyl Glycerol				114672			HMDB11538	UCDavis_Newman_ID
+1-Linoleoyl Glycerol				117319			HMDB11578	UCDavis_Newman_ID
+1-Oleoyl Glycerol							HMDB11567	UCDavis_Newman_ID
+2-Arachidonoyl Glycerol				5282280			HMDB04666	UCDavis_Newman_ID
+2-Linoleoyl Glycerol				549043			HMDB11537	UCDavis_Newman_ID
+2-Oleoyl Glycerol				543397			HMDB11568	UCDavis_Newman_ID
+a-Linolenoyl Ethanolamide							HMDB13624	UCDavis_Newman_ID
+Arachidonoyl Ethanolamide				5281969			HMDB04080	UCDavis_Newman_ID
+Dihomo-g-Linolenoyl Ethanolamide							HMDB13625	UCDavis_Newman_ID
+Docosahexaenoyl Ethanolamide				5283451			HMDB13627	UCDavis_Newman_ID
+Docosatetraenoyl Ethanolamide				53394363			HMDB13626	UCDavis_Newman_ID
+Linoleoyl Ethanolamide							HMDB12252	UCDavis_Newman_ID
+Oleoyl Ethanolamide				5283454			HMDB02088	UCDavis_Newman_ID
+Palmitoyl Ethanolamide				52922083			HMDB02100	UCDavis_Newman_ID
+PGF2a Ethanolamide				53481911			HMDB13628	UCDavis_Newman_ID
+Stearoyl Ethanolamide				27902			HMDB13078	UCDavis_Newman_ID
+METABOLITES_END
+#END

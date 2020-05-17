@@ -1,0 +1,220 @@
+#METABOLOMICS WORKBENCH DongHo_20160115_025706 STUDY_ID:ST000316 ANALYSIS_ID:AN000502
+VERSION             	1
+CREATED_ON             	January 15, 2016, 2:57 am
+#PROJECT
+PR:PROJECT_TITLE                 	Comparison of Metabolites Variation and Antiobesity Effects of a Mixture of
+PR:PROJECT_TITLE                 	Cudrania tricuspidata, Lonicera caerulea, and the Soybean According to
+PR:PROJECT_TITLE                 	Fermentation in vitro and in vivo
+PR:PROJECT_SUMMARY               	We used ultra-performance-liquid-chromatography with quadrupole-time-of-flight
+PR:PROJECT_SUMMARY               	mass spectrometry to study the changes in metabolites in the mixture of Cudrania
+PR:PROJECT_SUMMARY               	tricuspidata, Lonicera caerulea, and soybean (CLM) during fermentation.
+PR:PROJECT_SUMMARY               	Additionally, the antiobesity effects of CLM and fermented-CLM (FCLM) were
+PR:PROJECT_SUMMARY               	studied based on the analysis of plasma from high-fat diet (HFD)-fed mice. The
+PR:PROJECT_SUMMARY               	levels of cyanidin and the glycosides of luteolin, quercetin, and cyanidin
+PR:PROJECT_SUMMARY               	derived from L. caerulea were decreased, whereas the levels of luteolin and
+PR:PROJECT_SUMMARY               	quercetin were increased during fermentation. Isoflavone glycosides and
+PR:PROJECT_SUMMARY               	soyasaponins originating from the soybean were decreased, whereas their
+PR:PROJECT_SUMMARY               	aglycones such as daidzein, glycitein, and genistein were increased. As for
+PR:PROJECT_SUMMARY               	prenylated flavonoids from C. tricuspidata, these metabolites were decreased at
+PR:PROJECT_SUMMARY               	the early stage of fermentation, and were increased at end of the fermentation.
+PR:PROJECT_SUMMARY               	In terms of the functional food product, various metabolites derived from
+PR:PROJECT_SUMMARY               	diverse natural products in CLM had complementary effects and demonstrated
+PR:PROJECT_SUMMARY               	higher antioxidant and pancreatic lipase inhibition activities by fermentation;
+PR:PROJECT_SUMMARY               	these activities were closely related to flavonoid aglycones including
+PR:PROJECT_SUMMARY               	genistein, daidzein, glycitein, luteolin, and quercetin. In vivo experiment,
+PR:PROJECT_SUMMARY               	several clinical parameters affected by HFD were remarkably improved by the
+PR:PROJECT_SUMMARY               	administration of either CLM or FCLM, but there was a difference in the
+PR:PROJECT_SUMMARY               	antiobesity effects. The levels of lysoPCs with C20:4, C16:0, and C22:6 were
+PR:PROJECT_SUMMARY               	significantly attenuated by CLM administration, while the attenuated levels of
+PR:PROJECT_SUMMARY               	lysoPCs with C20:4 and C18:2 were significantly restored by FCLM administration.
+PR:PROJECT_SUMMARY               	These metabolites may explain the above-mentioned differences in antiobesity
+PR:PROJECT_SUMMARY               	effects. Although only the changes in plasma lysophospholipids could not fully
+PR:PROJECT_SUMMARY               	explain antiobesity effects between non-fermented and fermented plant mixtures
+PR:PROJECT_SUMMARY               	from our results, we suggest that metabolomics approach could provide a way to
+PR:PROJECT_SUMMARY               	reveal the metabolite alterations in the complex fermentation process and
+PR:PROJECT_SUMMARY               	understand the differences or changes in bioactivity according to fermentation.
+PR:INSTITUTE                     	Konkuk university
+PR:LAST_NAME                     	Suh
+PR:FIRST_NAME                    	Dong Ho
+PR:ADDRESS                       	Neong-Dong-ro 120, Seoul, Kwang-Gin-gu, 05029, Korea, South
+PR:EMAIL                         	sdh14031988@naver.com
+PR:PHONE                         	82-02-444-4290
+#STUDY
+ST:STUDY_TITLE                   	Comparison of Metabolites Variation and Antiobesity Effects of a Mixture of
+ST:STUDY_TITLE                   	Cudrania tricuspidata, Lonicera caerulea, and the Soybean According to
+ST:STUDY_TITLE                   	Fermentation in vitro and in vivo
+ST:STUDY_SUMMARY                 	We used ultra-performance-liquid-chromatography with quadrupole-time-of-flight
+ST:STUDY_SUMMARY                 	mass spectrometry to study the changes in metabolites in the mixture of Cudrania
+ST:STUDY_SUMMARY                 	tricuspidata, Lonicera caerulea, and soybean (CLM) during fermentation.
+ST:STUDY_SUMMARY                 	Additionally, the antiobesity effects of CLM and fermented-CLM (FCLM) were
+ST:STUDY_SUMMARY                 	studied based on the analysis of plasma from high-fat diet (HFD)-fed mice. The
+ST:STUDY_SUMMARY                 	levels of cyanidin and the glycosides of luteolin, quercetin, and cyanidin
+ST:STUDY_SUMMARY                 	derived from L. caerulea were decreased, whereas the levels of luteolin and
+ST:STUDY_SUMMARY                 	quercetin were increased during fermentation. Isoflavone glycosides and
+ST:STUDY_SUMMARY                 	soyasaponins originating from the soybean were decreased, whereas their
+ST:STUDY_SUMMARY                 	aglycones such as daidzein, glycitein, and genistein were increased. As for
+ST:STUDY_SUMMARY                 	prenylated flavonoids from C. tricuspidata, these metabolites were decreased at
+ST:STUDY_SUMMARY                 	the early stage of fermentation, and were increased at end of the fermentation.
+ST:STUDY_SUMMARY                 	In terms of the functional food product, various metabolites derived from
+ST:STUDY_SUMMARY                 	diverse natural products in CLM had complementary effects and demonstrated
+ST:STUDY_SUMMARY                 	higher antioxidant and pancreatic lipase inhibition activities by fermentation;
+ST:STUDY_SUMMARY                 	these activities were closely related to flavonoid aglycones including
+ST:STUDY_SUMMARY                 	genistein, daidzein, glycitein, luteolin, and quercetin. In vivo experiment,
+ST:STUDY_SUMMARY                 	several clinical parameters affected by HFD were remarkably improved by the
+ST:STUDY_SUMMARY                 	administration of either CLM or FCLM, but there was a difference in the
+ST:STUDY_SUMMARY                 	antiobesity effects. The levels of lysoPCs with C20:4, C16:0, and C22:6 were
+ST:STUDY_SUMMARY                 	significantly attenuated by CLM administration, while the attenuated levels of
+ST:STUDY_SUMMARY                 	lysoPCs with C20:4 and C18:2 were significantly restored by FCLM administration.
+ST:STUDY_SUMMARY                 	These metabolites may explain the above-mentioned differences in antiobesity
+ST:STUDY_SUMMARY                 	effects. Although only the changes in plasma lysophospholipids could not fully
+ST:STUDY_SUMMARY                 	explain antiobesity effects between non-fermented and fermented plant mixtures
+ST:STUDY_SUMMARY                 	from our results, we suggest that metabolomics approach could provide a way to
+ST:STUDY_SUMMARY                 	reveal the metabolite alterations in the complex fermentation process and
+ST:STUDY_SUMMARY                 	understand the differences or changes in bioactivity according to fermentation.
+ST:INSTITUTE                     	Konkuk university
+ST:LAST_NAME                     	Suh
+ST:FIRST_NAME                    	Dong Ho
+ST:ADDRESS                       	Neong-Dong-ro 120, Seoul, Kwang-Gin-gu, 05029, Korea, South
+ST:EMAIL                         	sdh14031988@naver.com
+ST:PHONE                         	82-02-444-4290
+#SUBJECT
+SU:SUBJECT_TYPE                  	Animal
+SU:SUBJECT_SPECIES               	Mus musculus
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	ND1	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND2	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND3	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND4	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND5	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND6	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND7	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND8	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND9	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	ND10	Diet:ND	
+SUBJECT_SAMPLE_FACTORS           	-	HD1	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD2	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD3	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD4	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD5	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD6	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD7	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD8	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD9	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HD10	Diet:HD	
+SUBJECT_SAMPLE_FACTORS           	-	HX1	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX2	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX3	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX4	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX5	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX6	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX7	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX8	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX9	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HX10	Diet:HX	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM1	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM2	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM3	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM4	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM5	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM6	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM7	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM8	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM9	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HCLM10	Diet:HCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM1	Diet:HFCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM2	Diet:HFCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM3	Diet:HFCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM4	Diet:HFCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM5	Diet:HFCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM6	Diet:HFCLM	
+SUBJECT_SAMPLE_FACTORS           	-	HFCLM7	Diet:HFCLM	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Plasma 200uL were extracted with 1mL of 80% MeOH
+#TREATMENT
+TR:TREATMENT_SUMMARY             	Seven-week-old C57BL6J male mice were purchased from Daehan bio-link (Chungbuk,
+TR:TREATMENT_SUMMARY             	Republic of Korea). All mice were acclimated for 1 week under controlled
+TR:TREATMENT_SUMMARY             	conditions (temperature: 25 ± 2°C, relative humidity: 50 ± 5%, and 12 h
+TR:TREATMENT_SUMMARY             	light/dark cycle). The animals had free access to a normal diet (AIN-76A,
+TR:TREATMENT_SUMMARY             	Research Diets, Inc., NJ, USA) and water. After 1 week, the mice were randomly
+TR:TREATMENT_SUMMARY             	distributed into 5 groups: (1) group normal-diet (ND) (n = 11) was fed a normal
+TR:TREATMENT_SUMMARY             	diet for 6 weeks, (2) group HFD (named HD; n = 10) was fed 60 kcal% fat (D1242,
+TR:TREATMENT_SUMMARY             	Research Diets, Inc., NJ, USA) for 6 weeks, (3) group HFD with xenical
+TR:TREATMENT_SUMMARY             	administration (HX, 50 mg?kg?1?day?1) n = 10, 6 weeks, (4) group HFD
+TR:TREATMENT_SUMMARY             	with CLM administration (HCLM, 2 g?kg?1?day?1) n = 10, 6 weeks; and (5)
+TR:TREATMENT_SUMMARY             	group HFD with FCLM (CLM fermented for 60 h) administration (HFCLM, 2
+TR:TREATMENT_SUMMARY             	g?kg?1?day?1) n = 8, 6 weeks. In this study, we used xenical as a
+TR:TREATMENT_SUMMARY             	positive control for antiobesity effects. Xenical, CLM, and FCLM dissolved with
+TR:TREATMENT_SUMMARY             	saline were orally administered everyday into the stomach with an oral zonde
+TR:TREATMENT_SUMMARY             	needle. And, the equal volume of saline were applied for ND and HD groups.
+TR:TREATMENT_SUMMARY             	During the experimental periods, the feed intake and the body weight of the mice
+TR:TREATMENT_SUMMARY             	were measured daily.
+TR:TREATMENT_PROTOCOL_FILENAME   	DongHo_20160115_025706_PR_CO_The_animal_experiment.docx
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	For blood collection, the mice were sacrificed by cardiac puncture. Plasma (100
+SP:SAMPLEPREP_SUMMARY            	µL) was subjected to extraction with cold methanol (500 µL) on a MM400 mixer
+SP:SAMPLEPREP_SUMMARY            	mill (Retsch®, Haan, Germany) with the frequency 30 s?1 for 5 min. The
+SP:SAMPLEPREP_SUMMARY            	suspension was centrifuged at 12,578 g for 10 min at 4°C. The supernatant was
+SP:SAMPLEPREP_SUMMARY            	filtered through a 0.2-µm PTEE filter and evaporated in a speed vacuum
+SP:SAMPLEPREP_SUMMARY            	concentrator. The final concentration of the plasma was 5 mg/mL in methanol for
+SP:SAMPLEPREP_SUMMARY            	the UPLC-Q-TOF-MS analysis.
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE        	Reversed phase
+CH:INSTRUMENT_NAME            	UPLC Acquity system
+CH:COLUMN_NAME                	Acquity UPLC BEH C18 column (100 mm × 2.1 mm × 1.7 µm particle size; Waters
+CH:COLUMN_NAME                	Corp.)
+#ANALYSIS
+AN:ANALYSIS_TYPE            	MS
+#MS
+MS:INSTRUMENT_NAME          	Waters Micromass Q-TOF Premier
+MS:INSTRUMENT_TYPE          	QTOF
+MS:MS_TYPE                  	ESI
+MS:ION_MODE                 	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	Peak area
+MS_METABOLITE_DATA_START
+Samples	ND1	ND2	ND3	ND4	ND5	ND6	ND7	ND8	ND9	ND10	HD1	HD2	HD3	HD4	HD5	HD6	HD7	HD8	HD9	HD10	HX1	HX2	HX3	HX4	HX5	HX6	HX7	HX8	HX9	HX10	HCLM1	HCLM2	HCLM3	HCLM4	HCLM5	HCLM6	HCLM7	HCLM8	HCLM9	HCLM10	HFCLM1	HFCLM2	HFCLM3	HFCLM4	HFCLM5	HFCLM6	HFCLM7
+Factors	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:ND	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HD	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HX	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HCLM	Diet:HFCLM	Diet:HFCLM	Diet:HFCLM	Diet:HFCLM	Diet:HFCLM	Diet:HFCLM	Diet:HFCLM
+LysoPC(14:0)	174	185	166	163	164	213	158	171	212	176	184	160	164	146	181	154	173	163	176	174	174	167	255	167	217	180	287	207	180	217	151	132	120	122	135	135	128	150	137	134	128	162	135	128	151	172	142
+LysoPC(18:0)_1	3053	2525	2973	2878	3274	2888	3340	3499	3431	3975	4168	4296	4696	4192	4074	3604	4493	3959	4261	4670	4800	3719	3967	2896	3651	3231	3294	4239	4314	4067	3983	3507	4195	4154	4270	4075	4656	4598	4822	4470	5344	4331	5818	5487	4464	4279	4217
+LysoPC(18:0)_2	10662	10382	11113	10201	10723	9872	10212	10714	10177	10151	10756	12092	12028	10548	11025	12864	14181	11739	12786	13829	11968	11272	12949	8809	11231	9732	11497	12514	11445	11495	11062	11360	12074	14271	12011	11950	13420	12809	14886	12042	14244	13147	14910	13446	12963	13137	12048
+LysoPC(18:1)	9296	9825	10043	9494	9706	10290	10589	9397	11179	9774	10310	9372	10298	8520	9167	9158	9301	8905	9394	9598	10064	9291	9971	9613	10493	9524	10677	10251	9482	10099	8310	9842	8687	9275	9279	7216	8512	8495	8047	8519	8830	9465	8417	8644	8675	9112	9103
+LysoPC(18:2)_1	3974	3352	4067	4034	3709	4427	4866	4472	4178	4553	3724	3185	3828	3560	4088	3017	2952	3405	3447	3248	4799	3850	3395	4603	4662	3737	3773	4224	3691	4462	3540	3769	3296	3330	3858	3281	3799	3748	3039	3751	3412	3694	3854	4269	3710	4128	4538
+LysoPC(18:2)_2	18182	16858	17453	18542	17199	16563	15964	16165	16672	17154	12808	13314	12060	12363	13154	13501	12663	13300	13858	13014	15396	15970	14857	17995	17532	16324	14947	17155	13657	15791	12395	13153	13037	11858	15272	11718	14912	13697	12147	13193	12921	12209	13088	15033	11650	15825	17514
+LysoPC(18:3)_1	223	226	164	194	171	228	167	176	239	223	103	124	111	107	105	113	78	100	111	99	135	100	135	196	170	135	149	154	103	165	104	97	80	77	87	93	91	109	77	80	85	95	87	102	89	113	111
+LysoPC(18:3)_2	381	355	295	404	278	386	332	276	296	381	241	254	226	208	289	193	162	200	209	233	283	275	309	376	278	290	296	208	211	425	228	276	189	163	197	191	228	236	228	263	146	226	177	279	193	379	314
+LysoPC(20:2)	456	503	594	424	495	610	711	596	835	586	540	532	601	495	460	397	432	353	402	371	732	695	567	778	746	782	789	751	688	739	308	493	311	322	377	283	313	309	266	276	343	350	334	297	393	417	454
+LysoPC(20:3)_1	228	235	397	207	297	320	683	410	437	330	439	354	497	442	420	210	313	172	262	232	396	181	231	255	231	193	210	284	254	293	188	315	203	259	243	129	138	152	156	164	210	243	167	207	301	141	158
+LysoPC(20:3)_2	1548	1874	2393	1535	1859	1832	2843	2399	2473	1822	2304	2067	2558	2221	2081	1517	1970	956	1578	1577	2157	1238	1397	1691	1488	1379	1342	1656	1438	1527	915	1688	1135	1249	1231	682	780	684	825	763	967	1115	785	955	1367	767	782
+LysoPC(20:4)_1	1574	1454	1970	1688	1914	1725	2317	2047	1736	1683	2710	2748	3090	2698	2862	2085	1955	1503	2218	2171	2750	1782	2073	2350	1982	1929	2420	2219	2210	2563	2184	3128	2004	2260	1832	1475	1805	2002	1784	2048	1930	2828	1969	2138	2820	1760	1818
+LysoPC(20:4)_2	5604	6070	6198	6778	6334	5881	6685	6749	5020	4779	9228	8566	9911	8360	8380	8578	7273	5238	7323	7796	7747	6935	7549	7776	6633	6910	7696	7388	7086	8495	6373	9079	7499	8051	6065	5282	6947	6901	6677	6869	5849	8120	6566	6867	8437	6303	5622
+LysoPC(22:5)	358	306	398	314	306	321	494	344	347	314	471	386	536	484	511	302	300	291	339	385	437	253	281	319	274	271	226	250	265	265	272	510	273	278	310	181	243	278	214	234	356	417	317	376	423	262	249
+LysoPC(22:6)_1	1183	1116	1411	1335	1373	1231	1765	1328	1401	1271	2340	1972	2628	2216	2454	1641	1629	1453	1893	1814	2076	1171	1489	1481	1301	1204	1486	1381	1581	1613	1718	2411	1653	1673	1612	1020	1491	1785	1580	1379	1851	2476	1926	2115	2511	1453	1397
+LysoPC(22:6)_2	6168	6108	6339	6446	6443	5554	6548	5795	5683	5799	9054	8123	10495	8966	8477	8240	7451	6858	7961	9600	8266	5993	6871	7154	6662	6877	6659	5737	7513	7338	7494	9500	7543	8019	7202	4897	6040	7619	6964	6539	8542	9540	7541	8451	10801	6921	5714
+LysoPE(18:0)	422	378	321	369	362	384	264	319	353	363	197	193	200	169	192	204	217	213	225	217	176	257	247	209	286	252	269	245	246	278	171	172	161	169	203	189	159	207	187	188	173	187	184	164	159	255	221
+LysoPE(22:6)_1	131	106	140	131	114	150	149	149	183	158	256	196	247	154	222	140	184	205	172	204	174	159	194	151	181	145	171	158	225	190	220	170	146	169	156	88	176	225	184	204	264	254	221	229	246	140	130
+LysoPE(22:6)_2	1312	987	1033	1118	885	1195	987	1230	1322	1194	1762	1398	1768	1142	1410	1178	1535	1566	1328	1626	1252	1337	1552	1184	1288	1171	1264	1397	1649	1358	1459	1147	1046	1292	1190	721	1381	1774	1559	1415	1895	1759	1664	1601	1638	1073	922
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	HMDB_ID
+LysoPC(14:0)	HMDB10379
+LysoPC(18:0)_1	HMDB10384
+LysoPC(18:0)_2	HMDB10384
+LysoPC(18:1)	HMDB02815
+LysoPC(18:2)_1	HMDB10386
+LysoPC(18:2)_2	HMDB10386
+LysoPC(18:3)_1	HMDB10387
+LysoPC(18:3)_2	HMDB10387
+LysoPC(20:2)	HMDB10392
+LysoPC(20:3)_1	HMDB10393
+LysoPC(20:3)_2	HMDB10393
+LysoPC(20:4)_1	HMDB10395
+LysoPC(20:4)_2	HMDB10395
+LysoPC(22:5)	HMDB10402
+LysoPC(22:6)_1	HMDB10404
+LysoPC(22:6)_2	HMDB10404
+LysoPE(18:0)	HMDB11129
+LysoPE(22:6)_1	HMDB11526
+LysoPE(22:6)_2	HMDB11526
+METABOLITES_END
+#END

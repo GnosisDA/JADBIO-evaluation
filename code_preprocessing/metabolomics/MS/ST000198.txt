@@ -1,0 +1,173 @@
+#METABOLOMICS WORKBENCH STUDY_ID:ST000198 ANALYSIS_ID:AN000300
+VERSION             	1
+CREATED_ON          	2016-09-17
+#PROJECT
+PR:PROJECT_TITLE                 	Regulation of hepatic metabolism
+PR:PROJECT_SUMMARY               	Examine metabolite in liver and plasma before and after 13C-glucose load in
+PR:PROJECT_SUMMARY               	type, LIRKO and LIRFKO mice
+PR:INSTITUTE                     	University of Chicago
+PR:DEPARTMENT                    	Jesse Brown VA Medical Center
+PR:LABORATORY                    	Unterman Lab
+PR:LAST_NAME                     	Unterman
+PR:FIRST_NAME                    	Terry
+PR:ADDRESS                       	Chicago, IL
+PR:EMAIL                         	unterman@uic.edu
+PR:PHONE                         	847-778-0943
+#STUDY
+ST:STUDY_TITLE                   	Liver and Plasma metaboites for 13C-glucose load in wild type, LIRKO and LIRFKO
+ST:STUDY_SUMMARY                 	Mice were fasted for 18 hr overnight then sacrificed or treated with
+ST:STUDY_SUMMARY                 	(2 g/kg ip) and sacrificed 1 hr later by decapitation and liver was immediately
+ST:STUDY_SUMMARY                 	and stored in liquid N2 and then at -80 C. Wild type (IR and IR/FoxO1 floxed)
+ST:STUDY_SUMMARY                 	were sacrificed after fasting and 1 hr post-glucose treatment. Liver-specific
+ST:STUDY_SUMMARY                 	receptor knockout (LIRKO) and insulin receptor/FoxO1 double knockout (LIRFKO)
+ST:STUDY_SUMMARY                 	were sacrificed 1 hr post glucose treatment
+ST:INSTITUTE                     	University of Michigan
+ST:DEPARTMENT                    	Biomedical Research Core Facilities
+ST:LABORATORY                    	Metabolomics core
+ST:LAST_NAME                     	Kachman
+ST:FIRST_NAME                    	Maureen
+ST:ADDRESS                       	6300 Brehm Tower, 1000 Wall Street, Ann Arbor, MI 48105-5714
+ST:EMAIL                         	mkachman@umich.edu
+ST:PHONE                         	-
+ST:NUM_GROUPS                    	5
+ST:TOTAL_SUBJECTS                	40
+#SUBJECT
+SU:SUBJECT_TYPE                  	-
+SU:SUBJECT_SPECIES               	Mus musculus
+SU:TAXONOMY_ID                   	10090
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Additional sample data
+SUBJECT_SAMPLE_FACTORS           	SU0003002	S00013145	treatment:glucose | Strain:IRF floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003002	S00013165	treatment:glucose | Strain:IRF floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003001	S00013142	treatment:glucose | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003001	S00013143	treatment:glucose | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003001	S00013144	treatment:glucose | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003001	S00013162	treatment:glucose | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003001	S00013163	treatment:glucose | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003001	S00013164	treatment:glucose | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013152	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013153	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013154	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013155	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013172	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013173	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013174	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003004	S00013175	treatment:glucose | Strain:LIRFKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013146	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013147	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013148	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013149	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013150	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013151	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013166	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013167	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013168	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013169	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013170	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003003	S00013171	treatment:glucose | Strain:LIRKO	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013136	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013137	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013138	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013139	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013140	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013141	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013156	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013157	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013158	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013159	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013160	treatment:none | Strain:IR floxed	
+SUBJECT_SAMPLE_FACTORS           	SU0003000	S00013161	treatment:none | Strain:IR floxed	
+#COLLECTION
+CO:COLLECTION_SUMMARY            	-
+CO:SAMPLE_TYPE                   	Liver
+#TREATMENT
+TR:TREATMENT_SUMMARY             	-
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	-
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	Acyl-carnitines_analysis_protocol-CR-MK-20150528.docx
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_TYPE           	-
+CH:INSTRUMENT_NAME               	-
+CH:COLUMN_NAME                   	Waters Acquity HSS T3, 1.8?m, 50  2.1mm
+CH:METHODS_ID                    	AQM050
+CH:METHODS_FILENAME              	QM-004-Xbridg2mm_ACar+_MRM-Insert.m.zip
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:LABORATORY_NAME               	MRC2 (University of Michigan)
+AN:ACQUISITION_PARAMETERS_FILE   	QM-004-Xbridg2mm_ACar+_MRM-Insert.m.zip
+AN:PROCESSING_PARAMETERS_FILE    	EX00258-acyl-carnitines-quant.m.zip
+#MS
+MS:INSTRUMENT_NAME               	Agilent QQQ 6490
+MS:INSTRUMENT_TYPE               	Triple quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	POSITIVE
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	pmol/mg sample
+MS_METABOLITE_DATA_START
+Samples	S00013145	S00013142	S00013143	S00013144	S00013152	S00013153	S00013154	S00013155	S00013146	S00013147	S00013148	S00013149	S00013150	S00013151	S00013136	S00013137	S00013138	S00013139	S00013140	S00013141
+Factors	treatment:glucose | Strain:IRF floxed	treatment:glucose | Strain:IR floxed	treatment:glucose | Strain:IR floxed	treatment:glucose | Strain:IR floxed	treatment:glucose | Strain:LIRFKO	treatment:glucose | Strain:LIRFKO	treatment:glucose | Strain:LIRFKO	treatment:glucose | Strain:LIRFKO	treatment:glucose | Strain:LIRKO	treatment:glucose | Strain:LIRKO	treatment:glucose | Strain:LIRKO	treatment:glucose | Strain:LIRKO	treatment:glucose | Strain:LIRKO	treatment:glucose | Strain:LIRKO	treatment:none | Strain:IR floxed	treatment:none | Strain:IR floxed	treatment:none | Strain:IR floxed	treatment:none | Strain:IR floxed	treatment:none | Strain:IR floxed	treatment:none | Strain:IR floxed
+3-hydroxylauroylcarnitine	0.1521	0.0213	0.2310	0.1098	0.0146	0.3919	0.1186	0.0773	0.1376	0.0718	0.0841	0.1423	0.2572	0.2879	0.2668	0.1449	0.1200	0.0499	0.0688	0.0547
+3-Hydroxylinoleoylcarnitine	1.2081	0.1451	1.1931	1.2044	0.2009	1.5779	0.7552	0.7989	1.3452	0.5402	0.3241	0.5685	1.1870	1.4747	1.0691	0.9224	1.2929	0.3713	0.6906	0.4701
+3-hydroxymyristoylcarnitine	0.2985	0.0488	0.2943	0.1753	0.0302	0.5416	0.1828	0.1470	0.2756	0.1095	0.1303	0.2295	0.5018	0.4196	0.3827	0.2448	0.2380	0.0796	0.1196	0.1245
+3-Hydroxypalmitoylcarnitine	0.9626	0.1801	0.8344	0.7746	0.1094	1.2698	0.6540	0.4887	0.8584	0.3285	0.3388	0.5307	1.0523	0.9804	0.9799	0.7892	1.1370	0.2626	0.5127	0.3727
+Acetylcarnitine	460.1183	103.3001	579.0372	778.6006	77.3024	474.7368	526.6616	100.4459	368.4689	72.8757	145.1588	176.4865	222.8464	317.0617	153.8084	602.4624	504.1044	97.8500	189.0036	79.4457
+arachidonoylcarnitine	0.6088	0.5631	0.6280	1.0802	0.1530	0.7793	0.7063	0.1364	0.5330	0.1658	0.4069	0.2447	0.1269	0.5925	0.5434	0.7071	0.6833	0.1458	0.2440	0.0787
+butyrylcarnitine	1.0532	0.7442	1.1539	1.6544	0.7058	1.3291	1.2807	0.6666	1.0524	0.6182	0.6873	0.7582	0.6773	1.2867	1.0101	1.0650	1.1424	0.6053	0.6829	0.2800
+Decanoylcarnitine	0.4040	0.1970	2.2558	0.5719	0.0769	2.1254	0.6938	0.2263	0.4452	0.3574	0.1413	0.0899	0.0667	1.1516	1.0160	0.9990	0.9088	0.2005	0.2644	0.1113
+decenoylcarnitine	0.0881	0.0832	0.9073	0.1186	0.0088	0.4649	0.1635	0.0329	0.0650	0.0450	0.0135	0.0072	0.0102	0.1364	0.3854	0.2248	0.2290	0.0217	0.0398	0.0208
+Dodecenoylcarnitine	0.1910	0.0819	0.6763	0.1248	0.0158	0.8821	0.2507	0.1267	0.0779	0.2204	0.0248	0.0240	0.0231	0.3873	0.5884	0.4017	0.2522	0.0917	0.0931	0.0719
+Glutarylcarnitine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+Hexanoylcarnitine	0.2840	0.1943	0.5967	0.7129	0.1474	0.6697	0.5254	0.1667	0.3287	0.2419	0.0611	0.0543	0.0372	0.6769	0.8870	0.6051	0.4378	0.1880	0.2727	0.1293
+icosadienoylcarnitine	0.5214	0.3012	0.8343	1.0329	0.1650	0.9940	0.5083	0.2399	0.3469	0.2398	0.0562	0.0677	0.0550	0.5345	0.6858	0.8564	0.5815	0.1181	0.2175	0.0475
+Icosanoylcarnitine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+icosatrienoylcarnitine	0.0944	0.0772	0.1276	0.2224	0.0228	0.1781	0.0848	0.0492	0.0472	0.0417	0.0105	0.0105	0.0066	0.0696	0.0947	0.1484	0.0934	0.0186	0.0279	0.0092
+icoseneoylcarnitine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+isovalerylcarnitine	1.1371	0.9347	1.4548	2.8231	0.9664	1.4876	2.0545	0.3015	1.9744	0.3616	0.7420	0.9882	0.7821	1.5630	1.2236	1.3660	1.5534	0.3730	0.5316	0.1358
+lauroylcarnitine	0.4107	0.2401	0.7317	0.4193	0.0576	1.0009	0.5135	0.3418	0.2975	0.5073	0.0871	0.0651	0.0654	0.7683	1.0217	0.6840	0.6331	0.2549	0.3293	0.2037
+L-Carnitine	299.6038	125.5179	385.8503	777.3591	107.7137	441.4766	442.8754	80.3070	698.7451	55.0813	687.1565	734.0856	495.2323	484.0477	437.8671	387.2361	353.1963	78.6520	195.0307	53.6860
+Linoelaidyl carnitine	2.1025	1.3334	2.5223	2.5717	0.7035	2.6919	1.8427	1.6663	1.6570	1.9490	0.6404	0.6551	0.4212	1.9070	3.7611	2.9335	3.0581	1.0218	1.8559	0.8984
+myristoylcarnitine	1.0495	0.7300	1.3978	1.1850	0.2725	1.9070	1.1672	1.0760	0.9343	1.1827	0.3413	0.3627	0.3649	1.5504	2.1358	1.3872	1.4124	0.6049	0.9604	0.7191
+octanoylcarnitine	0.2112	0.1088	0.4179	0.3031	0.0618	0.5203	0.2297	0.1366	0.2257	0.1533	0.0598	0.0398	0.0259	0.4676	0.7356	0.4736	0.2172	0.1163	0.1506	0.0695
+Octenoylcarnitine	0.0255	0.0390	0.0597	0.0303	0.0031	0.0439	0.0303	0.0082	0.0113	0.0084	0.0033	0.0032	0.0041	0.0242	0.0869	0.0445	0.0355	0.0059	0.0103	0.0056
+Oleoylcarnitine	2.7247	1.7331	3.1415	3.4424	1.2356	4.1077	2.7438	2.3134	2.8587	3.0086	0.9557	1.1285	1.0040	3.6295	4.4440	3.2500	3.7377	1.5416	2.5356	1.2719
+Palmitoleylcarnitine	1.9973	0.9657	2.3187	1.7240	0.3673	3.2745	2.0186	1.8254	1.7849	2.2015	0.3837	0.3728	0.3608	2.6316	3.0896	2.3783	2.5067	0.9053	1.5741	0.9288
+palmitoylcarnitine	2.6032	2.0009	2.9087	3.1859	1.2036	4.0392	2.9591	2.3876	2.6473	2.7571	1.1606	1.3258	1.2453	3.4065	4.6390	3.2950	3.8190	1.5069	2.7191	1.5694
+propionylcarnitine	1.9865	3.9293	2.3617	3.0066	4.6204	2.9391	1.5886	2.7709	2.0578	2.7120	2.8174	3.9937	4.0633	2.2433	9.9879	9.4323	12.7799	4.0108	8.6229	2.6676
+Stearoylcarnitine	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+Tetradecadiencarnitine	0.3841	0.1217	0.7502	0.3469	0.0287	0.7730	0.3641	0.1866	0.1058	0.2308	0.0264	0.0212	0.0190	0.3341	0.7790	0.6055	0.5682	0.1417	0.2193	0.1177
+Tetradecenoylcarnitine	1.1395	0.4289	1.6890	0.9608	0.1552	2.2763	1.2573	0.9177	0.6881	1.1458	0.1192	0.1352	0.1225	1.6132	1.8721	1.3564	1.4398	0.6288	0.7097	0.5458
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	moverz_quant	ri	ri_type	pubchem_id	inchi_key	kegg_id	other_id	other_id_type
+3-hydroxylauroylcarnitine				71464535			C12-OH	UM_Target_ID
+3-Hydroxylinoleoylcarnitine				78076335			C18:2-OH	UM_Target_ID
+3-hydroxymyristoylcarnitine				71464541			C14-OH	UM_Target_ID
+3-Hydroxypalmitoylcarnitine				71464553			C16-OH	UM_Target_ID
+Acetylcarnitine				1			C2	UM_Target_ID
+arachidonoylcarnitine				71464486			C20:4	UM_Target_ID
+butyrylcarnitine				439829			C4	UM_Target_ID
+Decanoylcarnitine				3332882			C10:0	UM_Target_ID
+decenoylcarnitine				54074509			C10:1	UM_Target_ID
+Dodecenoylcarnitine				53481671			C12:1	UM_Target_ID
+Glutarylcarnitine				71317118			C5:0-DC	UM_Target_ID
+Hexanoylcarnitine				6426853			C6:0	UM_Target_ID
+icosadienoylcarnitine				163425699			C20:2	UM_Target_ID
+Icosanoylcarnitine				53477833			C20	UM_Target_ID
+icosatrienoylcarnitine							C20:3	UM_Target_ID
+icoseneoylcarnitine				71464507			C20:1	UM_Target_ID
+isovalerylcarnitine				6426852			C5:0	UM_Target_ID
+lauroylcarnitine				168381			C12:0	UM_Target_ID
+L-Carnitine				10917			L-Carnitine	UM_Target_ID
+Linoelaidyl carnitine				53477834			C18:2	UM_Target_ID
+myristoylcarnitine				3413344			C14:0	UM_Target_ID
+octanoylcarnitine				123701			C8:0	UM_Target_ID
+Octenoylcarnitine				71464472			C8:1	UM_Target_ID
+Oleoylcarnitine				166952			C18:1	UM_Target_ID
+Palmitoleylcarnitine				76040365			C16:1	UM_Target_ID
+palmitoylcarnitine				461			C16:0	UM_Target_ID
+propionylcarnitine				107738			C3	UM_Target_ID
+Stearoylcarnitine				5282			C18:0	UM_Target_ID
+Tetradecadiencarnitine				53481681			C14:2	UM_Target_ID
+Tetradecenoylcarnitine				22833575			C14:1	UM_Target_ID
+METABOLITES_END
+#END
