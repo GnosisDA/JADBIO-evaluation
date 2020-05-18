@@ -9,9 +9,10 @@ library(ggplot2)
 library(ggExtra)
 library(MASS)
 library(grid)
+library(gridExtra)
 library(cowplot)
 library(viridis)
-source('../ancillaryFunctions.R')
+source('../ancillaryFunction.R')
 
 # results folder
 resultsFolder <- '../'

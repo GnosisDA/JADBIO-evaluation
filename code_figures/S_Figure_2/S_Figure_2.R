@@ -6,7 +6,7 @@
 rm(list = ls())
 library(ggplot2)
 library(grid)
-source('../ancillaryFunctions.R')
+source('../ancillaryFunction.R')
 
 # results folder
 resultsFolder <- '../'
