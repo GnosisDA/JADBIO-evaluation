@@ -1,0 +1,1 @@
+This folder will contain the results produced by auto-sklearn

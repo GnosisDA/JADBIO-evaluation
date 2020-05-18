@@ -1,0 +1,1 @@
+This folder will contain temporary datasets for auto-sklearn
