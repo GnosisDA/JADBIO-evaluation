@@ -1,0 +1,56 @@
+Execution Time Split1: 449.044
+Execution Time Split2: 343.76
+Execution Time: 806.426
+Java version: 1.8.0_161
+OutcomeType: Classification
+Variable size: 56
+Repetitions Split1: 6
+SampleSize Split1: 43
+Number of classes Split1: 2
+Elements for class 0 Split1: 22
+Elements for class 1 Split1: 21
+Best Model Configuration FS Split1: SVM with parameters  -s 0  -t 0  -c 1.0 -r 1 -b 0
+Best FS Configuration FS Split1: SES with MaxK: 3 ,and Alpha: 0.01
+Reference Signature FS Split1: 
+Best Interpretable Model Configuration FS Split1: Decision Tree withfactory=Deviance, minleafsize=2, variablestosplit=nvars // 1.0, splitstoperform=1.0, seed=1000, alpha=0.1}
+Best Interpretable FS Configuration FS Split1: SES with MaxK: 3 ,and Alpha: 0.1
+Reference Signature Interpretable FS Split1: X9Z.palmitoleic.acid\\Stearidonic.acid\\X15.deoxy.PGJ2_Indicator
+Best Model Configuration Overall Split1: SVM with parameters  -s 0  -t 1  -d 3 -g 0.001 -c 100.0 -r 1 -b 0
+Best FS Configuration Overall Split1: FullSelector
+Reference Signature Overall Split1: 
+Best Interpretable Model Configuration Overall Split1: Decision Tree withfactory=Deviance, minleafsize=4, variablestosplit=nvars // 1.0, splitstoperform=1.0, seed=1000, alpha=0.05}
+Best Interpretable FS configuration Overall Split1: FullSelector
+Reference Signature Interpretable Overall Split1: 
+Best Model configuration NOFS Split1: SVM with parameters  -s 0  -t 1  -d 3 -g 0.001 -c 100.0 -r 1 -b 0
+Best Interpretable Model Configuration NOFS Split1: Decision Tree withfactory=Deviance, minleafsize=4, variablestosplit=nvars // 1.0, splitstoperform=1.0, seed=1000, alpha=0.05}
+F1 score threshold FS Split1: 0.42816897573855284
+F1 score interpretable threshold FS Split1: 0.08528079710144927
+F1 score threshold Overall Split1: 0.34550833040358775
+F1 score interpretable threshold Overall Split1: 0.007575757575757576
+F1 score threshold NOFS Split1: 0.34550833040358775
+F1 score interpretable threshold NOFS Split1: 0.007575757575757576
+Repetitions Split2: 5
+SampleSize Split2: 44
+Number of classes Split2: 2
+Elements for class 0 Split2:23
+Elements for class 1 Split2:21
+Best Model Configuration Split2: SVM with parameters  -s 0  -t 2  -g 1.0 -c 0.1 -r 1 -b 0
+Best FS configuration Split2: SES with MaxK: 2 ,and Alpha: 0.05
+Reference Signature FS Split2: 
+Best Interpretable Model Configuration Split2: Decision Tree withfactory=Deviance, minleafsize=4, variablestosplit=nvars // 1.0, splitstoperform=1.0, seed=1000, alpha=0.1}
+Best Interpretable FS configuration Split2: SES with MaxK: 2 ,and Alpha: 0.01
+Reference Signature Interpretable FS Split2: 
+Best Model Configuration Overall Split2: SVM with parameters  -s 0  -t 1  -d 4 -g 0.001 -c 100.0 -r 1 -b 0
+Best FS Configuration Overall Split2: FullSelector
+Reference Signature Overall Split2: 
+Best Interpretable Model Configuration Overall Split2: Decision Tree withfactory=Deviance, minleafsize=4, variablestosplit=nvars // 1.0, splitstoperform=1.0, seed=1000, alpha=0.1}
+Best Interpretable FS configuration Overall Split2: SES with MaxK: 2 ,and Alpha: 0.01
+Reference Signature Interpretable Overall Split2: 
+Best Model configuration NOFS Split2: SVM with parameters  -s 0  -t 1  -d 4 -g 0.001 -c 100.0 -r 1 -b 0
+Best Interpretable Model Configuration NOFS Split2: Decision Tree withfactory=Deviance, minleafsize=3, variablestosplit=nvars // 1.0, splitstoperform=1.0, seed=1000, alpha=0.01}
+F1 score threshold Split2: 0.31836366076894707
+F1 score interpretable threshold Split2: 0.4738157894736842
+F1 score threshold Overall Split2: 0.3578472835668636
+F1 score interpretable threshold Overall Split2: 0.4738157894736842
+F1 score threshold NOFS Split2: 0.3578472835668636
+F1 score interpretable threshold NOFS Split2: 0.38042847503373817

@@ -102,12 +102,19 @@ for(i in 1:nRuns){
                           paste0(datasetName, '_', split_i, '/out.txt'))
   errorFile <- file.path(tmpFolder, 'results', 
                           paste0(datasetName, '_', split_i, '/error.txt'))
-
+  if(datasetType == 'methylation'){
+    mem <- 300
+  }else{
+    mem <- 64
+  }
+  autosklearn_bash(bashFile = bashFile, 
+                   a = a, 
+                   b = b, 
+                   cTime = cTime, 
+                   n = n,
+                   mem = mem)
+  
   #### Adding the script to the queue ####
-  # a: training_set
-  # b: test_set
-  # cTime: time_left_for_this_task (seconds, total time)
-  # n: n_processes
-  system(paste('python python_script_JAD_paper.py -a ', a,' -b ', b, ' -t ', cTime, ' -n ', n, ' > trace', i, '.txt  &', sep = ''))
+  system(paste('sbatch', '-o', outputFile, '-e', errorFile, bashFile, sep = ' '))
   
 }

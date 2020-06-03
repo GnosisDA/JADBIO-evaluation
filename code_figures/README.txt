@@ -12,3 +12,11 @@ This folder contains scripts for reproducing the figures presented in the paper 
 - auto-sklearn_results.RData, JADBIO_results.RData: R binary files each containing the results of the respective system in tabular (data.frame) format.
 
 - session_info.txt: version of R and packages used for producing the figures.
+
+#### Installation
+
+Installing R and respective packages usually takes about a hour. R is available at https://cran.r-project.org/, while its packages can be installed following their respective instructions.
+
+#### Instructions.
+
+Execute any of the R script in the subfolders Figure_4, Figure_5, S_Figure_1, S_Figure_2 for obtaining the corresponding figures.

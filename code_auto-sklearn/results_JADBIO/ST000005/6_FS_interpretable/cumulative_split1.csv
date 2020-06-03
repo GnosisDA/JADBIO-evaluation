@@ -1,0 +1,37 @@
+cum_id,Metric,Estimate,Hold-out
+0,Area Under the ROC Curve,1.0049131997366645,1.0
+0,Accuracy,1.000764008141685,1.0
+0,Balanced Accuracy,1.0007461623726361,1.0
+0,Average F1,1.0003859394476917,1.0
+0,Precision for class 0,1.0,1.0
+0,Precision for class 1,1.000659173245181,1.0
+0,Recall for class 0,1.0,1.0
+0,Recall for class 1,1.0004404475671296,1.0
+0,Sensitivity for class 0,1.0,1.0
+0,Sensitivity for class 1,1.0004404475671296,1.0
+0,Specificity for class 0,NaN,NaN
+0,Specificity for class 1,1.0036351562429202,NaN
+1,Area Under the ROC Curve,1.0049131997366645,1.0
+1,Accuracy,1.000764008141685,1.0
+1,Balanced Accuracy,1.0007461623726361,1.0
+1,Average F1,1.0003859394476917,1.0
+1,Precision for class 0,1.0,1.0
+1,Precision for class 1,1.000659173245181,1.0
+1,Recall for class 0,1.0,1.0
+1,Recall for class 1,1.0004404475671296,1.0
+1,Sensitivity for class 0,1.0,1.0
+1,Sensitivity for class 1,1.0004404475671296,1.0
+1,Specificity for class 0,NaN,NaN
+1,Specificity for class 1,1.0036351562429202,NaN
+2,Area Under the ROC Curve,1.0,1.0
+2,Accuracy,1.0,1.0
+2,Balanced Accuracy,1.0,1.0
+2,Average F1,1.0,1.0
+2,Precision for class 0,1.0,1.0
+2,Precision for class 1,1.0,1.0
+2,Recall for class 0,1.0,1.0
+2,Recall for class 1,1.0,1.0
+2,Sensitivity for class 0,1.0,1.0
+2,Sensitivity for class 1,1.0,1.0
+2,Specificity for class 0,NaN,NaN
+2,Specificity for class 1,1.0,NaN
