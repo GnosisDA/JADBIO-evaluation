@@ -6,6 +6,7 @@
 rm(list = ls())
 library(ggplot2)
 library(grid)
+library(gridExtra)
 source('../ancillaryFunction.R')
 
 # results folder
